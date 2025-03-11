@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "3237bb0ac5e859f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca71654e5c34980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aaa9e8838492d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/1. Algebra of Matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Algebra of Matrices"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7a3108960cb3087",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb38daaf7e6dd3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d5d789b4235a8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b5410a2c7fd4c6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e97e1f14930ed926",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67cbeb46be013ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "22310cffef270814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1498d80409dc5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Source Notes/Drawing 2025-02-02 16.46.22.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2025-02-02 16.46.22.excalidraw"
+            }
+          },
+          {
+            "id": "39ca61c554925873",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ddeb48f3ea4d524",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92514416e2dc272f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Source Notes/Algebra of Matrices.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Algebra of Matrices"
+            }
+          },
+          {
+            "id": "7b937e6d41584c5b",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "49e1e2670a8975e1",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "bd1101408fa44516",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "7b7fe8216b0fea56",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4aaa9e8838492d08",
+  "lastOpenFiles": [
+    "3 - Tags/vercel-project-id.png",
+    "remote-blog/publish/attachments/vercel-create-token.png",
+    "3 - Tags/vercel-account-id.png",
+    "remote-blog/publish/attachments/publish-dir-yml.png",
+    "remote-blog/publish/attachments/how-linked-blog-starter-works.png",
+    "remote-blog/publish/attachments/github-secrets-vercel.png",
+    "remote-blog/publish/attachments/fork-linked-blog-starter-md.png",
+    "remote-blog/publish/attachments/fn-website-demo.gif",
+    "3 - Tags/create-pat-github.png",
+    "3 - Tags/disconnect-repo-vercel.png",
+    "3 - Tags/configure-project-vercel.png",
+    "3 - Tags/works-out-of-the-box-with-markdown-files.md",
+    "remote-blog/publish/update-publish-settings-github-actions.md",
+    "remote-blog/publish/statically-generated.md",
+    "remote-blog/publish/reinventing-the-wheel.md",
+    "remote-blog/publish/install-linked-blog-starter-locally.md",
+    "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "3 - Tags/linked-blog-starter-does-not-reinvent-wheel.md",
+    "remote-blog/publish/how-linked-blog-starter-works.md",
+    "3 - Tags/connect-obsidian-vault-with-github.md",
+    "remote-blog/publish/home.md",
+    "3 - Tags/get-project-id-account-id-and-token-vercel.md",
+    "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
+    "remote-blog/publish/attachments",
+    "remote-blog/publish/accepted-markdown-metadata.md",
+    "remote-blog/publish",
+    "remote-blog/README.md",
+    "remote-blog",
+    "scripts/clean_excalidraw.py",
+    "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
+    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
+    "2 - Source Notes/Academics/DCN/Goat shi.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/Hamming Code.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/Go Back N Protocol.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/CRC.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/1. Link Layer Services.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions/Important Questions on Unit 3.md",
+    "Excalidraw/2. Operations on Matrices 2025-03-11 12.06.11.excalidraw.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions/Important Questions on Unit 2.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/7. Communication Channels & Performance Metrics.md",
+    "scripts/clean_drawings.py",
+    "scripts/clean_attachments.py",
+    "scripts/clean_attachments.txt",
+    "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions",
+    "2 - Source Notes/Academics/DCN/Unit 2",
+    "scripts/New Text Document.txt",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

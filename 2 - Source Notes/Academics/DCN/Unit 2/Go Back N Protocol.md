@@ -1,0 +1,6 @@
+- Efficiency = N / 1+2a
+- Transmission Delay = Packet size / Bandwidth
+- Propogation Delay = Distance / Speed
+- a = propogation delay / transmission delay
+- Sliding Window = N
+- Efficiency (η) = 1 when sender window size = 1+2a

@@ -1,0 +1,21 @@
+# Index for t-maths
+
+## Files using this tag:
+1. [[Maths LaTex.md]]
+2. [[1. Algebra of Matrices.md]]
+3. [[2. Operations on Matrices.md]]
+4. [[3. Trace, Transpose & Conjugate of a Matrix.md]]
+5. [[4. Symmetric & Skew Symmetric Matrix.md]]
+6. [[5. Complex Matrices.md]]
+7. [[6. Determinant, Minors & Cofactors.md]]
+8. [[7. Properties of Determinants.md]]
+9. [[8. Adjoint & its properties.md]]
+10. [[1. Vectors & Linear Combinations.md]]
+11. [[2. Visualization of System of linear equations.md]]
+12. [[3. Elimination using matrices.md]]
+13. [[4. Rank of a Matrix.md]]
+14. [[5. Echelon Form of a Matrix.md]]
+15. [[6. Normal Form of a Matrix.md]]
+16. [[7. Solution of homogenous and non-homogenous system of equations.md]]
+17. [[Linear vs Non-Linear.md]]
+18. [[2. Characteristic Polynomial & Equation.md]]

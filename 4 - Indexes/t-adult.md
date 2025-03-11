@@ -1,0 +1,21 @@
+# Index for t-adult
+
+## Files using this tag:
+1. [[Maths LaTex.md]]
+2. [[Maths Lecture 1.md]]
+3. [[Maths Lecture 3.md]]
+4. [[Maths Lecture 4.md]]
+5. [[Wired Earphones.md]]
+6. [[1. Algebra of Matrices.md]]
+7. [[2. Operations on Matrices.md]]
+8. [[3. Trace, Transpose & Conjugate of a Matrix.md]]
+9. [[4. Symmetric & Skew Symmetric Matrix.md]]
+10. [[5. Complex Matrices.md]]
+11. [[7. Properties of Determinants.md]]
+12. [[8. Adjoint & its properties.md]]
+13. [[1. Vectors & Linear Combinations.md]]
+14. [[2. Visualization of System of linear equations.md]]
+15. [[3. Elimination using matrices.md]]
+16. [[4. Rank of a Matrix.md]]
+17. [[5. Echelon Form of a Matrix.md]]
+18. [[Linear vs Non-Linear.md]]

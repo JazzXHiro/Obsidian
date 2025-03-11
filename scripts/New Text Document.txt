@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Upload to Imgur]
+@="Upload to Imgur"
+
+[HKEY_CLASSES_ROOT\*\shell\Upload to Imgur\command]
+@="C:\\Path\\To\\Python.exe C:\\Path\\To\\upload_to_imgur.py \"%1\""
