@@ -78,5 +78,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-shellcommands:shell-command-kgipwttdnq": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }
