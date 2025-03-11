@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Untitled.md",
+                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/1.1 Vector Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1.1 Vector Spaces"
             }
           }
         ]
@@ -224,7 +224,16 @@
   },
   "active": "4aaa9e8838492d08",
   "lastOpenFiles": [
-    "2 - Source Notes/Untitled.md",
+    "3 - Tags/t-LAunit3.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/1.1 Vector Spaces.md",
+    "3 - Tags/t-academics.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/3. Elimination using matrices.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 2/2. Characteristic Polynomial & Equation.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 2/3. Eigen Values & Eigen Vectors.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3",
     "Excalidraw/imagetest 2025-03-11 14.00.29.excalidraw.md",
     "Excalidraw/Drawing 2025-03-11 14.00.56.excalidraw.md",
@@ -243,14 +252,6 @@
     "2 - Source Notes/Academics/Software Enginering/2. Process Models.md",
     "2 - Source Notes/Academics/Software Enginering/1. SDLC.md",
     "2 - Source Notes/Maths Lecture 1.md",
-    "2 - Source Notes/Maths LaTex.md",
-    "2 - Source Notes/DCNLab2.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 2/4. Cayley - Hamilton Theorem.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 2/3. Eigen Values & Eigen Vectors.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 2/2. Characteristic Polynomial & Equation.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/Linear vs Non-Linear.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
     "3 - Tags/vercel-project-id.png",
     "remote-blog/publish/attachments/vercel-create-token.png",
     "3 - Tags/vercel-account-id.png",
