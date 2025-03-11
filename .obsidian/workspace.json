@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1. Algebra of Matrices"
             }
+          },
+          {
+            "id": "7ce4132367b3a2e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/git test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,14 +202,23 @@
               "icon": "code-glyph",
               "title": "Shell commands: Custom variables"
             }
+          },
+          {
+            "id": "363e6a06f34b29da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aaa9e8838492d08",
+  "active": "7ce4132367b3a2e3",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/1. Algebra of Matrices.md",
+    "2 - Source Notes/git test.md",
     "3 - Tags/vercel-project-id.png",
     "remote-blog/publish/attachments/vercel-create-token.png",
     "3 - Tags/vercel-account-id.png",
@@ -225,7 +251,6 @@
     "remote-blog/publish/attachments/fn-website-demo.gif",
     "3 - Tags/create-pat-github.png",
     "3 - Tags/disconnect-repo-vercel.png",
-    "3 - Tags/configure-project-vercel.png",
     "3 - Tags/works-out-of-the-box-with-markdown-files.md",
     "remote-blog/publish/update-publish-settings-github-actions.md",
     "remote-blog/publish/statically-generated.md",
@@ -254,7 +279,6 @@
     "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions/Important Questions on Unit 3.md",
     "Excalidraw/2. Operations on Matrices 2025-03-11 12.06.11.excalidraw.md",
     "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions/Important Questions on Unit 2.md",
-    "2 - Source Notes/Academics/DCN/Unit 1/7. Communication Channels & Performance Metrics.md",
     "scripts/clean_drawings.py",
     "scripts/clean_attachments.py",
     "scripts/clean_attachments.txt",
