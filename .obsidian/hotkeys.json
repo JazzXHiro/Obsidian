@@ -86,5 +86,13 @@
       ],
       "key": "A"
     }
+  ],
+  "obsidian-shellcommands:shell-command-hmoiui1rit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
   ]
 }
