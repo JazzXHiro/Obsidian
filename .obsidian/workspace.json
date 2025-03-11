@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/1. Algebra of Matrices.md",
+                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Algebra of Matrices"
-            }
-          },
-          {
-            "id": "7ce4132367b3a2e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/git test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git test"
+              "title": "4. Rank of a Matrix"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,10 +222,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ce4132367b3a2e3",
+  "active": "4aaa9e8838492d08",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/1. Algebra of Matrices.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/3. Elimination using matrices.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/1. Vectors & Linear Combinations.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Drawing 2025-03-05 03.10.33.excalidraw.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Drawing 2025-03-05 02.43.19.excalidraw.md",
+    "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
+    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
+    "2 - Source Notes/Academics/DCN/Goat shi.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/Hamming Code.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/Go Back N Protocol.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/CRC.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/1. Link Layer Services.md",
+    "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions/Important Questions on Unit 3.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/7. Communication Channels & Performance Metrics.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/6. WiMAX, 5G and Beyond, Cellular Technology.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/5. Circuit Switching, Packet Switching and Message Switching.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/1. Introduction.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/4. Ethernet & Gigabit Ethernet(GBE).md",
     "2 - Source Notes/git test.md",
+    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/1. Algebra of Matrices.md",
     "3 - Tags/vercel-project-id.png",
     "remote-blog/publish/attachments/vercel-create-token.png",
     "3 - Tags/vercel-account-id.png",
@@ -257,28 +260,10 @@
     "remote-blog/publish/reinventing-the-wheel.md",
     "remote-blog/publish/install-linked-blog-starter-locally.md",
     "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "3 - Tags/linked-blog-starter-does-not-reinvent-wheel.md",
-    "remote-blog/publish/how-linked-blog-starter-works.md",
-    "3 - Tags/connect-obsidian-vault-with-github.md",
-    "remote-blog/publish/home.md",
-    "3 - Tags/get-project-id-account-id-and-token-vercel.md",
-    "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
     "remote-blog/publish/attachments",
-    "remote-blog/publish/accepted-markdown-metadata.md",
     "remote-blog/publish",
-    "remote-blog/README.md",
     "remote-blog",
     "scripts/clean_excalidraw.py",
-    "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
-    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
-    "2 - Source Notes/Academics/DCN/Goat shi.md",
-    "2 - Source Notes/Academics/DCN/Unit 2/Hamming Code.md",
-    "2 - Source Notes/Academics/DCN/Unit 2/Go Back N Protocol.md",
-    "2 - Source Notes/Academics/DCN/Unit 2/CRC.md",
-    "2 - Source Notes/Academics/DCN/Unit 2/1. Link Layer Services.md",
-    "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions/Important Questions on Unit 3.md",
-    "Excalidraw/2. Operations on Matrices 2025-03-11 12.06.11.excalidraw.md",
-    "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions/Important Questions on Unit 2.md",
     "scripts/clean_drawings.py",
     "scripts/clean_attachments.py",
     "scripts/clean_attachments.txt",
