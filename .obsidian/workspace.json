@@ -11,14 +11,10 @@
             "id": "4aaa9e8838492d08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/imagetest.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "imagetest"
+              "title": "New tab"
             }
           }
         ]
@@ -222,8 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aaa9e8838492d08",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
+    "Excalidraw/imagetest 2025-03-11 14.00.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-11 14.00.56.excalidraw.md",
+    "2 - Source Notes/imagetest.md",
     "Excalidraw/imagetest 2025-03-11 13.49.41.excalidraw.md",
     "Excalidraw/Drawing 2025-03-11 13.50.11.excalidraw.md",
     "2 - Source Notes/Academics/DCN/Unit 1/4. Ethernet & Gigabit Ethernet(GBE).md",
@@ -234,7 +233,6 @@
     "Excalidraw/Template/Drawing 2025-02-23 19.42.35.excalidraw.md",
     "2 - Source Notes/GJ_SoundDesign Resources.md",
     "2 - Source Notes/Untitled.md",
-    "2 - Source Notes/imagetest.md",
     "7 - Attachments/Pasted image 20250311134510.png",
     "2 - Source Notes/Academics/Software Enginering/software something.md",
     "2 - Source Notes/Academics/Software Enginering/2. Process Models.md",
@@ -249,8 +247,6 @@
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Linear vs Non-Linear.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
     "3 - Tags/vercel-project-id.png",
     "remote-blog/publish/attachments/vercel-create-token.png",
     "3 - Tags/vercel-account-id.png",
