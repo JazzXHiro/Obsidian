@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/10. Transition Matrix.md",
+                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Transition Matrix"
+              "title": "5. Echelon Form of a Matrix"
             }
           }
         ],
@@ -237,11 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "0474466ab22b670f",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
+    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/10. Transition Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/9. Inverse & its properties.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/6. Determinant, Minors & Cofactors.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/10. Transition Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/1.1 Vector Spaces.md",
     "3 - Tags/t-LAunit3.md",
     "3 - Tags/t-academics.md",
@@ -249,7 +250,6 @@
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 2/2. Characteristic Polynomial & Equation.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 2/3. Eigen Values & Eigen Vectors.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3",
