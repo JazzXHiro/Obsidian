@@ -17,10 +17,14 @@ Flaten - makes various objects a single object
 
 Raster Graphics - is when u have pixels.
 
-Vector Graphics - is based on mathematic calculations.
-Drawback - 
+Vector Graphics - is based on mathematic calculations. Text is also always in Vector.
+Drawback - some random shapes might not be supported
 
 FIgma works entirely on vector graphics.
+
+Exclude is opposite of intersect.
+
+
 
 
 
