@@ -33,6 +33,8 @@ The unproject method:
 
 - Handles any scaling, rotation, or other transformations of your camera
 
+#### Vector2 in LibGDX
 
+Vector2 is a 2D vector class in libGDX that represents a point in 2D space with x and y coordinates. It's used for storing positions, velocities, directions, etc.
 
 # Reference
