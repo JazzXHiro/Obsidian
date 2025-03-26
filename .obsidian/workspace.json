@@ -53,10 +53,14 @@
             "id": "7ece4ac262a29aea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Academics/DCN/Unit 1/6. WiMAX, 5G and Beyond, Cellular Technology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. WiMAX, 5G and Beyond, Cellular Technology"
             }
           }
         ],
@@ -263,6 +267,7 @@
   },
   "active": "7ece4ac262a29aea",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "scripts/tagTemplate.md",
     "2 - Source Notes/Hood.md",
     "7 - Attachments/Pasted image 20250326212121.png",
@@ -289,7 +294,6 @@
     "2 - Source Notes/Places to visit.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/1.1 Vector Spaces.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
-    "2 - Source Notes/GJ_SoundDesign Resources.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3",
     "7 - Attachments/Pasted image 20250311134510.png",
     "3 - Tags/vercel-project-id.png",
@@ -309,7 +313,6 @@
     "scripts/clean_attachments.txt",
     "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions",
     "2 - Source Notes/Academics/DCN/Unit 2",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas",
-    "Untitled.canvas"
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas"
   ]
 }
