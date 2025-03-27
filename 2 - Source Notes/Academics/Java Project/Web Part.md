@@ -9,5 +9,10 @@ Tags:
 ```
 ./gradlew html:superDev`
 ```
+to launch the server
 
+```
+./gradlew html:dist
+```
+to deploy the game
 # Reference
