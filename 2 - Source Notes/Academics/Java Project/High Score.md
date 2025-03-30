@@ -108,5 +108,32 @@ I made the following changes to implement the high score feature:
 
 These changes create a complete scoring system that tracks the current game score, saves and displays the high score, and persists between sessions using the Preferences API (which uses localStorage in HTML5).
 
+#### What is prefs?
+
+In this context, `prefs` is an instance of libGDX's `Preferences` interface, which provides cross-platform persistent storage for simple data.
+
+`Preferences` in libGDX:
+- Acts as a key-value store for saving game data
+- Works across all platforms libGDX supports
+- Automatically uses the appropriate storage mechanism for each platform:
+  - Desktop: saves to local files
+  - Android: uses SharedPreferences
+  - HTML5/Web: uses browser's localStorage
+
+In our code, we use it to save and load the high score:
+```java
+// Initialize
+prefs = Gdx.app.getPreferences("dropGame");
+
+// Load a value
+highScore = prefs.getInteger("highScore", 0);
+
+// Save a value
+prefs.putInteger("highScore", highScore);
+prefs.flush();  // Ensures data is written to storage
+```
+
+The `"dropGame"` string is a unique identifier that distinguishes these preferences from any other data that might be saved by other applications.
+
 
 # Reference
