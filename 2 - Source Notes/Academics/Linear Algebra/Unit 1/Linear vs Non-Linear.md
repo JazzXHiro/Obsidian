@@ -6,7 +6,6 @@ Tags: [[t-maths]] [[t-sem4]] [[t-linear_algebra]] [[t-linearmaths_unit1]] [[t-ac
 
 # Linear vs Non-Linear
 
-![[Linear vs Non-Linear 2025-02-02 17.32.48.excalidraw]]
 #### Linear Functions-
 Usually form a straight line(no vertical lines) and have a degree of 1.
 
