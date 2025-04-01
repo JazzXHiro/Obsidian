@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/3.2.md",
+                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2"
+              "title": "3.1 Vector Spaces"
             }
           }
         ],
@@ -365,8 +365,8 @@
   },
   "active": "9585ef069a5cb1d9",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "2 - Source Notes/3.2.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
     "2 - Source Notes/Academics/Java Project/Button Hover.md",
     "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
