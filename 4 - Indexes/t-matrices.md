@@ -19,4 +19,4 @@
 16. [[6. Normal Form of a Matrix.md]]
 17. [[7. Solution of homogenous and non-homogenous system of equations.md]]
 18. [[2. Characteristic Polynomial & Equation.md]]
-19. [[1.1 Vector Spaces.md]]
+19. [[3.1 Vector Spaces]]

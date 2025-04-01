@@ -27,6 +27,6 @@
 24. [[6. Normal Form of a Matrix.md]]
 25. [[7. Solution of homogenous and non-homogenous system of equations.md]]
 26. [[2. Characteristic Polynomial & Equation.md]]
-27. [[1.1 Vector Spaces.md]]
+27. [[3.1 Vector Spaces]]
 28. [[1. SDLC.md]]
 29. [[2. Process Models.md]]
