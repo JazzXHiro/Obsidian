@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
+                "file": "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Vector Spaces"
+              "title": "1. Java_project Instructions"
             }
           }
         ],
@@ -365,11 +365,16 @@
   },
   "active": "9585ef069a5cb1d9",
   "lastOpenFiles": [
-    "2 - Source Notes/3.2.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
-    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
-    "2 - Source Notes/Academics/Java Project/Button Hover.md",
     "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
+    "2 - Source Notes/Academics/Java Project/Button Hover.md",
+    "2 - Source Notes/Academics/Java Project/Drop.md",
+    "2 - Source Notes/Academics/Java Project/High Score.md",
+    "2 - Source Notes/Academics/Java Project/New.md",
+    "2 - Source Notes/Academics/Java Project/Untitled.md",
+    "2 - Source Notes/Academics/Java Project/Web Part.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
+    "2 - Source Notes/3.2.md",
+    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Linear vs Non-Linear.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
@@ -386,11 +391,6 @@
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/5. Complex Matrices.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/7. Properties of Determinants.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/8. Adjoint & its properties.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/9. Inverse & its properties.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/10. Transition Matrix.md",
-    "2 - Source Notes/Academics/Software Enginering/1. SDLC.md",
-    "2 - Source Notes/Academics/Software Enginering/2. Process Models.md",
-    "2 - Source Notes/Academics/Software Enginering/software something.md",
     "Untitled.canvas",
     "7 - Attachments/Pasted image 20250326212121.png",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3",
