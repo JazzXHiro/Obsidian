@@ -176,17 +176,17 @@
             }
           },
           {
-            "id": "fd932be87e6f6fbe",
+            "id": "399fd12ee03ea010",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/3.2.md",
+                "file": "2 - Source Notes/Blender/Introduction to Blender.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2"
+              "title": "Introduction to Blender"
             }
           }
         ],
@@ -391,9 +391,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd932be87e6f6fbe",
+  "active": "399fd12ee03ea010",
   "lastOpenFiles": [
+    "7 - Attachments/Pasted image 20250405152011.png",
     "3 - Tags/t-blender.md",
+    "2 - Source Notes/Blender/Introduction to Blender.md",
+    "2 - Source Notes/3.2.md",
+    "2 - Source Notes/Blender",
     "1 - Rough Notes/04-04-25.md",
     "2 - Source Notes/Bug Fix.md",
     "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
@@ -405,7 +409,6 @@
     "2 - Source Notes/Academics/Java Project/Untitled.md",
     "2 - Source Notes/Academics/Java Project/Web Part.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
-    "2 - Source Notes/3.2.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Linear vs Non-Linear.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
@@ -417,8 +420,6 @@
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Drawing 2025-03-05 02.43.19.excalidraw.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/1. Algebra of Matrices.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/2. Operations on Matrices.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/4. Symmetric & Skew Symmetric Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/6. Determinant, Minors & Cofactors.md",
     "Untitled.canvas",
     "7 - Attachments/Pasted image 20250326212121.png",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3",
@@ -439,7 +440,6 @@
     "scripts/clean_attachments.py",
     "scripts/clean_attachments.txt",
     "2 - Source Notes/Academics/DCN/Unit 2/Imp Questions",
-    "2 - Source Notes/Academics/DCN/Unit 2",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas"
   ]
 }
