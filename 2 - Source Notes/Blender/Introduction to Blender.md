@@ -15,6 +15,7 @@ Orthogonal view - is more of a 2d view.
 
 R - Rotate
 
+S - Scale
 
 
 # Reference
