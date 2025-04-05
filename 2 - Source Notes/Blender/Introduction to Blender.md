@@ -17,5 +17,13 @@ R - Rotate
 
 S - Scale
 
+![[Pasted image 20250405214406.png]]
+3-D Cursor - is where new objects get put in.
+
+![[Pasted image 20250405214650.png|600]]
+Shift + S = Snap Pie Menu
+(cursor to world origin = fixes the cursor back to the center of the origin)
+
+
 
 # Reference
