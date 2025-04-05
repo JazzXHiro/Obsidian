@@ -9,6 +9,12 @@ Tags: [[t-blender]]
 ![[Pasted image 20250405152011.png]]
 Gizmo
 
+G = Grab
+
+Orthogonal view - is more of a 2d view.
+
+R - Rotate
+
 
 
 # Reference
