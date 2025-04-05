@@ -24,6 +24,4 @@ S - Scale
 Shift + S = Snap Pie Menu
 (cursor to world origin = fixes the cursor back to the center of the origin)
 
-
-
 # Reference
