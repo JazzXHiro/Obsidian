@@ -32,4 +32,4 @@
 29. [[3.1 Vector Spaces.md]]
 30. [[1. SDLC.md]]
 31. [[2. Process Models.md]]
-32. [[Introduction to Blender.md]]
+32. [[1. Introduction to Blender]]
