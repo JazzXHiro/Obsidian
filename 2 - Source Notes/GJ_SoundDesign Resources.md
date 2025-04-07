@@ -1,4 +1,11 @@
-[[project_wizard]] [[t-gamedev]] [[GJ_SoundDesign Resources]] [[t-child]]
+2025-04-07 19:49
+
+Status:
+
+Tags: [[project_wizard]] [[t-gamedev]] [[GJ_SoundDesign Resources]] [[t-child]]
+
+# GJ_SoundDesign Resources
+
 
 #### Battle 
 
@@ -17,3 +24,6 @@
 
 **Dialogue Music** -
 	https://opengameart.org/content/fantasy
+
+
+# Reference

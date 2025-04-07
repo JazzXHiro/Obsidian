@@ -1,8 +1,8 @@
 2025-03-26 21:15
 
-Status:
+Status: [[t-child]]
 
-Tags:
+Tags: [[t-travel]]
 
 # Places to visit
 

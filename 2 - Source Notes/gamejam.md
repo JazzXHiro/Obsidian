@@ -1,4 +1,11 @@
-[[t-gamedev]] [[t-wizard]] [[t-project_wizard]] [[t-child]]
+2025-04-07 19:49
+
+Status:
+
+Tags: [[t-gamedev]] [[t-wizard]] [[t-project_wizard]] [[t-child]]
+
+# gamejam
+
 little cloud guy is your bestfriend and then he becomes the final boss
 
 different player chars have different charge abilities which you can also obtain through potions
@@ -19,3 +26,5 @@ jump
 dash
 
 double jump
+
+# Reference

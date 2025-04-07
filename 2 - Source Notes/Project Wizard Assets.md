@@ -1,4 +1,16 @@
- [[t-project]], [[t-wizard]], [[t-project_wizard]] [[t-game]] [[t-gamedev]] [[t-self_project]] [[t-assets]] [[t-project_wizard]] [[t-child]]
+2025-04-07 19:52
+
+Status:
+
+Tags:  [[t-project]], [[t-wizard]], [[t-project_wizard]] [[t-game]] [[t-gamedev]] [[t-self_project]] [[t-assets]] [[t-project_wizard]] [[t-child]]
+
+# Project Wizard Assets
+
+
+
+
+# Reference
+
 # Player
 https://free-game-assets.itch.io/free-wizard-sprite-sheets-pixel-art
 
