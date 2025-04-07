@@ -21,4 +21,4 @@
 18. [[7. Solution of homogenous and non-homogenous system of equations.md]]
 19. [[Linear vs Non-Linear.md]]
 20. [[2. Characteristic Polynomial & Equation.md]]
-21. [[3.1 Vector Spaces]]
+21. [[3.1 Vector Spaces.md]]

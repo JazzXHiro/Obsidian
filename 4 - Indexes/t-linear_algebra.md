@@ -20,4 +20,4 @@
 17. [[7. Solution of homogenous and non-homogenous system of equations.md]]
 18. [[Linear vs Non-Linear.md]]
 19. [[2. Characteristic Polynomial & Equation.md]]
-20. [[3.1 Vector Spaces]]
+20. [[3.1 Vector Spaces.md]]

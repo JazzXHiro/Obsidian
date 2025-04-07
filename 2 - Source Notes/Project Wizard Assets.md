@@ -1,15 +1,10 @@
 2025-04-07 19:52
 
-Status:
+Status: [[t-child]]
 
-Tags:  [[t-project]], [[t-wizard]], [[t-project_wizard]] [[t-game]] [[t-gamedev]] [[t-self_project]] [[t-assets]] [[t-project_wizard]] [[t-child]]
+Tags:  [[t-project]], [[t-wizard]], [[t-project_wizard]] [[t-game]] [[t-gamedev]] [[t-self_project]] [[t-assets]] [[t-project_wizard]] 
 
 # Project Wizard Assets
-
-
-
-
-# Reference
 
 # Player
 https://free-game-assets.itch.io/free-wizard-sprite-sheets-pixel-art
@@ -42,3 +37,6 @@ https://onocentaur.itch.io/potions
 # Maybes
 
 https://backterria.itch.io/the-roguelike
+
+
+# Reference

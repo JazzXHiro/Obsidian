@@ -1,6 +1,6 @@
 2025-02-03 02:35
 
-Status: [[t-teen]] 
+Status: [[t-child]] 
 
 Tags: [[t-game_review]] [[t-xenoblade]] [[t-game]]
 

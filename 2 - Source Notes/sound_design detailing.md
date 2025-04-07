@@ -1,4 +1,11 @@
-[[t-wizard]] [[t-game]] [[t-gamedev]] [[t-sound_design]]
+2025-04-07 19:53
+
+Status: [[t-child]]
+
+Tags: [[t-wizard]] [[t-game]] [[t-gamedev]] [[t-sound_design]]
+
+# sound_design detailing
+
 ### Player
 
 1. Footsteps
@@ -39,3 +46,5 @@ Items
 
 1. Chests
 2. Potions
+
+# Reference
