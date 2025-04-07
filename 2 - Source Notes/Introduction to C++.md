@@ -2,11 +2,12 @@
 
 Status: [[t-child]]
 
-Tags: [[t-cpp]] [[t-]]
+Tags: [[t-cpp]] [[t-programming]]
 
 # Introduction to C++
 
-
+#### Before C++ was C
+- C language was developed by Dennis Ritchie
 
 
 # Reference
