@@ -132,4 +132,53 @@ In **Blender**, to **extrude faces along their normals** (so each face moves out
 
 ---
 
-Let me know if you want help with solidifying, thickness, or using this with modifiers too!
+The **Multiresolution Modifier** (aka **Multires**) in **Blender** is a powerful tool mainly used in **sculpting** workflows. It lets you **subdivide your model** while keeping the ability to **edit it at multiple levels of detail**.
+
+---
+
+## 🧠 What the **Multires Modifier** Does:
+
+- Adds multiple **levels of subdivision** to your mesh.
+    
+- Lets you **sculpt fine details** (like pores or wrinkles) at high resolution...
+    
+- ...while still being able to work on **big shapes** at lower resolution.
+    
+- You can go **up and down between levels** non-destructively.
+    
+
+---
+
+## 📌 Main Difference vs Subdivision Surface:
+
+|Feature|**Multires**|**Subdivision Surface**|
+|---|---|---|
+|Editable at each level|✅ Yes|❌ No|
+|Sculpting support|✅ Excellent|⚠️ Not meant for sculpting|
+|Animation-ready|⚠️ Usually not|✅ Yes|
+
+---
+
+## 🔧 How to Use Multires:
+
+1. Select your mesh.
+    
+2. Go to the **Modifiers tab**.
+    
+3. Click **Add Modifier > Multiresolution**.
+    
+4. Click **Subdivide** to add more geometry.
+    
+5. Use **Sculpt Mode** to sculpt at different levels.
+    
+6. Use the **Preview / Sculpt / Render** sliders to control resolution.
+    
+
+---
+
+### 🔁 Bonus:
+
+- You can **bake details** from a high-res multires model onto a low-poly one (for game assets, etc.).
+    
+
+---
