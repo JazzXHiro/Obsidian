@@ -59,3 +59,37 @@ In **Blender**, **Subdivision** (short for _Subdivision Surface_) is used to **s
 
 - Can only apply modifiers outside of the edit mode(order of applying matters).
 
+
+Holding **Alt** while selecting a vertex (or edge or face) in **Blender** does something super useful:
+
+---
+
+## 🧠 **Alt + Left Click** in Edit Mode:
+
+🔹 **Selects an entire edge loop or face loop**!
+
+---
+
+### 📌 What That Means:
+
+- If you're in **Vertex**, **Edge**, or **Face Select** mode:
+    
+    - **Alt + Left Click** on an edge or face = Blender selects the **looped path** that goes all the way around.
+        
+
+---
+
+### ✅ Use Cases:
+
+- Perfect for selecting loops around a cylinder, ring, or any circular structure.
+    
+- Great for modeling or cleaning up geometry.
+    
+
+---
+
+### 🎯 Bonus:
+
+- Hold **Shift + Alt + Left Click** to **add more loops** to your selection (multi-select).
+    
+- Works best on clean, quad-based topology.
