@@ -182,3 +182,26 @@ The **Multiresolution Modifier** (aka **Multires**) in **Blender** is a powerful
     
 
 ---
+In **Blender**, pressing **Shift + C** does two useful things at once:
+
+---
+
+## 🎯 **Shift + C = Reset 3D View & Center Cursor**
+
+### Specifically, it:
+
+1. **Centers the 3D Cursor** to the World Origin (0, 0, 0).
+    
+2. **Frames All Objects** in the 3D View (zooms out to show everything).
+    
+
+---
+
+### 🧠 Why It’s Useful:
+
+- If you’ve lost your object in the scene or the 3D cursor is way off, **Shift + C** brings everything back into focus.
+    
+- Great for resetting your workspace quickly!
+    
+
+---
