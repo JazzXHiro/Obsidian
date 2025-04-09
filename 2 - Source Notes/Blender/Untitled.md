@@ -93,3 +93,43 @@ Holding **Alt** while selecting a vertex (or edge or face) in **Blender** does s
 - Hold **Shift + Alt + Left Click** to **add more loops** to your selection (multi-select).
     
 - Works best on clean, quad-based topology.
+
+In **Blender**, to **extrude faces along their normals** (so each face moves outward/inward like inflating or shrinking), you can do it easily with this shortcut:
+
+---
+
+## 🔨 **Extrude Faces Along Normals**
+
+### ✅ Steps:
+
+1. **Go into Edit Mode** (`Tab`).
+    
+2. **Select the faces** you want to extrude.
+    
+3. Press **Alt + E** to open the special **Extrude menu**.
+    
+4. Choose **"Extrude Faces Along Normals"** from the list.
+    
+5. Move your mouse to adjust the extrusion, or type a value.
+    
+6. **Left-click** to confirm.
+    
+
+---
+
+### 🧠 Why Use This?
+
+- Regular **E** extrusion uses the average direction — good for single faces or connected surfaces.
+    
+- **Alt + E → Extrude Along Normals** is perfect when you want:
+    
+    - Walls extending outward.
+        
+    - Spikes or panels sticking out evenly.
+        
+    - Clean uniform thickness.
+        
+
+---
+
+Let me know if you want help with solidifying, thickness, or using this with modifiers too!
