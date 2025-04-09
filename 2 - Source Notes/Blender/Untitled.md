@@ -264,4 +264,6 @@ In **Blender**, **Face Sets** are super helpful when you're working in **Sculpt 
 
 ---
 
-Let me know if you're working on a sculpt and want help organizing it with face sets!
+Render Box - Ctrl + B
+
+Remove Render Box - Ctrl + Alt + B
