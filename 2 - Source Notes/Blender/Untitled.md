@@ -205,3 +205,63 @@ In **Blender**, pressing **Shift + C** does two useful things at once:
     
 
 ---
+In **Blender**, **Face Sets** are super helpful when you're working in **Sculpt Mode**. They let you **mark parts of your mesh with color-coded regions**, so you can sculpt more precisely and organize your model better.
+
+---
+
+## 🧩 What Are Face Sets?
+
+- **Face Sets** are groups of faces that you can **visually separate and isolate** in Sculpt Mode.
+    
+- They don’t change your geometry — they’re like **temporary masks or zones** for sculpting.
+    
+
+---
+
+## 🎯 What You Can Do With Face Sets:
+
+- **Hide/reveal** parts of the mesh quickly.
+    
+- **Protect** areas from accidental sculpting.
+    
+- **Smooth or deform** only specific zones.
+    
+- Great for detailed work (e.g. keeping the eyes untouched while sculpting the nose).
+    
+
+---
+
+## 🔧 How to Create Face Sets:
+
+1. **Go to Sculpt Mode**.
+    
+2. Use the **Face Set tools** from the left toolbar:
+    
+    - **Draw Face Sets**: Manually paint new face sets.
+        
+    - **Face Set from Visible**: Create a new set from what's visible.
+        
+    - **Face Set Edit**: Modify them.
+        
+3. Or press **Shift + W** to bring up the **Face Sets pie menu**.
+    
+
+---
+
+## ✨ Face Set Colors:
+
+- Each face set is colored differently.
+    
+- They don’t show up in Object Mode — only in **Sculpt Mode** (unless you enable them in overlays).
+    
+
+---
+
+### 🔄 Bonus: Clear All Face Sets
+
+- In Sculpt Mode: **Face Sets > Clear Face Sets** (in the top menu).
+    
+
+---
+
+Let me know if you're working on a sculpt and want help organizing it with face sets!
