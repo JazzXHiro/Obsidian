@@ -267,3 +267,7 @@ In **Blender**, **Face Sets** are super helpful when you're working in **Sculpt 
 Render Box - Ctrl + B
 
 Remove Render Box - Ctrl + Alt + B
+
+Join Meshes - Ctrl + J
+
+Recalculate normals - Shift + N
