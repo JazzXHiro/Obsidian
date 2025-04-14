@@ -273,3 +273,6 @@ Join Meshes - Ctrl + J
 Recalculate normals - Shift + N
 
 To camera - Ctrl + Alt + 0
+
+Ctrl + b - Bevel (can be used for making steps)
+
