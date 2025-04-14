@@ -271,3 +271,5 @@ Remove Render Box - Ctrl + Alt + B
 Join Meshes - Ctrl + J
 
 Recalculate normals - Shift + N
+
+To camera - Ctrl + Alt + 0
