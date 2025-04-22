@@ -8,104 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4aaa9e8838492d08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/1.1 Vector Spaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1 Vector Spaces"
-            }
-          },
-          {
-            "id": "0474466ab22b670f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Echelon Form of a Matrix"
-            }
-          },
-          {
-            "id": "0ddc4801633dee71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/1.1 Vector Spaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1 Vector Spaces"
-            }
-          },
-          {
-            "id": "7ece4ac262a29aea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Java_project Instructions"
-            }
-          },
-          {
-            "id": "8c0b85197d4fce2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Java Project/Drop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drop"
-            }
-          },
-          {
-            "id": "acd5c360bcfaf18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Java Project/Drop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drop"
-            }
-          },
-          {
-            "id": "e9bd7144068f6c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Java Project/Web Part.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web Part"
-            }
-          },
-          {
             "id": "8b49ea076f4cfb72",
             "type": "leaf",
             "state": {
@@ -245,8 +147,7 @@
               "title": "3.1 Vector Spaces"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -447,22 +348,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4cb2e3091dbeca",
+  "active": "8b49ea076f4cfb72",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Java Project/Drop.md",
+    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "2 - Source Notes/C++/2. Introduction to C++.md",
     "2 - Source Notes/Academics/Java Project/Bug Fix.md",
     "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
-    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
     "2 - Source Notes/Academics/Java Project/Web Part.md",
     "2 - Source Notes/Academics/Java Project/Untitled.md",
     "2 - Source Notes/Academics/Java Project/New.md",
     "2 - Source Notes/Academics/Java Project/High Score.md",
-    "2 - Source Notes/Academics/Java Project/Drop.md",
     "2 - Source Notes/Academics/Java Project/Button Hover.md",
     "2 - Source Notes/Blender/Untitled.md",
     "2 - Source Notes/Blender/1. Introduction to Blender.md",
     "2 - Source Notes/Blender/2. UI & Preferences.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "7 - Attachments/Pasted image 20250409000804.png",
     "2 - Source Notes/C++/1. Introduction to programming languages.md",
     "3 - Tags/t-programming.md",
@@ -482,7 +384,6 @@
     "Excalidraw/Hood 2025-03-26 21.20.24.excalidraw.md",
     "5 - Templates/Full Note.md",
     "3 - Tags/works-out-of-the-box-with-markdown-files.md",
-    "3 - Tags/tag-marvel.md",
     "3 - Tags/vercel-account-id.png",
     "3 - Tags/vercel-project-id.png",
     "3 - Tags/disconnect-repo-vercel.png",
