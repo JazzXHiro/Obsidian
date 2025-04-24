@@ -25,12 +25,14 @@
             "id": "fe362c6b6b0fc5d9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "1 - Rough Notes/04-04-25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "04-04-25"
             }
           }
         ],
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,23 +238,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe362c6b6b0fc5d9",
+  "active": "4b5410a2c7fd4c6d",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
+    "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
+    "2 - Source Notes/Academics/Java Project/Bug Fix.md",
+    "2 - Source Notes/Academics/Java Project/Button Hover.md",
+    "2 - Source Notes/Academics/Java Project/Drop.md",
+    "2 - Source Notes/Academics/Java Project/High Score.md",
+    "2 - Source Notes/Academics/Java Project/New.md",
+    "2 - Source Notes/Academics/Java Project/Untitled.md",
+    "2 - Source Notes/Academics/Java Project/Web Part.md",
     "2 - Source Notes/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/C++/2. Introduction to C++.md",
     "2 - Source Notes/Blender/2. UI & Preferences.md",
     "2 - Source Notes/Blender/1. Introduction to Blender.md",
-    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
-    "2 - Source Notes/Academics/Java Project/New.md",
-    "2 - Source Notes/Academics/Java Project/Web Part.md",
-    "2 - Source Notes/Academics/Java Project/Drop.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
-    "2 - Source Notes/Academics/Java Project/Bug Fix.md",
-    "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
-    "2 - Source Notes/Academics/Java Project/Untitled.md",
-    "2 - Source Notes/Academics/Java Project/High Score.md",
-    "2 - Source Notes/Academics/Java Project/Button Hover.md",
     "2 - Source Notes/Blender/Untitled.md",
     "7 - Attachments/Pasted image 20250409000804.png",
     "3 - Tags/t-programming.md",
