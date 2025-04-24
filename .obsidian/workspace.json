@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
+                "file": "2 - Source Notes/Academics/Java Project/Web Part.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Vector Spaces"
+              "title": "Web Part"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "04-04-25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,8 +236,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b5410a2c7fd4c6d",
+  "active": "ed4cb2e3091dbeca",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
+    "1 - Rough Notes/04-04-25.md",
     "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
     "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
     "2 - Source Notes/Academics/Java Project/Bug Fix.md",
@@ -253,7 +253,6 @@
     "2 - Source Notes/C++/2. Introduction to C++.md",
     "2 - Source Notes/Blender/2. UI & Preferences.md",
     "2 - Source Notes/Blender/1. Introduction to Blender.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
     "2 - Source Notes/Blender/Untitled.md",
     "7 - Attachments/Pasted image 20250409000804.png",
@@ -273,7 +272,6 @@
     "Excalidraw/Hood 2025-03-26 21.20.49.excalidraw.md",
     "Excalidraw/Hood 2025-03-26 21.20.24.excalidraw.md",
     "5 - Templates/Full Note.md",
-    "3 - Tags/works-out-of-the-box-with-markdown-files.md",
     "3 - Tags/vercel-account-id.png",
     "3 - Tags/vercel-project-id.png",
     "3 - Tags/disconnect-repo-vercel.png",
