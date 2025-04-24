@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "3.1 Vector Spaces"
             }
+          },
+          {
+            "id": "fe362c6b6b0fc5d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4cb2e3091dbeca",
+  "active": "fe362c6b6b0fc5d9",
   "lastOpenFiles": [
     "2 - Source Notes/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/C++/2. Introduction to C++.md",
