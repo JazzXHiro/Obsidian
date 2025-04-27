@@ -16,5 +16,9 @@ Hold down shift - to  access smooth brush
 
 M- masking
 
-Ctrl + 
+Ctrl + I - to invert the mask
+
+Alt + M - to clear the mask
+
+
 # Reference
