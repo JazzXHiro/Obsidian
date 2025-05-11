@@ -25,12 +25,14 @@
             "id": "0af54ad76c6d190b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md"
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw"
+              "icon": "lucide-file",
+              "title": "4. IP Addressing Techniques"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw"
+              "title": "Backlinks for 4. IP Addressing Techniques"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw"
+              "title": "Outgoing links from 4. IP Addressing Techniques"
             }
           },
           {
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw"
+              "title": "Outline of 4. IP Addressing Techniques"
             }
           },
           {
@@ -250,9 +252,9 @@
   },
   "active": "0af54ad76c6d190b",
   "lastOpenFiles": [
+    "7 - Attachments/Pasted image 20250512042354.png",
     "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
     "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md",
-    "7 - Attachments/Pasted image 20250512042354.png",
     "7 - Attachments/Pasted image 20250512044416.png",
     "7 - Attachments/Pasted image 20250512044425.png",
     "7 - Attachments/Recording 20250512030704.webm",
@@ -284,7 +286,6 @@
     "2 - Source Notes/Maths Lecture 4.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/4. Symmetric & Skew Symmetric Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/3. Trace, Transpose & Conjugate of a Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/2. Operations on Matrices.md",
     "7 - Attachments/Pasted image 20250409000804.png",
     "2 - Source Notes/C++",
     "7 - Attachments/Pasted image 20250407204245.png",
