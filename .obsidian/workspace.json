@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aca71654e5c34980",
+        "id": "2b707150aa4e19b6",
         "type": "tabs",
         "children": [
           {
-            "id": "cf0e25f3300565e5",
+            "id": "88b1168fb88a255b",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "7 - Attachments/Recording 20250512030704.webm"
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Recording 20250512030704"
+              "title": "3. Internet Protocol"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 - Attachments/Recording 20250512030704.webm",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recording 20250512030704"
+              "title": "Backlinks for 3. Internet Protocol"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 - Attachments/Recording 20250512030704.webm",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recording 20250512030704"
+              "title": "Outgoing links from 3. Internet Protocol"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 - Attachments/Recording 20250512030704.webm",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recording 20250512030704"
+              "title": "Outline of 3. Internet Protocol"
             }
           },
           {
@@ -233,10 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf0e25f3300565e5",
+  "active": "88b1168fb88a255b",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+    "2 - Source Notes/2025-05-12.md",
     "7 - Attachments/Recording 20250512030704.webm",
+    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
     "2 - Source Notes/Maths Lecture 3.md",
     "2 - Source Notes/Maths Lecture 1.md",
     "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
@@ -261,7 +264,6 @@
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/1. Algebra of Matrices.md",
     "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
     "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
-    "2 - Source Notes/Imp.md",
     "7 - Attachments/Pasted image 20250409000804.png",
     "2 - Source Notes/C++",
     "7 - Attachments/Pasted image 20250407204245.png",
