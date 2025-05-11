@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Algebra of Matrices.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Algebra of Matrices"
+              "title": "Outline of 3. Internet Protocol"
             }
           },
           {
@@ -281,8 +281,8 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -291,8 +291,8 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -301,8 +301,8 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -311,8 +311,8 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -349,7 +349,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf0e25f3300565e5",
+  "active": "363e6a06f34b29da",
   "lastOpenFiles": [
     "2 - Source Notes/Maths Lecture 3.md",
     "2 - Source Notes/Maths Lecture 1.md",
