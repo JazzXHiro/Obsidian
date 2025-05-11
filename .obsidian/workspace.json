@@ -11,14 +11,12 @@
             "id": "88b1168fb88a255b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/3. Internet Protocol 2025-05-12 03.44.58.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "3. Internet Protocol"
+              "icon": "excalidraw-icon",
+              "title": "3. Internet Protocol 2025-05-12 03.44.58.excalidraw"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+                "file": "Excalidraw/3. Internet Protocol 2025-05-12 03.44.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Internet Protocol"
+              "title": "Backlinks for 3. Internet Protocol 2025-05-12 03.44.58.excalidraw"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+                "file": "Excalidraw/3. Internet Protocol 2025-05-12 03.44.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Internet Protocol"
+              "title": "Outgoing links from 3. Internet Protocol 2025-05-12 03.44.58.excalidraw"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+                "file": "Excalidraw/3. Internet Protocol 2025-05-12 03.44.58.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Internet Protocol"
+              "title": "Outline of 3. Internet Protocol 2025-05-12 03.44.58.excalidraw"
             }
           },
           {
@@ -237,9 +235,10 @@
   },
   "active": "88b1168fb88a255b",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+    "Excalidraw/3. Internet Protocol 2025-05-12 03.44.58.excalidraw.md",
     "2 - Source Notes/2025-05-12.md",
     "7 - Attachments/Recording 20250512030704.webm",
-    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
     "2 - Source Notes/Maths Lecture 3.md",
     "2 - Source Notes/Maths Lecture 1.md",
     "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
