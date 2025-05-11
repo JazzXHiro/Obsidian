@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Maths Lecture 4.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 1/7. Communication Channels & Performance Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths Lecture 4"
+              "title": "7. Communication Channels & Performance Metrics"
             }
           },
           {
@@ -293,8 +293,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "005e543e236d08de",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/DCN/Unit 1/6. WiMAX, 5G and Beyond, Cellular Technology.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/5. Circuit Switching, Packet Switching and Message Switching.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/4. Ethernet & Gigabit Ethernet(GBE).md",
+    "2 - Source Notes/Academics/DCN/Unit 1/3. Connectivity Devices & Cable Types.md",
+    "2 - Source Notes/Academics/DCN/Unit 1/2. Network Models.md",
+    "2 - Source Notes/Maths Lecture 4.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/4. Symmetric & Skew Symmetric Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/3. Trace, Transpose & Conjugate of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/2. Operations on Matrices.md",
@@ -302,7 +308,6 @@
     "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
     "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
     "2 - Source Notes/Imp.md",
-    "2 - Source Notes/Maths Lecture 4.md",
     "2 - Source Notes/Academics/Java Project/Button Hover.md",
     "2 - Source Notes/Shows to Watch.md",
     "3 - Tags/t-entertainment.md",
@@ -316,11 +321,6 @@
     "2 - Source Notes/Untitled.md",
     "2 - Source Notes/Academics/Java Project/Bug Fix.md",
     "2 - Source Notes/Libraries I used.md",
-    "2 - Source Notes/Academics/Java Project/Web Part.md",
-    "2 - Source Notes/Academics/Java Project/Untitled.md",
-    "2 - Source Notes/Academics/Java Project/New.md",
-    "2 - Source Notes/Academics/Java Project/High Score.md",
-    "2 - Source Notes/Academics/Java Project/Drop.md",
     "7 - Attachments/Pasted image 20250409000804.png",
     "2 - Source Notes/C++",
     "7 - Attachments/Pasted image 20250407204245.png",
