@@ -39,12 +39,14 @@
             "id": "ed46e9f8b4c54e81",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-13 03.04.09.excalidraw.md"
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "5. Subnetting 2025-05-13 03.04.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "5. Subnetting"
             }
           }
         ],
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-13 03.04.09.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Subnetting 2025-05-13 03.04.09.excalidraw"
+              "title": "Backlinks for 5. Subnetting"
             }
           },
           {
@@ -140,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-13 03.04.09.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Subnetting 2025-05-13 03.04.09.excalidraw"
+              "title": "Outgoing links from 5. Subnetting"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-13 03.04.09.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Subnetting 2025-05-13 03.04.09.excalidraw"
+              "title": "Outline of 5. Subnetting"
             }
           },
           {
@@ -264,9 +266,11 @@
   },
   "active": "ed46e9f8b4c54e81",
   "lastOpenFiles": [
+    "7 - Attachments/Pasted image 20250513030826.png",
+    "7 - Attachments/Pasted image 20250513030719.png",
+    "Excalidraw/5. Subnetting 2025-05-13 03.04.09.excalidraw.md",
     "7 - Attachments/Pasted Image 20250513030539_674.png",
     "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
-    "Excalidraw/5. Subnetting 2025-05-13 03.04.09.excalidraw.md",
     "7 - Attachments/Pasted image 20250513030317.png",
     "7 - Attachments/Pasted image 20250513030221.png",
     "7 - Attachments/Pasted image 20250513030141.png",
@@ -279,9 +283,7 @@
     "7 - Attachments/Pasted image 20250513023023.png",
     "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md",
     "7 - Attachments/Pasted Image 20250513021436_110.png",
-    "7 - Attachments/Pasted image 20250513020608.png",
     "2 - Source Notes/Untitled 3.md",
-    "7 - Attachments/Pasted image 20250513020352.png",
     "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
     "Excalidraw/5. Subnetting 2025-05-13 01.41.55.excalidraw.md",
     "Excalidraw/5. Subnetting 2025-05-13 01.11.02.excalidraw.md",
