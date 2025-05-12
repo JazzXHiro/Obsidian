@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Network Address Translation"
+              "title": "4. IP Addressing Techniques"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Network Address Translation"
+              "title": "Backlinks for 4. IP Addressing Techniques"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Network Address Translation"
+              "title": "Outgoing links from 4. IP Addressing Techniques"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Network Address Translation"
+              "title": "Outline of 4. IP Addressing Techniques"
             }
           },
           {
@@ -252,6 +252,8 @@
   },
   "active": "0af54ad76c6d190b",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
     "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
     "7 - Attachments/Pasted image 20250512064152.png",
     "7 - Attachments/Pasted image 20250512051119.png",
@@ -265,13 +267,11 @@
     "7 - Attachments/Pasted image 20250124020430.png",
     "7 - Attachments/Pasted image 20250512044143.png",
     "7 - Attachments/Pasted image 20250512042012.png",
-    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
     "Excalidraw/3. Internet Protocol 2025-05-12 03.59.49.excalidraw.md",
     "Excalidraw/3. Internet Protocol 2025-05-12 03.44.58.excalidraw.md",
     "2 - Source Notes/2025-05-12.md",
     "2 - Source Notes/Maths Lecture 3.md",
     "2 - Source Notes/Maths Lecture 1.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
     "2 - Source Notes/Academics/DCN/Unit 4/1. Network Layer Design Issues.md",
     "2 - Source Notes/Academics/DCN/Unit 4/0. Network Layer.md",
     "3 - Tags/t-dcn_unit4.md",
