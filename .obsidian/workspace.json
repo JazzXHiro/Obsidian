@@ -39,12 +39,14 @@
             "id": "ed46e9f8b4c54e81",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-12 11.01.25.excalidraw.md"
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "5. Subnetting 2025-05-12 11.01.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "4. IP Addressing Techniques"
             }
           }
         ],
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-12 11.01.25.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Subnetting 2025-05-12 11.01.25.excalidraw"
+              "title": "Backlinks for 4. IP Addressing Techniques"
             }
           },
           {
@@ -140,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-12 11.01.25.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Subnetting 2025-05-12 11.01.25.excalidraw"
+              "title": "Outgoing links from 4. IP Addressing Techniques"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/5. Subnetting 2025-05-12 11.01.25.excalidraw.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Subnetting 2025-05-12 11.01.25.excalidraw"
+              "title": "Outline of 4. IP Addressing Techniques"
             }
           },
           {
@@ -264,9 +266,9 @@
   },
   "active": "ed46e9f8b4c54e81",
   "lastOpenFiles": [
-    "7 - Attachments/Pasted Image 20250512110244_573.png",
     "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
     "Excalidraw/5. Subnetting 2025-05-12 11.01.25.excalidraw.md",
+    "7 - Attachments/Pasted Image 20250512110244_573.png",
     "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
     "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
     "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
@@ -280,7 +282,6 @@
     "7 - Attachments/Pasted image 20250512042354.png",
     "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md",
     "7 - Attachments/Pasted image 20250512044416.png",
-    "7 - Attachments/Pasted image 20250512044425.png",
     "7 - Attachments/Recording 20250512030704.webm",
     "Excalidraw/3. Internet Protocol 2025-05-12 03.59.49.excalidraw.md",
     "Excalidraw/3. Internet Protocol 2025-05-12 03.44.58.excalidraw.md",
