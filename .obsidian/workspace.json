@@ -39,14 +39,12 @@
             "id": "ed46e9f8b4c54e81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "5. Subnetting"
+              "icon": "excalidraw-icon",
+              "title": "5. Subnetting 2025-05-13 02.13.21.excalidraw"
             }
           }
         ],
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+                "file": "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Subnetting"
+              "title": "Backlinks for 5. Subnetting 2025-05-13 02.13.21.excalidraw"
             }
           },
           {
@@ -142,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+                "file": "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Subnetting"
+              "title": "Outgoing links from 5. Subnetting 2025-05-13 02.13.21.excalidraw"
             }
           },
           {
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+                "file": "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Subnetting"
+              "title": "Outline of 5. Subnetting 2025-05-13 02.13.21.excalidraw"
             }
           },
           {
@@ -266,9 +264,11 @@
   },
   "active": "ed46e9f8b4c54e81",
   "lastOpenFiles": [
+    "7 - Attachments/Pasted Image 20250513021436_110.png",
+    "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+    "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md",
     "7 - Attachments/Pasted image 20250513020608.png",
     "2 - Source Notes/Untitled 3.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
     "7 - Attachments/Pasted image 20250513020352.png",
     "7 - Attachments/Pasted image 20250513020156.png",
     "7 - Attachments/Pasted image 20250513020043.png",
@@ -285,7 +285,6 @@
     "Excalidraw/5. Subnetting 2025-05-12 11.01.25.excalidraw.md",
     "7 - Attachments/Pasted Image 20250512110244_573.png",
     "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
-    "7 - Attachments/Pasted image 20250512095905.png",
     "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md",
     "7 - Attachments/Recording 20250512030704.webm",
     "Excalidraw/3. Internet Protocol 2025-05-12 03.59.49.excalidraw.md",
@@ -303,7 +302,6 @@
     "2 - Source Notes/Academics/DCN/Unit 1/7. Communication Channels & Performance Metrics.md",
     "2 - Source Notes/Academics/DCN/Unit 4",
     "2 - Source Notes/Academics/DCN/Unit 1/6. WiMAX, 5G and Beyond, Cellular Technology.md",
-    "2 - Source Notes/Academics/DCN/Unit 1/5. Circuit Switching, Packet Switching and Message Switching.md",
     "2 - Source Notes/C++",
     "2 - Source Notes/Blender",
     "Untitled.canvas",
