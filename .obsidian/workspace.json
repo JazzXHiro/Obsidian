@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "6. IPv4 Header"
             }
+          },
+          {
+            "id": "2b934f35472d2213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/7. Supernetting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Supernetting"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/7. Supernetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. IPv4 Header"
+              "title": "Backlinks for 7. Supernetting"
             }
           },
           {
@@ -156,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/7. Supernetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. IPv4 Header"
+              "title": "Outgoing links from 7. Supernetting"
             }
           },
           {
@@ -185,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/7. Supernetting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. IPv4 Header"
+              "title": "Outline of 7. Supernetting"
             }
           },
           {
@@ -278,12 +292,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80f4174b872a0f3f",
+  "active": "2b934f35472d2213",
   "lastOpenFiles": [
+    "7 - Attachments/Pasted image 20250513040102.png",
+    "7 - Attachments/Pasted image 20250513035946.png",
+    "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/7. Supernetting.md",
     "7 - Attachments/Pasted image 20250513035430.png",
     "7 - Attachments/Pasted image 20250513034926.png",
-    "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
     "7 - Attachments/Pasted image 20250513031640.png",
     "7 - Attachments/Pasted image 20250513030826.png",
     "7 - Attachments/Pasted image 20250513030719.png",
@@ -293,10 +311,7 @@
     "7 - Attachments/Pasted image 20250513030221.png",
     "7 - Attachments/Pasted image 20250513030141.png",
     "Excalidraw/5. Subnetting 2025-05-13 02.58.48.excalidraw.md",
-    "7 - Attachments/Pasted Image 20250513025948_154.png",
-    "7 - Attachments/Pasted image 20250513025819.png",
     "2 - Source Notes/Academics/DCN/Goat shi.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
     "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md",
     "2 - Source Notes/Untitled 3.md",
     "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
@@ -316,7 +331,6 @@
     "2 - Source Notes/Academics/DCN/Unit 4/0. Network Layer.md",
     "3 - Tags/t-dcn_unit4.md",
     "2 - Source Notes/Academics/DCN/Unit 2/1. Link Layer Services.md",
-    "2 - Source Notes/Academics/DCN/Unit 2/CRC.md",
     "2 - Source Notes/Academics/DCN/Unit 4",
     "2 - Source Notes/C++",
     "2 - Source Notes/Blender",
