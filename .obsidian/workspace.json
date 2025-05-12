@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "5. Subnetting"
             }
+          },
+          {
+            "id": "80f4174b872a0f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. IPv4 Header"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Subnetting"
+              "title": "Backlinks for 6. IPv4 Header"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Subnetting"
+              "title": "Outgoing links from 6. IPv4 Header"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Subnetting"
+              "title": "Outline of 6. IPv4 Header"
             }
           },
           {
@@ -264,14 +278,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed46e9f8b4c54e81",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/6. IPv4 Header.md",
     "7 - Attachments/Pasted image 20250513031640.png",
     "7 - Attachments/Pasted image 20250513030826.png",
     "7 - Attachments/Pasted image 20250513030719.png",
     "Excalidraw/5. Subnetting 2025-05-13 03.04.09.excalidraw.md",
     "7 - Attachments/Pasted Image 20250513030539_674.png",
-    "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
     "7 - Attachments/Pasted image 20250513030317.png",
     "7 - Attachments/Pasted image 20250513030221.png",
     "7 - Attachments/Pasted image 20250513030141.png",
@@ -281,7 +296,6 @@
     "2 - Source Notes/Academics/DCN/Goat shi.md",
     "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
     "7 - Attachments/Pasted image 20250513023637.png",
-    "7 - Attachments/Pasted image 20250513023023.png",
     "Excalidraw/5. Subnetting 2025-05-13 02.13.21.excalidraw.md",
     "2 - Source Notes/Untitled 3.md",
     "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
