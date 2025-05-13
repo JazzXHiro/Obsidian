@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+                "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Internet Protocol"
+              "title": "4. IP Addressing Techniques"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+            "file": "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,9 @@
   },
   "active": "d8bda7daca08ca7e",
   "lastOpenFiles": [
+    "Excalidraw/4. IP Addressing Techniques 2025-05-12 04.53.06.excalidraw.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
     "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
     "2 - Source Notes/Academics/DCN/Unit 4/1. Network Layer Design Issues.md",
     "2 - Source Notes/Academics/DCN/Unit 4/0. Network Layer.md",
