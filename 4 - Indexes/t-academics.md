@@ -30,5 +30,5 @@
 27. [[Linear vs Non-Linear.md]]
 28. [[2. Characteristic Polynomial & Equation.md]]
 29. [[3.1 Vector Spaces.md]]
-30. [[1. SDLC.md]]
-31. [[2. Process Models.md]]
+30. [[1. SDLC]]
+31. [[2. Process Models]]

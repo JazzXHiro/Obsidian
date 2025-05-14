@@ -30,6 +30,6 @@
 27. [[7. Solution of homogenous and non-homogenous system of equations.md]]
 28. [[2. Characteristic Polynomial & Equation.md]]
 29. [[3.1 Vector Spaces.md]]
-30. [[1. SDLC.md]]
-31. [[2. Process Models.md]]
+30. [[1. SDLC]]
+31. [[2. Process Models]]
 32. [[1. Introduction to Blender]]
