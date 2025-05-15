@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Software Enginering/Unit 1/Unit 1.md",
+                "file": "2 - Source Notes/Academics/Software Enginering/Unit 4/4. Product Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit 1"
+              "title": "4. Product Metrics"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - Source Notes/Academics/Software Enginering/Unit 1/Unit 1.md",
+            "file": "2 - Source Notes/Academics/Software Enginering/Unit 4/4. Product Metrics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,6 +171,10 @@
   "active": "d8bda7daca08ca7e",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Software Enginering/Unit 4/3. Black vs White Box Testing.md",
+    "2 - Source Notes/Academics/Software Enginering/Unit 5/1. Software Quality.md",
+    "2 - Source Notes/Academics/Software Enginering/Rest/2. Process Models.md",
+    "2 - Source Notes/Academics/Software Enginering/Rest/1. SDLC.md",
+    "2 - Source Notes/Academics/Software Enginering/Unit 1/Unit 1.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 4/2. White Box Testing.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 4/1. Black Box Testing.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 5/7. Risk Management.md",
@@ -179,7 +183,6 @@
     "2 - Source Notes/Academics/Software Enginering/Unit 5/4. ISO & CMM Model.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 5/3. Software Quality Assurance.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 5/2. McQall Quality Factors.md",
-    "2 - Source Notes/Academics/Software Enginering/Unit 5/1. Software Quality.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 4/5. Product and Process Quality Standards.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 4/6. Testing Tools.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 4/4. Product Metrics.md",
@@ -193,9 +196,6 @@
     "2 - Source Notes/Academics/DCN/Unit 5/7. VPN.md",
     "2 - Source Notes/Academics/DCN/Unit 5/6. HTTP vs HTTPS.md",
     "2 - Source Notes/Academics/DCN/Unit 5/5. UDP Header.md",
-    "2 - Source Notes/Academics/DCN/Unit 5/4. TCP Congestion Control.md",
-    "2 - Source Notes/Academics/DCN/Unit 5/3. TCP Connection Establishment.md",
-    "2 - Source Notes/Academics/DCN/Unit 5/1. Port Address & Socket Address.md",
     "2 - Source Notes/Academics/DCN/New"
   ]
 }
