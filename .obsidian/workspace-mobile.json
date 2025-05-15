@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Software Enginering/Unit 4/1. Black Box Testing.md",
+                "file": "2 - Source Notes/Academics/Software Enginering/Unit 4/2. White Box Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Black Box Testing"
+              "title": "2. White Box Testing"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - Source Notes/Academics/DCN/Unit 5/2. TCP Header.md",
+            "file": "2 - Source Notes/Academics/Software Enginering/Unit 4/2. White Box Testing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,7 @@
   },
   "active": "d8bda7daca08ca7e",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Software Enginering/Unit 4/1. Black Box Testing.md",
     "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
     "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
     "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
