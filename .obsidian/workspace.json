@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
+                "file": "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/6. Determinant, Minors & Cofactors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Rank of a Matrix"
+              "title": "6. Determinant, Minors & Cofactors"
             }
           }
         ],
@@ -421,6 +421,7 @@
   },
   "active": "ed510371b68a2d6f",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
     "Excalidraw/3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
@@ -456,7 +457,6 @@
     "7 - Attachments/Pasted image 20250517111337.png",
     "7 - Attachments/Pasted image 20250517111334.png",
     "7 - Attachments/Pasted image 20250517111306.png",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/Drawing 2025-05-16 10.02.08.excalidraw.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
     "2 - Source Notes/Academics/Software Enginering/Unit 1",
     "2 - Source Notes/Academics/Software Enginering/Unit 5",
