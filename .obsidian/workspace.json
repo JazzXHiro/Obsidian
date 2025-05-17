@@ -202,9 +202,23 @@
               "icon": "lucide-file",
               "title": "3.1 Vector Spaces"
             }
+          },
+          {
+            "id": "5f4ca2c7ae760bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2 Linear Transformation"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -419,8 +433,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed510371b68a2d6f",
+  "active": "5f4ca2c7ae760bd1",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
     "7 - Attachments/Pasted image 20250517111614.png",
     "7 - Attachments/Pasted image 20250517111550.png",
     "7 - Attachments/Pasted image 20250517111531.png",
@@ -431,7 +447,6 @@
     "7 - Attachments/Pasted image 20250517111334.png",
     "7 - Attachments/Pasted image 20250517111306.png",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Drawing 2025-05-16 10.02.08.excalidraw.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 2/4. Cayley - Hamilton Theorem.md",
@@ -458,7 +473,6 @@
     "2 - Source Notes/Academics/Software Enginering/Unit 4/5. Product and Process Quality Standards.md",
     "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
     "2 - Source Notes/Academics/Software Enginering/Unit 1",
-    "7 - Attachments/Pasted image 20250515080925.png",
     "2 - Source Notes/Academics/Software Enginering/Unit 5",
     "2 - Source Notes/Academics/Software Enginering/Rest",
     "2 - Source Notes/Academics/Software Enginering/Unit 4",
