@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
+                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Linear Transformation"
+              "title": "3.1 Vector Spaces"
             }
           }
         ],
@@ -413,8 +413,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -436,9 +435,12 @@
   },
   "active": "5f4ca2c7ae760bd1",
   "lastOpenFiles": [
-    "Excalidraw/3.2 Linear Transformation 2025-05-17 12.10.06.excalidraw.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
+    "3 - Tags/t-academics.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
+    "Excalidraw/3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw.md",
+    "7 - Attachments/Pasted Image 20250517121755_535.png",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
+    "Excalidraw/3.2 Linear Transformation 2025-05-17 12.10.06.excalidraw.md",
     "5 - Templates/Full Note.md",
     "7 - Attachments/Pasted image 20250517111614.png",
     "7 - Attachments/Pasted image 20250517111550.png",
@@ -470,9 +472,6 @@
     "2 - Source Notes/Academics/Software Enginering/Unit 5/5. Tools and Techniques for Quality Control.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 5/4. ISO & CMM Model.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 5/3. Software Quality Assurance.md",
-    "2 - Source Notes/Academics/Software Enginering/Unit 5/2. McQall Quality Factors.md",
-    "2 - Source Notes/Academics/Software Enginering/Unit 5/1. Software Quality.md",
-    "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
     "2 - Source Notes/Academics/Software Enginering/Unit 1",
     "2 - Source Notes/Academics/Software Enginering/Unit 5",
     "2 - Source Notes/Academics/Software Enginering/Rest",
