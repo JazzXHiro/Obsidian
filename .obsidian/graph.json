@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "academ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277712,
-  "close": true
+  "scale": 2.0707092497453496,
+  "close": false
 }
