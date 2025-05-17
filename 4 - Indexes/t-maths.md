@@ -22,3 +22,4 @@
 19. [[Linear vs Non-Linear.md]]
 20. [[2. Characteristic Polynomial & Equation.md]]
 21. [[3.1 Vector Spaces.md]]
+22. [[3.2 Linear Transformation.md]]
