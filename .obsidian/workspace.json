@@ -193,10 +193,12 @@
             "id": "ed510371b68a2d6f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw"
             }
           }
         ],
@@ -417,8 +419,8 @@
   },
   "active": "ed510371b68a2d6f",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "4 - Indexes/t-dcn.md",
     "4 - Indexes/t-child.md",
     "4 - Indexes/t-blender.md",
