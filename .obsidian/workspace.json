@@ -193,12 +193,14 @@
             "id": "ed510371b68a2d6f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw"
+              "icon": "lucide-file",
+              "title": "3.2 Linear Transformation"
             }
           }
         ],
@@ -419,6 +421,7 @@
   },
   "active": "ed510371b68a2d6f",
   "lastOpenFiles": [
+    "Excalidraw/3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
     "4 - Indexes/t-dcn.md",
@@ -441,7 +444,6 @@
     "4 - Indexes/t-entertainment.md",
     "Excalidraw/3.2 Linear Transformation 2025-05-17 12.31.46.excalidraw.md",
     "3 - Tags/t-academics.md",
-    "Excalidraw/3.2 Linear Transformation 2025-05-17 12.17.21.excalidraw.md",
     "7 - Attachments/Pasted Image 20250517121755_535.png",
     "Excalidraw/3.2 Linear Transformation 2025-05-17 12.10.06.excalidraw.md",
     "5 - Templates/Full Note.md",
