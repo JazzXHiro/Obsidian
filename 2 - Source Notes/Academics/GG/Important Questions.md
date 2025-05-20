@@ -32,5 +32,12 @@ Tags:
         
     - Enables mesh-level operations (extrusion, subdividing, merging vertices).
 
+**Q3. Define:**  
+a. **Histogram**  
+A plot showing the distribution of pixel intensities in an image—horizontal axis is intensity (0–255), vertical axis is frequency. Used for contrast adjustment and thresholding.
+
+b. **Monochrome**  
+An image composed of varying shades of a single color (often gray). In digital terms, a single-channel (grayscale) image.
+
 
 # Reference
