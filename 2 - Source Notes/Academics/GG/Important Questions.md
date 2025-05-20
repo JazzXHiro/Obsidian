@@ -18,5 +18,19 @@ Tags:
     
 5. **Entertainment & Multimedia**: image/video compression (JPEG, MPEG), special effects in film.
 
+**Q.2 Difference between Object Mode and Edit Mode in Blender**
+
+- **Object Mode**
+    
+    - Manipulates whole objects: move, rotate, scale entire meshes or lamps.
+        
+    - Access to object-level tools (e.g. parenting, object constraints, modifiers).
+        
+- **Edit Mode**
+    
+    - Edits an object’s internal geometry: vertices, edges, faces.
+        
+    - Enables mesh-level operations (extrusion, subdividing, merging vertices).
+
 
 # Reference
