@@ -9,5 +9,6 @@
   "obsidian-shellcommands",
   "obsidian-latex-suite",
   "obsidian-charts",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-importer"
 ]
