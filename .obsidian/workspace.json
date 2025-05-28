@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Untitled.md",
+                "file": "2 - Source Notes/Figma Workshop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Figma Workshop"
             }
           }
         ],
@@ -279,10 +279,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "3df2853e9cea8256",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/GG/Important Questions.md",
     "1 - Rough Notes/Untitled.md",
+    "2 - Source Notes/Blender Shortcuts.md",
+    "2 - Source Notes/2025-05-12.md",
+    "2 - Source Notes/Academics/GG/Important Questions.md",
     "1 - Rough Notes/04-04-25.md",
     "OneNote/Projects/Monster Grab/GIT.md",
     "7 - Attachments/Exported image 20250526133513-1.png",
@@ -291,7 +293,6 @@
     "OneNote/Projects/Monster Grab",
     "OneNote/Projects",
     "OneNote",
-    "2 - Source Notes/Blender Shortcuts.md",
     "2 - Source Notes/Untitled 3.md",
     "2 - Source Notes/Untitled 1.md",
     "2 - Source Notes/Ideas.md",
@@ -312,7 +313,6 @@
     "2 - Source Notes/Maths Lecture 3.md",
     "2 - Source Notes/GG Lab 3 Assign.md",
     "2 - Source Notes/GG Assign2.md",
-    "2 - Source Notes/gamejam.md",
     "2 - Source Notes/~syncthing~Ideas.md.tmp",
     "2 - Source Notes/Academics/Software Enginering/Unit 5/~syncthing~7. Risk Management.md.tmp",
     "7 - Attachments/Pasted Image 20250517121755_535.png",
