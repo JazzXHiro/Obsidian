@@ -8,119 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1f3fdb33e3087e7",
+            "id": "a12afb052f7027db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Ideas.md",
+                "file": "2 - Source Notes/Linux/Linux cmds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Linux cmds"
             }
           },
           {
-            "id": "fcc7f9d3cff24037",
+            "id": "821c444d6603e6d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Blender Shortcuts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Blender Shortcuts"
-            }
-          },
-          {
-            "id": "036951b26177d216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/GG/Important Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Important Questions"
-            }
-          },
-          {
-            "id": "3df2853e9cea8256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "cdbaa53e3e73bd16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Digital Electronics/Unit 1/1. Digital Signals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Digital Signals"
-            }
-          },
-          {
-            "id": "894363367db9da4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Xenoblade Chronicles 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Xenoblade Chronicles 2"
-            }
-          },
-          {
-            "id": "60e51189156abd9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/testN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "testN"
-            }
-          },
-          {
-            "id": "987bd199feb7b5f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Figma Workshop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Figma Workshop"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,45 +246,46 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "987bd199feb7b5f0",
+  "active": "a12afb052f7027db",
   "lastOpenFiles": [
-    "2 - Source Notes/Untitled.md",
-    "2 - Source Notes/Figma Workshop.md",
+    "2 - Source Notes/Linux/Linux cmds.md",
+    "2 - Source Notes/Linux/Tools.md",
+    "2 - Source Notes/Linux/Hyprland.md",
+    "2 - Source Notes/Linux/Mozilla shortcuts.md",
+    "2 - Source Notes/Linux/Nvim.md",
+    "3 - Tags/t-linux.md",
+    "2 - Source Notes/Academics/Digital Electronics/Unit 1/2. Digital Circuits.md",
+    "2 - Source Notes/Linux",
+    "2 - Source Notes/Academics/Java Project/1. Java_project Instructions.md",
+    "2 - Source Notes/Academics/Java Project/2. Figuring things out.md",
+    "2 - Source Notes/Academics/Java Project/Bug Fix.md",
+    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
+    "2 - Source Notes/C++/1. Introduction to programming languages.md",
+    "2 - Source Notes/C++/2. Introduction to C++.md",
+    "2 - Source Notes/Blender Shortcuts.md",
     "2 - Source Notes/2025-05-12.md",
-    "2 - Source Notes/Maths LaTex.md",
-    "2 - Source Notes/testN.md",
+    "2 - Source Notes/Blender/Untitled.md",
+    "2 - Source Notes/Blender/2. UI & Preferences.md",
+    "2 - Source Notes/Blender/1. Introduction to Blender.md",
+    "2 - Source Notes/Figma Workshop.md",
+    "2 - Source Notes/edot.md",
     "2 - Source Notes/Libraries I used.md",
-    "2 - Source Notes/Ideas.md",
-    "2 - Source Notes/Maths Lecture 1.md",
-    "Jazz/2 - Source Notes/Academics/Software Enginering/Unit 4/1. Black Box Testing.md",
-    "Jazz/4 - Indexes/t-gojo.md",
+    "2 - Source Notes/Maths Lecture 3.md",
+    "2 - Source Notes/GG Assign2.md",
+    "2 - Source Notes/GJ_SoundDesign Resources.md",
+    "2 - Source Notes/Jaded R1.md",
+    "2 - Source Notes/Maths LaTex.md",
     "Jazz/7 - Attachments/Pasted image 20250306070336.png",
-    "Jazz/4 - Indexes/t-gamedev.md",
-    "Jazz/2 - Source Notes/Blender/1. Introduction to Blender.md",
     "Jazz/7 - Attachments/Pasted image 20250306000947.png",
-    "Jazz/2 - Source Notes/Academics/Java Project/Untitled.md",
-    "Jazz/2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
-    "Jazz/3 - Tags/t-college.md",
-    "Jazz/4 - Indexes/t-adult.md",
-    "Jazz/2 - Source Notes/Blender/2. UI & Preferences.md",
-    "Jazz/Excalidraw/Scripts/Downloaded/ExcaliAI.md",
     "Jazz/scripts/New Text Document.txt",
-    "Jazz/2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
     "Jazz/7 - Attachments/Pasted Image 20250305031039_405.png",
     "Jazz/7 - Attachments/Pasted image 20250515072739.png",
     "Jazz/7 - Attachments/Pasted Image 20250512110244_573.png",
     "Jazz/7 - Attachments/Pasted image 20250513034926.png",
-    "Jazz/4 - Indexes/t-introductiontonetworking.md",
-    "Jazz/2 - Source Notes/Academics/DCN/Unit 5/0. Introduction and Transport Layer Services.md",
-    "Jazz/2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/5. Complex Matrices.md",
     "Jazz/Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Jazz/4 - Indexes/t-project_wizard.md",
-    "Jazz/Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
     "Jazz/7 - Attachments/Pasted image 20250513090039.png",
     "Jazz/7 - Attachments/Pasted image 20250515080049.png",
     "Jazz/7 - Attachments/Pasted image 20250517111614.png",
-    "Jazz/4 - Indexes/t-dcn_unit5.md",
-    "Jazz/Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
     "Jazz/3 - Tags/microsoft-fabric-architecture-icons.excalidrawlib",
     "Jazz/scripts/generate_index.py",
     "Jazz/scripts/upload_to_imgur.py",
@@ -383,7 +295,6 @@
     "Jazz/scripts/clean_attachments.py",
     "Jazz/scripts/clean_excalidraw.py",
     "Jazz/3 - Tags/~syncthing~t-teen.md.tmp",
-    "Jazz/2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
     "Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas"
