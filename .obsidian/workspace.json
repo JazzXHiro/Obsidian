@@ -236,14 +236,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a12afb052f7027db",
+  "floating": {
+    "id": "8478164756582ba5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7f907b1ee505f2d1",
+        "type": "window",
+        "children": [
+          {
+            "id": "299727db9695cc83",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96543ec1cc3651b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Source Notes/Academics/Linear Algebra/Unit 2/3. Eigen Values & Eigen Vectors.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3. Eigen Values & Eigen Vectors"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "96543ec1cc3651b2",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Eng. Mathematics II/1. Bisection Method.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/0.1 Misc.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/0. Algebraic and Transcendental Equation.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/1. Bisection Method.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Untitled.md",
     "5 - Templates/Full Note.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
     "3 - Tags/t-AEM2.md",
     "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/3. Trace, Transpose & Conjugate of a Matrix.md",
     "1 - Rough Notes/Untitled.md",
@@ -265,7 +305,6 @@
     "2 - Source Notes/Blender Shortcuts.md",
     "2 - Source Notes/2025-05-12.md",
     "2 - Source Notes/Blender/Untitled.md",
-    "2 - Source Notes/Blender/2. UI & Preferences.md",
     "Jazz/7 - Attachments/Pasted image 20250306070336.png",
     "Jazz/7 - Attachments/Pasted image 20250306000947.png",
     "Jazz/scripts/New Text Document.txt",
