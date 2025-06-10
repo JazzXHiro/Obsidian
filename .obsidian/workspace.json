@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Untitled.md",
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/1. Bisection Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1. Bisection Method"
             }
           }
         ]
@@ -236,8 +236,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "a12afb052f7027db",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Eng. Mathematics II/0. Algebraic and Transcendental Equation.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/1. Bisection Method.md",
+    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
+    "3 - Tags/t-AEM2.md",
+    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/3. Trace, Transpose & Conjugate of a Matrix.md",
+    "1 - Rough Notes/Untitled.md",
     "2 - Source Notes/Academics/Eng. Mathematics II",
     "2 - Source Notes/Linux/Linux cmds.md",
     "2 - Source Notes/Linux/Tools.md",
@@ -260,11 +266,6 @@
     "2 - Source Notes/Blender/1. Introduction to Blender.md",
     "2 - Source Notes/Figma Workshop.md",
     "2 - Source Notes/edot.md",
-    "2 - Source Notes/Libraries I used.md",
-    "2 - Source Notes/Maths Lecture 3.md",
-    "2 - Source Notes/GG Assign2.md",
-    "2 - Source Notes/GJ_SoundDesign Resources.md",
-    "2 - Source Notes/Jaded R1.md",
     "Jazz/7 - Attachments/Pasted image 20250306070336.png",
     "Jazz/7 - Attachments/Pasted image 20250306000947.png",
     "Jazz/scripts/New Text Document.txt",
@@ -284,7 +285,6 @@
     "Jazz/scripts/clean_attachments.txt",
     "Jazz/scripts/clean_attachments.py",
     "Jazz/scripts/clean_excalidraw.py",
-    "Jazz/3 - Tags/~syncthing~t-teen.md.tmp",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
     "Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas"
