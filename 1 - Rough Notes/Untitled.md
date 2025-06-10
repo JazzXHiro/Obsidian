@@ -14,20 +14,20 @@ Here’s a structured, four-week timetable you can follow over your month-long b
 
 ## Weekly Template (Same Monday–Friday; lighter Sat/Sun)
 
-|Time|Mon–Fri|Saturday|Sunday|
-|---|---|---|---|
-|**7:00–8:00**|Morning routine & breakfast|Morning routine & breakfast|Morning routine & breakfast|
-|**8:00–10:00**|Back Paper Focus (see Weekly Focus)|Backlog review (all papers)|Mock tests & flashcards|
-|**10:00–10:30**|Break|Break|Break|
-|**10:30–12:30**|Back Paper Focus (second paper)|DSA practice|Project work|
-|**12:30–13:30**|Lunch & rest|Lunch & rest|Lunch & rest|
-|**13:30–15:30**|DSA (theory + problems)|C++ deep-dive|Learning new thing|
-|**15:30–16:00**|Tea/short walk|Tea/short walk|Tea/short walk|
-|**16:00–18:00**|C++ (concepts & coding exercises)|5th-sem prep (syllabus run)|5th-sem prep (syllabus run)|
-|**18:00–19:00**|Break & dinner prep|Break & dinner prep|Break & dinner prep|
-|**19:00–21:00**|Project work|Project work|Project work|
-|**21:00–22:00**|5th-sem revision / planning|Weekly review & plan next|Weekly review & plan next|
-|**22:00–23:00**|Learning new thing (online course, tutorial, etc.)|Wind-down / light read|Wind-down / light read|
+| Time            | Mon–Fri                                            | Saturday                    | Sunday                      |
+| --------------- | -------------------------------------------------- | --------------------------- | --------------------------- |
+| **7:00–8:00**   | Morning routine & breakfast                        | Morning routine & breakfast | Morning routine & breakfast |
+| **8:00–10:00**  | Back Paper Focus (see Weekly Focus)                | Backlog review (all papers) | Mock tests & flashcards     |
+| **10:00–10:30** | Break                                              | Break                       | Break                       |
+| **10:30–12:30** | Back Paper Focus (second paper)                    | DSA practice                | Project work                |
+| **12:30–13:30** | Lunch & rest                                       | Lunch & rest                | Lunch & rest                |
+| **13:30–15:30** | DSA (theory + problems)                            | C++ deep-dive               | Learning new thing          |
+| **15:30–16:00** | Tea/short walk                                     | Tea/short walk              | Tea/short walk              |
+| **16:00–18:00** | C++ (concepts & coding exercises)                  | 5th-sem prep (syllabus run) | 5th-sem prep (syllabus run) |
+| **18:00–19:00** | Break & dinner prep                                | Break & dinner prep         | Break & dinner prep         |
+| **19:00–21:00** | Project work                                       | Project work                | Project work                |
+| **21:00–22:00** | 5th-sem revision / planning                        | Weekly review & plan next   | Weekly review & plan next   |
+| **22:00–23:00** | Learning new thing (online course, tutorial, etc.) | Wind-down / light read      | Wind-down / light read      |
 
 ---
 
