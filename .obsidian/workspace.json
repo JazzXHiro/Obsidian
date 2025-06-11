@@ -25,14 +25,12 @@
             "id": "0ba105735cf50581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "2. Newton-Raphson Method"
+              "icon": "excalidraw-icon",
+              "title": "2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw"
             }
           }
         ],
@@ -253,13 +251,14 @@
   },
   "active": "0ba105735cf50581",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
+    "Excalidraw/2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/1. Bisection Method.md",
     "1 - Rough Notes/Untitled.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/0.1 Misc.md",
@@ -279,7 +278,6 @@
     "2 - Source Notes/Linux/Mozilla shortcuts.md",
     "2 - Source Notes/Linux/Nvim.md",
     "3 - Tags/t-linux.md",
-    "2 - Source Notes/Academics/Digital Electronics/Unit 1/2. Digital Circuits.md",
     "2 - Source Notes/Linux",
     "Jazz/7 - Attachments/Pasted image 20250306070336.png",
     "Jazz/7 - Attachments/Pasted image 20250306000947.png",
