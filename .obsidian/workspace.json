@@ -39,12 +39,14 @@
             "id": "c1875fd30bcc8b89",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/2. Newton-Raphson Method 2025-06-11 16.26.25.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2. Newton-Raphson Method 2025-06-11 16.26.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "2. Newton-Raphson Method"
             }
           }
         ],
@@ -265,8 +267,8 @@
   },
   "active": "c1875fd30bcc8b89",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
     "Excalidraw/2. Newton-Raphson Method 2025-06-11 16.26.25.excalidraw.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/2.1 Common Differential Formulas.md",
     "Excalidraw/2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
