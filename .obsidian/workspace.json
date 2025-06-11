@@ -20,32 +20,6 @@
               "icon": "lucide-file",
               "title": "2. Newton-Raphson Method"
             }
-          },
-          {
-            "id": "0ba105735cf50581",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2. Newton-Raphson Method 2025-06-11 17.25.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2. Newton-Raphson Method 2025-06-11 17.25.11.excalidraw"
-            }
-          },
-          {
-            "id": "c1875fd30bcc8b89",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Excalidraw/2. Newton-Raphson Method 2025-06-11 17.25.11.excalidraw.md",
-                "bFile": "Excalidraw/2. Newton-Raphson Method 2025-06-11 17.25.11.excalidraw.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2. Newton-Raphson Method 2025-06-11 17.25.11.excalidraw"
-            }
           }
         ]
       }
