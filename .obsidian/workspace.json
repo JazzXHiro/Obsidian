@@ -25,12 +25,14 @@
             "id": "0ba105735cf50581",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw"
+              "icon": "lucide-file",
+              "title": "2. Newton-Raphson Method"
             }
           }
         ],
@@ -251,8 +253,8 @@
   },
   "active": "0ba105735cf50581",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
     "Excalidraw/2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
