@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
+                "file": "4 - Indexes/t-adult.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Newton-Raphson Method"
+              "title": "t-adult"
             }
           }
         ]
@@ -236,78 +236,46 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "7caf5e9f7a1a0b18",
-    "type": "floating",
-    "children": [
-      {
-        "id": "259b8a28c8974d26",
-        "type": "window",
-        "children": [
-          {
-            "id": "d59a5556ec91e868",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7a51a109ba14014a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Source Notes/Academics/Eng. Mathematics II/2.1 Common Differential Formulas.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2.1 Common Differential Formulas"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a12afb052f7027db",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Eng. Mathematics II/2.1 Common Differential Formulas.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/1. Bisection Method.md",
-    "Excalidraw/2. Newton-Raphson Method 2025-06-11 17.25.11.excalidraw.md",
-    "Excalidraw/2. Newton-Raphson Method 2025-06-11 16.26.25.excalidraw.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/0.1 Misc.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/0. Algebraic and Transcendental Equation.md",
-    "Excalidraw/2. Newton-Raphson Method 2025-06-11 12.31.14.excalidraw.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
-    "1 - Rough Notes/Untitled.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 2/3. Eigen Values & Eigen Vectors.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/5. Complex Matrices.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/3. Elimination using matrices.md",
-    "2 - Source Notes/Academics/Linear Algebra/Unit 1/1. Vectors & Linear Combinations.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Untitled.md",
-    "5 - Templates/Full Note.md",
-    "3 - Tags/t-AEM2.md",
-    "2 - Source Notes/Academics/Linear Algebra/Matrix_Recap/3. Trace, Transpose & Conjugate of a Matrix.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II",
-    "2 - Source Notes/Linux/Linux cmds.md",
-    "2 - Source Notes/Linux/Tools.md",
-    "2 - Source Notes/Linux/Hyprland.md",
-    "2 - Source Notes/Linux",
+    "4 - Indexes/t-xenoblade.md",
+    "4 - Indexes/t-wizard.md",
+    "4 - Indexes/t-vector.md",
+    "4 - Indexes/t-UI.md",
+    "4 - Indexes/t-travel.md",
+    "4 - Indexes/t-teen.md",
+    "4 - Indexes/t-sound_design.md",
+    "4 - Indexes/t-softeng_unit5.md",
+    "4 - Indexes/t-softeng_unit4.md",
+    "4 - Indexes/t-sem4.md",
+    "4 - Indexes/t-self_project.md",
+    "4 - Indexes/t-pune.md",
+    "4 - Indexes/t-programming.md",
+    "4 - Indexes/t-movies.md",
+    "4 - Indexes/t-child.md",
+    "4 - Indexes/t-audio.md",
+    "4 - Indexes/t-assets.md",
+    "4 - Indexes/t-AEM2.md",
+    "4 - Indexes/t-academics.md",
+    "4 - Indexes/t-dcn.md",
+    "4 - Indexes/t-de.md",
+    "4 - Indexes/t-de_unit1.md",
+    "4 - Indexes/t-sem2.md",
+    "4 - Indexes/t-linux.md",
+    "scripts/clean_attachments.py~",
+    "scripts/clean_excalidraw.py~",
+    "2 - Source Notes/C++/2. Introduction to C++.md",
+    "scripts/C:/Users/yadav/OneDrive/Obsidian/Jazz/4 - Indexes",
+    "scripts/C:/Users/yadav/OneDrive/Obsidian/Jazz",
+    "scripts/C:/Users/yadav/OneDrive/Obsidian",
+    "scripts/C:/Users/yadav/OneDrive",
+    "scripts/C:/Users/yadav",
+    "scripts/C:/Users",
+    "scripts/C:",
+    "2 - Source Notes/DSA",
+    "2 - Source Notes/C++/1. Introduction to programming languages.md",
     "Jazz/7 - Attachments/Pasted image 20250306070336.png",
     "Jazz/7 - Attachments/Pasted image 20250306000947.png",
-    "Jazz/scripts/New Text Document.txt",
     "Jazz/7 - Attachments/Pasted Image 20250305031039_405.png",
     "Jazz/7 - Attachments/Pasted image 20250515072739.png",
     "Jazz/7 - Attachments/Pasted Image 20250512110244_573.png",
@@ -316,14 +284,7 @@
     "Jazz/7 - Attachments/Pasted image 20250513090039.png",
     "Jazz/7 - Attachments/Pasted image 20250515080049.png",
     "Jazz/7 - Attachments/Pasted image 20250517111614.png",
-    "Jazz/3 - Tags/microsoft-fabric-architecture-icons.excalidrawlib",
-    "Jazz/scripts/generate_index.py",
-    "Jazz/scripts/upload_to_imgur.py",
-    "Jazz/7 - Attachments/Recording 20250512030704.webm",
     "Jazz/Untitled.canvas",
-    "Jazz/scripts/clean_attachments.txt",
-    "Jazz/scripts/clean_attachments.py",
-    "Jazz/scripts/clean_excalidraw.py",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
     "Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas"

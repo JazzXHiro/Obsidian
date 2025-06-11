@@ -4,8 +4,8 @@ import re
 
 # ================= Configuration ====================
 # Set the absolute paths to your attachments folder and source notes folder.
-ATTACHMENTS_FOLDER = "C:/Users/yadav/OneDrive/Obsidian/Jazz/7 - Attachments"  # <-- Replace with your attachments folder path.
-SOURCE_NOTES_FOLDER = "C:/Users/yadav/OneDrive/Obsidian/Jazz/2 - Source Notes"  # <-- Replace with your source notes folder path.
+ATTACHMENTS_FOLDER = "D:/Obsidian/JazzN/7 - Attachments"  # <-- Replace with your attachments folder path.
+SOURCE_NOTES_FOLDER = "D:/Obsidian/JazzN/2 - Source Notes"  # <-- Replace with your source notes folder path.
 # ====================================================
 
 def get_referenced_files(source_folder):

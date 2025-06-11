@@ -4,8 +4,8 @@ import re
 
 # ================= Configuration ====================
 # Set the absolute paths to your Excalidraw drawings folder and source notes folder.
-EXCALIDRAW_FOLDER = "C:/Users/yadav/OneDrive/Obsidian/Jazz/Excalidraw"  # <-- Replace with your Excalidraw drawings folder path.
-SOURCE_NOTES_FOLDER = "C:/Users/yadav/OneDrive/Obsidian/Jazz/2 - Source Notes"         # <-- Replace with your source notes folder path.
+EXCALIDRAW_FOLDER = "D:/Obsidian/JazzN/Excalidraw"  # <-- Replace with your Excalidraw drawings folder path.
+SOURCE_NOTES_FOLDER = "D:/Obsidian/JazzN/2 - Source Notes"         # <-- Replace with your source notes folder path.
 # ====================================================
 
 def get_referenced_drawings(source_folder):

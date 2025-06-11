@@ -2,7 +2,7 @@ import os
 import re
 
 # Define your Obsidian vault path
-vault_path = "C:/Users/yadav/OneDrive/Obsidian/Jazz"  # Replace with your vault's folder path
+vault_path = "D:/Obsidian/JazzN"  # Replace with your vault's folder path
 index_folder = os.path.join(vault_path, "4 - Indexes")
 
 # Create the index folder if it doesn't exist
