@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/3. Gauss Elimination.md",
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/3. Gauss Elimination.md",
                 "mode": "source",
                 "source": false
               },
@@ -253,9 +253,10 @@
   },
   "active": "40a2b332af4e73bf",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
-    "2 - Source Notes/3. Gauss Elimination.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/2.1 Common Differential Formulas.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/2. Newton-Raphson Method.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/3. Gauss Elimination.md",
+    "2 - Source Notes/GG Lab 3 Assign.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/0. Algebraic and Transcendental Equation.md",
     "1 - Rough Notes/Untitled.md",
     "4 - Indexes/t-adult.md",
@@ -278,7 +279,6 @@
     "4 - Indexes/t-assets.md",
     "4 - Indexes/t-AEM2.md",
     "4 - Indexes/t-academics.md",
-    "4 - Indexes/t-dcn.md",
     "scripts/clean_attachments.py~",
     "scripts/clean_excalidraw.py~",
     "scripts/C:/Users/yadav/OneDrive/Obsidian/Jazz/4 - Indexes",
