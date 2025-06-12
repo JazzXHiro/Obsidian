@@ -2,11 +2,11 @@
 
 ## Files using this tag:
 1. [[Maths LaTex.md]]
-2. [[0. Algebraic and Transcendental Equation.md]]
-3. [[0.1 Misc.md]]
-4. [[1. Bisection Method.md]]
-5. [[2. Newton-Raphson Method.md]]
-6. [[2.1 Common Differential Formulas.md]]
+2. [[0. Algebraic and Transcendental Equation]]
+3. [[0.1 Misc]]
+4. [[1. Bisection Method]]
+5. [[2. Newton-Raphson Method]]
+6. [[2.1 Common Differential Formulas]]
 7. [[1. Algebra of Matrices.md]]
 8. [[10. Transition Matrix.md]]
 9. [[2. Operations on Matrices.md]]
