@@ -4,7 +4,7 @@
 1. [[Figma Workshop.md]]
 2. [[gamejam.md]]
 3. [[GG Assign2.md]]
-4. [[GG Lab 3 Assign.md]]
+4. [[GG Lab 3 Assign]]
 5. [[GJ_SoundDesign Resources.md]]
 6. [[godotengine.md]]
 7. [[Jaded R1.md]]
