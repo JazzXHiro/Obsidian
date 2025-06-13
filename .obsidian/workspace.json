@@ -25,12 +25,14 @@
             "id": "92400d8c5bbfb7fb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/4. Finite Difference Operators 2025-06-13 19.08.52.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/4. Finite Difference Operators.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "4. Finite Difference Operators 2025-06-13 19.08.52.excalidraw"
+              "icon": "lucide-file",
+              "title": "4. Finite Difference Operators"
             }
           },
           {
@@ -304,8 +306,8 @@
   },
   "active": "92400d8c5bbfb7fb",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/4. Finite Difference Operators.md",
     "Excalidraw/4. Finite Difference Operators 2025-06-13 19.08.52.excalidraw.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/4. Finite Difference Operators.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/4.1 Trigonometric Identities and Formulas.md",
     "1 - Rough Notes/Chatgpt prompt.md",
     "7 - Attachments/Pasted image 20250613185122.png",
