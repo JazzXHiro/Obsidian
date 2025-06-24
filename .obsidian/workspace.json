@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.1 Newton Forward and Backward.md",
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.2 Central Difference Interpolation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 Newton Forward and Backward"
+              "title": "5.2 Central Difference Interpolation"
             }
           },
           {
@@ -323,6 +323,7 @@
   },
   "active": "23b973f770a0e528",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.1 Newton Forward and Backward.md",
     "1 - Rough Notes/Knock Knock.md",
     "1 - Rough Notes/Untitled.md",
     "2 - Source Notes/Academics/COA/Unit 1/Untitled.md",
@@ -332,7 +333,6 @@
     "2 - Source Notes/Untitled.md",
     "7 - Attachments/Pasted image 20250617152531.png",
     "7 - Attachments/Pasted image 20250617151731.png",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.1 Newton Forward and Backward.md",
     "4 - Indexes/t-AEM2.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5. Interpolation with equal and unequal intervals.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/4. Finite Difference Operators.md",
