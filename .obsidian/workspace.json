@@ -95,12 +95,14 @@
             "id": "d702b8b5ab1a6541",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/5.3 Lagrange Interpolation 2025-06-25 11.42.17.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.3 Lagrange Interpolation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "5.3 Lagrange Interpolation 2025-06-25 11.42.17.excalidraw"
+              "icon": "lucide-file",
+              "title": "5.3 Lagrange Interpolation"
             }
           },
           {
@@ -335,8 +337,8 @@
   },
   "active": "d702b8b5ab1a6541",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.3 Lagrange Interpolation.md",
     "Excalidraw/5.3 Lagrange Interpolation 2025-06-25 11.42.17.excalidraw.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.3 Lagrange Interpolation.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.2 Central Difference Interpolation.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.1 Newton Forward and Backward.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5. Interpolation with equal and unequal intervals.md",
