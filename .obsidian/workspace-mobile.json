@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.3 Lagrange Interpolation.md",
+                "file": "2 - Source Notes/Languages/Polish/Pronounciations/Chłopcy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 Lagrange Interpolation"
+              "title": "Chłopcy"
             }
           }
         ],
@@ -185,6 +185,16 @@
   },
   "active": "5f52106bddc52573",
   "lastOpenFiles": [
+    "3 - Tags/t-pronounciations.md",
+    "2 - Source Notes/Languages/Polish/Pronounciations/Chłopcy.md",
+    "3 - Tags/t-polish.md",
+    "3 - Tags/t-languages.md",
+    "3 - Tags/t-child.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/3. Gauss Elimination.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.3 Lagrange Interpolation.md",
+    "2 - Source Notes/Languages/Polish/Pronounciations",
+    "2 - Source Notes/Languages/Polish",
+    "2 - Source Notes/Languages",
     "1 - Rough Notes/Untitled.md",
     "2 - Source Notes/Ideas.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 4/6. Testing Tools.md",
@@ -204,13 +214,6 @@
     "2 - Source Notes/Academics/Software Enginering/Rest/2. Process Models.md",
     "2 - Source Notes/Academics/Software Enginering/Rest/1. SDLC.md",
     "2 - Source Notes/Academics/Software Enginering/Unit 1/Unit 1.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/5. Subnetting.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/4. IP Addressing Techniques.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/3. Internet Protocol.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/2. Network Address Translation.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/1. Network Layer Design Issues.md",
-    "2 - Source Notes/Academics/DCN/Unit 4/0. Network Layer.md",
-    "2 - Source Notes/Academics/DCN/Unit 5/2. TCP Header.md",
     "2 - Source Notes/Academics/DCN/New"
   ]
 }
