@@ -306,22 +306,12 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "503c871e5e0f65b9",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -346,8 +336,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "503c871e5e0f65b9",
+  "active": "363e6a06f34b29da",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.1 Picard's Method.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -363,7 +354,6 @@
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.4.1 Common Integration Formulas.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.1 Picard's Method.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.4 Numerical Integration.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.3 Lagrange Interpolation.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.2 Central Difference Interpolation.md",
