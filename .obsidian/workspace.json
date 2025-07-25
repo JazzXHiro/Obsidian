@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.1 Picard's Method.md",
+                "file": "5 - Templates/Temp maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.5.1 Picard's Method"
+              "title": "Temp maths"
             }
           },
           {
@@ -339,9 +339,13 @@
   },
   "active": "d702b8b5ab1a6541",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/0. Master Note.md",
+    "5 - Templates/Polish pronounciation.md",
+    "5 - Templates/Full Note.md",
+    "5 - Templates/Temp maths.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/0.0 Algebraic and Transcendental Equation.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.1 Picard's Method.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.2 Euler's Method.md",
+    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/0. Master Note.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
@@ -362,10 +366,6 @@
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.2 Central Difference Interpolation.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.1 Newton Forward and Backward.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5. Interpolation with equal and unequal intervals.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/4.1 Trigonometric Identities and Formulas.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/4. Finite Difference Operators.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/3.1 Gauss Seidel.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/3. Gauss Elimination.md",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
     "7 - Attachments/Pasted image 20250716104412.png",
