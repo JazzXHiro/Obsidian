@@ -309,9 +309,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "503c871e5e0f65b9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -332,11 +342,26 @@
       "templater-obsidian:Templater": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d702b8b5ab1a6541",
+  "active": "503c871e5e0f65b9",
   "lastOpenFiles": [
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.4.1 Common Integration Formulas.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.1 Picard's Method.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.4 Numerical Integration.md",
@@ -350,24 +375,11 @@
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/3. Gauss Elimination.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/2.1 Common Differential Formulas.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/2. Newton-Raphson Method.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/1. Bisection Method.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/0.1 Misc.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/0. Algebraic and Transcendental Equation.md",
-    "3 - Tags/t-AEM2-unit1.md",
-    "3 - Tags/t-AEM2_unit1.md",
-    "2 - Source Notes/Academics/DCN/Unit 1/2. Network Models.md",
-    "2 - Source Notes/Academics/DCN/Unit 1/3. Connectivity Devices & Cable Types.md",
-    "1 - Rough Notes/Knock Knock.md",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
     "7 - Attachments/Pasted image 20250716104412.png",
-    "1 - Rough Notes/Untitled.md",
-    "1 - Rough Notes/Just.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Wy.md.tmp",
-    "2 - Source Notes/Languages/Polish/Pronounciations/Wy.md",
-    "2 - Source Notes/Languages/Polish/Pronounciations/Lubicie.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Lubicie.md.tmp",
-    "2 - Source Notes/Languages/Polish/Pronounciations/Oni.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Oni.md.tmp",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Masz.md.tmp",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Chłopcy.md.tmp",
@@ -375,7 +387,6 @@
     "3 - Tags/~syncthing~t-pronounciations.md.tmp",
     "3 - Tags/~syncthing~t-languages.md.tmp",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Untitled.md.tmp",
-    "2 - Source Notes/Languages/Polish/Pronounciations",
     "7 - Attachments/Pasted image 20250617152531.png",
     "7 - Attachments/Pasted image 20250617151731.png",
     "7 - Attachments/Pasted image 20250613185122.png",
