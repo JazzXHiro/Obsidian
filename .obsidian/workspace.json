@@ -332,9 +332,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "copilot:Open Copilot Chat": false,
-      "smart-composer:Open smart composer": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "d702b8b5ab1a6541",
