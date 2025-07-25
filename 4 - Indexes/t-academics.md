@@ -33,7 +33,7 @@
 30. [[7. VPN.md]]
 31. [[1. Digital Signals.md]]
 32. [[2. Digital Circuits.md]]
-33. [[0. Algebraic and Transcendental Equation.md]]
+33. [[0.0 Algebraic and Transcendental Equation]]
 34. [[0.1 Misc.md]]
 35. [[1. Bisection Method.md]]
 36. [[2. Newton-Raphson Method.md]]

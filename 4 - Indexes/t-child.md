@@ -29,7 +29,7 @@
 26. [[5. Subnetting.md]]
 27. [[1. Digital Signals.md]]
 28. [[2. Digital Circuits.md]]
-29. [[0. Algebraic and Transcendental Equation.md]]
+29. [[0.0 Algebraic and Transcendental Equation]]
 30. [[0.1 Misc.md]]
 31. [[1. Bisection Method.md]]
 32. [[2. Newton-Raphson Method.md]]

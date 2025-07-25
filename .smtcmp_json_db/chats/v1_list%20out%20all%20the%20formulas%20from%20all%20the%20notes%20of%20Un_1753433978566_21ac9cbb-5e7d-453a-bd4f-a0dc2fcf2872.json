@@ -1,0 +1,88 @@
+{
+  "id": "21ac9cbb-5e7d-453a-bd4f-a0dc2fcf2872",
+  "title": "list out all the formulas from all the notes of Un",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "list out all the formulas from all the notes of Unit 1 of Eng. Mathematics II",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nlist out all the formulas from all the notes of Unit 1 of Eng. Mathematics II\n\n"
+        }
+      ],
+      "id": "624f2432-4d36-4983-a5a4-f7010f174914",
+      "mentionables": []
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "list out all the formulas from all the notes of Unit 1 of Eng. Mathematics II",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "681838ca-effe-46a8-b262-0fd700b1c5ea",
+      "mentionables": []
+    }
+  ],
+  "createdAt": 1753433953155,
+  "updatedAt": 1753433978566,
+  "schemaVersion": 1
+}
