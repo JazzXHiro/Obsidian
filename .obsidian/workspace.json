@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Temp maths.md",
+                "file": "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.2 Euler's Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temp maths"
+              "title": "5.5.2 Euler's Method"
             }
           },
           {
@@ -339,9 +339,9 @@
   },
   "active": "d702b8b5ab1a6541",
   "lastOpenFiles": [
+    "5 - Templates/Temp maths.md",
     "5 - Templates/Polish pronounciation.md",
     "5 - Templates/Full Note.md",
-    "5 - Templates/Temp maths.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/0.0 Algebraic and Transcendental Equation.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.1 Picard's Method.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.2 Euler's Method.md",
