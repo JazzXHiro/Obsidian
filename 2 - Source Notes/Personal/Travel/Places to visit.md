@@ -2,7 +2,7 @@
 
 Status: [[t-child]]
 
-Tags: [[t-travel]]
+Tags: [[t-travel]] [[t-personal]]
 
 # Places to visit
 
