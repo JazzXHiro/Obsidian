@@ -11,7 +11,7 @@
 8. [[Places to visit.md]]
 9. [[Project Wizard Assets.md]]
 10. [[sound_design detailing.md]]
-11. [[Xenoblade Chronicles 2.md]]
+11. [[Xenoblade Chronicles 2]]
 12. [[1. Introduction.md]]
 13. [[2. Network Models.md]]
 14. [[3. Connectivity Devices & Cable Types.md]]

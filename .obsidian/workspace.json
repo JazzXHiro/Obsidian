@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Shows & Movies/Shows/Plan to watch.md",
+                "file": "2 - Source Notes/Shows to Watch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan to watch"
+              "title": "Shows to Watch"
             }
           },
           {
@@ -313,12 +313,15 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "7330a188d8a384b9",
   "lastOpenFiles": [
+    "2 - Source Notes/sound_design detailing.md",
+    "2 - Source Notes/Web Storage.md",
+    "2 - Source Notes/Personal/Shows & Movies/Shows/Plan to watch.md",
+    "2 - Source Notes/Wired Earphones.md",
     "2 - Source Notes/Personal/Games/Reviews & Thoughts",
     "2 - Source Notes/Personal/Shows & Movies/Shows/Watched Shows.md",
     "3 - Tags/t-shows.md",
-    "2 - Source Notes/Personal/Shows & Movies/Shows/Plan to watch.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Watched Movies.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Plan to watch.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5. Interpolation with equal and unequal intervals.md",
@@ -345,15 +348,12 @@
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.5.1 Picard's Method.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/0. Master Note.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
     "7 - Attachments/Pasted image 20250716104412.png",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Wy.md.tmp",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Lubicie.md.tmp",
-    "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Oni.md.tmp",
     "7 - Attachments/Pasted image 20250617152531.png",
     "7 - Attachments/Pasted image 20250617151731.png",
     "7 - Attachments/Pasted image 20250613185122.png",
