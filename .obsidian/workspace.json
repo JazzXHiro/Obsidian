@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Shows & Movies/Movies/Watched Movies.md",
+                "file": "2 - Source Notes/Personal/Shows & Movies/Shows/Watched Shows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watched Movies"
+              "title": "Watched Shows"
             }
           },
           {
@@ -315,6 +315,8 @@
   },
   "active": "7330a188d8a384b9",
   "lastOpenFiles": [
+    "2 - Source Notes/Personal/Shows & Movies/Movies/Plan to watch.md",
+    "2 - Source Notes/Personal/Shows & Movies/Movies/Watched Movies.md",
     "1 - Rough Notes/Knock Knock.md",
     "1 - Rough Notes/Chatgpt prompt.md",
     "1 - Rough Notes/Untitled.md",
@@ -345,10 +347,8 @@
     "2 - Source Notes/Academics/Projects/Java Project/Libraries I used.md",
     "2 - Source Notes/Maths Lecture 4.md",
     "2 - Source Notes/Maths Lecture 3.md",
-    "2 - Source Notes/Maths Lecture 1.md",
     "2 - Source Notes/Personal/Personal Projects",
     "2 - Source Notes/Personal/Travel",
-    "2 - Source Notes/Personal/Shows & Movies/Shows/Watched Shows.md",
     "2 - Source Notes/Personal/Games/Reviews & Thoughts",
     "2 - Source Notes/Personal/Shows & Movies/Movies",
     "7 - Attachments/Pasted image 20250716105049.png",
