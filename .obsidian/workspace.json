@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Shows & Movies/Shows/Shows Watched.md",
+                "file": "2 - Source Notes/Personal/Games/Finished Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shows Watched"
+              "title": "Finished Games"
             }
           },
           {
@@ -327,11 +327,15 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "23b973f770a0e528",
   "lastOpenFiles": [
+    "2 - Source Notes/Personal/Games/Upcoming Games and Alphas.md",
+    "2 - Source Notes/Personal/Games/Finished Games.md",
+    "2 - Source Notes/Personal/Shows & Movies/Shows/Plan to watch.md",
+    "2 - Source Notes/Personal/Games",
+    "2 - Source Notes/Personal/Shows & Movies/Shows/Watched Shows.md",
     "2 - Source Notes/Personal/Shows & Movies/Shows",
     "1 - Rough Notes/Temp.md",
-    "2 - Source Notes/Personal/Shows & Movies/Shows/Shows Watched.md",
     "2 - Source Notes/Personal/Shows & Movies",
     "2 - Source Notes/Programming",
     "2 - Source Notes/Personal",
@@ -356,8 +360,6 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
@@ -366,8 +368,6 @@
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Lubicie.md.tmp",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Oni.md.tmp",
     "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Masz.md.tmp",
-    "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Chłopcy.md.tmp",
-    "3 - Tags/~syncthing~t-polish.md.tmp",
     "7 - Attachments/Pasted image 20250617152531.png",
     "7 - Attachments/Pasted image 20250617151731.png",
     "7 - Attachments/Pasted image 20250613185122.png",
