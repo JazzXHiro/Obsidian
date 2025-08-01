@@ -2,7 +2,7 @@
 
 Status: [[t-child]]
 
-Tags: [[t-entertainment]] [[t-shows]]
+Tags: [[t-entertainment]] [[t-shows]] [[t-personal]]
 
 ---
 # Shows Watched

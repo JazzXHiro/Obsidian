@@ -2,7 +2,7 @@
 
 Status: [[t-child]]
 
-Tags: [[t-entertainment]] [[t-game]]
+Tags: [[t-entertainment]] [[t-game]] [[t-personal]]
 
 ---
 # Finished Games

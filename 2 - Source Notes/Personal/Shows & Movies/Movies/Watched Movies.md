@@ -2,7 +2,7 @@
 
 Status: [[t-child]]
 
-Tags: [[t-entertainment]] [[t-movies]]
+Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 
 ---
 # Watched Movies

@@ -2,7 +2,7 @@
 
 Status: [[t-child]] 
 
-Tags: [[t-game_review]] [[t-xenoblade]] [[t-game]]
+Tags: [[t-game_review]] [[t-xenoblade]] [[t-game]] [[t-personal]]
 
 # Xenoblade Chronicles 2
 
