@@ -15,5 +15,13 @@ Tags: [[t-entertainment]] [[t-shows]] [[t-personal]]
 
 4. Shooting Stars - 9.6/10
 
+5. Severance - 8/10
+
+6. Gone Girl - 7.6/10
+
+7. Extracurriculur - 8.1/10
+
+8. A Killer Paradox - 8.4/10
+
 ---
 # Reference
