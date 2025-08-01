@@ -54,6 +54,6 @@
 51. [[1. Black Box Testing.md]]
 52. [[1. Introduction to Blender.md]]
 53. [[2. UI & Preferences.md]]
-54. [[1. Introduction to programming languages.md]]
-55. [[2. Introduction to C++.md]]
+54. [[1. Introduction to programming languages]]
+55. [[2. Introduction to C++]]
 56. [[Hyprland.md]]
