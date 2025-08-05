@@ -304,12 +304,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Lock and Close all open encrypted notes": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false,
-      "meld-encrypt:Encrypt Selection": false,
-      "meld-encrypt:Decrypt at Cursor": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "7330a188d8a384b9",
