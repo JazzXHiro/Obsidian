@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Temp.md",
+                "file": "1 - Rough Notes/Knock Knock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temp"
+              "title": "Knock Knock"
             }
           },
           {
@@ -329,6 +329,9 @@
   "active": "6502aba5f1dc76a8",
   "lastOpenFiles": [
     "1 - Rough Notes/Temp.md",
+    "2 - Source Notes/Languages/Polish/Pronounciations/Nie.md",
+    "2 - Source Notes/Languages/Polish/Pronounciations/Dzięki.md",
+    "2 - Source Notes/Languages/Polish/Pronounciations/~syncthing~Dzięki.md.tmp",
     "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Personal/Baku/Things Baku Wants.md",
     "2 - Source Notes/Personal/Travel/Places to visit.md",
@@ -361,7 +364,6 @@
     "2 - Source Notes/Academics/Notes",
     "2 - Source Notes/Academics/Assignments",
     "2 - Source Notes/Programming/Others",
-    "2 - Source Notes/Personal/Personal Projects",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
     "7 - Attachments/Pasted image 20250716104412.png",
