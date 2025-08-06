@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Knock Knock.md",
+                "file": "2 - Source Notes/Academics/Notes/Game Programming/06-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knock Knock"
+              "title": "06-08-25"
             }
           }
         ],
@@ -328,8 +328,10 @@
   },
   "active": "93a72cdda906c099",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Notes/Cryptography & Network Secuirty/0.1 Introduction.md",
     "1 - Rough Notes/Knock Knock.md",
+    "2 - Source Notes/Academics/Notes/Game Programming/06-08-25.md",
+    "2 - Source Notes/Academics/Notes/Game Programming",
+    "2 - Source Notes/Academics/Notes/Cryptography & Network Secuirty/0.1 Introduction.md",
     "2 - Source Notes/Academics/Notes/Cryptography & Network Secuirty",
     "1 - Rough Notes/Temp.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/Nie.md",
@@ -358,12 +360,10 @@
     "2 - Source Notes/Netflix(Chacha).md",
     "2 - Source Notes/Maths LaTex.md",
     "2 - Source Notes/Imp.md",
-    "2 - Source Notes/Jaded R1.md",
     "2 - Source Notes/Personal/Personal Projects/GJ",
     "2 - Source Notes/Academics/Assignments/GG",
     "2 - Source Notes/Academics/Projects",
     "2 - Source Notes/Academics/Notes",
-    "2 - Source Notes/Academics/Assignments",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
     "7 - Attachments/Pasted image 20250716104412.png",
