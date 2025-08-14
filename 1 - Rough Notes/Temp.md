@@ -16,6 +16,7 @@ Tags:
 - ()
 - ZOTERO
 - Topic - "video game accessibility" AND "disability" AND "microsoft"
+- Delta time - time b/w rasterization of two frames
 
 ---
 # Reference
