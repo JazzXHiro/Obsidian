@@ -16,7 +16,7 @@ Tags:
   
 # Is it Important? How? User group?
 
-Video games at base are a dominant media of an entertainment. They are a beautiful median of art. Games tell countless stories through the medium of visual/sensual/sound medium
+Video games at base are a dominant media of an entertainment. They are a beautiful median of art. Games tell countless stories through the medium of visual/sensual/sound medium. However, not 
 
 
 ---
