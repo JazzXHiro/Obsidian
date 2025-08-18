@@ -16,7 +16,9 @@ Tags:
   
 # Is it Important? How? User group?
 
-Video games at base are a dominant media of an entertainment. They are a beautiful median of art. Games tell countless stories through the medium of visual/sensual/sound medium. However, not 
+Video games at base are a dominant media of an entertainment. They are a beautiful median of art. Games tell countless stories through the medium of visual/sensual/sound medium. However, not everyone can fully enjoy them due to physical, sensory, or cognitive barriers. Accessibility ensures that everyone who is willing to or has an interest to can participate in gaming regardless of disability. The addressed topic is very important because -
+
+- **Inc**
 
 
 ---
