@@ -64,3 +64,9 @@ Accessibility features help different groups of players, such as:
 
 ---
 # Reference
+
+**Benefit & Risk** -
+
+**Benefit -**
+
+- Inclusivity of disabled players
