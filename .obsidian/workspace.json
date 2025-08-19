@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "R&M"
             }
+          },
+          {
+            "id": "9a2cb527808a4aa7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -319,6 +331,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -340,7 +353,7 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "606be0f425d3a9d9",
+  "active": "9a2cb527808a4aa7",
   "lastOpenFiles": [
     "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
