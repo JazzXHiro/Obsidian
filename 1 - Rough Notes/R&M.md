@@ -20,7 +20,8 @@ Video games at base are a dominant media of an entertainment. They are a beautif
 
 - **Inclusivity** - Regardless of physical/mental ability everyone has a right to a good piece of entertainment.
 - **Legal responsibility** - Accesibility is increasingly becoming part of  digital accessibility laws.
-- **Expands audience** - Making games more accessible increases the potential user base and community ZZZZZZZZZ
+- **Expands audience** - Making games more accessible increases the potential user base and community engagement.
+- **Artistic Integrity** - 
 
 
 ---
