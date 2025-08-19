@@ -91,5 +91,7 @@ Tags: [[t-entertainment]] [[t-game]] [[t-personal]]
 
 **29- Wuchang Fallen Feathers**
 
+**30- Gamma Emerald***
+
 ---
 # Reference
