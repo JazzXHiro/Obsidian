@@ -59,6 +59,8 @@ Accessibility features help different groups of players, such as:
     - Noisy environment where sound can’t be heard.
         
     - Poor lighting conditions.
+      
+6. **Players with mental conditions** - 
 
 ---
 # Reference
