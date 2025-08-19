@@ -70,3 +70,9 @@ Accessibility features help different groups of players, such as:
 **Benefit -**
 
 - Inclusivity of disabled players
+
+
+---
+
+Sol 1 
+Sol 2
