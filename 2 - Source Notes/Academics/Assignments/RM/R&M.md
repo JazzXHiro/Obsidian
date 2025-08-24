@@ -62,6 +62,10 @@ Accessibility features help different groups of players, such as:
       
 6. **Players with mental conditions** - 
 
+# Design & Idea
+
+
+
 ---
 # Reference
 
