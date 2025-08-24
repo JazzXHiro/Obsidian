@@ -11,5 +11,13 @@ Tags:
 
 - It's important to note that OnTriggerEnter is only called if at least one of the objects involved has a Rigidbody component attached to it. The player object already has a Rigidbody component, so you’re all set!
 
+- Instantiating an object in Unity means creating a copy of it during runtime (while the application is running); you’re making a new instance of that prefab in your scene. Just like the transform.Rotate method you used earlier required a rotation value for the X, Y, and Z axes, the Instantiate method also requires certain information to execute, separated by commas. Specifically, you need to specify the following information:
+
+	- Which object to instantiate
+    
+	- The position of the instantiated object
+    
+	- The rotation of the instantiated object
+
 ---
 # Reference
