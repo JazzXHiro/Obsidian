@@ -80,3 +80,5 @@ Accessibility features help different groups of players, such as:
 
 Sol 1 
 Sol 2
+
+**$$\text{Developer} \xrightarrow{\text{Input: Design Docs, Prototypes}} \text{Inclusivity Design Engine} \xrightarrow{\text{Analyze & Predict}} \text{Flag Barriers} \xrightarrow{\text{Propose Solutions}} \text{Developer}$$**
