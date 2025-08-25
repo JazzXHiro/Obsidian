@@ -239,9 +239,29 @@
               "icon": "code-glyph",
               "title": "Shell commands: Custom variables"
             }
+          },
+          {
+            "id": "6e1f0f1f57eae828",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "c82b807477b59a07",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -268,10 +288,11 @@
       "meld-encrypt:Lock and Close all open encrypted notes": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt Selection": false,
-      "meld-encrypt:Decrypt at Cursor": false
+      "meld-encrypt:Decrypt at Cursor": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "17d024be9379b1b2",
+  "active": "c82b807477b59a07",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
