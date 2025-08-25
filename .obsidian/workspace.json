@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/GP/Unity 1.md",
+                "file": "2 - Source Notes/Programming/DSA/!OneNote notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity 1"
+              "title": "!OneNote notes"
+            }
+          },
+          {
+            "id": "17d024be9379b1b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "7 - Attachments/OwnDSA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OwnDSA"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,10 +269,14 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "4f7bd80898a8381d",
+  "active": "17d024be9379b1b2",
   "lastOpenFiles": [
-    "1 - Rough Notes/Knock Knock.md",
+    "2 - Source Notes/Programming/DSA/!OneNote notes.md",
+    "7 - Attachments/OwnDSA.pdf",
+    "2 - Source Notes/Programming/DSA/OwnDSA.pdf",
+    "2 - Source Notes/Programming/GameDev/Unity/21-08-25.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 1.md",
+    "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Academics/Assignments/RM/R&M.md",
     "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
     "2 - Source Notes/Academics/Assignments/GG/GG Assign2.md",
@@ -269,7 +285,6 @@
     "2 - Source Notes/Academics/Assignments/RM",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Introduction to Theory of Computation.md",
     "1 - Rough Notes/Chatgpt prompt.md",
-    "2 - Source Notes/Programming/GameDev/Unity/21-08-25.md",
     "2 - Source Notes/Programming/GameDev/Unity",
     "2 - Source Notes/Programming/GameDev",
     "Untitled.canvas",
@@ -289,13 +304,9 @@
     "2 - Source Notes/Personal/Jobs/Interested Jobs.md",
     "3 - Tags/t-jobs.md",
     "2 - Source Notes/Personal/Bikes/Places to motorcycle.md",
-    "2 - Source Notes/Personal/Jobs",
     "2 - Source Notes/Personal/Bikes/Bikes I want.md",
-    "2 - Source Notes/Personal/Bikes/~syncthing~Places to motorcycle.md.tmp",
     "3 - Tags/Knock Knock.sync-conflict-20250812-030546-I7RWQBV.md",
     "2 - Source Notes/Personal/Baku/Things Baku Wants.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/0.1 Introduction.md",
-    "2 - Source Notes/Languages/Polish/Pronounciations/Nie.md",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
     "7 - Attachments/Pasted image 20250716104412.png",
