@@ -124,5 +124,31 @@ If $\Sigma = \{a, b\}$:
 - $\Sigma^1 = \{a, b\}$  
 - $\Sigma^2 = \{aa, ab, ba, bb\}$  
 
+---
+
+# The Basic Concepts…contd.
+
+## Concatenation of Strings
+- Let $x$ and $y$ be two strings.  
+- Then $xy$ denotes the concatenation of $x$ and $y$, i.e., the string formed by making a copy of $x$ and followed by a copy of $y$.  
+
+**Example**:  
+If $x = ab$ and $y = cd$, then concatenation:  
+$$xy = abcd$$  
+
+---
+
+## Reverse of the String
+- Reverse of the string can be achieved by simply interchanging the order of symbols.  
+
+**Example**:  
+If $w = abcd$, then  
+$$w^R = dcba$$  
+
+Another example:  
+If $w = abc$, then  
+$$(w)^R = cba$$  
+
+
 
 # Reference
