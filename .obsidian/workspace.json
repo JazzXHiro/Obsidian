@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/DCN/Unit 4/12. Quality of Service.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Quality of Service"
+              "title": "Outline of 2. Deterministic Finite Automata"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -206,8 +206,8 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -261,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -292,8 +292,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c82b807477b59a07",
+  "active": "17d024be9379b1b2",
   "lastOpenFiles": [
+    "7 - Attachments/Pasted image 20250825235728.png",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
     "3 - Tags/t-FLATunit1.md",
@@ -330,7 +331,6 @@
     "3 - Tags/t-jobs.md",
     "2 - Source Notes/Personal/Bikes/Places to motorcycle.md",
     "2 - Source Notes/Personal/Bikes/Bikes I want.md",
-    "3 - Tags/Knock Knock.sync-conflict-20250812-030546-I7RWQBV.md",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
     "7 - Attachments/Pasted image 20250716104412.png",
