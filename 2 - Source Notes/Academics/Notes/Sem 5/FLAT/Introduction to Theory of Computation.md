@@ -41,8 +41,8 @@ $$ \text{Inputs, Outputs, and States} $$
 
 ## Alphabet  
 
-- An **Alphabet** is a **finite, non-empty set of symbols**.  
-- Representation: $ \Sigma $ (Sigma)  
+- An **Alphabet** is a **finite, non-empty set of symbols that an automata can receive**.  
+- Representation: $\Sigma$ (Sigma)  
 
 ### Examples  
 
@@ -72,7 +72,7 @@ $$
 ## Strings  
 
 - A **string** or **word** is a **finite collection of symbols** selected from the alphabets ($\Sigma$).  
-- A string can also be **empty**, which is represented by $ \varepsilon $ (Epsilon).  
+- A string can also be **empty**, which is represented by $\varepsilon$ (Epsilon).  
 
 ---
 
