@@ -39,12 +39,14 @@
             "id": "17d024be9379b1b2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "7 - Attachments/OwnDSA.pdf"
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Introduction to Theory of Computation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "OwnDSA"
+              "icon": "lucide-file",
+              "title": "Introduction to Theory of Computation"
             }
           }
         ],
@@ -271,8 +273,8 @@
   },
   "active": "17d024be9379b1b2",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/DSA/!OneNote notes.md",
     "7 - Attachments/OwnDSA.pdf",
+    "2 - Source Notes/Programming/DSA/!OneNote notes.md",
     "2 - Source Notes/Programming/DSA/OwnDSA.pdf",
     "2 - Source Notes/Programming/GameDev/Unity/21-08-25.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 1.md",
