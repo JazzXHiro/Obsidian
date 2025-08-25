@@ -147,7 +147,33 @@ $$w^R = dcba$$
 
 Another example:  
 If $w = abc$, then  
-$$(w)^R = cba$$  
+$$(w)^R = cba$$  ---
+## Powers of Alphabet
+
+Let $\Sigma$ be the alphabet. Then power of alphabet is given by:
+
+- $\Sigma^k =$ the set of all strings of length $k$
+
+- $\Sigma^* = \Sigma^0 \cup \Sigma^1 \cup \Sigma^2 \cup \dots$
+
+- $\Sigma^+ = \Sigma^1 \cup \Sigma^2 \cup \Sigma^3 \cup \dots$
+
+---
+
+# Languages
+
+$L$ is said to be the language over a given set of alphabets, if $L \subseteq \Sigma^*$.
+A set that a finite automata accepts.
+
+---
+
+## Examples
+
+1. $L$ is a language that comprises the set of even numbers over the alphabet  
+   $$\Sigma = \{0, 1\}$$  
+
+2. The language of all strings consisting of $n$ $0$’s followed by $n$ $1$’s, for some $n \geq 0$:  
+   $$L = \{\varepsilon, 01, 0011, 000111, \dots\}$$
 
 
 
