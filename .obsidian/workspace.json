@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "R&M"
             }
+          },
+          {
+            "id": "2d6ee45043cc9d79",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "17d024be9379b1b2",
+  "active": "2d6ee45043cc9d79",
   "lastOpenFiles": [
     "1 - Rough Notes/Temp.md",
     "1 - Rough Notes/Knock Knock.md",
