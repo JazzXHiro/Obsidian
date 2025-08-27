@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Temp.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/R&M.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temp"
+              "title": "R&M"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Temp.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/R&M.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Temp"
+              "title": "Outline of R&M"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "17d024be9379b1b2",
   "lastOpenFiles": [
+    "1 - Rough Notes/Temp.md",
     "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
@@ -299,7 +300,6 @@
     "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
     "2 - Source Notes/Academics/Assignments/GG/GG Assign2.md",
     "2 - Source Notes/Academics/Assignments/GG/GG Lab 3 Assign.md",
-    "1 - Rough Notes/Temp.md",
     "2 - Source Notes/Academics/Assignments/RM",
     "2 - Source Notes/Programming/GameDev/Unity",
     "2 - Source Notes/Programming/GameDev",
