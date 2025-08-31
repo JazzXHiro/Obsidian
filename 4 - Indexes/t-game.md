@@ -1,7 +1,8 @@
 # Index for t-game
 
 ## Files using this tag:
-1. [[Jaded R1.md]]
-2. [[Project Wizard Assets]]
-3. [[sound_design detailing]]
-4. [[Xenoblade Chronicles 2]]
+1. [[Finished Games.md]]
+2. [[Upcoming Games and Alphas.md]]
+3. [[Xenoblade Chronicles 2.md]]
+4. [[Project Wizard Assets.md]]
+5. [[sound_design detailing.md]]

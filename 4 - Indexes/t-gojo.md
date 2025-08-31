@@ -1,4 +1,4 @@
 # Index for t-gojo
 
 ## Files using this tag:
-1. [[godotengine]]
+1. [[godotengine.md]]
