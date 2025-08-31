@@ -4,53 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2b707150aa4e19b6",
+        "id": "a82bb0b79664dab2",
         "type": "tabs",
         "children": [
           {
-            "id": "4f7bd80898a8381d",
+            "id": "84c7695ac29b5393",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "2 - Source Notes/Programming/DSA/!OneNote notes.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Notes/Untitled 3.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "!OneNote notes"
-            }
-          },
-          {
-            "id": "17d024be9379b1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Assignments/RM/R&M.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "R&M"
-            }
-          },
-          {
-            "id": "2d6ee45043cc9d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Programming/DSA/!OneNote notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!OneNote notes"
+              "icon": "lucide-table",
+              "title": "Untitled 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"3 - Tags/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/DSA/!OneNote notes.md",
+                "file": "2 - Source Notes/Untitled 3.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of !OneNote notes"
+              "title": "Outline of Untitled 3"
             }
           },
           {
@@ -256,8 +227,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -289,57 +260,58 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt Selection": false,
       "meld-encrypt:Decrypt at Cursor": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2d6ee45043cc9d79",
+  "active": "84c7695ac29b5393",
   "lastOpenFiles": [
-    "1 - Rough Notes/Temp.md",
-    "1 - Rough Notes/Knock Knock.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
-    "2 - Source Notes/Academics/Assignments/RM/R&M.md",
+    "2 - Source Notes/Untitled 2.base",
+    "2 - Source Notes/Untitled 3.base",
+    "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
+    "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
+    "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
+    "2 - Source Notes/Programming/C++/Flashcards",
+    "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/Practice/Drawing 2025-03-05 02.43.19.excalidraw.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/Practice/Drawing 2025-03-05 03.10.33.excalidraw.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/1. Vectors & Linear Combinations.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/3. Elimination using matrices.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/4. Rank of a Matrix.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/5. Echelon Form of a Matrix.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/6. Normal Form of a Matrix.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/7. Solution of homogenous and non-homogenous system of equations.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/Linear vs Non-Linear.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 2/2. Characteristic Polynomial & Equation.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 2/3. Eigen Values & Eigen Vectors.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 2/4. Cayley - Hamilton Theorem.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 2/5. Diagonalization of Matrix.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 3/3.1 Vector Spaces.md",
+    "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 3/3.2 Linear Transformation.md",
+    "2 - Source Notes/Academics/Projects/Java Project/1. Java_project Instructions.md",
+    "2 - Source Notes/Academics/Projects/Java Project/2. Figuring things out.md",
+    "2 - Source Notes/Academics/Projects/Java Project/Bug Fix.md",
+    "2 - Source Notes/Academics/Projects/Java Project/Web Part.md",
+    "2 - Source Notes/Academics/Projects/Java Project/High Score.md",
+    "2 - Source Notes/Untitled 1.base",
+    "2 - Source Notes/Untitled.base",
+    "7 - Attachments/Pasted image 20250830175530.png",
+    "7 - Attachments/Pasted image 20250830171750.png",
+    "7 - Attachments/Pasted image 20250830171247.png",
+    "7 - Attachments/Pasted image 20250830171217.png",
     "7 - Attachments/Pasted image 20250826002837.png",
     "7 - Attachments/Pasted image 20250826001212.png",
     "7 - Attachments/Pasted image 20250826001001.png",
-    "1 - Rough Notes/Chatgpt prompt.md",
     "7 - Attachments/Pasted image 20250825235728.png",
-    "3 - Tags/t-FLATunit1.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1",
     "7 - Attachments/OwnDSA.pdf",
-    "2 - Source Notes/Programming/DSA/!OneNote notes.md",
     "2 - Source Notes/Programming/DSA/OwnDSA.pdf",
-    "2 - Source Notes/Programming/GameDev/Unity/21-08-25.md",
-    "2 - Source Notes/Academics/Assignments/GP/Unity 1.md",
-    "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
-    "2 - Source Notes/Academics/Assignments/GG/GG Assign2.md",
-    "2 - Source Notes/Academics/Assignments/GG/GG Lab 3 Assign.md",
     "2 - Source Notes/Academics/Assignments/RM",
     "2 - Source Notes/Programming/GameDev/Unity",
     "2 - Source Notes/Programming/GameDev",
     "Untitled.canvas",
-    "2 - Source Notes/Imp.md",
-    "2 - Source Notes/Netflix(Chacha).md",
-    "2 - Source Notes/Maths LaTex.md",
-    "2 - Source Notes/Academics/Notes/Sem 5",
-    "2 - Source Notes/Academics/Notes/Sem 4",
-    "2 - Source Notes/Academics/Notes/Sem 2",
-    "3 - Tags/t-academics.md",
-    "3 - Tags/t-FLAT.md",
-    "2 - Source Notes/Personal/Games/Upcoming Games and Alphas.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/FLAT",
-    "2 - Source Notes/Academics/Notes/Sem 5/Game Programming/18-08-2025.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Game Programming/06-08-25.md",
-    "2 - Source Notes/Personal/Jobs/Interested Jobs.md",
-    "3 - Tags/t-jobs.md",
-    "2 - Source Notes/Personal/Bikes/Places to motorcycle.md",
-    "2 - Source Notes/Personal/Bikes/Bikes I want.md",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
-    "7 - Attachments/Pasted image 20250716104412.png",
-    "7 - Attachments/Pasted image 20250617152531.png",
-    "7 - Attachments/Pasted image 20250617151731.png",
-    "7 - Attachments/Pasted image 20250613185122.png",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 1/Practice/Untitled.canvas"

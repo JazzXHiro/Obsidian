@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Bikes/Places to motorcycle.md",
+                "file": "1 - Rough Notes/Knock Knock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Places to motorcycle"
+              "title": "Knock Knock"
             }
           }
         ],
@@ -123,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - Source Notes/Personal/Bikes/Places to motorcycle.md",
+            "file": "2 - Source Notes/Personal/Bikes/Bikes I want.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
@@ -190,8 +191,9 @@
   },
   "active": "5f52106bddc52573",
   "lastOpenFiles": [
-    "1 - Rough Notes/Knock Knock.md",
+    "2 - Source Notes/Personal/Bikes/Bikes I want.md",
     "2 - Source Notes/Personal/Bikes/Places to motorcycle.md",
+    "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/Dzięki.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/Dzień Dobry.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/Nie.md",
@@ -215,7 +217,6 @@
     "3 - Tags/t-languages.md",
     "3 - Tags/t-child.md",
     "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/3. Gauss Elimination.md",
-    "2 - Source Notes/Academics/Eng. Mathematics II/Unit 1/5.3 Lagrange Interpolation.md",
     "2 - Source Notes/Languages/Polish/Pronounciations",
     "2 - Source Notes/Languages/Polish",
     "2 - Source Notes/Languages",
