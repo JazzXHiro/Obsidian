@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
+                "file": "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tic Tac Toe"
+              "title": "Match 3 puzzle"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
+                "file": "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tic Tac Toe"
+              "title": "Outline of Match 3 puzzle"
             }
           },
           {
@@ -265,8 +265,8 @@
   },
   "active": "84c7695ac29b5393",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
+    "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "2 - Source Notes/Academics/Notes/Sem 5/RM/Data Augmentation causes better prediction accuracy.md",
     "2 - Source Notes/Academics/Notes/Sem 5/RM",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
