@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+                "file": "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Introduction to C++ Developments"
+              "title": "Tic Tac Toe"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+                "file": "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Introduction to C++ Developments"
+              "title": "Outline of Tic Tac Toe"
             }
           },
           {
@@ -265,8 +265,9 @@
   },
   "active": "84c7695ac29b5393",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Notes/Sem 5/RM/Data Augmentation causes better prediction accuracy.md",
     "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+    "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/RM/Data Augmentation causes better prediction accuracy.md",
     "2 - Source Notes/Academics/Notes/Sem 5/RM",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
     "4 - Indexes/t-dcn_unit4.md",
@@ -291,7 +292,6 @@
     "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/5.4 Numerical Integration.md",
     "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/5.1 Newton Forward and Backward.md",
     "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/4. Finite Difference Operators.md",
-    "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/5. Interpolation with equal and unequal intervals.md",
     "2 - Source Notes/Untitled 1.base",
     "2 - Source Notes/Untitled.base",
     "2 - Source Notes/Untitled 2.base",
