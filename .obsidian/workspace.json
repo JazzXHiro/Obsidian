@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/RM/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Match 3 puzzle"
+              "title": "Untitled"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/RM/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Match 3 puzzle"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -265,8 +265,11 @@
   },
   "active": "84c7695ac29b5393",
   "lastOpenFiles": [
-    "4 - Indexes/t-dcn_unit4.md",
+    "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/RM/Untitled.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/RM",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
+    "4 - Indexes/t-dcn_unit4.md",
     "4 - Indexes/t-cpp.md",
     "4 - Indexes/t-dcn.md",
     "4 - Indexes/t-college.md",
@@ -289,8 +292,6 @@
     "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/5.1 Newton Forward and Backward.md",
     "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/4. Finite Difference Operators.md",
     "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/5. Interpolation with equal and unequal intervals.md",
-    "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/5.2 Central Difference Interpolation.md",
-    "2 - Source Notes/Academics/Notes/Sem 2/Eng. Mathematics II/Unit 1/1. Bisection Method.md",
     "2 - Source Notes/Untitled 1.base",
     "2 - Source Notes/Untitled.base",
     "2 - Source Notes/Untitled 2.base",
@@ -308,7 +309,6 @@
     "7 - Attachments/OwnDSA.pdf",
     "2 - Source Notes/Programming/DSA/OwnDSA.pdf",
     "2 - Source Notes/Academics/Assignments/RM",
-    "2 - Source Notes/Programming/GameDev/Unity",
     "Untitled.canvas",
     "7 - Attachments/Pasted image 20250716105049.png",
     "7 - Attachments/Pasted image 20250716104541.png",
