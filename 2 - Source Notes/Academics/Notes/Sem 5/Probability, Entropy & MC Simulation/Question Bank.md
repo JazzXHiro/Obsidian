@@ -37,6 +37,7 @@ Draw five cards from a deck.
 (i) What is the probability of getting a flush (all cards of the same suit)?
 
 (ii) What is the probability of drawing four same numbered cards?
+![[Pasted image 20250904163408.png]]
 
 **Exercise 5** 
 If you draw three cards without replacement, what’s the probability of
