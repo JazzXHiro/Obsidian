@@ -111,8 +111,11 @@ An urn contains 6 red, 4 white, and 5 black balls. Four balls are drawn at rando
 
 **Exercise 13**  
 Let $n$ be an even number. For some experiment, let the sample space be  
-$S = \left\{1, \tfrac{1}{2}, \tfrac{1}{2^2}, \ldots, \tfrac{1}{2^n} \right\}.$ Let  $E = \left\{1, \tfrac{1}{2}\right\}, \quad
-F = \left\{\tfrac{1}{2^i} : i \ \text{is even}\right\}.$  
+$S = \left\{1, \tfrac{1}{2}, \tfrac{1}{2^2}, \ldots, \tfrac{1}{2^n} \right\}.$ Let  
+$$
+E = \left\{1, \tfrac{1}{2}\right\}, \quad
+F = \left\{\tfrac{1}{2^i} : i \ \text{is even}\right\}.
+$$  
 
 Find  
 $$
