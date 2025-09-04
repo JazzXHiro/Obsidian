@@ -51,7 +51,13 @@ If you draw three cards without replacement, what’s the probability of
 
 **Exercise 6** 
 If you draw five cards without replacement, what is the probability that at least one of them is an ace? What is the probability that, you get no ace?
+![[Pasted image 20250904170421.png]]
 
+**Exercise 7** 
+For any two events E and F of a sample space S, prove that 
+(i) P(E ∪ F) = P(E) +P(F) −P(E ∩ F) 
+(ii) P(E \ F) = P(E) −P(E ∩ F). 
+(iii) If F ⊆ E, then prove that P(E \ F) = P(E) −P(F) and P(E) ≥ P(F).
 
 ---
 # Reference
