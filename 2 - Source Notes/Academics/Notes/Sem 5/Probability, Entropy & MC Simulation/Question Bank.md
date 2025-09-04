@@ -81,9 +81,23 @@ $$
 ![[Pasted image 20250904235547.png]]
 ![[Pasted image 20250904235611.png]]
 
-Exercise 9 Two dice are thrown. Let E be the event of sum of outcome of two dice is odd and F be the event that at least one of the dice outcome is 1. Enumerate/describe the following events and calculate their probabilities.
+**Exercise 9** 
+Two dice are thrown. Let E be the event of sum of outcome of two dice is odd and F be the event that at least one of the dice outcome is 1. Enumerate/describe the following events and calculate their probabilities.
 
-1. Sample space, 2. E ∩ F, 3. E ∪ F, 4. E \ F, and 5. F \ E.
+1. Sample space, 
+2. E ∩ F, 
+3. E ∪ F, 
+4. E \ F, 
+5. F \ E.
+![[Pasted image 20250904235810.png]]
+![[Pasted image 20250904235833.png]]
+![[Pasted image 20250904235848.png]]
+
+**Exercise 10** 
+A bowl contains 4 chits numbered 1, 2, 3 and 4 and another bowl contains 6 chits numbered 2, 4, 6, 7, 8 and 9. If one of the bowl is chosen at random and then a chit is drawn from the chosen bowl, find the probabilities that the chit drawn bears the number 
+(i) 2 or 4, 
+(ii) 3, 
+(iii) 1 or 9.
 
 ---
 # Reference
