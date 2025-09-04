@@ -25,6 +25,8 @@ Draw a card from deck of card. Find the probabilities of the follow-ing events:
 (iii) drawing a odd numbered card, and
 
 (iv) drawing a black prime numbered card.
+![[Pasted image 20250904153318.png]]
+![[Pasted image 20250904153339.png]]
 
 **Exercise 4**
 Draw five cards from a deck.
