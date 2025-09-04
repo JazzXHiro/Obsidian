@@ -64,6 +64,22 @@ For any two events E and F of a sample space S, prove that
 **Exercise 8** 
 Prove general law of addition of probabilities for any finite collection of events. That is, for any finite collection of events {${E_{i}}^{n}_{_{i=1}}$}, prove that
 
+$$
+P\left(\bigcup_{i=1}^{n} E_i \right) =
+\sum_{i=1}^{n} P(E_i)
+- \sum_{i_1 < i_2} P(E_{i_1} \cap E_{i_2})
++ \sum_{i_1 < i_2 < i_3} P(E_{i_1} \cap E_{i_2} \cap E_{i_3})
+- \cdots
+$$
+
+$$
++ (-1)^{r+1} \sum_{i_1 < i_2 < i_3}
+P(E_{i_1} \cap E_{i_2} \cap \cdots \cap E_{i_r})
++ \cdots
++ (-1)^{n+1} P(E_1 \cap E_2 \cap \cdots \cap E_n).
+$$
+
+
 
 ---
 # Reference
