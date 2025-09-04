@@ -7,6 +7,9 @@ Tags:
 ---
 # Question Bank
 
+- **Formula for Combination**
+  ![[Pasted image 20250904161327.png]]
+
 **Exercise 1** 
 A committee of 5 is to be selected from a group of 6 men and 9 women. If the selection is made randomly, what is the probability that the committee consists of 3 men and 2 women? If there are two men who are rival. What is the probability of forming such committee these two men are not in that committee?
 ![[Pasted image 20250902083811.png]]
