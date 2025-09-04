@@ -107,6 +107,18 @@ Hint: Use P(E ∪ F) formula.
 
 **Exercise 12**
 An urn contains 6 red, 4 white, and 5 black balls. Four balls are drawn at random. What is the probability that there is at least one red, one white and one black ball (that is, no colour is missed out).
+![[Pasted image 20250905024216.png]]
+
+**Exercise 13**  
+Let $n$ be an even number. For some experiment, let the sample space be  
+$S = \left\{1, \tfrac{1}{2}, \tfrac{1}{2^2}, \ldots, \tfrac{1}{2^n} \right\}.$ Let  $E = \left\{1, \tfrac{1}{2}\right\}, \quad
+F = \left\{\tfrac{1}{2^i} : i \ \text{is even}\right\}.$  
+
+Find  
+$$
+P(E^c \cap F^c).
+$$
+
 
 ---
 # Reference
