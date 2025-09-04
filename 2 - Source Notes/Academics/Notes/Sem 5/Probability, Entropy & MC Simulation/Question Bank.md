@@ -46,6 +46,9 @@ If you draw three cards without replacement, what’s the probability of
 (i) getting three different suits,
 
 (ii) getting same suite in all three cards,
+![[Pasted image 20250904165403.png]]
+![[Pasted image 20250904165426.png]]
+
 
 ---
 # Reference
