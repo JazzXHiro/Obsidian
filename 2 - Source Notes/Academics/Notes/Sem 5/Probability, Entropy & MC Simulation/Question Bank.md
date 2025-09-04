@@ -38,6 +38,7 @@ Draw five cards from a deck.
 
 (ii) What is the probability of drawing four same numbered cards?
 ![[Pasted image 20250904163408.png]]
+![[Pasted image 20250904164437.png]]
 
 **Exercise 5** 
 If you draw three cards without replacement, what’s the probability of
