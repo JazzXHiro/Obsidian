@@ -98,6 +98,15 @@ A bowl contains 4 chits numbered 1, 2, 3 and 4 and another bowl contains 6 chits
 (i) 2 or 4, 
 (ii) 3, 
 (iii) 1 or 9.
+![[Pasted image 20250905023531.png]]
+
+**Exercise 11** 
+A card is drawn randomly from a deck of cards. What is the probability that the drawn card is a heart or a jack? 
+Hint: Use P(E ∪ F) formula.
+![[Pasted image 20250905023801.png]]
+
+**Exercise 12**
+An urn contains 6 red, 4 white, and 5 black balls. Four balls are drawn at random. What is the probability that there is at least one red, one white and one black ball (that is, no colour is missed out).
 
 ---
 # Reference
