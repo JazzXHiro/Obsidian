@@ -58,6 +58,7 @@ For any two events E and F of a sample space S, prove that
 (i) P(E ∪ F) = P(E) +P(F) −P(E ∩ F) 
 (ii) P(E \ F) = P(E) −P(E ∩ F). 
 (iii) If F ⊆ E, then prove that P(E \ F) = P(E) −P(F) and P(E) ≥ P(F).
+![[Pasted image 20250904232237.png]]
 
 ---
 # Reference
