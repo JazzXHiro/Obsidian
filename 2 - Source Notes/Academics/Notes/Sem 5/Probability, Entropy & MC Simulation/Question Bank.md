@@ -49,6 +49,9 @@ If you draw three cards without replacement, what’s the probability of
 ![[Pasted image 20250904165403.png]]
 ![[Pasted image 20250904165426.png]]
 
+**Exercise 6** 
+If you draw five cards without replacement, what is the probability that at least one of them is an ace? What is the probability that, you get no ace?
+
 
 ---
 # Reference
