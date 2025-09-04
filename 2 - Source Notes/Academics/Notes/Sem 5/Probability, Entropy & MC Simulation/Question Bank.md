@@ -59,6 +59,11 @@ For any two events E and F of a sample space S, prove that
 (ii) P(E \ F) = P(E) −P(E ∩ F). 
 (iii) If F ⊆ E, then prove that P(E \ F) = P(E) −P(F) and P(E) ≥ P(F).
 ![[Pasted image 20250904232237.png]]
+![[Pasted image 20250904232723.png]]
+
+**Exercise 8** 
+Prove general law of addition of probabilities for any finite collection of events. That is, for any finite collection of events {${E_{i}}^{n}_{_{i=1}}$}, prove that
+
 
 ---
 # Reference
