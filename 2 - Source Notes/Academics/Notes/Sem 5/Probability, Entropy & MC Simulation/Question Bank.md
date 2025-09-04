@@ -121,6 +121,7 @@ Find
 $$
 P(E^c \cap F^c).
 $$
+![[Pasted image 20250905025057.png]]
 
 
 ---
