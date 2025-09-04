@@ -78,8 +78,12 @@ P(E_{i_1} \cap E_{i_2} \cap \cdots \cap E_{i_r})
 + \cdots
 + (-1)^{n+1} P(E_1 \cap E_2 \cap \cdots \cap E_n).
 $$
+![[Pasted image 20250904235547.png]]
+![[Pasted image 20250904235611.png]]
 
+Exercise 9 Two dice are thrown. Let E be the event of sum of outcome of two dice is odd and F be the event that at least one of the dice outcome is 1. Enumerate/describe the following events and calculate their probabilities.
 
+1. Sample space, 2. E ∩ F, 3. E ∪ F, 4. E \ F, and 5. F \ E.
 
 ---
 # Reference
