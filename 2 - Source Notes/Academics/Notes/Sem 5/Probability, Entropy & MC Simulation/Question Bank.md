@@ -144,7 +144,12 @@ Assume that both put and remove happen instantly (without any time delay).
 ![[Pasted image 20250905130135.png]]
 ![[Pasted image 20250905130402.png]]
 
+**Exercise 16** 
+Roll a fair die twice. What is the probability of the sum of two rolls equals 6 given that same number comes up on both the rolls.
+![[Pasted image 20250905132112.png]]
 
+**Exercise 17** 
+On rolling a dice twice, prove that the events below -
 
 ---
 # Reference
