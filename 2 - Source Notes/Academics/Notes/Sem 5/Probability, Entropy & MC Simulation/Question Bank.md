@@ -167,7 +167,14 @@ Then prove that, for any event $E$,
 $$
 P(E) = \sum_{i=1}^n P(E \mid F_i) \, P(F_i).
 $$
+![[Pasted image 20250905133419.png]]
 
+Exercise 19 Suppose that two dice are rolled. Note the events 
+(i) E when second dice roll is 4. 
+(ii) F when the difference of two rolls is 4. 
+(iii) G when difference between the two rolls is 
+ - (a) Are E and F independent?
+ - (b) Are G and F independent?
 
 ---
 # Reference
