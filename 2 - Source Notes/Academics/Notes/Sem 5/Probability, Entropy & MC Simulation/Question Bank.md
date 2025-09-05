@@ -150,6 +150,9 @@ Roll a fair die twice. What is the probability of the sum of two rolls equals 6 
 
 **Exercise 17** 
 On rolling a dice twice, prove that the events below -
+(i) first roll’s outcome is 6 and second roll’s outcome is 6,
+(ii) Sum of the two rolls is 7 and second roll’s outcome is 4, are independent.
+
 
 ---
 # Reference
