@@ -123,6 +123,11 @@ P(E^c \cap F^c).
 $$
 ![[Pasted image 20250905025057.png]]
 
+**Exercise 14** 
+(Birthday Problem) In a group of n people, what is the probability that no two persons have the same birthday.
+![[Pasted image 20250905103246.png]]
+
+
 
 ---
 # Reference
