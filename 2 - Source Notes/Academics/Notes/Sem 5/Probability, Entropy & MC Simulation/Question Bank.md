@@ -2,7 +2,7 @@
 
 Status: [[t-child]]
 
-Tags:
+Tags: [[t-academics]] [[t-maths]] [[t-PEMC]] [[t-sem5]]
 
 ---
 # Question Bank
