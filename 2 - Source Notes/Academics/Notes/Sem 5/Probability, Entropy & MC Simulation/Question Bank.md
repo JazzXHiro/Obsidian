@@ -1,6 +1,6 @@
 	2025-09-02 00:49
 
-Status:
+Status: [[t-child]]
 
 Tags:
 
@@ -175,6 +175,9 @@ Exercise 19 Suppose that two dice are rolled. Note the events
 (iii) G when difference between the two rolls is 
  - (a) Are E and F independent?
  - (b) Are G and F independent?
+![[Pasted image 20250905133855.png]]![[Pasted image 20250905133905.png]]
+
+![[Pasted image 20250905134206.png]]
 
 ---
 # Reference
