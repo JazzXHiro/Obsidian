@@ -127,6 +127,20 @@ $$
 (Birthday Problem) In a group of n people, what is the probability that no two persons have the same birthday.
 ![[Pasted image 20250905103246.png]]
 
+**Exercise 15**  
+*Consider the experiment.*  
+
+There are infinitely many balls numbered $b_1, b_2, b_3, \ldots$.  
+
+In a time interval of $0$ to $1$, we mark the points  
+
+$$
+0, \; 1 - \tfrac{1}{2}, \; 1 - \tfrac{1}{2^2}, \; 1 - \tfrac{1}{2^3}, \ldots
+$$  
+
+At each of these marked times, we put some set of balls in an urn and remove one ball out of it.  
+
+Assume that both put and remove happen instantly (without any time delay).
 
 
 ---
