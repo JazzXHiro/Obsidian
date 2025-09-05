@@ -142,6 +142,8 @@ At each of these marked times, we put some set of balls in an urn and remove one
 
 Assume that both put and remove happen instantly (without any time delay).
 ![[Pasted image 20250905130135.png]]
+![[Pasted image 20250905130402.png]]
+
 
 
 ---
