@@ -152,6 +152,21 @@ Roll a fair die twice. What is the probability of the sum of two rolls equals 6 
 On rolling a dice twice, prove that the events below -
 (i) first roll’s outcome is 6 and second roll’s outcome is 6,
 (ii) Sum of the two rolls is 7 and second roll’s outcome is 4, are independent.
+![[Pasted image 20250905132727.png]]
+
+**Exercise 18 (Law of Total Probability)**  
+
+Let $S$ be the sample space and let $F_1, F_2, \ldots, F_n$ be a mutually exclusive collection of events such that it partitions $S$, that is,  
+
+$$
+\bigcup_{i=1}^n F_i = S.
+$$  
+
+Then prove that, for any event $E$,  
+
+$$
+P(E) = \sum_{i=1}^n P(E \mid F_i) \, P(F_i).
+$$
 
 
 ---
