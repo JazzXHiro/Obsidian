@@ -67,12 +67,14 @@
             "id": "1b7e23448ef965e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Drawing 2025-09-08 00.07.54.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-08 00.07.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "Data Collection Strategy"
             }
           }
         ],
@@ -197,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Drawing 2025-09-08 00.07.54.excalidraw.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-09-08 00.07.54.excalidraw"
+              "title": "Outline of Data Collection Strategy"
             }
           },
           {
@@ -320,6 +322,8 @@
   },
   "active": "1b7e23448ef965e8",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Assignments/RM/R&M.md",
+    "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
     "2 - Source Notes/Drawing 2025-09-08 00.07.54.excalidraw.md",
     "2 - Source Notes/Untitled.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 2.md",
@@ -339,7 +343,6 @@
     "7 - Attachments/Pasted image 20250905130135.png",
     "2 - Source Notes/Academics/Assignments/RM/05-09.md",
     "7 - Attachments/Pasted image 20250905103246.png",
-    "2 - Source Notes/Academics/Assignments/RM/R&M.md",
     "7 - Attachments/Pasted image 20250905025057.png",
     "1 - Rough Notes/Chatgpt prompt.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
@@ -359,7 +362,6 @@
     "4 - Indexes/t-college.md",
     "4 - Indexes/t-Assignment.md",
     "4 - Indexes/t-assets.md",
-    "4 - Indexes/t-AEM2.md",
     "2 - Source Notes/Untitled 1.base",
     "2 - Source Notes/Untitled.base",
     "2 - Source Notes/Untitled 2.base",
