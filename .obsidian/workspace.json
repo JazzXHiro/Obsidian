@@ -67,12 +67,14 @@
             "id": "1b7e23448ef965e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit1-Part1.pdf"
+                "file": "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Unit1-Part1"
+              "icon": "lucide-file",
+              "title": "Data Collection Strategy"
             }
           }
         ],
@@ -197,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit1-Part1.pdf",
+                "file": "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit1-Part1"
+              "title": "Outline of Data Collection Strategy"
             }
           },
           {
@@ -320,12 +322,12 @@
   },
   "active": "1b7e23448ef965e8",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
+    "2 - Source Notes/Academics/Assignments/RM/R&M.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit1-Part1.pdf",
+    "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit2.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit1-Part2.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT",
-    "2 - Source Notes/Academics/Assignments/RM/R&M.md",
     "2 - Source Notes/Drawing 2025-09-08 00.07.54.excalidraw.md",
     "2 - Source Notes/Untitled.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 2.md",
