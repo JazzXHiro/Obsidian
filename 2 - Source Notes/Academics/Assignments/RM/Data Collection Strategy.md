@@ -24,7 +24,7 @@ Tags:
 4. **Document & Record analysis**
 5. **Experiments**
 
-**
+*Write Advantage, Disadvantage & *
 
 ---
 ## Independent & Dependent Variable
