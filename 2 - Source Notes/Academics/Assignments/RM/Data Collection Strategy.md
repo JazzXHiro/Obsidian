@@ -25,4 +25,13 @@ Tags:
 5. **Experiments**
 
 ---
+## Independent & Dependent Variable
+
+**Problem Statement -** Does interactive teaching method significantly improve student's science test score compared to a traditional lecture based method?
+### 1. Independent Variable -
+
+- Interactive Teaching
+- Traditional
+
+---
 # Reference
