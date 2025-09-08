@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Collection Strategy"
+              "title": "RM Test1"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Collection Strategy"
+              "title": "Outline of RM Test1"
             }
           },
           {
@@ -322,8 +322,10 @@
   },
   "active": "1b7e23448ef965e8",
   "lastOpenFiles": [
-    "1 - Rough Notes/Chatgpt prompt.md",
+    "RM Test1.pdf",
     "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
+    "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
+    "1 - Rough Notes/Chatgpt prompt.md",
     "2 - Source Notes/Academics/Assignments/RM/R&M.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit1-Part1.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit2.pdf",
@@ -364,7 +366,6 @@
     "4 - Indexes/t-cpp.md",
     "4 - Indexes/t-dcn.md",
     "4 - Indexes/t-college.md",
-    "4 - Indexes/t-Assignment.md",
     "2 - Source Notes/Untitled 1.base",
     "2 - Source Notes/Untitled.base",
     "Untitled.canvas",
