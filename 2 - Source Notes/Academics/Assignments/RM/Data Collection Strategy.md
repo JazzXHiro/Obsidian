@@ -24,6 +24,8 @@ Tags:
 4. **Document & Record analysis**
 5. **Experiments**
 
+**
+
 ---
 ## Independent & Dependent Variable
 
@@ -31,7 +33,17 @@ Tags:
 ### 1. Independent Variable -
 
 - Interactive Teaching
-- Traditional
+- Traditional Method
+
+### 2. Dependent Variable -
+
+- Science Test Score
+
+
+> [!NOTE] Note
+> Baseline Test Case
+> Randomly Test Case
+
 
 ---
 # Reference
