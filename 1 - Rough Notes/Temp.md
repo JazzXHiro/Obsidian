@@ -26,6 +26,8 @@ Tags:
 - auto
 - v.begin()
 - v.end()
+- erase()
+- 
 
 ---
 # Reference
