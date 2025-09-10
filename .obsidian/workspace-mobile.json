@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
+                "file": "2 - Source Notes/Languages/Polish/Pronounciations/Przepraszam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RM Test1"
+              "title": "Przepraszam"
             }
           }
         ],
@@ -123,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - Source Notes/Personal/Bikes/Bikes I want.md",
+            "file": "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -189,11 +189,14 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "5f52106bddc52573",
+  "active": "d5811882d63c47fc",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Notes/Sem 5/RM/Data Augmentation causes better prediction accuracy.md",
+    "2 - Source Notes/Languages/Polish/Pronounciations/Przepraszam.md",
+    "2 - Source Notes/Languages/Polish/Pronounciations/Pre.md",
     "1 - Rough Notes/Knock Knock.md",
+    "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/RM/Data Augmentation causes better prediction accuracy.md",
     "2 - Source Notes/Personal/Bikes/Bikes I want.md",
     "2 - Source Notes/Personal/Bikes/Places to motorcycle.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/Dzięki.md",
@@ -201,7 +204,6 @@
     "2 - Source Notes/Languages/Polish/Pronounciations/Nie.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/Chłopcy.md",
     "1 - Rough Notes/Just.md",
-    "2 - Source Notes/Languages/Polish/Pronounciations/Przepraszam.md",
     "2 - Source Notes/Languages/Polish/Pronounciations/Dobranoc.md",
     "5 - Templates/Polish pronounciation.md",
     "5 - Templates/Full Note.md",
@@ -215,8 +217,6 @@
     "1 - Rough Notes/Untitled.md",
     "1 - Rough Notes/Temp.md",
     "3 - Tags/t-pronounciations.md",
-    "3 - Tags/t-polish.md",
-    "3 - Tags/t-languages.md",
     "2 - Source Notes/Languages/Polish/Pronounciations",
     "2 - Source Notes/Languages/Polish",
     "2 - Source Notes/Languages",
