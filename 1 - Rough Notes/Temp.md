@@ -27,7 +27,9 @@ Tags:
 - v.begin()
 - v.end()
 - erase()
-- 
+- pair
+- mapping
+- ordered map & unordered map
 
 ---
 # Reference
