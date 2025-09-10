@@ -23,6 +23,9 @@ Tags:
 - STL
 - Vector
 - iterator
+- auto
+- v.begin()
+- v.end()
 
 ---
 # Reference
