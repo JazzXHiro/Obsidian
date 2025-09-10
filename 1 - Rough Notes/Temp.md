@@ -30,6 +30,9 @@ Tags:
 - pair
 - mapping
 	- map has data sorted on the basis of keys
+	- it.first
+	- it.second
+	- mp.find()
 - ordered map & unordered map
 
 ---
