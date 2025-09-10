@@ -29,6 +29,7 @@ Tags:
 - erase()
 - pair
 - mapping
+	- map has data sorted on the basis of keys
 - ordered map & unordered map
 
 ---
