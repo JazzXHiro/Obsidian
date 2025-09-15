@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
+                "file": "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tic Tac Toe 2025-09-16 00.33.37.excalidraw"
+              "title": "Outline of 4. Compiling your first project"
             }
           },
           {
@@ -263,48 +263,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "floating": {
-    "id": "a8c73a7c350bc4fd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "06333eb938393c8a",
-        "type": "window",
-        "children": [
-          {
-            "id": "31fabbca96b0428f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b948b45cbe7b388f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Tic Tac Toe 2025-09-16 00.33.37.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b948b45cbe7b388f",
+  "active": "ab9396c98990d3c7",
   "lastOpenFiles": [
+    "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
     "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
     "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
-    "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
