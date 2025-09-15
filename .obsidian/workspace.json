@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Knock Knock"
             }
+          },
+          {
+            "id": "ab9396c98990d3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Academics/Assignments/GG/Tic Tac Toe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tic Tac Toe"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Knock Knock.md",
+                "file": "2 - Source Notes/Academics/Assignments/GG/Tic Tac Toe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Knock Knock"
+              "title": "Outline of Tic Tac Toe"
             }
           },
           {
@@ -320,13 +334,15 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "1b7e23448ef965e8",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
+    "1 - Rough Notes/Knock Knock.md",
+    "2 - Source Notes/Academics/Assignments/GG/Tic Tac Toe.md",
+    "1 - Rough Notes/Ideas.md",
     "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "1 - Rough Notes/Temp.md",
-    "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
     "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "7 - Attachments/Pasted image 20250909142929.png",
@@ -360,12 +376,10 @@
     "2 - Source Notes/Academics/Assignments/RM/05-09.md",
     "7 - Attachments/Pasted image 20250905103246.png",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
-    "1 - Rough Notes/Ideas.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Untitled",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
     "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/RM/Data Augmentation causes better prediction accuracy.md",
     "2 - Source Notes/Academics/Notes/Sem 5/RM",
     "2 - Source Notes/Untitled 1.base",
     "Untitled.canvas",
