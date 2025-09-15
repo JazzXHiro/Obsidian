@@ -81,14 +81,12 @@
             "id": "ab9396c98990d3c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "4. Compiling your first project"
+              "icon": "excalidraw-icon",
+              "title": "Tic Tac Toe 2025-09-16 00.33.37.excalidraw"
             }
           }
         ],
@@ -213,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
+                "file": "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Compiling your first project"
+              "title": "Outline of Tic Tac Toe 2025-09-16 00.33.37.excalidraw"
             }
           },
           {
@@ -336,6 +334,10 @@
   },
   "active": "ab9396c98990d3c7",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
+    "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
+    "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
+    "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Academics/Assignments/GG/Tic Tac Toe.md",
@@ -343,7 +345,6 @@
     "1 - Rough Notes/Ideas.md",
     "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "1 - Rough Notes/Temp.md",
-    "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
     "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "7 - Attachments/Pasted image 20250909142929.png",
     "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
@@ -373,13 +374,10 @@
     "7 - Attachments/Pasted image 20250905132112.png",
     "7 - Attachments/Pasted image 20250905130402.png",
     "7 - Attachments/Pasted image 20250905130135.png",
-    "2 - Source Notes/Academics/Assignments/RM/05-09.md",
     "7 - Attachments/Pasted image 20250905103246.png",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Untitled",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation",
-    "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
-    "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
     "2 - Source Notes/Academics/Notes/Sem 5/RM",
     "2 - Source Notes/Untitled 1.base",
     "Untitled.canvas",
