@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
+                "file": "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. FC - Introduction to programming languages"
+              "title": "2. FC - Introduction to C++"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
+                "file": "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. FC - Introduction to programming languages"
+              "title": "Outline of 2. FC - Introduction to C++"
             }
           },
           {
@@ -278,13 +278,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "2fb17e993952ee3f",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
-    "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
-    "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
+    "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
+    "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
+    "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages",
     "2 - Source Notes/Untitled 4.base",
     "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
     "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
