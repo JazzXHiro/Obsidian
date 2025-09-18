@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
+                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. FC - Introduction to C++"
+              "title": "3. Introduction to C++ Developments"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
+                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. FC - Introduction to C++"
+              "title": "Outline of 3. Introduction to C++ Developments"
             }
           },
           {
@@ -280,10 +280,10 @@
   },
   "active": "2fb17e993952ee3f",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
-    "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages",
     "2 - Source Notes/Untitled 4.base",
     "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
