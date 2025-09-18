@@ -35,8 +35,7 @@
               "title": "3. FC - Introduction to C++ Developments"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
+                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. FC - Introduction to C++ Developments"
+              "title": "Outline of 3. Introduction to C++ Developments"
             }
           },
           {
@@ -278,10 +277,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "2fb17e993952ee3f",
+  "active": "ab9396c98990d3c7",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
+    "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
