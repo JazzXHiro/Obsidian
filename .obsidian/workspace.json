@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +263,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "4b5410a2c7fd4c6d",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
