@@ -86,7 +86,7 @@
 83. [[In Pune.md]]
 84. [[Places to visit.md]]
 85. [[1. Introduction to programming languages.md]]
-86. [[2. Introduction to C++.md]]
+86. [[2 - Source Notes/Programming/C++/2. Introduction to C++]]
 87. [[3. Introduction to C++ Developments.md]]
 88. [[Hyprland.md]]
 89. [[Figma Workshop.md]]
