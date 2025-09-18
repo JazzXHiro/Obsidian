@@ -35,7 +35,8 @@
               "title": "1. FC - Introduction to programming languages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
+                "file": "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Introduction to programming languages"
+              "title": "Outline of 1. FC - Introduction to programming languages"
             }
           },
           {
@@ -277,10 +278,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "ab9396c98990d3c7",
+  "active": "2fb17e993952ee3f",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
+    "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Untitled 4.base",
     "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
     "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
