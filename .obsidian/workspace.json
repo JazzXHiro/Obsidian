@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Knock Knock.md",
+                "file": "1 - Rough Notes/Date Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knock Knock"
+              "title": "Date Sheet"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Knock Knock.md",
+                "file": "1 - Rough Notes/Date Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Knock Knock"
+              "title": "Outline of Date Sheet"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "2fb17e993952ee3f",
   "lastOpenFiles": [
+    "1 - Rough Notes/Knock Knock.md",
     "1 - Rough Notes/Date Sheet.md",
     "1 - Rough Notes/Temp.md",
     "7 - Attachments/Pasted image 20250922113141.png",
@@ -296,7 +297,6 @@
     "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
     "2 - Source Notes/Academics/Assignments/GG/Tic Tac Toe.md",
-    "1 - Rough Notes/Knock Knock.md",
     "1 - Rough Notes/Ideas.md",
     "7 - Attachments/Pasted image 20250909142929.png",
     "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
