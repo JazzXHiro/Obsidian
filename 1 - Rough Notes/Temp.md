@@ -42,8 +42,11 @@ Tags:
 
 ---
 
-- Sample space to real life
-- composite 
+- Sample space to real no.
+- composite function
+- define f circle x
+- f of x of omega
+- F[X] == f composed X
 
 ---
 # Reference
