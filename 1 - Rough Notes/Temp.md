@@ -49,5 +49,7 @@ Tags:
 - F[X] == f composed X
 - mean of rv X^1 (first moment of x)
 
+![[Pasted image 20250922113141.png]]
+Citations
 ---
 # Reference
