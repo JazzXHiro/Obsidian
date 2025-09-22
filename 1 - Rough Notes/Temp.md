@@ -41,4 +41,9 @@ Tags:
 - 
 
 ---
+
+- Sample space to real life
+- composite 
+
+---
 # Reference
