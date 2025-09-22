@@ -47,6 +47,7 @@ Tags:
 - define f circle x
 - f of x of omega
 - F[X] == f composed X
+- mean of rv X^1 ()
 
 ---
 # Reference
