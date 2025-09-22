@@ -51,5 +51,8 @@ Tags:
 
 ![[Pasted image 20250922113141.png]]
 Citations
+group contributions
+Is you really want to work in this
+
 ---
 # Reference

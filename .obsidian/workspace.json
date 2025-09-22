@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Temp.md",
+                "file": "1 - Rough Notes/Date Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temp"
+              "title": "Date Sheet"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Temp.md",
+                "file": "1 - Rough Notes/Date Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Temp"
+              "title": "Outline of Date Sheet"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "2fb17e993952ee3f",
   "lastOpenFiles": [
+    "1 - Rough Notes/Temp.md",
     "7 - Attachments/Pasted image 20250922113141.png",
     "1 - Rough Notes/Date Sheet.md",
     "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
@@ -297,7 +298,6 @@
     "2 - Source Notes/Academics/Assignments/GG/Tic Tac Toe.md",
     "1 - Rough Notes/Knock Knock.md",
     "1 - Rough Notes/Ideas.md",
-    "1 - Rough Notes/Temp.md",
     "7 - Attachments/Pasted image 20250909142929.png",
     "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "3 - Tags/t-RM.md",
@@ -322,7 +322,6 @@
     "7 - Attachments/Pasted image 20250905132112.png",
     "7 - Attachments/Pasted image 20250905130402.png",
     "7 - Attachments/Pasted image 20250905130135.png",
-    "7 - Attachments/Pasted image 20250905103246.png",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Untitled",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation",
