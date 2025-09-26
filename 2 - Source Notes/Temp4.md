@@ -23,3 +23,11 @@ https://www.tutorialspoint.com/digital-electronics/implementation-of-nand-nor-ga
 https://www.geeksforgeeks.org/digital-logic/synchronous-3-bit-up-down-counter/
 
 https://www.youtube.com/watch?v=HhvtfKsoJCY 
+
+https://www.geeksforgeeks.org/digital-logic/xnor-gate/
+
+https://www.tutorialspoint.com/difference-between-synchronous-and-asynchronous-sequential-circuits
+
+https://www.geeksforgeeks.org/digital-logic/bcd-to-7-segment-decoder/
+
+https://askfilo.com/user-question-answers-smart-solutions/simplify-the-following-boolean-function-using-quine-3136373633333533
