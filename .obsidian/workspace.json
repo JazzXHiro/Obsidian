@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Untitled 1.md",
+                "file": "1 - Rough Notes/Untitled 1 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Untitled 1 1"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Untitled 1.md",
+                "file": "1 - Rough Notes/Untitled 1 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Untitled 1 1"
             }
           },
           {
@@ -334,10 +334,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "33527d5d6858005e",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
     "1 - Rough Notes/aem 2 temp 2.md",
-    "2 - Source Notes/Untitled 1.md",
+    "1 - Rough Notes/Untitled 1 1.md",
     "1 - Rough Notes/Untitled 1.md",
     "2 - Source Notes/Temp4.md",
     "Temp4.pdf",
