@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Temp4"
             }
+          },
+          {
+            "id": "be6a3589cf0ad171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Temp4.md",
+                "file": "2 - Source Notes/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Temp4"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -292,11 +306,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "e1025da15d6f4312",
+  "active": "be6a3589cf0ad171",
   "lastOpenFiles": [
+    "2 - Source Notes/Temp4.md",
+    "2 - Source Notes/Untitled 1.md",
     "Temp4.pdf",
     "1 - Rough Notes/Knock Knock.md",
-    "2 - Source Notes/Temp4.md",
     "1 - Rough Notes/Date Sheet.md",
     "1 - Rough Notes/Temp.md",
     "7 - Attachments/Pasted image 20250922113141.png",
@@ -339,7 +354,6 @@
     "7 - Attachments/Pasted image 20250905130135.png",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Untitled",
-    "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
