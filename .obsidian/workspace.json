@@ -25,12 +25,14 @@
             "id": "26f6e254512cba80",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/0.1 Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "0.1 Introduction"
             }
           }
         ],
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/0.1 Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Introduction to Theory of Computation"
+              "title": "Outline of 0.1 Introduction"
             }
           },
           {
