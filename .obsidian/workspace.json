@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1. Introduction to Theory of Computation"
             }
+          },
+          {
+            "id": "26f6e254512cba80",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,7 +276,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "316de10d5129eae5",
+  "active": "26f6e254512cba80",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
     "2 - Source Notes/Temp4.md",
