@@ -112,8 +112,18 @@ Tags:
 ![[Pasted image 20251009012813.png]]
 
 
+### Data House vs Data Mart
+![[Pasted image 20251009012951.png]]
 
+#### **Q8: Explain the ETL (Extract, Transform, Load) process.**
 
+**A8:** ETL (Extract, Transform, and Load) is a process used in data warehousing to move data from various source systems into a data warehouse. The process consists of three steps:
+
+1. **Extraction:** In this step, data is extracted from the source systems (e.g., Oracle, SQL Server, flat files) and moved into a staging area. Using a staging area prevents the degradation of source system performance and allows data to be validated before it enters the warehouse.
+    
+2. **Transformation:** The data extracted from the source is often raw and not usable in its original form. In this key step, the data is cleansed, mapped, and transformed by applying calculations, concatenations, or other functions. This process adds value and prepares the data for generating insightful business intelligence reports.
+    
+3. **Loading:** This is the final step where the transformed data is loaded into the target data warehouse database. Given the huge volume of data that often needs to be loaded in a short time, this process must be optimized for performance.
 
 ---
 # Reference
