@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/0.1 Introduction.md",
+                "file": "1 - Rough Notes/OOAD Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1 Introduction"
+              "title": "OOAD Temp"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/0.1 Introduction.md",
+                "file": "1 - Rough Notes/OOAD Temp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0.1 Introduction"
+              "title": "Outline of OOAD Temp"
             }
           },
           {
@@ -280,6 +280,8 @@
   },
   "active": "26f6e254512cba80",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/0.1 Introduction.md",
+    "1 - Rough Notes/OOAD Temp.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
     "2 - Source Notes/Temp4.md",
     "1 - Rough Notes/Knock Knock.md",
@@ -308,9 +310,7 @@
     "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
     "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
-    "2 - Source Notes/Academics/Assignments/GG/Tic Tac Toe.md",
     "7 - Attachments/Pasted image 20250909142929.png",
-    "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "RM Test1.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit1-Part1.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit2.pdf",
