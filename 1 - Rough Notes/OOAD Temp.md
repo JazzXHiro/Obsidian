@@ -100,6 +100,11 @@ Tags:
     - **Swimlanes:** Used to group related activities into columns or rows, often to represent different actors or departments responsible for those activities.
         
     - **Final State:** The end point of a process, represented by a solid black circle inside another circle.
+      ![[Pasted image 20251009011835.png]]
+    - 
+
+![[Pasted image 20251009012243.png]]
+
 
 
 ---
