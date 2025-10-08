@@ -187,7 +187,56 @@ Class diagrams visually represent several key object-oriented concepts:
 
 #### Q4. Draw a class diagram for the following: A car model has a model name, year, base price, and a manufacturer. Some examples of car models are a 1969 Ford Mustang and a 1975 Volkswagen Rabbit. A physical car has a serial number, color, price, and an owner. As an example of physical cars, John Doe may own a blue Ford with serial number 1FABP and a red Volkswagen with serial number 7E81F.
 
+Classes
+
+**`CarModel`**
+
+This class represents the template or design of a car.
+
+- **Attributes:** `modelName`, `year`, `basePrice`, and `manufacturer`. 
+
+**`PhysicalCar`**
+
+This class represents an actual, specific vehicle.
+
+- **Attributes:** `serialNumber`, `color`, `price`, and `owner`.
+
+**`Manufacturer`**
+
+This class represents the company that produces car models.
+
+- **Attributes:** `name`.
+
+**`Person`**
+
+This class represents an individual who can own a physical car.
+
+- **Attributes:** `name`.
+
+Relationships
+
+**`CarModel` and `Manufacturer`**
+
+- **Relationship:** An association relationship.
+- **Description:** A `CarModel` is associated with one `Manufacturer`. A `Manufacturer` can produce many different `CarModel`s.
+- **Multiplicity:** The `CarModel` class has a multiplicity of 1 for the `Manufacturer` association. The `Manufacturer` class has a multiplicity of * for the `CarModel` association. 
+
+**`PhysicalCar` and `CarModel`**
+
+- **Relationship:** An association relationship. This is a "type of" relationship, where a specific physical car is an instance of a particular car model.
+- **Description:** A `PhysicalCar` is associated with one `CarModel`. A `CarModel` can be instantiated as many different `PhysicalCar`s.
+- **Multiplicity:** The `PhysicalCar` class has a multiplicity of 1 for the `CarModel` association. The `CarModel` class has a multiplicity of * for the `PhysicalCar` association. 
+
+**`PhysicalCar` and `Person` (Owner)**
+
+- **Relationship:** An association relationship.
+- **Description:** A `PhysicalCar` can be owned by one `Person`. A `Person` can own zero or many `PhysicalCar`s.
+- **Multiplicity:** The `PhysicalCar` class has a multiplicity of 1 for the `Person` association. The `Person` class has a multiplicity of 0..* for the `PhysicalCar` association.
 ![[Pasted image 20251009020356.png]]
+
+## Sequence Diagram
+
+
 
 ---
 # Reference
