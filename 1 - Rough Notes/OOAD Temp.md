@@ -143,5 +143,11 @@ Tags:
     
 7. **Knowledge Presentation:** The discovered knowledge is represented and presented to the user, often using visualization techniques or reports.
 
+### Class Diagram
+
+Composition
+Aggregation
+
+
 ---
 # Reference
