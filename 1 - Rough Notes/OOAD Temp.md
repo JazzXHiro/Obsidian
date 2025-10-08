@@ -183,8 +183,7 @@ Class diagrams visually represent several key object-oriented concepts:
     
 - **Multiplicity:** This defines how many instances of one class can be associated with one instance of another class.
 
-![[OOAD Temp 2025-10-09 01.53.44.excalidraw]]
-![[Pasted image 20251009015205.png]]
+![[OOAD Temp 2025-10-09 01.53.44.excalidraw||900]]
 
 
 

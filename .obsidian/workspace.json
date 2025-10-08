@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
+                "file": "1 - Rough Notes/OOAD Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction to Theory of Computation"
-            }
-          },
-          {
-            "id": "26f6e254512cba80",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/OOAD Temp 2025-10-09 01.53.44.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "OOAD Temp 2025-10-09 01.53.44.excalidraw"
+              "title": "OOAD Temp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/OOAD Temp 2025-10-09 01.53.44.excalidraw.md",
+                "file": "1 - Rough Notes/OOAD Temp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOAD Temp 2025-10-09 01.53.44.excalidraw"
+              "title": "Outline of OOAD Temp"
             }
           },
           {
@@ -276,10 +263,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "26f6e254512cba80",
+  "active": "316de10d5129eae5",
   "lastOpenFiles": [
-    "1 - Rough Notes/OOAD Temp.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
     "Excalidraw/OOAD Temp 2025-10-09 01.53.44.excalidraw.md",
+    "1 - Rough Notes/OOAD Temp.md",
     "7 - Attachments/Pasted image 20251009015205.png",
     "7 - Attachments/Pasted image 20251009012951.png",
     "7 - Attachments/Pasted image 20251009012813.png",
@@ -316,7 +304,6 @@
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages",
     "2 - Source Notes/Untitled 4.base",
     "Excalidraw/Tic Tac Toe 2025-09-16 00.33.37.excalidraw.md",
-    "2 - Source Notes/Academics/Assignments/GP/Tic Tac Toe.md",
     "RM Test1.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit1-Part1.pdf",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/PPT/Unit2.pdf",
