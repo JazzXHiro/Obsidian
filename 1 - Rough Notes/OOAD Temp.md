@@ -185,7 +185,9 @@ Class diagrams visually represent several key object-oriented concepts:
 
 ![[OOAD Temp 2025-10-09 01.53.44.excalidraw||900]]
 
+#### Q4. Draw a class diagram for the following: A car model has a model name, year, base price, and a manufacturer. Some examples of car models are a 1969 Ford Mustang and a 1975 Volkswagen Rabbit. A physical car has a serial number, color, price, and an owner. As an example of physical cars, John Doe may own a blue Ford with serial number 1FABP and a red Volkswagen with serial number 7E81F.
 
+![[Pasted image 20251009020356.png]]
 
 ---
 # Reference
