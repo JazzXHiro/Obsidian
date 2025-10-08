@@ -235,7 +235,7 @@ Relationships
 ![[Pasted image 20251009020356.png]]
 
 ## Sequence Diagram
-
+Sequence diagrams are a type of UML (Unified Modeling Language) diagram that visually represent the interactions between objects or components in a system over time. They focus on the order and timing of messages or events exchanged between different system elements. The diagram captures how objects communicate with each other through a series of messages, providing a clear view of the sequence of operations or processes.
 
 
 ---
