@@ -237,6 +237,150 @@ Relationships
 ## Sequence Diagram
 Sequence diagrams are a type of UML (Unified Modeling Language) diagram that visually represent the interactions between objects or components in a system over time. They focus on the order and timing of messages or events exchanged between different system elements. The diagram captures how objects communicate with each other through a series of messages, providing a clear view of the sequence of operations or processes.
 
+## Sequence Diagram Notations
+
+## ****1. Actors****
+
+An actor in a UML diagram represents a type of role where it interacts with the system and its objects. It is important to note here that an actor is always outside the scope of the system we aim to model using the UML diagram.  
+
+![Actor-11](https://media.geeksforgeeks.org/wp-content/uploads/20240102164916/Actor-11.jpg)
+
+We use actors to depict various roles including human users and other external subjects. We represent an actor in a UML diagram using a stick person notation. We can have multiple actors in a sequence diagram.
+
+### ****For example:****
+
+> Here the user in seat reservation system is shown as an actor where it exists outside the system and is not a part of the system.
+
+![User-interacting-with-seat-reservation-system](https://media.geeksforgeeks.org/wp-content/uploads/20240102164943/User-interacting-with-seat-reservation-system.jpg)
+
+## ****2. Lifelines****
+
+A lifeline is a named element which depicts an individual participant in a sequence diagram. So basically each instance in a sequence diagram is represented by a lifeline. Lifeline elements are located at the top in a sequence diagram. The standard in UML for naming a lifeline follows the following format:
+
+> Instance Name : Class Name
+
+![Sequence-Diagrams](https://media.geeksforgeeks.org/wp-content/uploads/20231228115925/Sequence-Diagrams.jpg)
+
+We display a lifeline in a rectangle called head with its name and type. The head is located on top of a vertical dashed line (referred to as the stem) as shown above.
+
+- If we want to model an unnamed instance, we follow the same pattern except now the portion of lifeline's name is left blank.
+- ****Difference between a lifeline and an actor****
+    - A lifeline always portrays an object internal to the system whereas actors are used to depict objects external to the system.
+
+The following is an example of a sequence diagram:
+
+![Sequence-Diagram-223](https://media.geeksforgeeks.org/wp-content/uploads/20240102165110/Sequence-Diagram-223.jpg)
+
+## ****3. Messages****
+
+Communication between objects is depicted using messages. The messages appear in a sequential order on the lifeline.
+
+- We represent messages using arrows.
+- Lifelines and messages form the core of a sequence diagram.
+
+![Different-Types-of-Messages](https://media.geeksforgeeks.org/wp-content/uploads/20240102165335/Different-Types-of-Messages.jpg)
+
+Messages can be broadly classified into the following categories:
+
+### ****1. Synchronous messages****
+
+A synchronous message waits for a reply before the interaction can move forward. The sender waits until the receiver has completed the processing of the message. The caller continues only when it knows that the receiver has processed the previous message i.e. it receives a reply message.
+
+- A large number of calls in object oriented programming are synchronous.
+- We use a ****solid arrow head**** to represent a synchronous message.
+
+![Synchronus-Message-22](https://media.geeksforgeeks.org/wp-content/uploads/20231228132950/Synchronus-Message-22.jpg)
+
+### ****2. Asynchronous Messages****
+
+An asynchronous message does not wait for a reply from the receiver. The interaction moves forward irrespective of the receiver processing the previous message or not. We use a lined arrow head to represent an asynchronous message.
+
+![Asynchronus-Message](https://media.geeksforgeeks.org/wp-content/uploads/20231228134039/Asynchronus-Message.jpg)
+
+## ****4. Create message****
+
+We use a Create message to instantiate a new object in the sequence diagram. There are situations when a particular message call requires the creation of an object. It is represented with a dotted arrow and create word labelled on it to specify that it is the create Message symbol.
+
+****For example:****
+
+> The creation of a new order on a e-commerce website would require a new object of Order class to be created.
+
+![Create-Message](https://media.geeksforgeeks.org/wp-content/uploads/20240102165451/Create-Message.jpg)
+
+## ****5. Delete Message****
+
+We use a Delete Message to delete an object. When an object is deallocated memory or is destroyed within the system we use the Delete Message symbol. It destroys the occurrence of the object in the system.It is represented by an arrow terminating with a x.
+
+****For example:****
+
+> In the scenario below when the order is received by the user, the object of order class can be destroyed.
+
+![Delete-Image](https://media.geeksforgeeks.org/wp-content/uploads/20240102165540/Delete-Image.jpg)
+
+## ****6. Self Message****
+
+Certain scenarios might arise where the object needs to send a message to itself. Such messages are called Self Messages and are represented with a ****U shaped arrow****.
+
+![self-image-1](https://media.geeksforgeeks.org/wp-content/uploads/20231228134413/self-image-1.jpg)
+
+### ****For example:****
+
+> Consider a scenario where the device wants to access its webcam. Such a scenario is represented using a self message.
+
+![Self-Image-2](https://media.geeksforgeeks.org/wp-content/uploads/20231228134633/Self-Image-2.jpg)
+
+## ****7. Reply Message****
+
+Reply messages are used to show the message being sent from the receiver to the sender. We represent a return/reply message using an ****open arrow head with a dotted line****. The interaction moves forward only when a reply message is sent by the receiver.
+
+![Reply-Message](https://media.geeksforgeeks.org/wp-content/uploads/20231228134838/Reply-Message.jpg)
+
+****For example:****
+
+> Consider the scenario where the device requests a photo from the user. Here the message which shows the photo being sent is a reply message.
+
+![Reply-Message-Example](https://media.geeksforgeeks.org/wp-content/uploads/20231228135137/Reply-Message-Example.jpg)
+
+## ****8. Found Message****
+
+A Found message is used to represent a scenario where an unknown source sends the message. It is represented using an ****arrow directed towards a lifeline**** from an end point.
+
+****For example:****
+
+> Consider the scenario of a hardware failure.
+
+![found-message](https://media.geeksforgeeks.org/wp-content/uploads/20240102161203/found-message.jpg)
+
+It can be due to multiple reasons and we are not certain as to what caused the hardware failure.
+
+![found-message-example](https://media.geeksforgeeks.org/wp-content/uploads/20231228135840/found-message-example.jpg)
+
+## ****9. Lost Message****
+
+A Lost message is used to represent a scenario where the recipient is not known to the system. It is represented using an arrow directed towards an end point from a lifeline.
+
+****For example:****
+
+> Consider a scenario where a warning is generated.
+
+![lost-image](https://media.geeksforgeeks.org/wp-content/uploads/20231228140024/lost-image.jpg)
+
+The warning might be generated for the user or other software/object that the lifeline is interacting with. Since the destination is not known before hand, we use the Lost Message symbol.
+
+![Lost-Image-Example](https://media.geeksforgeeks.org/wp-content/uploads/20231228140236/Lost-Image-Example.jpg)
+
+## ****10. Guards****
+
+To model conditions we use guards in UML. They are used when we need to restrict the flow of messages on the pretext of a condition being met. Guards play an important role in letting software developers know the constraints attached to a system or a particular process.
+
+****For example:****
+
+> In order to be able to withdraw cash, having a balance greater than zero is a condition that must be met as shown below.
+
+![Guards](https://media.geeksforgeeks.org/wp-content/uploads/20231228140450/Guards.jpg)
+
+![Example-sequence-diagram-2](https://media.geeksforgeeks.org/wp-content/uploads/20240103162001/Example-sequence-diagram-2.jpg)
+
 
 ---
 # Reference
