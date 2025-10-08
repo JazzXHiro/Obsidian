@@ -148,6 +148,45 @@ Tags:
 Composition
 Aggregation
 
+Based on the provided documents, here is what can be gathered about Class Diagrams.
+
+A **Design Class Diagram** provides a static view of the class definitions within a system. Its primary purpose is to illustrate the attributes and methods of the classes. It is a key diagram used in Domain Modeling and as part of a use-case realization to show participating classes and subsystems.
+
+### Fundamental Components
+
+The core components of a class diagram are classes and the relationships between them.
+
+- **Class:** A class represents a collection of objects that have the same characteristic properties and exhibit common behavior. It serves as a blueprint or description for the objects that can be created from it. A class consists of:
+    
+    - **Attributes:** A set of properties for the objects instantiated from the class. Attributes are often referred to as class data.
+        
+    - **Operations (Methods):** A set of operations that portray the behavior of the objects of the class.
+        
+- **Object:** An object is a real-world element that may have a physical or conceptual existence. It is an instance of a class. Each object has:
+    
+    - **Identity:** Distinguishes it from other objects.
+        
+    - **State:** The characteristic properties and the values the object holds.
+        
+    - **Behavior:** The externally visible activities performed by the object.
+        
+
+### Key Relationships and Concepts in Class Diagrams
+
+Class diagrams visually represent several key object-oriented concepts:
+
+- **Inheritance:** This is a mechanism that allows a new class (subclass) to be created from an existing class (superclass). It defines an "is-a" relationship. Testing for systems with inheritance involves checking each derived class, its associations, and aggregations.
+    
+- **Association:** This represents a relationship between classes. For example, a `Student` class might be associated with a `Course` class.
+    
+- **Aggregation and Composition:** These are specialized types of association. The documents differentiate between them as a topic for examination questions.
+    
+- **Multiplicity:** This defines how many instances of one class can be associated with one instance of another class.
+
+![[OOAD Temp 2025-10-09 01.53.44.excalidraw]]
+![[Pasted image 20251009015205.png]]
+
+
 
 ---
 # Reference
