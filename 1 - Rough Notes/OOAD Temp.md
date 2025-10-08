@@ -28,5 +28,17 @@ Tags:
     
 - **Polymorphism:** The word polymorphism means the ability to take multiple forms. In OOAD, it means using operations in different ways depending on the instance they are operating on. It allows objects with different internal structures to have a common external interface, which is particularly effective when implementing inheritance. For example, both a `Circle` and a `Square` class could have a `findArea()` method, but the internal implementation for each would be different.
 
+#### **Q3: What is the Rational Unified Process (RUP)? Explain its four phases.**
+
+**A3:** The Rational Unified Process (RUP) is an iterative software development process framework. It is an adaptable framework intended to be tailored by development organizations. RUP's project life-cycle consists of four distinct phases:
+
+1. **Inception Phase:** The main goal is to adequately scope the system to validate initial costs and budgets. In this phase, a business case, a basic use case model, a project plan, and an initial risk assessment are established. The phase concludes with the **Life Cycle Objective Milestone**, where stakeholders agree on the scope, cost, and schedule estimates.
+    
+2. **Elaboration Phase:** The primary objective is to mitigate key risks and establish a stable architecture for the project. During this phase, problem domain analysis is performed, and an executable architecture is developed. The use-case model is expected to be about 80% complete. This phase ends with the **Lifecycle Architecture Milestone**, which checks if the product vision and architecture are stable and that major risks are resolved.
+    
+3. **Construction Phase:** The objective is to build the software system. This phase involves the development of components and other features, and it is where the majority of coding takes place. It concludes with the **Initial Operational Capability Milestone**, marking the first external release of the software.
+    
+4. **Transition Phase:** The main goal is to transition the system from development into production, making it available to end users. Activities include training end users and maintainers, and beta testing the system against user expectations. The phase ends when the **Product Release Milestone** is reached, and the development cycle is complete.
+
 ---
 # Reference
