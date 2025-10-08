@@ -40,5 +40,35 @@ Tags:
     
 4. **Transition Phase:** The main goal is to transition the system from development into production, making it available to end users. Activities include training end users and maintainers, and beta testing the system against user expectations. The phase ends when the **Product Release Milestone** is reached, and the development cycle is complete.
 
+#### **Q4: Describe Use Case Diagrams. What is their purpose and how are they drawn?**
+
+**A4:** A use case diagram is a UML diagram that captures the dynamic behavior of a system. It models the system by showing actors, use cases, and the relationships between them.
+
+- **Purpose:**
+    
+    - To gather the requirements of a system, including internal and external influences.
+        
+    - To provide an "outside view" of the system.
+        
+    - To identify external and internal factors that influence the system.
+        
+    - To show the interactions among requirements and actors.
+        
+- **How to Draw a Use Case Diagram:**
+    
+    1. **Identify Functionalities:** These are represented as use cases. The name of a use case should clearly identify the functionality it performs.
+        
+    2. **Identify Actors:** An actor is something that interacts with the system, such as a human user or another application. Actors should be given suitable names.
+        
+    3. **Identify Relationships:** Determine the relationships between actors and use cases, and among use cases themselves (e.g., extends, includes).
+        
+    4. **Define System Boundary:** Draw a boundary box around the use cases to separate the system from the external actors.
+     ![[Pasted image 20251009005215.png]]
+     ![[Pasted image 20251009005250.png]]
+     ![[Pasted image 20251009005331.png]]
+1. 
+
+
+
 ---
 # Reference
