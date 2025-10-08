@@ -105,6 +105,14 @@ Tags:
 
 ![[Pasted image 20251009012243.png]]
 
+![[Pasted image 20251009012706.png]]
+![[Pasted image 20251009012719.png]]
+![[Pasted image 20251009012738.png]]
+![[Pasted image 20251009012750.png]]
+![[Pasted image 20251009012813.png]]
+
+
+
 
 
 ---
