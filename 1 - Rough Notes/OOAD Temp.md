@@ -71,6 +71,35 @@ Tags:
      ![[Pasted image 20251009005546.png]]
 1. 
 
+#### **Q5: What are Activity Diagrams? Explain their purpose and key components.**
+
+**A5:** An activity diagram is a flowchart that represents the flow from one activity to another, where an activity can be described as an operation of the system. The diagram can show sequential, branched, and concurrent flows of control.
+
+- **Purpose:**
+    
+    - To capture the dynamic behavior of a system.
+        
+    - To model the workflow by showing activities.
+        
+    - To describe the sequence from one activity to another.
+        
+    - To provide a high-level understanding of a system's functionalities.
+        
+- **Key Components (Notations):**
+    
+    - **Initial State:** The starting point of the process, represented by a solid black circle.
+        
+    - **Action or Activity State:** Represents the execution of an action, shown as a rectangle with rounded corners.
+        
+    - **Action Flow (Control Flow):** Shows the transition from one activity to another, represented by a line with an arrowhead.
+        
+    - **Decision Node:** A diamond shape used to represent a point where the flow of control can branch based on a condition.
+        
+    - **Fork and Join Nodes:** A solid rectangular bar used to manage concurrent activities. A **Fork** has one incoming flow and splits it into multiple outgoing parallel flows. A **Join** has multiple incoming parallel flows and merges them into a single outgoing flow.
+        
+    - **Swimlanes:** Used to group related activities into columns or rows, often to represent different actors or departments responsible for those activities.
+        
+    - **Final State:** The end point of a process, represented by a solid black circle inside another circle.
 
 
 ---
