@@ -125,5 +125,23 @@ Tags:
     
 3. **Loading:** This is the final step where the transformed data is loaded into the target data warehouse database. Given the huge volume of data that often needs to be loaded in a short time, this process must be optimized for performance.
 
+#### **Q9: What is the KDD (Knowledge Discovery in Data) process?**
+
+**A9:** KDD, also known as Data Mining, is the process of discovering previously unknown relationships and patterns in large datasets. The KDD process involves the following steps:
+
+1. **Data Cleaning:** Noise and inconsistent data are removed.
+    
+2. **Data Integration:** Multiple data sources are combined into a single dataset.
+    
+3. **Data Selection:** Data relevant to the specific analysis task is retrieved from the database.
+    
+4. **Data Transformation:** Data is transformed or consolidated into forms suitable for mining, often through summary or aggregation operations.
+    
+5. **Data Mining:** Intelligent methods and algorithms are applied to the data to extract patterns.
+    
+6. **Pattern Evaluation:** The extracted data patterns are evaluated to identify useful information.
+    
+7. **Knowledge Presentation:** The discovered knowledge is represented and presented to the user, often using visualization techniques or reports.
+
 ---
 # Reference
