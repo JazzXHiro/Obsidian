@@ -66,6 +66,9 @@ Tags:
      ![[Pasted image 20251009005215.png]]
      ![[Pasted image 20251009005250.png]]
      ![[Pasted image 20251009005331.png]]
+     ![[Pasted image 20251009005422.png]]
+     ![[Pasted image 20251009005502.png]]
+     ![[Pasted image 20251009005546.png]]
 1. 
 
 
