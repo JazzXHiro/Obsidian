@@ -634,5 +634,15 @@ These artifacts are used to plan and manage the project.
 
 These artifacts collectively provide a complete picture of the system, from the initial business need to the final tested product, ensuring that the development process is well-documented, organized, and traceable.19
 
+## Encapsulation
+
+**Encapsulation** is the process of binding both attributes and methods together within a class1.
+
+Through encapsulation, the internal details of a class can be hidden from the outside2. It permits the elements of a class to be accessed from the outside only through the interface provided by the class3.
+
+This leads to the concept of **Data Hiding**, where a class is designed so that its data (attributes) can only be accessed by its own methods and is insulated from direct outside access4. This process of insulating an object's data is also called information hiding5.
+
+For example, for a `Circle` class, its private data (like coordinates and radius) cannot be accessed directly by any method that is not part of the `Circle` class itself6. Instead, the data must be accessed through public methods provided by the class, such as `setValues()` and `getValues()`7.
+
 ---
 # Reference
