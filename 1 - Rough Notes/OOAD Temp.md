@@ -387,7 +387,7 @@ Requirement Engineering is the process of collecting software requirements from 
 
 The process of requirement engineering consists of seven distinct tasks:
 
-1. **Inception:** This is the starting task where a set of questions is asked to establish a basic understanding of the problem and to frame a proper solution4444. It involves collaboration between the developer and the customer to decide the overall scope of the project5.
+1. **Inception:** This is the starting task where a set of questions is asked to establish a basic understanding of the problem and to frame a proper solution. It involves collaboration between the developer and the customer to decide the overall scope of the project5.
     
 2. **Elicitation:** This task involves finding and gathering the requirements from various sources6.
     

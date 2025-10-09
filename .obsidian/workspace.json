@@ -144,7 +144,7 @@
               "state": {
                 "file": "1 - Rough Notes/OOAD Temp.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -263,7 +263,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "316de10d5129eae5",
+  "active": "92514416e2dc272f",
   "lastOpenFiles": [
     "7 - Attachments/Pasted image 20251009020356.png",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
