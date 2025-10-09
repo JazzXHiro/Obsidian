@@ -381,6 +381,25 @@ To model conditions we use guards in UML. They are used when we need to restrict
 
 ![Example-sequence-diagram-2](https://media.geeksforgeeks.org/wp-content/uploads/20240103162001/Example-sequence-diagram-2.jpg)
 
+## Requirement Engineering
+
+Requirement Engineering is the process of collecting software requirements from a client, then understanding, evaluating, and documenting them1. It serves as a bridge between the initial concept and the subsequent design and construction phases of a project2.
+
+The process of requirement engineering consists of seven distinct tasks:
+
+1. **Inception:** This is the starting task where a set of questions is asked to establish a basic understanding of the problem and to frame a proper solution4444. It involves collaboration between the developer and the customer to decide the overall scope of the project5.
+    
+2. **Elicitation:** This task involves finding and gathering the requirements from various sources6.
+    
+3. **Elaboration:** In this stage, the information gathered during inception and elicitation is expanded and refined7. The primary goal is to develop a pure model of the software that outlines its functions, features, and constraints8.
+    
+4. **Negotiation:** During this task, the software engineer determines how the project can be achieved with limited business resources9. This includes making rough estimates of development effort and assessing the impact of requirements on the project's cost and delivery time10.
+    
+5. **Specification:** This task involves constructing the final work product, typically in the form of a Software Requirement Specification (SRS)11. The requirements for the proposed software, including informative, functional, and behavioral aspects, are formalized in both graphical and textual formats12.
+    
+6. **Validation:** The work product created from the requirement engineering process is assessed for quality13. The primary validation method is conducting formal technical reviews with the software engineer, customer, and other stakeholders14.
+    
+7. **Requirement Management:** This is a set of activities that helps the project team identify, control, and track requirements and any changes that are made to them during the project15. It begins by assigning a unique identifier to each requirement and then developing a traceability table to manage features, sources, dependencies, and subsystems16.
 
 ---
 # Reference
