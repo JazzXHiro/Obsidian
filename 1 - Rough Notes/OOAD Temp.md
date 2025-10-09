@@ -469,11 +469,21 @@ Specialization is the reverse process of generalization. It involves creating ne
 
 ### Summary Table
 
-|Concept|Relationship|Key Idea|Example|
-|---|---|---|---|
-|**Aggregation**|Has-A|Weak "part-of" link. Part can exist without the whole.|A `Team` has a `Player`.|
-|**Generalization**|Is-A|Bottom-up: Creating a parent/superclass from children.|`Car` and `Truck` are generalized into `Vehicle`.|
-|**Specialization**|Is-A|Top-down: Creating children/subclasses from a parent.|`Vehicle` is specialized into `Car` and `Truck`.|
+| Concept            | Relationship | Key Idea                                               | Example                                           |
+| ------------------ | ------------ | ------------------------------------------------------ | ------------------------------------------------- |
+| **Aggregation**    | Has-A        | Weak "part-of" link. Part can exist without the whole. | A `Team` has a `Player`.                          |
+| **Generalization** | Is-A         | Bottom-up: Creating a parent/superclass from children. | `Car` and `Truck` are generalized into `Vehicle`. |
+| **Specialization** | Is-A         | Top-down: Creating children/subclasses from a parent.  | `Vehicle` is specialized into `Car` and `Truck`.  |
+
+## Draw Use Case Diagram (with extend, include, generalization) for ATM
+
+![[Pasted image 20251009060452.png]]
+**Generalization (`<|--`)**
+
+- **Example:** `Withdraw Funds`, `Deposit Funds`, and `Transfer Funds` are all specialized types of a `Perform Transaction`.
+    
+- **Meaning:** The child use cases (e.g., `Withdraw Funds`) inherit the properties and relationships of the parent use case (`Perform Transaction`). In this diagram, this means all three child transactions automatically share the requirement of user authentication, which is linked to the parent. The arrow points from the specific (child) to the general (parent).
+
 
 ---
 # Reference
