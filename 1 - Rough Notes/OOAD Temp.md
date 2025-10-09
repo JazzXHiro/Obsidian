@@ -645,4 +645,8 @@ This leads to the concept of **Data Hiding**, where a class is designed so that 
 For example, for a `Circle` class, its private data (like coordinates and radius) cannot be accessed directly by any method that is not part of the `Circle` class itself6. Instead, the data must be accessed through public methods provided by the class, such as `setValues()` and `getValues()`7.
 
 ---
+
+![[Pasted image 20251009062236.png]]
+
+---
 # Reference
