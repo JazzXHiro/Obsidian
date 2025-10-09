@@ -399,7 +399,81 @@ The process of requirement engineering consists of seven distinct tasks:
     
 6. **Validation:** The work product created from the requirement engineering process is assessed for quality13. The primary validation method is conducting formal technical reviews with the software engineer, customer, and other stakeholders14.
     
-7. **Requirement Management:** This is a set of activities that helps the project team identify, control, and track requirements and any changes that are made to them during the project15. It begins by assigning a unique identifier to each requirement and then developing a traceability table to manage features, sources, dependencies, and subsystems16.
+7. **Requirement Management:** This is a set of activities that helps the project team identify, control, and track requirements and any changes that are made to them during the project15. It begins by assigning a unique identifier to each requirement and then developing a traceability table to manage features, sources, dependencies, and subsystems.
+
+
+## Aggregation, Generalization and Specialization
+
+### 1. Aggregation
+
+Aggregation is a specialized form of association that models a "has-a" or "part-of" relationship between two classes. It represents a whole-part relationship where the "part" can exist independently of the "whole".
+
+- **Relationship Type:** "Has-A" (e.g., a Team has a Player).
+    
+- **Key Idea:** It is a **weak** association. The lifecycle of the "part" object is not tied to the lifecycle of the "whole" object. If the "whole" is destroyed, the "part" can still exist.
+    
+- **Example:** A `Car` and a `Wheel`.
+    
+    - A `Car` _has_ `Wheels`.
+        
+    - However, if you scrap the `Car`, the `Wheels` can be removed and can exist on their own, perhaps to be used on another car.
+        
+- **UML Notation:** A solid line connecting the classes, with an **unfilled (hollow) diamond** on the side of the "whole" class.
+    
+    (Whole) `Car` <>---- `Wheel` (Part)
+    
+
+---
+
+### 2. Generalization
+
+Generalization is the process of extracting shared characteristics (attributes and methods) from two or more classes and combining them into a generalized superclass. It models an "is-a-kind-of" relationship. This is the core principle behind inheritance.
+
+- **Relationship Type:** "Is-A" (e.g., a Car is a Vehicle).
+    
+- **Key Idea:** It is a **bottom-up** process. You identify commonalities in specific classes (like `Car`, `Truck`) and create a more general parent class (like `Vehicle`). The subclass (child) inherits from the superclass (parent).
+    
+- **Example:** The classes `Car` and `Truck` both have properties like `speed` and `licensePlate`. We can generalize these into a `Vehicle` superclass.
+    
+    - `Car` _is a_ `Vehicle`.
+        
+    - `Truck` _is a_ `Vehicle`.
+        
+- **UML Notation:** A solid line with a **large, hollow, closed arrowhead** pointing from the specific class (child) to the general class (parent).
+    
+    `Car` ----▷ `Vehicle`
+    
+
+---
+
+### 3. Specialization
+
+Specialization is the reverse process of generalization. It involves creating new, more specific subclasses from an existing general class. The new subclasses inherit the properties of the general class but add their own specific attributes or methods.
+
+- **Relationship Type:** "Is-A" (viewed from the top-down).
+    
+- **Key Idea:** It is a **top-down** process. You start with a general class (like `Account`) and create more refined, specialized versions (like `SavingsAccount`, `CheckingAccount`). Specialization allows for adding unique features to subclasses.
+    
+- **Example:** Starting with a `Vehicle` class, you can create specialized subclasses like `Car`, `Motorcycle`, and `Bus`.
+    
+    - The `Car` class might add a specific attribute like `numberOfDoors`.
+        
+    - The `Bus` class might add `passengerCapacity`.
+        
+- **UML Notation:** Uses the **exact same symbol** as generalization. The term simply describes the direction of the design process (i.e., whether you are creating the general class from specifics or the specific classes from the general one).
+    
+    `SavingsAccount` ----▷ `Account`
+    
+
+---
+
+### Summary Table
+
+|Concept|Relationship|Key Idea|Example|
+|---|---|---|---|
+|**Aggregation**|Has-A|Weak "part-of" link. Part can exist without the whole.|A `Team` has a `Player`.|
+|**Generalization**|Is-A|Bottom-up: Creating a parent/superclass from children.|`Car` and `Truck` are generalized into `Vehicle`.|
+|**Specialization**|Is-A|Top-down: Creating children/subclasses from a parent.|`Vehicle` is specialized into `Car` and `Truck`.|
 
 ---
 # Reference
