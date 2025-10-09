@@ -484,6 +484,155 @@ Specialization is the reverse process of generalization. It involves creating ne
     
 - **Meaning:** The child use cases (e.g., `Withdraw Funds`) inherit the properties and relationships of the parent use case (`Perform Transaction`). In this diagram, this means all three child transactions automatically share the requirement of user authentication, which is linked to the parent. The arrow points from the specific (child) to the general (parent).
 
+## What is Inception? What are three kinds of actor, explain with example.
+### What is Inception?
+
+In the context of software development, particularly within methodologies like the Rational Unified Process (RUP) and other iterative models, **Inception** is the initial and shortest phase of a project's lifecycle. Its primary goal is not to produce a lot of code, but to establish a solid foundation and shared understanding for the project before committing to significant development effort.
+
+The main objectives of the Inception phase are:
+
+- **Establish Project Scope and Vision:** To define what the system will and will not be, and to create a common vision among all stakeholders.
+    
+- **Identify Key Requirements:** To understand the most critical functional and non-functional requirements at a high level.
+    
+- **Assess Feasibility:** To determine if the project is technically feasible, economically viable, and worth pursuing. This involves creating a rough business case, a preliminary project plan, and identifying major risks.
+    
+- **Create an Initial Architecture:** To design a candidate architecture that can handle the key technical challenges and requirements of the system.
+    
+
+In essence, the Inception phase is about answering the question: **"Is this project worth building?"** At the end of this phase, stakeholders make a go/no-go decision on whether to proceed to the next phase (Elaboration), where the project is built in more detail.
+
+### Three Kinds of Actors in System Analysis
+
+In Use Case analysis, an **actor** is anything that interacts with a system. While we often think of actors as individual users, they can be categorized more broadly. Here are three common types of actors, explained with examples:
+
+---
+
+#### 1. Primary Actor
+
+A primary actor is the main user for whom the system is built. Their primary goal is directly fulfilled by the system through an active use case. They are the ones who initiate the interaction to achieve a specific objective.
+
+- **Key Characteristic:** Initiates a use case and gets direct value from it.
+    
+- **Example: ATM System**
+    
+    - The **Customer** is the primary actor. They initiate use cases like "Withdraw Funds," "Check Balance," and "Transfer Money" to achieve their personal banking goals. The ATM system is built specifically to serve these needs.
+        
+
+#### 2. Supporting Actor (or Secondary Actor)
+
+A supporting actor, also known as a secondary actor, is an external entity that the system needs to interact with to complete a use case initiated by a primary actor. They don't initiate the use case themselves but provide a service or information to the system.
+
+- **Key Characteristic:** Provides a service to the system so that the primary actor's goal can be met.
+    
+- **Example: E-commerce Website**
+    
+    - When a **Customer** (primary actor) places an order, the system needs to process the payment. It interacts with a **Payment Gateway** (like Stripe, PayPal, or a bank's API). This Payment Gateway is the supporting actor. It doesn't care about the order itself; it just provides the payment verification service that the system requires.
+        
+
+#### 3. Offstage Actor
+
+An offstage actor has an interest in the behavior of the use case but is not directly involved in its execution. They don't interact with the system directly but are often stakeholders who care about the outcome or the side effects of the use case.
+
+- **Key Characteristic:** A stakeholder who is interested in the result of the use case but is not the primary user or a supporting service.
+    
+- **Example: University Enrollment System**
+    
+    - A **Student** (primary actor) enrolls in a course using the system. The **Professor** for that course is an offstage actor. The Professor doesn't use the system to enroll the student, but they have a direct interest in the outcome—namely, the final class roster. The government's **Education Ministry**, which might need enrollment statistics for funding purposes, is another example of an offstage actor.
+
+## UP Artifacts
+
+An **artifact** in the Unified Process is simply a piece of information that is produced, modified, or used by the development process.2 Artifacts are the tangible things that are created as a byproduct of the work being done.3 They can be documents, models, code, or other deliverables.
+
+These artifacts are not created all at once; they evolve over the project's four phases (Inception, Elaboration, Construction, Transition).4 For example, a use case model might start as a simple list of goals in the Inception phase and become a detailed, fully specified model by the end of the Elaboration phase.
+
+Here are the key artifacts of the Unified Process, organized by the discipline (or workflow) they belong to.
+
+---
+
+### 1. Business Modeling Artifacts
+
+These artifacts aim to understand the structure and dynamics of the organization in which the system will be deployed.
+
+- **Business Vision Document:** Describes the overall goals and vision for the business, helping to align the project with strategic objectives.
+    
+- **Business Use Case Model:** A model of the business processes, showing how the business provides value to its customers and partners.5
+    
+- **Business Object Model:** Describes the key business entities (e.g., `Customer`, `Product`, `Invoice`) and their relationships, independent of any single software system.6
+    
+
+### 2. Requirements Artifacts
+
+These artifacts focus on capturing what the system should do.
+
+- **Vision Document:** Describes the high-level goals and constraints of the software project.7 It outlines the problem to be solved and identifies the stakeholders.
+    
+- **Use Case Model:** This is a central artifact. It consists of:
+    
+    - **Use Cases:** Descriptions of sequences of actions the system performs to provide value to an actor (e.g., "Withdraw Funds," "Register New User").8
+        
+    - **Actors:** Roles played by users or external systems that interact with the system.9
+        
+- **Supplementary Specification:** Captures all non-functional requirements (NFRs) like performance, reliability, and security, as well as any functional requirements that are not easily captured in use cases.10
+    
+- **Glossary:** Defines important terms and acronyms used in the project to ensure a common understanding among all stakeholders.
+    
+
+### 3. Analysis & Design Artifacts
+
+These artifacts describe how the system will be realized, bridging the gap between requirements and implementation.
+
+- **Software Architecture Document (SAD):** Provides a comprehensive overview of the system's architecture from different viewpoints (logical, process, physical).11 It's one of the most crucial artifacts and outlines major design decisions.
+    
+- **Design Model:** The core artifact of this discipline, which includes:
+    
+    - **Class Diagrams:** Show the static structure of the system with classes, attributes, methods, and their relationships.
+        
+    - **Sequence Diagrams & Communication Diagrams:** Model the dynamic behavior, showing how objects interact over time to realize a use case.12
+        
+    - **State Machine Diagrams:** Describe the different states an object can be in and the transitions between those states.
+        
+- **Analysis Model (Optional):** A preliminary version of the Design Model that focuses on understanding the requirements without getting into implementation details.
+    
+
+### 4. Implementation Artifacts
+
+These artifacts are concerned with building the software itself.
+
+- **Source Code:** The actual implementation of the classes and components in a chosen programming language.
+    
+- **Builds:** The executable software created by compiling and linking the source code.13 These are created iteratively throughout the project.
+    
+- **Component Model:** Shows the physical organization of the source code into components and their dependencies.
+    
+
+### 5. Test Artifacts
+
+These artifacts focus on verifying the quality of the system.
+
+- **Test Plan:** Outlines the strategy for testing, including the scope, resources, schedule, and types of tests to be performed (unit, integration, system).14
+    
+- **Test Cases:** Specific steps and conditions to test a particular aspect of the system to verify that it works correctly.
+    
+- **Test Scripts:** Automated scripts used to execute tests.15
+    
+- **Defect Reports:** Documents describing any bugs or issues found during testing, used for tracking and resolution.
+    
+
+### 6. Project Management Artifacts
+
+These artifacts are used to plan and manage the project.
+
+- **Software Development Plan (SDP):** The overall project plan that covers schedules, resources, budget, and project milestones.16
+    
+- **Iteration Plan:** A detailed plan for a single iteration, specifying the tasks to be done and the goals to be achieved in that iteration.17
+    
+- **Risk List:** A document that identifies potential project risks, their probability, their impact, and mitigation plans.18
+    
+- **Business Case:** Justifies the project by outlining the expected costs and benefits, providing the rationale for the investment.
+    
+
+These artifacts collectively provide a complete picture of the system, from the initial business need to the final tested product, ensuring that the development process is well-documented, organized, and traceable.19
 
 ---
 # Reference
