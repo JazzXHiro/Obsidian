@@ -7,6 +7,8 @@ Tags:
 ---
 # Probability temp
 
+## Binomial Distribution
+
 ![[Pasted image 20251010122346.png]]
 
 Mean of Binomial distribution:
@@ -16,6 +18,10 @@ Variance of Binomial distribution:
 	Var(x) = npq
 
 - Mean $>$ Var(x)
+
+![[Pasted image 20251010123739.png]]
+
+
 
 ---
 # Reference
