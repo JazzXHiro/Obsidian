@@ -7,6 +7,7 @@ Tags:
 ---
 # Probability temp
 
+![[Pasted image 20251010122346.png]]
 
 
 ---
