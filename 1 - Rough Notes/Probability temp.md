@@ -32,8 +32,12 @@ Variance of Binomial distribution:
 ![[Pasted image 20251010130623.png]]
 ![[Pasted image 20251010131549.png]]
 
-## PMF
+## PMF(Discrete Random Variable)
 ![[Pasted image 20251010132930.png]]
+![[Pasted image 20251010134109.png]]
+![[Pasted image 20251010134159.png]]
+
+## CDF (Continuous R)
 
 ---
 # Reference
