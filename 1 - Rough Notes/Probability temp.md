@@ -37,7 +37,9 @@ Variance of Binomial distribution:
 ![[Pasted image 20251010134109.png]]
 ![[Pasted image 20251010134159.png]]
 
-## CDF (Continuous R)
+## CDF (Continuous Random Variable)
+![[Pasted image 20251010134505.png]]
+![[Pasted image 20251010134755.png]]
 
 ---
 # Reference
