@@ -40,6 +40,8 @@ Variance of Binomial distribution:
 ## PDF (Continuous Random Variable)
 ![[Pasted image 20251010134505.png]]
 ![[Pasted image 20251010134755.png]]
+![[Pasted image 20251010135853.png]]
+![[Pasted image 20251010140142.png]]
 
 ---
 # Reference
