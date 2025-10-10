@@ -20,7 +20,7 @@ Variance of Binomial distribution:
 - Mean $>$ Var(x)
 
 ![[Pasted image 20251010123739.png]]
-
+![[Pasted image 20251010124341.png]]
 
 
 ---
