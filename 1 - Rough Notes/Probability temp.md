@@ -21,6 +21,8 @@ Variance of Binomial distribution:
 
 ![[Pasted image 20251010123739.png]]
 ![[Pasted image 20251010124341.png]]
+![[Pasted image 20251010124724.png]]
+![[Pasted image 20251010125124.png]]
 
 
 ---
