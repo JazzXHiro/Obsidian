@@ -9,6 +9,13 @@ Tags:
 
 ![[Pasted image 20251010122346.png]]
 
+Mean of Binomial distribution:
+	E(x) = np
+
+Variance of Binomial distribution:
+	Var(x) = npq
+
+- Mean $>$ Var(x)
 
 ---
 # Reference
