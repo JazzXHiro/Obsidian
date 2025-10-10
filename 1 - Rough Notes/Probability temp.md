@@ -32,6 +32,8 @@ Variance of Binomial distribution:
 ![[Pasted image 20251010130623.png]]
 ![[Pasted image 20251010131549.png]]
 
+## PMF
+![[Pasted image 20251010132930.png]]
 
 ---
 # Reference
