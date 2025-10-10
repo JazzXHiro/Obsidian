@@ -30,6 +30,11 @@ Variance of Binomial distribution:
 ![[Pasted image 20251010125932.png]]
 ![[Pasted image 20251010130058.png]]
 ![[Pasted image 20251010130623.png]]
+
+### Conversion of Binomial to Poisson
+![[Pasted image 20251010142826.png]]
+
+
 ![[Pasted image 20251010131549.png]]
 
 ## PMF(Discrete Random Variable)
