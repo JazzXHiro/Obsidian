@@ -25,5 +25,11 @@ Variance of Binomial distribution:
 ![[Pasted image 20251010125124.png]]
 ![[Pasted image 20251010125230.png]]
 
+## Poisson Distribution
+
+![[Pasted image 20251010125932.png]]
+![[Pasted image 20251010130058.png]]
+
+
 ---
 # Reference
