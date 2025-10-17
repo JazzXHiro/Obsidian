@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/5. Configuring your compiler - Build configurations.md",
+                "file": "2 - Source Notes/Programming/C++/5. Configuring your compiler - Build configurations.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/5. Configuring your compiler - Build configurations.md",
+                "file": "2 - Source Notes/Programming/C++/5. Configuring your compiler - Build configurations.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -316,12 +316,12 @@
       }
     ]
   },
-  "active": "316de10d5129eae5",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
-    "2 - Source Notes/Programming/C++/Flashcards/5. Configuring your compiler - Build configurations.md",
-    "5 - Templates/Cpp.md",
     "2 - Source Notes/Programming/C++/Flashcards/4. FC - Compiling your first project.md",
+    "2 - Source Notes/Programming/C++/5. Configuring your compiler - Build configurations.md",
+    "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
+    "5 - Templates/Cpp.md",
     "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
