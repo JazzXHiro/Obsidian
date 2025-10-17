@@ -9,19 +9,3 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 # <% tp.file.title %>
-
----
-
-## 🃏 Flashcards
-
-**Q:** What is <% tp.file.title %>?  
-**A:** (Your answer here)
-
----
-
-**Q:** (Next question)  
-**A:** (Next answer)
-
----
-
-> 💡 Tip: Use `---` between flashcards and `**Q:**` / `**A:**` format for easy export to Anki.
