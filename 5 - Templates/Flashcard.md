@@ -12,11 +12,6 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 📝 Notes
-Add your study notes or concepts here.
-
----
-
 ## 🃏 Flashcards
 
 **Q:** What is <% tp.file.title %>?  
