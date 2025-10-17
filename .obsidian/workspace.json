@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
+                "file": "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. FC - Configuring your compiler - Compiler Extensions"
+              "title": "Outline of 4. Compiling your first project"
             }
           },
           {
@@ -316,14 +316,14 @@
       }
     ]
   },
-  "active": "316de10d5129eae5",
+  "active": "7b0dc8b17daff257",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/Flashcards/5. FC - Configuring your compiler - Build configurations.md",
     "2 - Source Notes/Programming/C++/Flashcards/4. FC - Compiling your first project.md",
     "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
-    "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/5. Configuring your compiler - Build configurations.md",
     "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
