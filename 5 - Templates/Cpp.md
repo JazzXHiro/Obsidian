@@ -1,6 +1,6 @@
 	{{date}} {{time}}
 
-Status: [[t-adult]]
+Status: [[t-child]]
 
 Tags: [[t-cpp]] [[t-programming]]
 
