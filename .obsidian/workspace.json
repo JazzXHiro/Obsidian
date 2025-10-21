@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "7d20a458177411da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-22 00.47.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-22 00.47.38.excalidraw"
+            }
+          },
+          {
             "id": "7993e62de5e509c5",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/8. Conf.md",
+                "file": "Excalidraw/Drawing 2025-10-22 00.47.38.excalidraw.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Conf"
+              "title": "Outline of Drawing 2025-10-22 00.47.38.excalidraw"
             }
           },
           {
@@ -277,15 +290,16 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "316de10d5129eae5",
+  "active": "7d20a458177411da",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/8. Conf.md",
+    "Excalidraw/Drawing 2025-10-22 00.47.38.excalidraw.md",
     "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/Flashcards/5. FC - Configuring your compiler - Build configurations.md",
     "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/Flashcards/Untitled.md",
-    "2 - Source Notes/Programming/C++/8. Conf.md",
     "2 - Source Notes/Untitled 1.md",
     "2 - Source Notes/Untitled 2.md",
     "5 - Templates/Flashcard.md",
@@ -305,7 +319,6 @@
     "3 - Tags/t-.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
-    "2 - Source Notes/Languages/English/NewWord/Untitled.md",
     "2 - Source Notes/Languages/English/NewWord",
     "2 - Source Notes/Languages/English",
     "7 - Attachments/Pasted image 20251014112417.png",
