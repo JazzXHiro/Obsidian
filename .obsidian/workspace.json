@@ -25,12 +25,14 @@
             "id": "7d20a458177411da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-22 00.47.38.excalidraw.md"
+                "file": "1 - Rough Notes/Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-22 00.47.38.excalidraw"
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-22 00.47.38.excalidraw.md",
+                "file": "1 - Rough Notes/Ideas.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-10-22 00.47.38.excalidraw"
+              "title": "Outline of Ideas"
             }
           },
           {
@@ -292,8 +294,10 @@
   },
   "active": "7d20a458177411da",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/8. Conf.md",
+    "1 - Rough Notes/Probability temp.md",
+    "1 - Rough Notes/Temp.md",
     "Excalidraw/Drawing 2025-10-22 00.47.38.excalidraw.md",
+    "2 - Source Notes/Programming/C++/8. Conf.md",
     "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/Flashcards/5. FC - Configuring your compiler - Build configurations.md",
     "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
@@ -317,8 +321,6 @@
     "7 - Attachments/Pasted image 20251017160405.png",
     "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "3 - Tags/t-.md",
-    "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
-    "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "2 - Source Notes/Languages/English/NewWord",
     "2 - Source Notes/Languages/English",
     "7 - Attachments/Pasted image 20251014112417.png",
