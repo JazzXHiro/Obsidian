@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
+                "file": "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Configuring your compiler - Warning and error levels"
+              "title": "7. FC - Configuring your compiler - Warning and error levels"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
+                "file": "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7. Configuring your compiler - Warning and error levels"
+              "title": "Outline of 7. FC - Configuring your compiler - Warning and error levels"
             }
           },
           {
@@ -279,19 +279,21 @@
   },
   "active": "316de10d5129eae5",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/8. Conf.md",
+    "2 - Source Notes/Programming/C++/Flashcards/5. FC - Configuring your compiler - Build configurations.md",
+    "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
+    "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
+    "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
+    "2 - Source Notes/Programming/C++/Flashcards/Untitled.md",
+    "2 - Source Notes/Programming/C++/8. Conf.md",
     "2 - Source Notes/Untitled 1.md",
     "2 - Source Notes/Untitled 2.md",
-    "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
-    "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
     "5 - Templates/Flashcard.md",
     "5 - Templates/Temp maths.md",
     "5 - Templates/Polish pronounciation.md",
     "5 - Templates/Mahabharata.md",
     "5 - Templates/Cpp.md",
     "5 - Templates/Full Note.md",
-    "2 - Source Notes/Programming/C++/Flashcards/5. FC - Configuring your compiler - Build configurations.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
@@ -304,8 +306,6 @@
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "2 - Source Notes/Languages/English/NewWord/Untitled.md",
-    "2 - Source Notes/Languages/English/NewWord/Colloquially.md",
-    "3 - Tags/t-english.md",
     "2 - Source Notes/Languages/English/NewWord",
     "2 - Source Notes/Languages/English",
     "7 - Attachments/Pasted image 20251014112417.png",
