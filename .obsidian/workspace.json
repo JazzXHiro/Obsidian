@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
+                "file": "2 - Source Notes/Programming/C++/8. Conf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. FC - Configuring your compiler - Warning and error levels"
+              "title": "8. Conf"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
+                "file": "2 - Source Notes/Programming/C++/8. Conf.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7. FC - Configuring your compiler - Warning and error levels"
+              "title": "Outline of 8. Conf"
             }
           },
           {
@@ -279,9 +279,9 @@
   },
   "active": "316de10d5129eae5",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/Flashcards/5. FC - Configuring your compiler - Build configurations.md",
     "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
-    "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/Flashcards/Untitled.md",
