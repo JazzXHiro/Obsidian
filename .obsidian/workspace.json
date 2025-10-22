@@ -255,6 +255,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -274,8 +275,7 @@
       "meld-encrypt:Lock and Close all open encrypted notes": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt Selection": false,
-      "meld-encrypt:Decrypt at Cursor": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "meld-encrypt:Decrypt at Cursor": false
     }
   },
   "active": "7d20a458177411da",
