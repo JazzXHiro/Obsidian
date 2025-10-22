@@ -1,8 +1,11 @@
 ---
-cards-deck: "{{tp.file.title}}"
+cards-deck: 2 - Source Notes::Programming::C++::{{Title}}
 tags:
   - flashcards
-created: <%tp.date.now("YYYY-MM-DD")%>
+  - cpp
+  - programming
+created: "{{date}} {{time}}"
+---
 ---
 
-# <% tp.file.title %>
+# {{Title}}

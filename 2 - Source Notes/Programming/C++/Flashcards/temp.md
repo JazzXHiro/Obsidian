@@ -1,8 +1,6 @@
 ---
-# This property automatically sets the hierarchical Anki deck
-# and uses the note's title as the final segment of the deck name.
 cards-deck: 2 - Source Notes::Programming::C++::<% tp.file.title %>
-tags: t-cpp, t-programming, comments, <% tp.file.title %> 
+tags:
 ---
 
 # Flashcards for: <% tp.file.title %>
