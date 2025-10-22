@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Anki.md",
+                "file": "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anki"
+              "title": "8. FC - Statements and the structure of a program 1"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Templates/Anki.md",
+                "file": "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anki"
+              "title": "Outline of 8. FC - Statements and the structure of a program 1"
             }
           },
           {
@@ -294,11 +294,14 @@
   },
   "active": "7d20a458177411da",
   "lastOpenFiles": [
-    "5 - Templates/Flashcard.md",
+    "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
+    "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
+    "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
+    "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
     "5 - Templates/Anki.md",
+    "5 - Templates/Flashcard.md",
     "2 - Source Notes/Temp4.md",
     "2 - Source Notes/Programming/C++/8. Statements and the structure of a program.md",
-    "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
     "5 - Templates/Full Note.md",
     "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Game Dev/Ideas/Game Ideas.excalidraw",
@@ -308,9 +311,7 @@
     "1 - Rough Notes/Probability temp.md",
     "1 - Rough Notes/Temp.md",
     "Excalidraw/Drawing 2025-10-22 00.47.38.excalidraw.md",
-    "2 - Source Notes/Programming/C++/Flashcards/7. FC - Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/Flashcards/5. FC - Configuring your compiler - Build configurations.md",
-    "2 - Source Notes/Programming/C++/Flashcards/6. FC - Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/Flashcards/Untitled.md",
     "2 - Source Notes/Untitled 1.md",
@@ -322,7 +323,6 @@
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
-    "2 - Source Notes/Programming/C++/Flashcards/4. FC - Compiling your first project.md",
     "7 - Attachments/Pasted image 20251017160405.png",
     "2 - Source Notes/Languages/English/NewWord",
     "2 - Source Notes/Languages/English",
