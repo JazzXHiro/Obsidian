@@ -25,12 +25,14 @@
             "id": "7d20a458177411da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Game Dev/Ideas/Game Ideas.excalidraw"
+                "file": "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Game Ideas"
+              "icon": "lucide-file",
+              "title": "7. Configuring your compiler - Warning and error levels"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Game Dev/Ideas/Game Ideas.excalidraw",
+                "file": "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Game Ideas"
+              "title": "Outline of 7. Configuring your compiler - Warning and error levels"
             }
           },
           {
