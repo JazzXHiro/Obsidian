@@ -505,8 +505,8 @@ var en_default = {
   password_protection_closed: "Password verification passed.",
   notice_set_password: "Please set the password in the settings page for the Password Protection Plugin first!",
   setting_folder_name: "Protected folder or file",
-  setting_folder_desc: "With relative path, the '/' is the root path of the vault",
-  place_holder_enter_path: "Enter path, start with '/'",
+  setting_folder_desc: "The default value '/' is the root path of the vault",
+  place_holder_enter_path: "Enter path, e.g. mynotes/diary",
   setting_toggle_name: "Enable/Disable password protection",
   setting_toggle_desc: "To enable password protection you will set your password, to disable it you will need to verify your password.",
   hint_enter_in_both_boxes: "Please enter your password in both boxes.",
@@ -531,7 +531,7 @@ var en_default = {
   setting_more_path: "More folders or files to be protected (up to 6)",
   setting_add_path: "Add protected path",
   setting_add_path_name: "Protected path",
-  setting_add_path_place_holder: "Enter path, start with the '/'",
+  setting_add_path_place_holder: "Enter path, e.g. mynotes/diary",
   setting_remove_path: "Remove protected path"
 };
 
@@ -546,8 +546,8 @@ var es_default = {
   password_protection_closed: "Verificaci\xF3n de contrase\xF1a aprobada!",
   notice_set_password: "\xA1Introduzca la contrase\xF1a en preferencias para el complemento Protecci\xF3n con Contrase\xF1a primero!",
   setting_folder_name: "Carpeta o archivo protegido",
-  setting_folder_desc: "Ruta relativa, usa '/' para la ruta ra\xEDz de la b\xF3veda",
-  place_holder_enter_path: "Introduce ruta, empiece con '/'",
+  setting_folder_desc: "El valor predeterminado '/' es la ruta ra\xEDz de la b\xF3veda",
+  place_holder_enter_path: "Introduzca la ruta, p. ej. Misnotas/diario",
   setting_toggle_name: "Activar/Desactivar protecci\xF3n con contrase\xF1a",
   setting_toggle_desc: "Para activar protecci\xF3n con contrase\xF1a, establecer\xE1s una contrase\xF1a, y para desactivar, tienes que verificarla.",
   hint_enter_in_both_boxes: "Introduzca la contrase\xF1a en ambas casillas.",
@@ -572,7 +572,7 @@ var es_default = {
   setting_more_path: "M\xE1s carpetas o archivos a proteger (hasta 6)",
   setting_add_path: "A\xF1adir ruta protegida",
   setting_add_path_name: "Ruta protegida",
-  setting_add_path_place_holder: "Introducir ruta, empieza con '/'",
+  setting_add_path_place_holder: "Introduzca la ruta, p. ej. Misnotas/diario",
   setting_remove_path: "Eliminar ruta protegida"
 };
 
@@ -586,8 +586,8 @@ var zh_cn_default = {
   password_protection_closed: "\u5BC6\u7801\u9A8C\u8BC1\u901A\u8FC7",
   notice_set_password: "\u8BF7\u5148\u53BB\u5BC6\u7801\u4FDD\u62A4\u63D2\u4EF6\u7684\u8BBE\u7F6E\u9875\u8BBE\u7F6E\u5BC6\u7801",
   setting_folder_name: "\u9700\u8981\u4FDD\u62A4\u7684\u6587\u4EF6\u5939\u6216\u6587\u4EF6",
-  setting_folder_desc: "\u8F93\u5165\u76F8\u5BF9\u8DEF\u5F84, '/' \u4EE3\u8868\u7B14\u8BB0\u5E93\u7684\u6839\u8DEF\u5F84",
-  place_holder_enter_path: "\u8F93\u5165\u8DEF\u5F84\uFF0C\u4EE5'/'\u5F00\u59CB",
+  setting_folder_desc: "\u9ED8\u8BA4\u503C '/' \u4EE3\u8868\u7B14\u8BB0\u5E93\u7684\u6839\u8DEF\u5F84",
+  place_holder_enter_path: "\u8F93\u5165\u8DEF\u5F84\uFF0C\u6BD4\u5982\uFF1A\u6211\u7684\u7B14\u8BB0/\u65E5\u8BB0",
   setting_toggle_name: "\u5F00\u542F\u6216\u5173\u95ED\u5BC6\u7801\u4FDD\u62A4",
   setting_toggle_desc: "\u5F00\u542F\u4FDD\u62A4\u9700\u8981\u8BBE\u7F6E\u5BC6\u7801\uFF0C\u5173\u95ED\u4FDD\u62A4\u9700\u8981\u9A8C\u8BC1\u5BC6\u7801",
   hint_enter_in_both_boxes: "\u8BF7\u5728\u4E24\u4E2A\u8F93\u5165\u6846\u4E2D\u90FD\u8F93\u5165\u5BC6\u7801",
@@ -612,7 +612,7 @@ var zh_cn_default = {
   setting_more_path: "\u66F4\u591A\u9700\u8981\u4FDD\u62A4\u7684\u6587\u4EF6\u5939\u6216\u6587\u4EF6(\u6700\u591A6\u4E2A)",
   setting_add_path: "\u6DFB\u52A0\u4FDD\u62A4\u8DEF\u5F84",
   setting_add_path_name: "\u4FDD\u62A4\u8DEF\u5F84",
-  setting_add_path_place_holder: "\u8F93\u5165\u8DEF\u5F84\uFF0C\u4EE5'/'\u5F00\u59CB",
+  setting_add_path_place_holder: "\u8F93\u5165\u8DEF\u5F84\uFF0C\u6BD4\u5982\uFF1A\u6211\u7684\u7B14\u8BB0/\u65E5\u8BB0",
   setting_remove_path: "\u79FB\u9664\u4FDD\u62A4\u8DEF\u5F84"
 };
 
@@ -626,8 +626,8 @@ var zh_tw_default = {
   password_protection_closed: "\u5BC6\u78BC\u9A57\u8B49\u901A\u904E",
   notice_set_password: "\u8ACB\u5148\u53BB\u5BC6\u78BC\u4FDD\u8B77\u63D2\u4EF6\u7684\u8A2D\u7F6E\u9801\u8A2D\u7F6E\u5BC6\u78BC",
   setting_folder_name: "\u9700\u8981\u4FDD\u8B77\u7684\u6587\u4EF6\u593E\u6216\u6587\u4EF6",
-  setting_folder_desc: "\u8F38\u5165\u76F8\u5C0D\u8DEF\u5F91, '/' \u4EE3\u8868\u7B46\u8A18\u5EAB\u7684\u6839\u8DEF\u5F91",
-  place_holder_enter_path: "\u8F38\u5165\u8DEF\u5F91, \u4EE5'/'\u958B\u59CB",
+  setting_folder_desc: "\u9ED8\u8A8D\u503C '/' \u4EE3\u8868\u7B46\u8A18\u5EAB\u7684\u6839\u8DEF\u5F91",
+  place_holder_enter_path: "\u8F38\u5165\u8DEF\u5F91\uFF0C\u6BD4\u5982\uFF1A\u6211\u7684\u7B46\u8A18/\u65E5\u8A18",
   setting_toggle_name: "\u958B\u555F\u6216\u95DC\u9589\u5BC6\u78BC\u4FDD\u8B77",
   setting_toggle_desc: "\u958B\u555F\u4FDD\u8B77\u9700\u8981\u8A2D\u7F6E\u5BC6\u78BC\uFF0C\u95DC\u9589\u4FDD\u8B77\u9700\u8981\u9A57\u8B49\u5BC6\u78BC",
   hint_enter_in_both_boxes: "\u8ACB\u5728\u5169\u500B\u8F38\u5165\u6846\u4E2D\u90FD\u8F38\u5165\u5BC6\u78BC",
@@ -652,7 +652,7 @@ var zh_tw_default = {
   setting_more_path: "\u66F4\u591A\u9700\u8981\u4FDD\u8B77\u7684\u6587\u4EF6\u593E\u6216\u6587\u4EF6(\u6700\u591A6\u500B)",
   setting_add_path: "\u6DFB\u52A0\u4FDD\u8B77\u8DEF\u5F91",
   setting_add_path_name: "\u4FDD\u8B77\u8DEF\u5F91",
-  setting_add_path_place_holder: "\u8F38\u5165\u8DEF\u5F91\uFF0C\u4EE5'/'\u958B\u59CB",
+  setting_add_path_place_holder: "\u8F38\u5165\u8DEF\u5F91\uFF0C\u6BD4\u5982\uFF1A\u6211\u7684\u7B46\u8A18/\u65E5\u8A18",
   setting_remove_path: "\u79FB\u9664\u4FDD\u8B77\u8DEF\u5F91"
 };
 
@@ -715,17 +715,35 @@ var PasswordPlugin = class extends import_obsidian2.Plugin {
     super(...arguments);
     this.isVerifyPasswordWaitting = false;
     this.isVerifyPasswordCorrect = false;
+    this.isAutoLockRegistered = false;
     this.lastUnlockOrOpenFileTime = null;
     this.t = (x, vars) => {
       return this.i18n.t(x, vars);
+    };
+    this.handleRename = (file, oldPath) => {
+      if (file != null) {
+        if (this.settings.protectEnabled && !this.isVerifyPasswordCorrect && (this.isProtectedFile(oldPath) || this.isProtectedFile(file.path))) {
+          this.verifyPasswordProtection();
+        }
+        if (this.settings.protectEnabled && this.isProtectedFile(oldPath)) {
+          this.ReplaceProtectedPath(oldPath, file.path);
+        }
+        if (this.settings.protectEnabled && this.isVerifyPasswordCorrect) {
+          this.lastUnlockOrOpenFileTime = (0, import_obsidian2.moment)();
+        }
+      }
+    };
+    // process the save event of file modified.
+    this.handleFileModify = (file) => {
+      this.lastUnlockOrOpenFileTime = (0, import_obsidian2.moment)();
     };
   }
   async onload() {
     await this.loadSettings();
     this.lastUnlockOrOpenFileTime = (0, import_obsidian2.moment)();
     this.settings.protectedPath = this.settings.protectedPath.trim();
-    if (this.settings.protectedPath.length == 0 || this.settings.protectedPath[0] != "/") {
-      this.settings.protectedPath = ROOT_PATH + this.settings.protectedPath;
+    if (this.settings.protectedPath.length == 0) {
+      this.settings.protectedPath = ROOT_PATH;
     }
     if (this.settings.addedProtectedPath.length > ADD_PATH_MAX) {
       this.settings.addedProtectedPath.slice(ADD_PATH_MAX, this.settings.addedProtectedPath.length - ADD_PATH_MAX);
@@ -761,7 +779,7 @@ var PasswordPlugin = class extends import_obsidian2.Plugin {
     this.registerEvent(this.app.workspace.on("file-open", (file) => {
       if (file != null) {
         this.autoLockCheck();
-        if (this.settings.protectEnabled && !this.isVerifyPasswordCorrect && this.isProtectedFile(file)) {
+        if (this.settings.protectEnabled && !this.isVerifyPasswordCorrect && this.isProtectedFile(file.path)) {
           this.verifyPasswordProtection();
         }
         if (this.settings.protectEnabled && this.isVerifyPasswordCorrect) {
@@ -783,23 +801,48 @@ var PasswordPlugin = class extends import_obsidian2.Plugin {
         }
       }
     }));
-    if (this.settings.protectEnabled && this.settings.autoLockInterval > 0) {
-      this.registerInterval(window.setInterval(() => this.autoLockCheck(), 10 * 1e3));
-    }
+    this.app.vault.on("rename", this.handleRename);
+    this.app.vault.on("modify", this.handleFileModify);
+    this.registerAutoLock();
   }
   async onunload() {
+    this.app.vault.off("modify", this.handleFileModify);
+    this.app.vault.off("rename", this.handleRename);
     this.settings.isLastVerifyPasswordCorrect = this.isVerifyPasswordCorrect;
     this.settings.timeOnUnload = (0, import_obsidian2.moment)();
     await this.saveSettings();
+  }
+  registerAutoLock() {
+    if (this.settings.protectEnabled && this.settings.autoLockInterval > 0 && !this.isAutoLockRegistered) {
+      this.isAutoLockRegistered = true;
+      this.registerInterval(window.setInterval(() => this.autoLockCheck(), 10 * 1e3));
+    }
   }
   autoLockCheck() {
     if (this.settings.protectEnabled && this.isVerifyPasswordCorrect && this.settings.autoLockInterval > 0) {
       let curTime = (0, import_obsidian2.moment)();
       if (curTime.diff(this.lastUnlockOrOpenFileTime, "minute") >= this.settings.autoLockInterval) {
-        this.isVerifyPasswordCorrect = false;
-        this.verifyPasswordProtection();
+        if (this.isProtectFileOpened()) {
+          this.isVerifyPasswordCorrect = false;
+          this.verifyPasswordProtection();
+        } else {
+          this.isVerifyPasswordCorrect = false;
+        }
       }
     }
+  }
+  // check if the file opened need to be protected.
+  isProtectFileOpened() {
+    let leaves = [];
+    let isOpened = false;
+    this.app.workspace.iterateAllLeaves((leaf) => {
+      if (leaf.view instanceof import_obsidian2.FileView && leaf.view.file != null) {
+        if (!isOpened) {
+          isOpened = this.isProtectedFile(leaf.view.file.path);
+        }
+      }
+    });
+    return isOpened;
   }
   // close notes
   async closeLeaves() {
@@ -812,7 +855,7 @@ var PasswordPlugin = class extends import_obsidian2.Plugin {
     };
     for (const leaf of leaves) {
       if (leaf.view instanceof import_obsidian2.FileView && leaf.view.file != null) {
-        let needClose = this.isProtectedFile(leaf.view.file);
+        let needClose = this.isProtectedFile(leaf.view.file.path);
         if (needClose) {
           await emptyLeaf(leaf);
           leaf.detach();
@@ -848,6 +891,8 @@ var PasswordPlugin = class extends import_obsidian2.Plugin {
       const setModal = new VerifyPasswordModal(this.app, this, () => {
         if (this.isVerifyPasswordCorrect) {
           new import_obsidian2.Notice(this.t("password_protection_closed"));
+        } else {
+          this.closeLeaves();
         }
       }).open();
     }
@@ -864,30 +909,88 @@ var PasswordPlugin = class extends import_obsidian2.Plugin {
     }
     return false;
   }
-  // check if the file need to be protected
-  isProtectedFile(file) {
-    if (file.path == "") {
+  // check if the filepath need to be protected
+  isProtectedFile(filePath) {
+    if (filePath == "") {
       return false;
     }
-    let path = (0, import_obsidian2.normalizePath)(file.path);
-    path = ROOT_PATH + path;
-    if (this.settings.protectedPath.length > 0 && path.length >= this.settings.protectedPath.length) {
-      if (path.toLowerCase().startsWith(this.settings.protectedPath.toLowerCase())) {
-        return true;
-      }
+    if (this.isIncludeRootPath()) {
+      return true;
+    }
+    let path = (0, import_obsidian2.normalizePath)(filePath);
+    let protectedPath = (0, import_obsidian2.normalizePath)(this.settings.protectedPath);
+    if (this.IsChildPath(path, protectedPath)) {
+      return true;
     }
     for (let i = 0; i < this.settings.addedProtectedPath.length; i++) {
-      if (this.settings.addedProtectedPath[i].length == 0) {
+      protectedPath = (0, import_obsidian2.normalizePath)(this.settings.addedProtectedPath[i]);
+      if (protectedPath.length == 0) {
         continue;
       }
-      if (path.length < this.settings.addedProtectedPath[i].length) {
+      if (path.length < protectedPath.length) {
         continue;
       }
-      if (path.toLowerCase().startsWith(this.settings.addedProtectedPath[i].toLowerCase())) {
+      if (this.IsChildPath(path, protectedPath)) {
         return true;
       }
     }
     return false;
+  }
+  // check if the protectedPath is the child part of path.
+  IsChildPath(path, protectedPath) {
+    if (protectedPath.length > 0 && path.length >= protectedPath.length) {
+      if (path.toLowerCase().startsWith(protectedPath.toLowerCase())) {
+        if (path.length == protectedPath.length) {
+          return true;
+        } else {
+          if (path[protectedPath.length] == "/" || path[protectedPath.length] == "\\" || path[protectedPath.length] == ".") {
+            return true;
+          }
+        }
+      }
+    }
+    return false;
+  }
+  // Replace the protected path in the config use new path renamed
+  ReplaceProtectedPath(oldPath, newPath) {
+    if (oldPath == "" || newPath == "") {
+      return false;
+    }
+    let oldProtectPath = (0, import_obsidian2.normalizePath)(this.removeFileExtension(oldPath));
+    let newProtectPath = (0, import_obsidian2.normalizePath)(this.removeFileExtension(newPath));
+    let protectedPath = "";
+    if (this.settings.protectedPath.trim() != ROOT_PATH) {
+      protectedPath = (0, import_obsidian2.normalizePath)(this.settings.protectedPath);
+      if (oldProtectPath.toLowerCase() == protectedPath.toLowerCase()) {
+        this.settings.protectedPath = newProtectPath;
+        this.saveSettings();
+        return true;
+      }
+    }
+    for (let i = 0; i < this.settings.addedProtectedPath.length; i++) {
+      protectedPath = this.settings.addedProtectedPath[i];
+      if (protectedPath.trim() != ROOT_PATH) {
+        protectedPath = (0, import_obsidian2.normalizePath)(protectedPath);
+        if (oldProtectPath.toLowerCase() == protectedPath.toLowerCase()) {
+          this.settings.addedProtectedPath[i] = newProtectPath;
+          this.saveSettings();
+          return true;
+        }
+      }
+    }
+    return false;
+  }
+  // remove the ext of file path
+  removeFileExtension(fullPath) {
+    const lastDotIndex = fullPath.lastIndexOf(".");
+    const lastSeparatorIndex = Math.max(
+      fullPath.lastIndexOf("/"),
+      fullPath.lastIndexOf("\\")
+    );
+    if (lastDotIndex === -1 || lastDotIndex <= lastSeparatorIndex) {
+      return fullPath;
+    }
+    return fullPath.substring(0, lastDotIndex);
   }
   // encrypt password
   encrypt(text, key) {
@@ -944,6 +1047,7 @@ var PasswordSettingTab = class extends import_obsidian2.PluginSettingTab {
               this.plugin.isVerifyPasswordCorrect = false;
               this.plugin.saveSettings();
               this.plugin.closeLeaves();
+              this.plugin.registerAutoLock();
             }
             this.display();
           }).open();
@@ -978,8 +1082,8 @@ var PasswordSettingTab = class extends import_obsidian2.PluginSettingTab {
     })).setDisabled(this.plugin.settings.protectEnabled);
     new import_obsidian2.Setting(containerEl).setName(this.plugin.t("setting_folder_name")).setDesc(this.plugin.t("setting_folder_desc")).addText((text) => text.setPlaceholder(this.plugin.t("place_holder_enter_path")).setValue(this.plugin.settings.protectedPath).onChange(async (value) => {
       let path = value.trim();
-      if (path == "" || path[0] != "/") {
-        path = ROOT_PATH + path;
+      if (path == "") {
+        path = ROOT_PATH;
       }
       this.plugin.settings.protectedPath = path;
     })).setDisabled(this.plugin.settings.protectEnabled);
@@ -1005,8 +1109,8 @@ var PasswordSettingTab = class extends import_obsidian2.PluginSettingTab {
     const { containerEl } = this;
     let setting = new import_obsidian2.Setting(containerEl).setName(this.plugin.t("setting_add_path_name")).setClass("setting_add_path_input").addText((text) => text.setPlaceholder(this.plugin.t("setting_add_path_place_holder")).setValue(initPath).onChange(async (value) => {
       let path = value.trim();
-      if (path == "" || path[0] != "/") {
-        path = ROOT_PATH + path;
+      if (path == "") {
+        path = ROOT_PATH;
       }
       this.plugin.settings.addedProtectedPath[index] = path;
     })).setDisabled(this.plugin.settings.protectEnabled);
@@ -1126,13 +1230,6 @@ var VerifyPasswordModal = class extends import_obsidian2.Modal {
     this.onSubmit = onSubmit;
   }
   onOpen() {
-    if (this.plugin.settings.protectEnabled) {
-      const { modalEl } = this;
-      const closeButton = modalEl.getElementsByClassName("modal-close-button")[0];
-      if (closeButton != null) {
-        closeButton.setAttribute("style", "display: none;");
-      }
-    }
     Object.assign(this.app.workspace.containerEl.style, {
       filter: "blur(8px)"
     });
@@ -1206,17 +1303,8 @@ var VerifyPasswordModal = class extends import_obsidian2.Modal {
     this.plugin.isVerifyPasswordWaitting = false;
     const { contentEl } = this;
     contentEl.empty();
-    if (this.plugin.settings.protectEnabled) {
-      if (!this.plugin.isVerifyPasswordCorrect) {
-        const setModal = new VerifyPasswordModal(this.app, this.plugin, this.onSubmit).open();
-      } else {
-        this.restoreBlur();
-        this.onSubmit();
-      }
-    } else {
-      this.restoreBlur();
-      this.onSubmit();
-    }
+    this.restoreBlur();
+    this.onSubmit();
   }
 };
 /*! Bundled license information:
