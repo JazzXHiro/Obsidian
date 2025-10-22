@@ -1,13 +1,10 @@
-	2025-10-17 16:17
-
-Status: [[t-child]]
-
-Tags: [[t-cpp]] [[t-programming]]
-
 ---
-# 7. Configuring your compiler - Warning and error levels
+cards-deck: 2 - Source Notes::Programming::C++::<% tp.file.title %>
+---
 
-## Diagnostic Message / Diagnostic
+# Configuring your compiler - Warning and error levels
+
+## Diagnostic Message / Diagnostic #card
 When the compiler encounters some kind of issue, it will emit **diagnostic message**.
 
 ### Diagnostic Error / Error
