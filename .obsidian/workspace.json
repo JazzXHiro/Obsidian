@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
+                "file": "5 - Templates/Anki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. FC - Statements and the structure of a program 1"
+              "title": "Anki"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
+                "file": "5 - Templates/Anki.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. FC - Statements and the structure of a program 1"
+              "title": "Outline of Anki"
             }
           },
           {
@@ -295,9 +295,11 @@
   "active": "7d20a458177411da",
   "lastOpenFiles": [
     "5 - Templates/Flashcard.md",
-    "5 - Templates/Full Note.md",
-    "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
+    "5 - Templates/Anki.md",
+    "2 - Source Notes/Temp4.md",
     "2 - Source Notes/Programming/C++/8. Statements and the structure of a program.md",
+    "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program 1.md",
+    "5 - Templates/Full Note.md",
     "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Game Dev/Ideas/Game Ideas.excalidraw",
     "1 - Rough Notes/Ideas.md",
@@ -321,8 +323,6 @@
     "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/Flashcards/4. FC - Compiling your first project.md",
-    "2 - Source Notes/Programming/C++/5. Configuring your compiler - Build configurations.md",
-    "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
     "7 - Attachments/Pasted image 20251017160405.png",
     "2 - Source Notes/Languages/English/NewWord",
     "2 - Source Notes/Languages/English",
