@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/9. Comments.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Comments"
+              "title": "Question Bank"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/Flashcards/9. Comments.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9. Comments"
+              "title": "Outline of Question Bank"
             }
           },
           {
@@ -278,10 +278,11 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "7d20a458177411da",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/Flashcards/temp.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "2 - Source Notes/Programming/C++/Flashcards/9. Comments.md",
+    "2 - Source Notes/Programming/C++/Flashcards/temp.md",
     "2 - Source Notes/Programming/C++/9. Comments.md",
     "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program.md",
     "5 - Templates/Flashcard.md",
