@@ -57,4 +57,13 @@ Is you really want to work in this
 input system assign
 
 ---
+
+# IMRAD - Introduction Methods Results Discussion
+
+## Introduction
+
+	1. Backgroud - (Who, Domain Problems, Existing Problems)
+	2. Literature Support - providing evidence
+
+---
 # Reference
