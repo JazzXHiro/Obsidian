@@ -65,5 +65,7 @@ input system assign
 	1. Backgroud - (Who, Domain Problems, Existing Problems)
 	2. Literature Support - providing evidence
 
+- Make a list of papers from zotero that support your previous problem statement presentation (Yes & No, Relevancy, Results, Discussion).
+
 ---
 # Reference
