@@ -72,6 +72,13 @@ input system assign
 ## Methods
 
 	1. Study Design - (Input, Output Table)
+	2. Participants / Materials
+	3. Procedure --> Timelines
+	4. Data Analysis
+
+## Results
+
+## Discussion
 
 ---
 # Reference
