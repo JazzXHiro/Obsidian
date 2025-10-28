@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Temp"
             }
+          },
+          {
+            "id": "b6d1b8a747be3a86",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-28 17.56.11.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Temp.md",
+                "file": "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Temp"
+              "title": "Outline of Drawing 2025-10-28 17.56.11.excalidraw"
             }
           },
           {
@@ -278,11 +290,12 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "7d20a458177411da",
+  "active": "b6d1b8a747be3a86",
   "lastOpenFiles": [
+    "1 - Rough Notes/Temp.md",
+    "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md",
     "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Programming/C++/9. Comments.md",
-    "1 - Rough Notes/Temp.md",
     "2 - Source Notes/Programming/C++/8. Statements and the structure of a program.md",
     "2 - Source Notes/Programming/C++/Flashcards/9. Comments.md",
     "1 - Rough Notes/Capstone.md",
@@ -306,7 +319,6 @@
     "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
-    "2 - Source Notes/Programming/C++/Flashcards/2. FC - Introduction to C++.md",
     "2 - Source Notes/Game Dev/Ideas/Game Ideas.excalidraw",
     "2 - Source Notes/Game Dev/Ideas",
     "2 - Source Notes/Game Dev",
