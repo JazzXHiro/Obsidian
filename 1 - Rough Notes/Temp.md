@@ -89,6 +89,12 @@ Names of Regions
 
 - Blackspire (Eyes of BlackSpire)
 
+# Player
+
+## Movement 
+
+Linear - A/D, Jump - Space and more
+
 # Classes
 
 
@@ -97,8 +103,9 @@ Names of Regions
 	- You switch with a god damn inventory item
 	- When u use the stone
 		- The stone decides the class level fight based on player's progression(Early/Mid/End)
-		- it checks if the player has already unlocked the class via the class level fight
-			- if not teleport the character to the level
+			- The stone also prompts the player at the end of the class level fight whether he wants to reset the skill tree or not.
+		- it checks if the player has already unlocked the class via the class level fight.
+			- if not teleport the character to the level.
 
 - Sub class
 			- Holy | Unholy | Fire | Ice | Poison
@@ -110,6 +117,13 @@ Names of Regions
 
 - Weapons will have 5 elements (Holy | Unholy | Fire | Ice | Poison)
 - Certain weapons with the same subclass will be buffed.
+- 
+
+# Map Traversal
+
+- Teleport points
+	- In all towns
+	- In certain areas in between towns
 - 
 
 ---
