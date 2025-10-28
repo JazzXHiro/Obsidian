@@ -93,6 +93,7 @@ Names of Regions
 
 
 -  Main Class
+	- Knight / Mage / Assassin
 	- You switch with a god damn inventory item
 	- When u use the stone
 		- The stone decides the class level fight based on player's progression(Early/Mid/End)
@@ -100,7 +101,7 @@ Names of Regions
 			- if not teleport the character to the level
 
 - Sub class
-			- 
-
+			- Holy | Unholy | Fire | Ice | Poison
+			- You switch with an equippable  
 ---
 # Reference
