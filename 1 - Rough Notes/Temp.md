@@ -102,6 +102,15 @@ Names of Regions
 
 - Sub class
 			- Holy | Unholy | Fire | Ice | Poison
-			- You switch with an equippable  
+			- You switch with an equippable armor that you unlock through quests and boss fights
+				- To switch armors you need to meet the requirements stats
+					- You can switch between the armors in inventory anytime
+
+# Weapons
+
+- Weapons will have 5 elements (Holy | Unholy | Fire | Ice | Poison)
+- Certain weapons with the same subclass will be buffed.
+- 
+
 ---
 # Reference
