@@ -95,7 +95,12 @@ Names of Regions
 -  Main Class
 	- You switch with a god damn inventory item
 	- When u use the stone
-		- it checks if the player has already unlocked 
+		- The stone decides the class level fight based on player's progression(Early/Mid/End)
+		- it checks if the player has already unlocked the class via the class level fight
+			- if not teleport the character to the level
+
+- Sub class
+			- 
 
 ---
 # Reference
