@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/9. Comments.md",
+                "file": "1 - Rough Notes/Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Comments"
+              "title": "Temp"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/9. Comments.md",
+                "file": "1 - Rough Notes/Temp.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9. Comments"
+              "title": "Outline of Temp"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "7d20a458177411da",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/9. Comments.md",
     "2 - Source Notes/Programming/C++/8. Statements and the structure of a program.md",
     "2 - Source Notes/Programming/C++/Flashcards/9. Comments.md",
     "1 - Rough Notes/Temp.md",
@@ -287,7 +288,6 @@
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "2 - Source Notes/Programming/C++/Flashcards/temp.md",
-    "2 - Source Notes/Programming/C++/9. Comments.md",
     "2 - Source Notes/Programming/C++/Flashcards/8. FC - Statements and the structure of a program.md",
     "5 - Templates/Flashcard.md",
     "5 - Templates/Mahabharata.md",
