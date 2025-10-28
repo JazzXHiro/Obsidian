@@ -82,13 +82,20 @@ input system assign
 
 
 ---
-Names
+
+Names of Regions
 
 - Stormfall (Pillars of Stormfall)
 
 - Blackspire (Eyes of BlackSpire)
 
+# Classes
 
+
+-  Main Class
+	- You switch with a god damn inventory item
+	- When u use the stone
+		- it checks if the player has already unlocked 
 
 ---
 # Reference
