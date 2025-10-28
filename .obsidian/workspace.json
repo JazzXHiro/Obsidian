@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Temp"
             }
-          },
-          {
-            "id": "b6d1b8a747be3a86",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-28 17.56.11.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md",
+                "file": "1 - Rough Notes/Temp.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-10-28 17.56.11.excalidraw"
+              "title": "Outline of Temp"
             }
           },
           {
@@ -290,10 +278,47 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "b6d1b8a747be3a86",
+  "floating": {
+    "id": "a7467440a03228b0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "480a8440279427a9",
+        "type": "window",
+        "children": [
+          {
+            "id": "04baa8d31c72ce53",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b6d1b8a747be3a86",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-10-28 17.56.11.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1240,
+        "y": 275,
+        "width": 1276,
+        "height": 993,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7d20a458177411da",
   "lastOpenFiles": [
-    "1 - Rough Notes/Temp.md",
     "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md",
+    "1 - Rough Notes/Temp.md",
     "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Programming/C++/9. Comments.md",
     "2 - Source Notes/Programming/C++/8. Statements and the structure of a program.md",
