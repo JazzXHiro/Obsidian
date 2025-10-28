@@ -123,7 +123,8 @@ Linear - A/D, Jump - Space and more
 
 - Teleport points
 	- In all towns
-	- In certain areas in between towns
+	- In certain areas in between towns(debatable)
+	- Depending on your honor level certain inter-regional travel is restricted
 - 
 
 ---
