@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Capstone.md",
+                "file": "1 - Rough Notes/Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capstone"
+              "title": "Temp"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Capstone.md",
+                "file": "1 - Rough Notes/Temp.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Capstone"
+              "title": "Outline of Temp"
             }
           },
           {
@@ -280,8 +280,8 @@
   },
   "active": "7d20a458177411da",
   "lastOpenFiles": [
-    "1 - Rough Notes/Temp.md",
     "1 - Rough Notes/Capstone.md",
+    "1 - Rough Notes/Temp.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "2 - Source Notes/Programming/C++/Flashcards/9. Comments.md",
