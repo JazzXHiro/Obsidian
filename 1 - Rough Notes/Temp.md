@@ -109,7 +109,7 @@ Linear - A/D, Jump - Space and more
 
 - Sub class
 			- Holy | Unholy | Fire | Ice | Poison
-			- You switch with an equippable armor that you unlock through quests and boss fights
+			- You switch with an equippable relics that you unlock through quests and boss fights
 				- To switch armors you need to meet the requirements stats
 					- You can switch between the armors in inventory anytime
 
