@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Introduction to Object and Variables"
+              "title": "Cap Stone Project (Game design Document)"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10. Introduction to Object and Variables"
+              "title": "Outline of Cap Stone Project (Game design Document)"
             }
           },
           {
@@ -280,9 +280,13 @@
   },
   "active": "7d20a458177411da",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Unconfirmed 61472.crdownload",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project",
+    "2 - Source Notes/Academics/Projects/Untitled.md",
     "1 - Rough Notes/Temp.md",
     "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md",
-    "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Programming/C++/9. Comments.md",
     "2 - Source Notes/Programming/C++/8. Statements and the structure of a program.md",
     "2 - Source Notes/Programming/C++/Flashcards/9. Comments.md",
@@ -305,8 +309,6 @@
     "2 - Source Notes/Programming/C++/Flashcards/3. FC - Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/Flashcards/FD.md",
     "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
-    "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
-    "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Game Dev/Ideas/Game Ideas.excalidraw",
     "2 - Source Notes/Game Dev/Ideas",
     "2 - Source Notes/Game Dev",
@@ -324,8 +326,6 @@
     "7 - Attachments/Pasted image 20251010134109.png",
     "2 - Source Notes/~syncthing~Untitled 1.md.tmp",
     "Temp4.pdf",
-    "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages",
-    "2 - Source Notes/Untitled 4.base",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
