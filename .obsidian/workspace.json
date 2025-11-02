@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
+                "file": "1 - Rough Notes/Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap Stone Project (Game design Document)"
+              "title": "Temp"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
+                "file": "1 - Rough Notes/Temp.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cap Stone Project (Game design Document)"
+              "title": "Outline of Temp"
             }
           },
           {
@@ -280,8 +280,8 @@
   },
   "active": "7d20a458177411da",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
+    "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Unconfirmed 61472.crdownload",
     "2 - Source Notes/Academics/Projects/GP Capstone Project",
     "2 - Source Notes/Academics/Projects/Untitled.md",
