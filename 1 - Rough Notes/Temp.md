@@ -75,6 +75,10 @@ input system assign
 	2. Participants / Materials
 	3. Procedure --> Timelines
 	4. Data Analysis
+		1. Data Types
+		2. Data Sources
+		3. Publicily available data or not
+		4. anonymous data or not
 
 ## Results
 
