@@ -33,7 +33,7 @@ Main Objective:- Identify the victim
 
 Permanent Mechanic:-
 1. Flashlight life = 0% -> Sanity meters starts to drop
-2. Sanity meter = 0% -> Faint and restart from checkpoint
+2. Sanity meter = 0% -> Faint and restart from last checkpoint
 3. If player goes too far, They enter The FOG and faint
 
 # Story and setting
@@ -53,19 +53,15 @@ Characters:
 1. Main character - A journalist 
 2. Victims -
 	1. A rich Lady in her mid early 30s
-	2. An not so rich Old man
-		`A young maid in her 20s.`
-	3. And an enthusiastic local boy
-		`An enthusiastic college girl on vacation in her hometown`
-	`Reason for Change suggestion
-	`A basic examination of the skeleton structure can reveal the gender of the corpse. Just to make the plot seem more solid.`
+	2. A young maid in her 20s.
+	3. And an enthusiastic college girl on vacation in her hometown
 3. Young Maid's desperate younger brother who came to find his sister and left an entry in the trail log and a letter inside the cabin.
 
 Narrative flow:
 1. Act 1 :- Introduction
 	1. starts with text on black screen giving the context and backstory.
-	2. Arrival of player at the foothills bus stop
-	3. Starts trekking towards the safe house, when reaches, gets a call from friend who then introduces the main character to player, He then mentions that mentions that the key was lost somewhere around the investigation scene and that he has go and find it.
+	2. Arrival of player at the foothills bus stop.
+	3. Starts trekking towards the safe house, when reaches, gets a call from friend who then introduces the main character to player, He then mentions that the key was lost somewhere around the investigation scene and that he has go and find it.
 	4. Finds two clues
 		1. Boy clue #1 (near foothills)
 		2. Old man clue #1 (near safe house cabin)
