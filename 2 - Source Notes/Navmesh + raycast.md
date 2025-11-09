@@ -13,7 +13,11 @@ Tags:
 	   This is done for optimization. So that Unity doesn't detect needless ray cast collisions below the plane.
 	   
 	   unity layers are defined using bitmasks.
-1. 
+	   to understand
+	   
+![[Pasted image 20251110034029.png]]
+
+4. 
 
 ---
 # Reference
