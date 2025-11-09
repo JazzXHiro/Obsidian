@@ -54,10 +54,12 @@ Characters:
 2. Victims -
 	1. A rich Lady in her mid early 30s
 	2. An not so rich Old man
+		`A young maid in her 20s.`
 	3. And an enthusiastic local boy
-3. Old man's desperate son who came to find his dad and left an entry in the trail log and a letter inside the cabin.
-4. A friend from our company
-5. Cocky teens
+		`An enthusiastic college girl on vacation in her hometown`
+	`Reason for Change suggestion
+	`A basic examination of the skeleton structure can reveal the gender of the corpse. Just to make the plot seem more solid.`
+3. Young Maid's desperate younger brother who came to find his sister and left an entry in the trail log and a letter inside the cabin.
 
 Narrative flow:
 1. Act 1 :- Introduction
