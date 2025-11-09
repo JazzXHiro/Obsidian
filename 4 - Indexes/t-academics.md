@@ -88,4 +88,5 @@
 85. [[7. Risk Management.md]]
 86. [[1. Introduction to Theory of Computation.md]]
 87. [[2. Deterministic Finite Automata.md]]
-88. [[Temp maths.md]]
+88. [[Question Bank.md]]
+89. [[Temp maths.md]]

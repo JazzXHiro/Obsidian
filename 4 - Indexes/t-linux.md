@@ -1,4 +1,5 @@
 # Index for t-linux
 
 ## Files using this tag:
-1. [[Hyprland.md]]
+1. [[GPU Switching.md]]
+2. [[Hyprland.md]]
