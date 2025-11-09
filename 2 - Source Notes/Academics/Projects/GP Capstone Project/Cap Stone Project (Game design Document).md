@@ -172,7 +172,7 @@ Narrative flow:
 
 ## level and environment design
 
-- Continuous Map 
+- Continuous Map
 - Trail head -> Cabin -> Scene -> Cabin -> Peak -> Cave
 
 Props and assets:
