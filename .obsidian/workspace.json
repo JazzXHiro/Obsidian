@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d20a458177411da",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "2 - Source Notes/ZMisc/Untitled 4.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 4"
-            }
-          },
-          {
             "id": "3257f4f51a15f6d3",
             "type": "leaf",
             "state": {
@@ -33,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Cap Stone Project (Game design Document)"
             }
-          },
-          {
-            "id": "60a55d4de64807a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Navmesh + raycast.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Navmesh + raycast"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Navmesh + raycast.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Navmesh + raycast"
+              "title": "Outline of Cap Stone Project (Game design Document)"
             }
           },
           {
@@ -291,11 +264,19 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "60a55d4de64807a0",
+  "active": "3257f4f51a15f6d3",
   "lastOpenFiles": [
-    "7 - Attachments/Pasted image 20251110034029.png",
+    "1 - Rough Notes/Capstone.md",
+    "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
+    "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
+    "2 - Source Notes/Academics/Assignments/GP/Unity 1.md",
+    "2 - Source Notes/Academics/Assignments/GP/Unity 2.md",
+    "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
+    "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
+    "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
     "2 - Source Notes/Navmesh + raycast.md",
+    "7 - Attachments/Pasted image 20251110034029.png",
     "scripts/Index button.md",
     "4 - Indexes/t-dictionary.md",
     "4 - Indexes/t-holybook.md",
@@ -312,20 +293,13 @@
     "5 - Templates/Flashcard.md",
     "5 - Templates/Anki.md",
     "2 - Source Notes/ZMisc/Maths LaTex.md",
-    "2 - Source Notes/ZMisc/Drawing 2025-09-08 00.07.54.excalidraw.md",
-    "2 - Source Notes/ZMisc/Untitled 1.md",
-    "2 - Source Notes/ZMisc/Imp.md",
     "2 - Source Notes/ZMisc/Untitled 3.base",
     "2 - Source Notes/ZMisc/Untitled 4.base",
     "2 - Source Notes/ZMisc/Untitled 2.base",
     "2 - Source Notes/ZMisc/Untitled.base",
     "2 - Source Notes/ZMisc",
     "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
-    "2 - Source Notes/Temp4.md",
-    "2 - Source Notes/Netflix(Chacha).md",
-    "2 - Source Notes/Programming/Linux/GPU Switching.md",
     "7 - Attachments/Pasted image 20250825235728.png",
-    "4 - Indexes/t-academics.md",
     "2 - Source Notes/ZMisc/Untitled 1.base",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Unconfirmed 61472.crdownload",
     "2 - Source Notes/Academics/Projects/GP Capstone Project",
@@ -338,7 +312,6 @@
     "7 - Attachments/Pasted image 20251010140142.png",
     "7 - Attachments/Pasted image 20251010135853.png",
     "7 - Attachments/Pasted image 20251010134755.png",
-    "7 - Attachments/Pasted image 20251010134505.png",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",

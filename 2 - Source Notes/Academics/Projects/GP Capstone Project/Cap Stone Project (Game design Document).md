@@ -28,7 +28,8 @@ Main Objective:- Identify the victim
 5. Explore and Find more clues at different places
 	1. Direct Clues
 	2. Scattered Clues
-6. Then markdown, first one to get 3 clues is the real victim
+	3. Note the clues down again.
+6. ==Then markdown, first one to get 3 clues against the victim is the real victim==
 7. Finale
 
 Permanent Mechanic:-
@@ -47,7 +48,7 @@ Backstory:
 Isdalen is known to some locals as "Death Valley" -It is a beautiful but dangerous trek in Norway, in the 1960s, some hikers had fallen to their deaths while trekking in the fog.
 
 Player role:
-	A journalist came to document the case but it turns out to be something else...
+	A journalist came to document the case but it turns out to be something else. Three women are missing...
 	
 Characters: 
 1. Main character - A journalist 
@@ -59,23 +60,24 @@ Characters:
 
 Narrative flow:
 1. Act 1 :- Introduction
-	1. starts with text on black screen giving the context and backstory.
-	2. Arrival of player at the foothills bus stop.
-	3. Starts trekking towards the safe house, when reaches, gets a call from friend who then introduces the main character to player, He then mentions that the key was lost somewhere around the investigation scene and that he has go and find it.
-	4. Finds two clues
-		1. Boy clue #1 (near foothills)
-		2. Old man clue #1 (near safe house cabin)
+	1. Game starts with player in the bus, thinking out loud.
+	2. starts with text on black screen giving the partial context of the plot.
+	3. Arrival of player at the foothills bus stop.
+	4. Starts trekking towards the safe house, when reaches, gets a call from friend who then introduces the main character to player, He then mentions that the cabin's key was lost somewhere around the investigation scene and that he has to go and find it.
+	5. Finds two clues
+		1. College girl clue #1 (near foothills)
+		2. Young maid clue #1 (near safe house cabin)
 
 2. Act 2 :- Finding more clues
-	1. Goes to the scene of investigation to look for keys
+	1. Goes to the scene of investigation to look for cabin keys
 	2. Reaches the site, find keys after looking
 	3. Goes back to Safe house -> Unlocks the Journal
 	4. Fills gathered clues
 	5. Reads a letter, goes in other direction, towards the peak
 	6. Returns from peak to safe house
 	7. Finds three clues
-		1. boy clue #2 (near the site)
-		2. lady clue #1 (Inside the cabin)
+		1. College girl clue #2 (near the site)
+		2. Rich lady clue #1 (Inside the cabin)
 		3. Old man clue #2 (At the peak)
 
 3. Act 3 :- Piecing everything together and Finale
@@ -83,17 +85,17 @@ Narrative flow:
 	2. Finds more clue
 	3. puts everything together
 	4. Victim's Identity is discovered
-	5. Finds tow clues
-		1. Lady clue #2 (on the way to the cave)
-		2. Lady clue #3 (In the cave, Not that deep tho)
+	5. Finds two clues
+		1. Rich Lady clue #2 (on the way to the cave)
+		2. Rich Lady clue #3 (In the cave, Not that deep tho)
 
-4. Epilogue :- It is revealed that the old man and boy were found a day later by the rescue team and our deduction was correct. 
+4. Epilogue :- It is revealed that the young maid and college girl were found a day later by the rescue team and our deduction was correct. 
 
 ## Details on Clues
 
 1. Direct Clues (For the real victim)
 
-	1. Clue #1 - Suitcase (lady)
+	1. Clue #1 - Suitcase (lady) ==implies that the lady was in cabin==
 		1. States: Locked/Unlocked
 		2. Type: Inspectable Object -> Puzzle? (3-digit lock)
 		3. location: Inside Cabin
@@ -110,48 +112,49 @@ Narrative flow:
 		2. Location: On the way to cave
 		3. Flavour text: "The bottles smell faintly of benzine, someone bought fuel up here"
 		4. Deduction: These maybe the same bottles used for the deed
-		5. Visual layer: black marks along the path from bottles to cave
+		5. Visual layer: black marks along the path from bottles to cave ==implies the trail of oil is fresh==
 
 	3. Clue #3 - Broken wrist watch (Lady)
 		1. Type: Multi part World Item (4 scattered pieces)
 		2. Location: last one is inside cave with some more fuel bottles
-		3. Flavour text (final assemble): "The Watch is a really expensive one, The watch is stopped at 2:13 — the moment everything stopped"
+		3. Flavour text (final assemble): "The Watch is a really expensive one, The watch is stopped at 2:13 — the moment everything stopped" ==The face along the dial should be missing==
 		4. Deduction: The lady is the victim
 
 2. Ambiguous Clues (TO throw off players)
 
-	1. Clue #1 - Letter in safe house (Old man)
+	1. Clue #1 - Letter in safe house (Young maid)
 		1. Type: Inspectable Object 
 		2. location: near safe house
-		3. Flavour text: "Dad left home before dawn. He said he’d fix it all himself this time. I think he owed money to someone dangerous"
-		4. Deduction: He might be the victim
+		3. Flavour text: "My sister left home before dawn. She said she’d fix it all by herself this time. I think she owed money to someone dangerous"
+		4. Deduction: She might be the victim
 
-	2. Clue #2 - Threat note (Boy)
+	2. Clue #2 - Threat note (College Girl)
 		1. Type: Inspectable Item
 		2. location: near foothills
 		3. Flavour text: "How dare you say those things! You think you’re untouchable? I’ll make you pay for it, bastard!"
 		4. Deduction: He might be the victim
 
-	3. Clue #3 - A climbing stick (Old man)
+	3. Clue #3 - A climbing stick (Young maid)
 		1. Type: World Item
 		2. location: at the peak
-		3. Flavour text: "A splintered wooden stick. One end is cleanly cut, the other chipped from a fall. Someone struggled to stay upright here"
-		4. Deduction: He lost his stick which suggests he might be in trouble
+		3. Flavour text: "A piece of torn cloth piece probably from a cheap dress stuck in a prickled bush"
+		4. Deduction: The maid probably was running and tripped over the prickled shrub/bush.
 
-	4. Clue #4 - Half burnt pocket knife (Boy)
+	4. Clue #4 - Half burnt pocket knife (College Girl)
 		1. Type: World Item
 		2. location: around the site but not exactly near
 		3. flavour text: "A small pocket knife, handle charred. The blade’s edge is darkened, was it burned?"
-		4. deduction: He was involved with fire somehow
+		4. deduction: She was involved with fire somehow
 ## Not So true story for false victims - 
 
-1. A letter in house written by old man's son which mention the old man being in debt and trying to hide.
+1. A letter in house written by Young maid's brother which mentions the old man being in debt and trying to hide.
 
-2. Some sort of note from some teenager who seems to threaten the local boy
+2. Some sort of note from some teenager who seems to threaten the college girl.
 
 ## True cause for lady's death 
 
 1. "killed by bunch of local thugs to rob money", this is the real case in our game and is revealed at the end after confusing the players
+	   "she committed suicide and suffering mental health issues. Later on in the diaries discovered in her hotel room reveal that she was some sort of world war spy"
 
 
 ## Game-play mechanics
@@ -168,7 +171,7 @@ Narrative flow:
 
 ## puzzles
 
-1. brief case code -
+1. brief case code - the strap of the watch has some 3 digit number imprinted behind it.
 
 ## level and environment design
 
