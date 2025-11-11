@@ -176,12 +176,13 @@ Narrative flow:
 ## level and environment design
 
 - Continuous Map
-- Trail head -> Cabin -> Scene -> Cabin -> Peak -> Cave
+- Bus Scene -> Trail head -> Cabin -> Scene -> Cabin -> Peak -> Cave
 
 Props and assets:
-1. Terrain - Rock, Trees, Small plants, Fencing
-2. Cabin Exterior and Interior
-3. Evidence props - briefcase, ticket, key, Clothes, bottles, watch, cane, letter, knife, note, journal.
+1. Bus - Interior
+2. Terrain - Rock, Trees, Small plants, Fencing
+3. Cabin Exterior and Interior
+4. Evidence props - briefcase, ticket, key, Clothes, bottles, watch, cane, letter, knife, note, journal.
 
 ## Visuals and Audio design
 
