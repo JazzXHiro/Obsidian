@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +263,7 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "3257f4f51a15f6d3",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
     "1 - Rough Notes/Capstone.md",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
