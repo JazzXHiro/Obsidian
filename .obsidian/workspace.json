@@ -25,12 +25,14 @@
             "id": "9f83b1bd1df6e52e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "11. Variable Assignment and Initialization"
             }
           }
         ],
