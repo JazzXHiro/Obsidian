@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
+                "file": "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap Stone Project (Game design Document)"
+              "title": "11. Variable Assignment and Initialization"
+            }
+          },
+          {
+            "id": "9f83b1bd1df6e52e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
+                "file": "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cap Stone Project (Game design Document)"
+              "title": "Outline of 11. Variable Assignment and Initialization"
             }
           },
           {
@@ -263,8 +276,9 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "9f83b1bd1df6e52e",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
     "1 - Rough Notes/Capstone.md",
     "2 - Source Notes/Academics/Assignments/GP/Match 3 puzzle.md",
     "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
@@ -273,7 +287,6 @@
     "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
     "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
     "2 - Source Notes/Navmesh + raycast.md",
     "7 - Attachments/Pasted image 20251110034029.png",
     "scripts/Index button.md",
