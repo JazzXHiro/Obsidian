@@ -21,5 +21,5 @@ Finally, the engine uses these relationships to generate recommendations, such a
     - Indicating if a disability is **"compatible"** or **"incompatible"** with a game (for developers).
 
 4. **Quantified & Ranked Outputs:** The engine generates a **"ranked listing of recommendations"** that are sorted according to **"compatibility scores"** derived from the correlations.
-    
-5. **Advanced Applications (IDE & Diagnostics):** The system is claimed to support advanced uses, such as coupling with a **development environment (IDE)** for automatic queries and using a **"representation of game play"** as a query to generate a list of associated disabilities7.
+
+5. **Advanced Applications (IDE & Diagnostics):** The system is claimed to support advanced uses, such as coupling with a **development environment (IDE)** for automatic queries and using a **"representation of game play"** as a query to generate a list of associated disabilities.
