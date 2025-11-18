@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/RM/Patent.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/R&M.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patent"
+              "title": "R&M"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Assignments/RM/Patent.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/R&M.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Patent"
+              "title": "Outline of R&M"
             }
           },
           {
@@ -280,8 +280,9 @@
   },
   "active": "9f83b1bd1df6e52e",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
+    "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "2 - Source Notes/Academics/Assignments/RM/Patent.md",
+    "2 - Source Notes/Academics/Assignments/RM/Data Collection Strategy.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
     "2 - Source Notes/Programming/C++/~syncthing~11. Variable Assignment and Initialization.md.tmp",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
@@ -301,7 +302,6 @@
     "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 1.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 2.md",
-    "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "2 - Source Notes/Navmesh + raycast.md",
     "7 - Attachments/Pasted image 20251110034029.png",
     "scripts/Index button.md",
