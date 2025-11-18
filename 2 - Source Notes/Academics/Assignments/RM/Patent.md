@@ -1,4 +1,4 @@
-
+ 
 ## Gist
 
 The patent claims a game recommendation engine designed to map video games to disabilities. This computer system works by storing games and disabilities as "objects" in separate databases, each with detailed attributes.
