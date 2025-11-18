@@ -28,24 +28,19 @@ Finally, the engine uses these relationships to generate recommendations, such a
 
 ### 1. A Core System for Mapping Games to Disabilities
 
-The fundamental invention is a **computer-based system** (a "game recommendation engine") specifically designed to connect games and disabilities1. This system is built on several key components that work together:
+This system is built on several key components that work together:
 
-- A **game database** that stores "game objects" (representing individual games) and their "game attributes" (like genre, interface, or art style)2222.
-    
-- A **disability database** that stores "disability objects" and their "disability attributes" (like type, symptoms, or experts)333333333.
-    
-- A **query interface** (like an API or web server) that allows a user to submit a query to the system4444.
-    
-- A **correlation engine** that processes the query5.
-    
+- A game database that stores "game objects" (representing individual games) and their "game attributes" (like genre, interface, or art style).
 
-The system architecture is visually outlined in **Figure 1**, which shows the `Game Database (110)` and `Disability Database (120)` feeding into the `Correlation Engine (130)`6666.
+- A disability database that stores "disability objects" and their "disability attributes" (like type, symptoms, or experts).
 
----
+- A query interface (like an API or web server) that allows a user to submit a query to the system.
+
+- A correlation engine that processes the query.
 
 ### 2. The Process of Correlation, Relationship, and Recommendation
 
-The patent's core _process_ claim involves a specific, multi-step workflow within the correlation engine. The engine is configured to:
+The engine is configured to:
 
 1. **Establish Correlations:** It first finds statistical or logical "correlations" between game attributes and disability attributes that match the user's query7.
     
