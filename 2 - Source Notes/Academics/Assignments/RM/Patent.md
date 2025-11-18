@@ -11,18 +11,18 @@ Finally, the engine uses these relationships to generate recommendations, such a
 
 ## Chosen Claims
 
-1. **A Core System Architecture:** The patent claims a game recommendation engine built from a computer system, a **Game Database** (storing game objects), a **Disability Database** (storing disability objects), a **Query Interface**, and a **Correlation Engine**.
+1. **A Core System Architecture:** The patent claims a game recommendation engine built from a computer system, a Game Database (storing game objects), a Disability Database (storing disability objects), a Query Interface, and a Correlation Engine.
 
-2. **A Specific Multi-Step Process:** The correlation engine is configured to **establish correlations** between game and disability attributes, **identify relationships** from those correlations, and **generate a recommendation** based on the relationships.
+2. **A Specific Multi-Step Process:** The correlation engine is configured to establish correlations between game and disability attributes, identify relationships from those correlations, and generate a recommendation based on the relationships.
 
 3. **Dual-Purpose Recommendations:** The recommendations serve two primary functions:
-    - Indicating if a game attribute is **"accessible"** or **"inaccessible"** to individuals with a specific disability (for players).
+    - Indicating if a game attribute is "accessible" or "inaccessible" to individuals with a specific disability (for players).
     
-    - Indicating if a disability is **"compatible"** or **"incompatible"** with a game (for developers).
+    - Indicating if a disability is "compatible" or "incompatible" with a game (for developers).
 
-4. **Quantified & Ranked Outputs:** The engine generates a **"ranked listing of recommendations"** that are sorted according to **"compatibility scores"** derived from the correlations.
+4. **Quantified & Ranked Outputs:** The engine generates a "ranked listing of recommendations" that are sorted according to "compatibility scores" derived from the correlations.
 
-5. **Advanced Applications (IDE & Diagnostics):** The system is claimed to support advanced uses, such as coupling with a **development environment (IDE)** for automatic queries and using a **"representation of game play"** as a query to generate a list of associated disabilities.
+5. **Advanced Applications (IDE & Diagnostics):** The system is claimed to support advanced uses, such as coupling with a development environment (IDE) for automatic queries and using a "representation of game play" as a query to generate a list of associated disabilities.
 
 ## Support for Claims
 
