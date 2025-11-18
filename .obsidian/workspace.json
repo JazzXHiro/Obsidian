@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/Patent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Question Bank"
+              "title": "Patent"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
+                "file": "2 - Source Notes/Academics/Assignments/RM/Patent.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Question Bank"
+              "title": "Outline of Patent"
             }
           },
           {
@@ -278,11 +278,12 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "9f83b1bd1df6e52e",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
+    "2 - Source Notes/Academics/Assignments/RM/Patent.md",
     "2 - Source Notes/Programming/C++/~syncthing~11. Variable Assignment and Initialization.md.tmp",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
-    "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Question Bank.md",
     "1 - Rough Notes/Temp.md",
     "1 - Rough Notes/Probability temp.md",
     "1 - Rough Notes/OOAD Temp.md",
@@ -318,7 +319,6 @@
     "2 - Source Notes/ZMisc/Untitled 1.base",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Unconfirmed 61472.crdownload",
     "2 - Source Notes/Academics/Projects/GP Capstone Project",
-    "2 - Source Notes/Game Dev/Ideas/Game Ideas.excalidraw",
     "7 - Attachments/Pasted image 20251017160405.png",
     "7 - Attachments/Pasted image 20251014112417.png",
     "7 - Attachments/Pasted image 20251010142826.png",
