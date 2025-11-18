@@ -42,9 +42,9 @@ This system is built on several key components that work together:
 
 The engine is configured to:
 
-1. **Establish Correlations:** It first finds statistical or logical "correlations" between game attributes and disability attributes that match the user's query7.
-    
-2. **Identify Relationships:** Based on these correlations, it identifies and quantifies "relationships" between the game objects and disability objects8888. **Figure 3** provides a visual example of this, showing a plotted relationship between the "Metric: Level Success Rate," the "Game Attribute: % Use of Red," and the "Disability Attribute: Degree of R/G Color blindness"999999999.
+1. **Establish Correlations:** It first finds statistical or logical "correlations" between game attributes and disability attributes that match the user's query.
+
+2. **Identify Relationships:** Based on these correlations, it identifies and quantifies "relationships" between the game objects and disability objects. **Figure 3** provides a visual example of this, showing a plotted relationship between the "Metric: Level Success Rate," the "Game Attribute: % Use of Red," and the "Disability Attribute: Degree of R/G Color blindness"999999999.
     
 3. **Generate Recommendations:** Finally, the engine uses these quantified relationships to generate a "recommendation" 10101010and sends it to an output device11.
     
