@@ -26,3 +26,62 @@ Finally, the engine uses these relationships to generate recommendations, such a
 
 ## Support for Claims
 
+### 1. A Core System for Mapping Games to Disabilities
+
+The fundamental invention is a **computer-based system** (a "game recommendation engine") specifically designed to connect games and disabilities1. This system is built on several key components that work together:
+
+- A **game database** that stores "game objects" (representing individual games) and their "game attributes" (like genre, interface, or art style)2222.
+    
+- A **disability database** that stores "disability objects" and their "disability attributes" (like type, symptoms, or experts)333333333.
+    
+- A **query interface** (like an API or web server) that allows a user to submit a query to the system4444.
+    
+- A **correlation engine** that processes the query5.
+    
+
+The system architecture is visually outlined in **Figure 1**, which shows the `Game Database (110)` and `Disability Database (120)` feeding into the `Correlation Engine (130)`6666.
+
+---
+
+### 2. The Process of Correlation, Relationship, and Recommendation
+
+The patent's core _process_ claim involves a specific, multi-step workflow within the correlation engine. The engine is configured to:
+
+1. **Establish Correlations:** It first finds statistical or logical "correlations" between game attributes and disability attributes that match the user's query7.
+    
+2. **Identify Relationships:** Based on these correlations, it identifies and quantifies "relationships" between the game objects and disability objects8888. **Figure 3** provides a visual example of this, showing a plotted relationship between the "Metric: Level Success Rate," the "Game Attribute: % Use of Red," and the "Disability Attribute: Degree of R/G Color blindness"999999999.
+    
+3. **Generate Recommendations:** Finally, the engine uses these quantified relationships to generate a "recommendation" 10101010and sends it to an output device11.
+    
+
+---
+
+### 3. Dual-Purpose Recommendations (For Players and Developers)
+
+The patent repeatedly claims the system's recommendations are valuable for two distinct audiences, a concept summarized in the abstract12.
+
+- **For Disabled Players:** The engine can recommend games that are **"accessible"** to them based on their specific disability131313. Claim 20 explicitly mentions generating a "list of game features accessible by disabled individuals"14.
+    
+- **For Game Developers:** The engine can recommend game features to _add_ or _change_ to make a game more compatible with a disability15. Claim 18 specifies a "recommendation to change game attributes" 16, and Claim 5 mentions indicating a disability is **"compatible"** with game play17.
+    
+
+---
+
+### 4. Quantified and Ranked "Compatibility Scores"
+
+The recommendations generated are not just simple "yes" or "no" answers. The patent claims a system for providing a **ranked listing** of recommendations based on **"compatibility scores"**18.
+
+- **Figure 4** shows a table of these compatibility scores, which are represented as scalar values (e.g., "Use of red" has a score of "-0.9" for "Protanopia," indicating strong incompatibility)19191919.
+    
+- The text describes these scores as a "quantification of accessibility" 20that allows recommendations (for features or disabilities) to be **ranked**21.
+    
+
+---
+
+### 5. Advanced Applications: IDE Integration and Diagnostic Use
+
+Beyond a simple search, the patent claims two more advanced, automated use cases for the engine:
+
+- **Developer IDE Integration:** The system includes a "development environment interface"22. This allows a query to be **"received automatically from the development environment"** (IDE) as a developer is actively writing code23. The engine can then provide real-time recommendations for the game under development24242424.
+    
+- **Diagnostic Game Play Analysis:** The system can also work in reverse. A query can be a **"representation of game play of... a disabled individual"**25. By analyzing _how_ someone plays a game, the engine can generate recommendations that are a **"listing of disabilities"** potentially associated with that game play 26, which the patent describes as a "diagnosis of potential disabilities"27.
