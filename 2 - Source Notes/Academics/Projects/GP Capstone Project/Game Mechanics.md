@@ -46,6 +46,14 @@ Tags:
 ## 7. Scene Transition
 	Loading Screen Mechanics
 
+## 8. Flashlight Mechanics
+	1. Press "F" to activate/deactivate flash light
+	2. When Flashlight is active Sanity Replenishes
+	3. Has a overheat mechanics
+		1. if the overheat meter fills up - torch deactivates
+			1. Gets a cooldown timer - user can't use the torch until timer hits zero
+		2. when overheat meter goes down to zero - torch can be turned back on by pressing "F" again
+
 # Additional
 
   ### ii) Fog Mechanics 
