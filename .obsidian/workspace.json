@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Presentation.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation"
+              "title": "2. Deterministic Finite Automata"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Presentation.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Presentation"
+              "title": "Outline of 2. Deterministic Finite Automata"
             }
           },
           {
@@ -294,9 +294,9 @@
   },
   "active": "948e990586903938",
   "lastOpenFiles": [
-    "6 - Full Notes/Narrative Flow.md",
-    "2 - Source Notes/Presentation.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
+    "2 - Source Notes/Presentation.md",
+    "6 - Full Notes/Narrative Flow.md",
     "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "2 - Source Notes/Academics/Assignments/RM/R&M.md",
     "2 - Source Notes/Academics/Assignments/RM/Patent.md",
