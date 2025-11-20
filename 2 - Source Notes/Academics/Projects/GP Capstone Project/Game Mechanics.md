@@ -30,7 +30,7 @@ Tags:
 	  4. Player Walks into the fog -
 		  1. After 2-4 seconds player is respawned at the last checkpoint
 
-## Journaling Mechanics
+## 4. Journaling Mechanics
 ### Clue Management
 	1. The Player brings up the Journal -- On pressing "J"
 	2. On every clue encounter in dialogues/in game objects player notes them down in the Journal
@@ -40,7 +40,12 @@ Tags:
 		1. The real scenario is uncovered, and the real identity of the body is declared.
 
 ### Player Navigation
-	1. The journal reminds the player of the next objective
+	1. The journal reminds the player of the next objective.
+
+## 5. Respawn Mechanics
+	Automated respawn to last chafter player dies.
+
+
 
 # Additional
 
