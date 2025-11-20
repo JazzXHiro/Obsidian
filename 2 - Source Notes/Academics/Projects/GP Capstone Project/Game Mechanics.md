@@ -22,6 +22,9 @@ Tags:
   ### i) Sanity Meter
 	  1. Sanity Meter Depletion & Replenishment mechanics
 	  2. Once Sanity Meter depletes to zero - Player dies and respawn at the last checkpoint
+	  3. Lamposts
+		  1. Scattered throughout the game world
+		  2. If player is under the lampost, their sanity replenishes.
 	  Additional
 		  Bleed effect/warning visuals on the screen when sanity is low.
 
