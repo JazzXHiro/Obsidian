@@ -9,7 +9,9 @@ Tags:
 
 # Needed
 ## 1. Movement Mechanics
-	1. Basic WASD movement -- (I don't think jump mechanics is needed).
+	1. Basic WASD movement along with mouse camera movement.
+	2. Jump using SPACEBAR
+	3. 
 
 ## 2. Dialogue Mechanics
 	1. Where and when to trigger certain dialogues.
