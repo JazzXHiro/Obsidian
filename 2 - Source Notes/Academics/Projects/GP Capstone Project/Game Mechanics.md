@@ -21,10 +21,13 @@ Tags:
   
   ### i) Sanity Meter
 	  1. Sanity Meter Depletion & Replenishment mechanics
+	  2. Once Sanity Meter depletes to zero - Player dies and respawn at the last checkpoint
+	  Additional
 
   ### ii) Fog Mechanics
-	  1. Acts as a world boundary
-	  2. Player Walks into 
+	  3. Acts as a world boundary
+	  4. Player Walks into the fog -
+		  1. After 2-4 seconds player is respawned at the last checkpoint
 
 # Additional
 
