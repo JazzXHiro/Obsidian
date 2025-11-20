@@ -21,6 +21,10 @@ Tags:
   
   ### i) Sanity Meter
 	  1. Sanity Meter Depletion & Replenishment mechanics
+		  1. Sanity Meter keeps deplenishing (if player flashlight isn't active and player isn't under any lampost)
+		  2. Sanity meter only replenishes
+			  1. When under a lampost(Gradually)
+			  2. Sanity meter resets to full when a new checkpoint is unlocked.
 	  2. Once Sanity Meter depletes to zero - Player dies and respawn at the last checkpoint
 	  3. Lamposts
 		  1. Scattered throughout the game world
