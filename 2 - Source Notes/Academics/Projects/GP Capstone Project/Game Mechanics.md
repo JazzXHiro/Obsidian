@@ -48,7 +48,7 @@ Tags:
 
 ## 8. Flashlight Mechanics
 	1. Press "F" to activate/deactivate flash light
-	2. When Flashlight is active Sanity Replenishes
+	2. When Flashlight is active Sanity meter doesn't drop
 	3. Has a overheat mechanics
 		1. if the overheat meter fills up - torch deactivates
 			1. Gets a cooldown timer - user can't use the torch until timer hits zero
