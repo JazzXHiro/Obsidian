@@ -43,7 +43,7 @@ Tags:
 	1. The journal reminds the player of the next objective.
 
 ## 5. Respawn Mechanics
-	Automated respawn to last chafter player dies.
+	Automated respawn to last checkpoint after player dies.
 
 
 
