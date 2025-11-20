@@ -25,11 +25,6 @@ Tags:
 	  Additional
 		  Bleed effect/warning visuals on the screen when sanity is low.
 
-  ### ii) Fog Mechanics
-	  3. Acts as a world boundary
-	  4. Player Walks into the fog -
-		  1. After 2-4 seconds player is respawned at the last checkpoint
-
 ## 4. Journaling Mechanics
 ### Clue Management
 	1. The Player brings up the Journal -- On pressing "J"
@@ -45,9 +40,12 @@ Tags:
 ## 5. Respawn Mechanics
 	Automated respawn to last checkpoint after player dies.
 
-
-
 # Additional
+
+  ### ii) Fog Mechanics 
+	  3. Acts as a world boundary
+	  4. Player Walks into the fog -
+		  1. After 2-4 seconds player is respawned at the last checkpoint
 
 ---
 # Reference
