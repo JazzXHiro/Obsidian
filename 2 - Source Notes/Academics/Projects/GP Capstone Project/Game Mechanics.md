@@ -40,6 +40,12 @@ Tags:
 ## 5. Respawn Mechanics
 	Automated respawn to last checkpoint after player dies.
 
+## 6. Door lock mechanism
+	Cabin door only unlocks when the key is inserted.
+
+## 7. Scene Transition
+	Loading Screen Mechanics
+
 # Additional
 
   ### ii) Fog Mechanics 
