@@ -31,9 +31,16 @@ Tags:
 		  1. After 2-4 seconds player is respawned at the last checkpoint
 
 ## Journaling Mechanics
+### Clue Management
 	1. The Player brings up the Journal -- On pressing "J"
 	2. On every clue encounter in dialogues/in game objects player notes them down in the Journal
-	3. Clues pertaining to 
+	3. Note down clues pertaining to all three victims in their own categories.
+		1. Player theorizes the scenarios based on these gathered clues.
+	4. Once the three clues of the real victim has been journalized.
+		1. The real scenario is uncovered, and the real identity of the body is declared.
+
+### Player Navigation
+	1. The journal reminds the player of the next objective
 
 # Additional
 
