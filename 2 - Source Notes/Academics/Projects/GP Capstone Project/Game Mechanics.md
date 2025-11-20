@@ -12,7 +12,11 @@ Tags:
 	1. Basic WASD movement -- (I don't think jump mechanics is needed).
 
 ## 2. Dialogue Mechanics
-	1.
+	1. Where and when to trigger certain dialogues.
+
+## 3. Survival Mechanics
+  
+  ### i) 
 
 # Additional
 
