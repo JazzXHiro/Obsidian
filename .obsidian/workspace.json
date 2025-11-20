@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Deterministic Finite Automata"
+              "title": "1. Introduction to Theory of Computation"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Deterministic Finite Automata"
+              "title": "Outline of 1. Introduction to Theory of Computation"
             }
           },
           {
@@ -294,6 +294,7 @@
   },
   "active": "948e990586903938",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
     "2 - Source Notes/Presentation.md",
     "6 - Full Notes/Narrative Flow.md",
@@ -321,7 +322,6 @@
     "2 - Source Notes/Academics/Assignments/GP/18-08-25.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 1.md",
     "2 - Source Notes/Academics/Assignments/GP/Unity 2.md",
-    "2 - Source Notes/Navmesh + raycast.md",
     "7 - Attachments/Pasted image 20251110034029.png",
     "2 - Source Notes/ZMisc/Untitled 3.base",
     "2 - Source Notes/ZMisc/Untitled 4.base",
