@@ -44,7 +44,7 @@ Tags:
 	Cabin door only unlocks when the key is inserted.
 
 ## 7. Scene Transition
-	Loading Screen Mechanics
+	Loading Screen Mechanics.
 
 ## 8. Flashlight Mechanics
 	1. Press "F" to activate/deactivate flash light
