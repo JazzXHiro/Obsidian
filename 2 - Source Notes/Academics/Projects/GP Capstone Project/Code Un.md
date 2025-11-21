@@ -121,7 +121,103 @@ This happens **before** gameplay logic begins.
 |Object must be enabled?|**No**, Awake is called even if disabled|**Yes**, Start is only called if enabled|
 |Good for|Setup, component getting|Logic that depends on other objects being initialized|
 
+## 4. if (current && !lastInputState)
 
+```csharp
+if (current && !lastInputState)
+```
+
+# 🔍 **What are `current` and `lastInputState`?**
+
+### `current`
+
+- This is the **current frame's flashlight button state**.
+    
+- `true` if the F key (or your input action) **is being pressed right now**.
+    
+- `false` if it is not.
+    
+
+### `lastInputState`
+
+- This is the **previous frame's button state**.
+    
+- It lets us detect changes from one frame to the next.
+    
+
+---
+
+# 🎯 **So what does `if (current && !lastInputState)` detect?**
+
+This condition means:
+
+## ✔ **current is TRUE** (button is pressed **this frame**)
+
+AND
+
+## ✔ **lastInputState is FALSE** (button was NOT pressed **previous frame**)
+
+This condition happens **only on the exact frame the player first presses the button**.
+
+---
+
+# 🎉 **In simple words:**
+
+## 👉 It means **"Did the player just press the button this frame?"**
+
+Not holding…  
+Not releasing…  
+JUST **the moment they press it**.
+
+---
+
+# 🎮 Why do we need this?
+
+Because if you use:
+
+```csharp
+if(current)
+    ToggleFlashlight();
+```
+
+Then while you hold the F key:
+
+- The flashlight would toggle **EVERY FRAME**
+    
+- At 60 FPS it would flicker like crazy
+    
+
+To avoid that, we detect only the **moment the key is first pressed**.
+
+This is called **edge detection** (detecting the rising edge of the signal).
+
+---
+
+# 📌 Example timeline (frames)
+
+| Frame | Key Held? (`current`) | Previous (`lastInputState`) | Condition | Result    |
+| ----- | --------------------- | --------------------------- | --------- | --------- |
+| 1     | false                 | false                       | false     | nothing   |
+| 2     | **true**              | false                       | **true**  | toggle!   |
+| 3     | true                  | true                        | false     | no toggle |
+| 4     | true                  | true                        | false     | no toggle |
+| 5     | false                 | true                        | false     | no toggle |
+
+This is exactly why the flashlight toggles cleanly ON/OFF **once per key press**.
+
+---
+
+# ⭐ Summary
+
+`if (current && !lastInputState)` means:
+
+✔ Button was **just pressed this frame**  
+✔ Not held from before  
+✔ Perfect for toggling things like lights, UI menus, switching weapons, etc.
+
+---
+
+If you want, I can rewrite the full flashlight script to make it even clearer with comments explaining every line.
 
 ---
 # Reference
