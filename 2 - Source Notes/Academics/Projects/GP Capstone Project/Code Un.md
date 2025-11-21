@@ -161,7 +161,7 @@ private void Update()
 
 # 🎉 **In simple words:**
 
-## 👉 It means **"Did the player just press the button this frame?"**
+### 👉 It means **"Did the player just press the button this frame?"**
 
 Not holding…  
 Not releasing…  
