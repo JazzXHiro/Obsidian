@@ -7,8 +7,8 @@ Tags:
 ---
 # Changes
 
-1. Changed Skybox Material to None (In Lighting Window).
-2. 
+1.  Changed Skybox Material to None (In Lighting Window).
+2. Disabled Directional Light.
 
 ---
 # Reference
