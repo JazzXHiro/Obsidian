@@ -7,7 +7,8 @@ Tags:
 ---
 # Changes
 
-1. Changed Environmental Lighting Source to 
+1. Changed Skybox Material to None (In Lighting Window).
+2. 
 
 ---
 # Reference
