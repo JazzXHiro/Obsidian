@@ -124,7 +124,19 @@ This happens **before** gameplay logic begins.
 ## 4. if (current && !lastInputState)
 
 ```csharp
-if (current && !lastInputState)
+private void Update()
+{
+    if (inputHandler != null)
+    {
+        bool current = inputHandler.FlashlightTriggered;
+        if (current && !lastInputState)
+        {
+            ToggleFlashlight();
+        }
+        lastInputState = current;
+        return;
+    }
+}
 ```
 
 # 🔍 **What are `current` and `lastInputState`?**
@@ -144,20 +156,6 @@ if (current && !lastInputState)
     
 - It lets us detect changes from one frame to the next.
     
-
----
-
-# 🎯 **So what does `if (current && !lastInputState)` detect?**
-
-This condition means:
-
-## ✔ **current is TRUE** (button is pressed **this frame**)
-
-AND
-
-## ✔ **lastInputState is FALSE** (button was NOT pressed **previous frame**)
-
-This condition happens **only on the exact frame the player first presses the button**.
 
 ---
 
@@ -205,19 +203,6 @@ This is called **edge detection** (detecting the rising edge of the signal).
 
 This is exactly why the flashlight toggles cleanly ON/OFF **once per key press**.
 
----
-
-# ⭐ Summary
-
-`if (current && !lastInputState)` means:
-
-✔ Button was **just pressed this frame**  
-✔ Not held from before  
-✔ Perfect for toggling things like lights, UI menus, switching weapons, etc.
-
----
-
-If you want, I can rewrite the full flashlight script to make it even clearer with comments explaining every line.
 
 ---
 # Reference
