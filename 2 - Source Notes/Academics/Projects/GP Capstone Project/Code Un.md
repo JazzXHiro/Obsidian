@@ -203,6 +203,9 @@ This is called **edge detection** (detecting the rising edge of the signal).
 
 This is exactly why the flashlight toggles cleanly ON/OFF **once per key press**.
 
+## Dialogue System
+
+1. Using Queue for dialogue storage and handling (cus FIFO).
 
 ---
 # Reference
