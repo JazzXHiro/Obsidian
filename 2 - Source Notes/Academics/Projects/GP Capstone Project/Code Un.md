@@ -203,9 +203,76 @@ This is called **edge detection** (detecting the rising edge of the signal).
 
 This is exactly why the flashlight toggles cleanly ON/OFF **once per key press**.
 
-## Dialogue System
+## 5. Dialogue System
 
 1. Using Queue for dialogue storage and handling (cus FIFO).
+
+## 6. FindFirstObjectByType
+
+Unity is giving you that warning **because Unity changed how object-finding works in newer engine versions**.
+
+---
+
+## ✅ **Why is `FindObjectOfType()` deprecated?**
+
+Unity deprecated it because:
+
+### **1. It is SLOW**
+
+`FindObjectOfType()` scans the entire scene every time it runs.  
+If you call it often, it becomes expensive—especially in big scenes.
+
+Unity introduced faster and safer versions like:
+
+- `FindFirstObjectByType<T>()` → reliable & safer
+    
+- `FindAnyObjectByType<T>()` → fastest but may return any instance
+    
+
+---
+
+### **2. It can behave unpredictably**
+
+If you have **multiple objects** of the same type, `FindObjectOfType()` might return a random one depending on load order.
+
+The new API makes the intent clearer:
+
+- _First_ = deterministic
+    
+- _Any_ = performance-focused
+    
+
+---
+
+### **3. Unity is cleaning up old API**
+
+They are slowly removing older methods to modernize the engine.
+
+---
+
+## 🔍 Example of the new recommended approach
+
+```csharp
+DialogueManager manager = FindFirstObjectByType<DialogueManager>();
+```
+
+This is:
+
+- Faster
+    
+- More consistent
+    
+- The supported method going forward
+    
+
+---
+
+## 🧠 Should you worry?
+
+No — it’s just a **warning**, not an error.  
+Your game will still work.
+
+Unity just wants you to stop using the old method before they remove it in future updates.
 
 ---
 # Reference
