@@ -317,5 +317,129 @@ if (flashlightController.IsOn)
 
 But they **cannot change** `isOn` directly — good for safety.
 
+## 8. IEnumerator
+
+`IEnumerator` in Unity is used for **coroutines** — one of the most important systems in Unity scripting.
+
+# ✅ What `IEnumerator` Does in Unity (Simple Explanation)
+
+### **`IEnumerator` lets you write a function that can PAUSE and RESUME execution.**
+
+Unity uses this to run **coroutines**, which let you:
+
+- wait for seconds
+    
+- wait for frames
+    
+- run something over time
+    
+- perform gradual changes (animations, sanity drain, stamina regen)
+    
+- avoid freezing the game while doing long operations
+    
+
+A coroutine **does not block the game** like a normal `Update()`.
+
+---
+
+# 🧠 With `IEnumerator`
+
+You can **pause** execution using `yield return`.
+
+```csharp
+IEnumerator DoSomething()
+{
+    Debug.Log("Start");
+
+    yield return new WaitForSeconds(2f); // ⏳ pause for 2 seconds
+
+    Debug.Log("End");
+}
+```
+
+---
+
+# 🚀 How to start a coroutine
+
+```csharp
+StartCoroutine(DoSomething());
+```
+
+Unity will run the function, stop at `yield return`, wait for the condition to finish, then resume.
+
+---
+
+# 🟦 Common `yield return` options
+
+### ✔ `yield return null;`
+
+Wait 1 frame.
+
+### ✔ `yield return new WaitForSeconds(1f);`
+
+Wait for 1 second.
+
+### ✔ `yield return new WaitUntil(() => condition);`
+
+Wait until some condition becomes true.
+
+### ✔ `yield return new WaitForEndOfFrame();`
+
+Wait until frame finishes rendering.
+
+---
+
+# 🎮 Why Unity Uses `IEnumerator`
+
+Because Unity is **single-threaded** (main game thread). A coroutine lets you break an operation into steps without blocking the game loop.
+
+Unity calls your coroutine a little bit every frame, which is perfect for:
+
+- damage over time
+    
+- recharging stamina
+    
+- smooth UI animations
+    
+- cooldown timers
+    
+- sanity drain systems (like your game!)
+    
+- fade in/out screens
+    
+- loading sequences
+    
+
+---
+
+# ✔ Example from your own sanity system
+
+In your file’s `SanityLoop()` (you uploaded this file):  
+Your code uses `IEnumerator` so it can:
+
+- continuously decrease/replenish sanity
+    
+- run once per frame
+    
+- pause each frame using `yield return null`
+    
+
+Your uploaded script essentially does:
+
+```csharp
+IEnumerator SanityLoop()
+{
+    while (true)
+    {
+        // compute sanity
+        yield return null; // pause until next frame
+    }
+}
+```
+
+Without `IEnumerator`, this would freeze Unity instantly.
+
+
+
 ---
 # Reference
