@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Game Mechanics.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Packages Used.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Mechanics"
+              "title": "Packages Used"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Game Mechanics.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Packages Used.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Game Mechanics"
+              "title": "Outline of Packages Used"
             }
           },
           {
@@ -281,9 +281,10 @@
   "active": "948e990586903938",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Code Un.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Packages Used.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Game Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Changes.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Tutorials Used.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Game Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
@@ -308,7 +309,6 @@
     "1 - Rough Notes/Chatgpt prompt.md",
     "1 - Rough Notes/Capstone.md",
     "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
-    "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "7 - Attachments/Pasted image 20251110034029.png",
     "2 - Source Notes/ZMisc/Untitled 3.base",
     "2 - Source Notes/ZMisc/Untitled 4.base",
