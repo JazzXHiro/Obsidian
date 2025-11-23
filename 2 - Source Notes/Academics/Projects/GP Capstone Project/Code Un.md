@@ -206,7 +206,7 @@ This is exactly why the flashlight toggles cleanly ON/OFF **once per key press**
 ## 5. Dialogue System
 
 1. Using Queue for dialogue storage and handling (cus FIFO).
-
+2. Press E to intiate dialogue and Left mouse click to cycle through the dialogues.
 ## 6. FindFirstObjectByType
 
 Unity is giving you that warning **because Unity changed how object-finding works in newer engine versions**.
@@ -250,7 +250,7 @@ They are slowly removing older methods to modernize the engine.
 
 ---
 
-## 🔍 Example of the new recommended approach
+### 🔍 Example of the new recommended approach
 
 ```csharp
 DialogueManager manager = FindFirstObjectByType<DialogueManager>();
@@ -267,7 +267,7 @@ This is:
 
 ---
 
-## 🧠 Should you worry?
+### 🧠 Should you worry?
 
 No — it’s just a **warning**, not an error.  
 Your game will still work.
