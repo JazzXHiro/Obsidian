@@ -274,5 +274,48 @@ Your game will still work.
 
 Unity just wants you to stop using the old method before they remove it in future updates.
 
+## 7. public bool IsOn => isOn;
+
+`public bool IsOn => isOn;` is just a **short-hand way of writing a getter property** in C#.
+
+### Long explanation (simple):
+
+Normally you would write this:
+
+```csharp
+public bool IsOn
+{
+    get { return isOn; }
+}
+```
+
+But C# allows a shorter syntax:
+
+```csharp
+public bool IsOn => isOn;
+```
+
+This means:
+
+- **IsOn** is a public _read-only property_
+    
+- It returns the value of the private variable **isOn**
+    
+- You cannot set it from outside, but you can _read_ it
+    
+
+### Why use this?
+
+So other scripts (like your `SanityManager`) can check:
+
+```csharp
+if (flashlightController.IsOn)
+{
+    // Flashlight is turned on
+}
+```
+
+But they **cannot change** `isOn` directly — good for safety.
+
 ---
 # Reference
