@@ -27,10 +27,10 @@ Tags:
 			  2. Sanity meter resets to full when a new checkpoint is unlocked.
 	  2. Once Sanity Meter depletes to zero - Player dies and respawn at the last checkpoint
 	  3. Lamposts
-		  1. Scattered throughout the game world
+		  1. Scattered throughout the game world.
 		  2. If player is under the lampost, their sanity replenishes.
 		  3. Soon as the player enters the lampost, the torch is turned OFF if ON.
-		  4. While the player is in the lampost radius, the player can't activate the torch until
+		  4. While the player is in the lampost radius, the player can't activate the torch until he leaves the radius.
 	  Additional
 		  Bleed effect/warning visuals on the screen when sanity is low.
 
