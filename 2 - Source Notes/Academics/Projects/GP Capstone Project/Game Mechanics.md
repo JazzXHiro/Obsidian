@@ -8,16 +8,16 @@ Tags:
 # Game Mechanics
 
 # Needed
-## 1. Movement Mechanics
+## 1. Movement Mechanics (Done)
 	1. Basic WASD movement along with mouse camera movement.
 	2. Jump using SPACEBAR
 	3. Sprint using Shift
 	4. Interaction - E/Mouse LClick
 
-## 2. Dialogue Mechanics
+## 2. Dialogue Mechanics (Done)
 	1. Where and when to trigger certain dialogues.
 
-## 3. Survival Mechanics
+## 3. Survival Mechanics (Done)
   
   ### i) Sanity Meter
 	  1. Sanity Meter Depletion & Replenishment mechanics
@@ -46,16 +46,16 @@ Tags:
 ### Player Navigation
 	1. The journal reminds the player of the next objective.
 
-## 5. Respawn Mechanics
+## 5. Respawn Mechanics (Done)
 	Automated respawn to last checkpoint after player dies.
 
-## 6. Door lock mechanism
+## 6. Door lock mechanism 
 	Cabin door only unlocks when the key is inserted.
 
 ## 7. Scene Transition
 	Loading Screen Mechanics.
 
-## 8. Flashlight Mechanics
+## 8. Flashlight Mechanics (Done)
 	1. Press "F" to activate/deactivate flash light
 	2. When Flashlight is active Sanity meter doesn't drop
 	3. Has a overheat mechanics
