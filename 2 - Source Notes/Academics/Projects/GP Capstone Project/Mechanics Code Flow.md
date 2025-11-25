@@ -52,6 +52,37 @@ private IEnumerator GradualCooldownCoroutine()
 }
 ```
 
+### How it works
+
+#### Timeline Example:
+```
+[00:00] Flashlight ON, heat starts building
+        currentHeat: 0 → 1 → 2 → 3 → ... → 9 → 10
+        Slider:      ░░░░░░░░░░░░░░░░░░████████
+
+[00:10] OVERHEAT! currentHeat = 10
+        ├─ isOverheated = true (blocks activation)
+        ├─ Flashlight forced OFF
+        └─ Start GradualCooldownCoroutine()
+
+[00:10 - 00:15] Cooldown phase (5 seconds)
+        currentHeat gradually decreases:
+        
+        Time    | currentHeat | Slider Fill | Can Activate?
+        --------|-------------|-------------|---------------
+        00:10   | 10.0        | ████████████| ❌ No
+        00:11   | 8.0         | ██████████  | ❌ No
+        00:12   | 6.0         | ████████    | ❌ No
+        00:13   | 4.0         | ██████      | ❌ No
+        00:14   | 2.0         | ████        | ❌ No
+        00:15   | 0.0         |             | ✅ YES!
+
+[00:15] currentHeat reaches 0
+        ├─ isOverheated = false
+        └─ Player can now turn flashlight ON
+```
+
+
 
 ---
 # Reference
