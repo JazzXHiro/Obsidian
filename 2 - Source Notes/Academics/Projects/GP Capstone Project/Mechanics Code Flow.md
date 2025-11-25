@@ -7,7 +7,7 @@ Tags:
 ---
 # Mechanics Code Flow
 
-
+## 1. Gradual Heat Decrease During Overheat Cooldown
 
 ---
 # Reference
