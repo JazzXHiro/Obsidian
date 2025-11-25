@@ -31,6 +31,7 @@ Tags:
 		  2. If player is under the lampost, their sanity replenishes.
 		  3. Soon as the player enters the lampost, the torch is turned OFF if ON.
 		  4. While the player is in the lampost radius, the player can't activate the torch until he leaves the radius.
+		  5. Make (4) such that when player leaves the lampost radius, the torch turns back on.
 	  Additional
 		  Bleed effect/warning visuals on the screen when sanity is low.
 
