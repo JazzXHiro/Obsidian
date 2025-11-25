@@ -439,7 +439,9 @@ IEnumerator SanityLoop()
 
 Without `IEnumerator`, this would freeze Unity instantly.
 
+## 9. Invoke("EndOverheatCooldown", overheatCooldownDuration);
 
+This is Unity's delayed method invocation system. It schedules a method to be called after a specified delay.
 
 ---
 # Reference
