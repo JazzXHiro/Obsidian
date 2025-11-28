@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Narrative Flow"
             }
+          },
+          {
+            "id": "163af2632506431b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
       "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "948e990586903938",
+  "active": "163af2632506431b",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Changes.md",
