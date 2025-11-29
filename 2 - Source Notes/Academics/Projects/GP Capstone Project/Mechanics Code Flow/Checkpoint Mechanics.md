@@ -77,5 +77,14 @@ sequenceDiagram
     end
 ```
 
+Detailed Variable Flow
+
+Checkpoint.cs Variables
+
+| Type   | Purpose                | Flow                                        |     |                 |            |                        |                                                       |     |            |      |                      |                                                |     |                  |      |                         |                             |
+| ------ | ---------------------- | ------------------------------------------- | --- | --------------- | ---------- | ---------------------- | ----------------------------------------------------- | --- | ---------- | ---- | -------------------- | ---------------------------------------------- | --- | ---------------- | ---- | ----------------------- | --------------------------- |
+| string | Tag to identify player | Set in Inspector → Used in OnTriggerEnter() |     | activatedEffect | GameObject | Visual feedback object | Disabled in Start() → Enabled in ActivateCheckpoint() |     | oneTimeUse | bool | Prevent reactivation | Set in Inspector → Checked in OnTriggerEnter() |     | hasBeenActivated | bool | Tracks activation state | false → true when activated |
+|        |                        |                                             |     |                 |            |                        |                                                       |     |            |      |                      |                                                |     |                  |      |                         |                             |
+
 ---
 # Reference
