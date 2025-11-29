@@ -549,7 +549,24 @@ public class JournalManager : MonoBehaviour
 
 ### Setup Instructions
 
+1.	**For each interactable object:**
+	•	Add a Collider component
+	•	Add one of the new scripts (DocumentInteractable, InspectableObject, etc.)
+	•	Add ClueCatalyst component
+	•	Set the clue text and type in ClueCatalyst
 
+2.	**Example GameObject Structure:**
+```
+OldLetter
+├── Box Collider
+├── DocumentInteractable (script)
+└── ClueCatalyst (script)
+    ├── Clue = "The letter mentions a hidden key..."
+    ├── ClueType = Document
+    └── Notification = NotificationUI
+
+```
+This system allows you to create diverse interactable objects while maintaining consistency with your existing interaction framework!
 
 ---
 # Reference
