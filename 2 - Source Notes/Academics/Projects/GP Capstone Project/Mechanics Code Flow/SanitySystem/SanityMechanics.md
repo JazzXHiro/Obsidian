@@ -36,5 +36,42 @@ graph TD
     Q["SanityPostFX"] -.->|"Reads CurrentSanity"| A
 ```
 
+## Detailed Function Call Flow
+
+### 1. Initialization (Start())
+```
+Start()
+├─ Get Slider component
+├─ Set sanitySlider.maxValue = fullSanity (100)
+├─ Set sanitySlider.value = fullSanity (100)
+└─ StartCoroutine(SanityLoop())
+```
+
+### 2. Main Loop (SanityLoop() Coroutine)
+```
+SanityLoop() [EVERY FRAME]
+├─ Check: if (isDead) → skip frame
+├─ Get Time.deltaTime → delta
+├─ Increment logTimer
+├─ Read flashlightController.IsOn → flashlightOn
+├─ Read isUnderLamp → underLamp
+│
+├─ Calculate Change:
+│  ├─ if (flashlightOn) → change = 0
+│  ├─ else if (underLamp) → change = +replenishRatePerSecond * delta
+│  └─ else → change = -drainRatePerSecond * difficulty * delta
+│
+├─ Snapshot before = sanitySlider.value
+├─ Apply: sanitySlider.value = Clamp(value + change, 0, maxValue)
+├─ Snapshot after = sanitySlider.value
+│
+├─ Check: if (after <= 0 && !isDead)
+│  └─ StartCoroutine(HandleDeath())
+│
+└─ Debug Log every 1 second
+```
+
+
+
 ---
 # Reference
