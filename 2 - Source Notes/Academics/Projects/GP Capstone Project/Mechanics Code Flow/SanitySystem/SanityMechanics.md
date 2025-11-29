@@ -139,5 +139,41 @@ SanityPostFX.Update() [EVERY FRAME]
 
 ## Key Execution Details
 
+### 1. Coroutine vs Update()
+•	SanityLoop() uses yield return null = runs every frame like Update()
+•	But can be paused with isDead flag without stopping the coroutine
+
+### 2. Boolean Evaluation Order
+
+```
+if (flashlightOn)           // Priority 1
+    change = 0f;
+else if (underLamp)
+    change = +10 * delta;
+else                        // Priority 2 (only if both false)
+    change = -2 * difficulty * delta;
+```
+
+### 3. Time.deltaTime Scaling
+•	At 60 FPS: delta ≈ 0.0167 seconds
+•	At 30 FPS: delta ≈ 0.0333 seconds
+•	Formula ensures same rate regardless of framerate:
+•	60fps: -2.0 × 0.0167 × 60 frames = -2.0/sec
+•	30fps: -2.0 × 0.0333 × 30 frames = -2.0/sec
+
+### 4. Clamping Prevents Overflow
+```
+sanitySlider.value = Mathf.Clamp(value + change, 0f, maxValue);
+```
+•	Can't go below 0
+•	Can't go above 100
+•	Prevents negative sanity or over-healing
+
+### 5. Death Flag Prevents Double-Death
+```
+if (after <= 0f && !isDead)  // ← !isDead check is critical
+```
+Without this, HandleDeath() would be called every frame while sanity is 0, creating infinite coroutines!
+
 ---
 # Reference
