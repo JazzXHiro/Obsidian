@@ -145,9 +145,9 @@ else
 sanitySlider.value += change;
 ```
 
-## 6. Turning Flashlight ON:
+## 6. Complete Function Call Chain
 
-### Complete Function Call Chain
+### Turning Flashlight ON:
 ```
 User Input → PlayerInputHandler.FlashlightTriggered = true
           ↓
@@ -170,7 +170,7 @@ ApplyState()
 flashlightLight.enabled = true
 ```
 
-## Overheat Trigger:
+### Overheat Trigger:
 ```
 Update() → UpdateHeat()
        ↓
@@ -191,7 +191,52 @@ Gradual cooldown over overheatCooldownDuration seconds
 isOverheated = false
 ```
 
-## Public API Methods
+## 7. Public API Methods
+| Method            | Parameters        | Returns | Checks Performed                                        |
+| ----------------- | ----------------- | ------- | ------------------------------------------------------- |
+| SetState(bool on) | on: desired state | void    | 1. Overheat check<br/>2. Lamppost check (if turning ON) |
+| TurnOn()          | None              | void    | Calls SetState(true)                                    |
+| TurnOff()         | None              | void    | Calls SetState(false)                                   |
+| IsOn              | N/A               | bool    | Getter for isOn                                         |
+| IsOverheated      | N/A               | bool    | Getter for isOverheated                                 |
+| HeatPercentage    | N/A               | float   | Returns currentHeat / overheatThreshold (clamped 0-1)   |
+
+## 8. State Diagram
+```mermaid
+stateDiagram-v2
+    [*] --> OFF
+    OFF --> ON: User presses F<br/>(not overheated, not under lamp)
+    ON --> OFF: User presses F
+    ON --> OVERHEATED: currentHeat >= threshold
+    OVERHEATED --> OFF: Forced OFF
+    OFF --> COOLDOWN: Gradual heat decrease
+    COOLDOWN --> OFF: currentHeat reaches 0<br/>isOverheated = false
+    OFF --> [*]
+    
+    note right of ON
+        currentHeat increases
+        by Time.deltaTime
+    end note
+    
+    note right of OFF
+        currentHeat decreases
+        by cooldownRate * Time.deltaTime
+    end note
+    
+    note right of OVERHEATED
+        5 second forced cooldown
+        Cannot toggle flashlight
+    end note
+```
+
+This system creates a balanced mechanic where:
+•	Flashlight ON = Sanity paused, heat builds up
+•	Flashlight OFF = Sanity drains (unless under lamppost), heat cools down
+•	Overheated = Forced cooldown, sanity drains
+•	Under Lamppost = Flashlight forced OFF, sanity replenishes
+
+## 9. Core Loop Execution
+
 
 ---
 # Reference
