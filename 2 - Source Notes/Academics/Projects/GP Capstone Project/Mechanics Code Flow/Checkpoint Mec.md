@@ -8,7 +8,7 @@ Tags: [[t-GPCapstone]] [[t-project]]
 # Checkpoint Mechanics
 
 ## How the Checkpoint System Works
-The checkpoint system uses a Singleton pattern with two main components working together:
+The checkpoint system uses [a Singleton pattern](Explained#1. Singleton Pattern Explained)with two main components working together:
 Components Overview
 1.	Checkpoint (attached to checkpoint objects in scene)
 •	Detects when the player enters the checkpoint zone
