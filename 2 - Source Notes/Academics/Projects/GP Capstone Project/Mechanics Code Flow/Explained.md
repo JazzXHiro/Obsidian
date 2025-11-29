@@ -62,5 +62,10 @@ public static CheckpointManager Instance { get; private set; }
 | Instance              | The single shared reference                         |     |
 | { get; private set; } | Anyone can read, only this class can write          |     |
 
+**What this means:**
+•	CheckpointManager.Instance is accessible from any script
+•	There's only one Instance variable for the entire game
+•	You can't accidentally overwrite it from outside
+
 ---
 # Reference
