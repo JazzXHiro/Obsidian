@@ -66,7 +66,48 @@ Only runs if the if condition was false (no duplicate detected):
 ---
 
 ## 2. Where is RespawnPlayer() being called?
+```
+private IEnumerator HandleDeath()
+{
+    isDead = true;
+    Debug.Log("Player has lost all sanity!");
 
+    // Wait for respawn delay
+    yield return new WaitForSeconds(respawnDelay);
+
+    // Respawn player
+    if (CheckpointManager.Instance != null)
+    {
+        CheckpointManager.Instance.RespawnPlayer();  // ← HERE
+    }
+    else
+    {
+        Debug.LogError("CheckpointManager not found! Cannot respawn player.");
+    }
+
+    // Reset sanity
+    if (sanitySlider != null)
+    {
+        sanitySlider.value = fullSanity;
+    }
+
+    isDead = false;
+    Debug.Log("Player respawned with full sanity.");
+}
+```
+```mermaid
+flowchart LR
+    A["SanityManager.Update()"] --> B["SanityLoop() Coroutine"]
+    B --> C{"Sanity <= 0?"}
+    C -->|"Yes"| D["StartCoroutine(HandleDeath())"]
+    D --> E["Wait respawnDelay seconds"]
+    E --> F["CheckpointManager.Instance.RespawnPlayer()"]
+    F --> G["Player teleported to checkpoint"]
+    G --> H["Sanity reset to fullSanity"]
+    H --> I["isDead = false"]
+    I --> B
+    C -->|"No"| B
+```
 
 ---
 # Reference
