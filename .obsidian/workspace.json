@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 200
   },
   "right": {
     "id": "67cbeb46be013ebc",
@@ -263,21 +263,22 @@
             }
           },
           {
-            "id": "c82b807477b59a07",
+            "id": "9af052729d855066",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,7 +302,8 @@
       "meld-encrypt:Lock and Close all open encrypted notes": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt Selection": false,
-      "meld-encrypt:Decrypt at Cursor": false
+      "meld-encrypt:Decrypt at Cursor": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "2b5667f160a998df",
