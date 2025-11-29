@@ -1,8 +1,8 @@
 	2025-11-29 17:55
 
-Status:
+Status: [[t-child]]
 
-Tags:
+Tags: [[t-GPCapstone]] [[t-project]]
 
 ---
 # Checkpoint Mechanics
