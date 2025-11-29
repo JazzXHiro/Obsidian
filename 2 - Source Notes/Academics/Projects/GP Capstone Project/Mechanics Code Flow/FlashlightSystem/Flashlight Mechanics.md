@@ -235,8 +235,30 @@ This system creates a balanced mechanic where:
 •	Overheated = Forced cooldown, sanity drains
 •	Under Lamppost = Flashlight forced OFF, sanity replenishes
 
-## 9. Core Loop Execution
+## 9. Integration with Flashlight Overheat
 
+```mermaid
+graph LR
+    A["Player turns ON flashlight"] --> B["Sanity stops draining"]
+    B --> C["Flashlight heats up<br/>(10 seconds)"]
+    C --> D["Flashlight OVERHEATS"]
+    D --> E["Flashlight forced OFF"]
+    E --> F["Sanity starts draining again!"]
+    F --> G["Flashlight cools down<br/>(5 seconds)"]
+    G --> H["Player can use flashlight again"]
+    
+    style D fill:#f66
+    style F fill:#f66
+```
+
+**The Trade-off:**
+•	Use flashlight = Sanity safe BUT overheat risk
+•	Overheat happens = Forced sanity drain for 5 seconds
+•	Must balance flashlight usage vs. finding lampposts
+This creates a survival resource management system where players must strategically:
+1.	Use flashlight to pause sanity drain
+2.	Find lampposts to restore sanity
+3.	Manage overheat to avoid forced drain periods
 
 ---
 # Reference
