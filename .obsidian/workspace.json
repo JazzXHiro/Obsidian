@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics/Potential Idea.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/FlashlightSystem/Flashlight Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Idea"
+              "title": "Flashlight Mechanics"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics/Potential Idea.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/FlashlightSystem/Flashlight Mechanics.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Potential Idea"
+              "title": "Outline of Flashlight Mechanics"
             }
           },
           {
@@ -308,8 +308,10 @@
   },
   "active": "2b5667f160a998df",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics/Interaction Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics/Potential Idea.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/FlashlightSystem/Flashlight Mechanics.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/FlashlightSystem",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics/Interaction Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/SanitySystem/SanityMechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Untitled.md",
@@ -339,12 +341,10 @@
     "2 - Source Notes/Presentation.md",
     "2 - Source Notes/Academics/Assignments/RM/RM Test1.md",
     "2 - Source Notes/Academics/Assignments/RM/R&M.md",
-    "2 - Source Notes/Academics/Assignments/RM/Patent.md",
     "2 - Source Notes/Programming/C++/~syncthing~11. Variable Assignment and Initialization.md.tmp",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "7 - Attachments/Pasted image 20251110034029.png",
     "2 - Source Notes/ZMisc/Untitled 3.base",
-    "2 - Source Notes/ZMisc/Untitled 4.base",
     "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
     "7 - Attachments/Pasted image 20250825235728.png",
     "7 - Attachments/Pasted image 20251017160405.png",
