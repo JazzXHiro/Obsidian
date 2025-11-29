@@ -73,6 +73,49 @@ graph TD
 | overheatCooldownDuration | float | Forced cooldown duration | 5f | 
 | isOverheated | bool | Blocks flashlight usage | false |
 
+## 3. Overheat Coroutine Flow
+```
+GradualCooldownCoroutine() Flow:
+├─ Calculate cooldownSpeed = overheatThreshold / overheatCooldownDuration
+│  └─ Example: 10f / 5f = 2f per second
+├─ While (currentHeat > 0f):
+│  ├─ currentHeat -= cooldownSpeed * Time.deltaTime
+│  ├─ currentHeat = Max(0f, currentHeat)
+│  └─ yield return null (wait 1 frame)
+├─ Ensure currentHeat = 0f
+└─ Set isOverheated = false
+```
+**Variables Passed:**
+•	Uses class fields: currentHeat, overheatThreshold, overheatCooldownDuration
+•	Updates UI through UpdateSlider() in Update() loop
+
+## Lamppost Interaction Flow
+```mermaid
+sequenceDiagram
+    participant Player
+    participant LT as LamppostTrigger
+    participant FC as FlashlightController
+    participant SM as SanityManager
+
+    Player->>LT: OnTriggerEnter(Collider other)
+    LT->>LT: Check other.CompareTag("Player")
+    LT->>SM: SetUnderLamp(true)
+    LT->>FC: Check flashlight.IsOn
+    LT->>LT: wasFlashlightOnBeforeEntering = IsOn
+    LT->>FC: TurnOff()
+    Note over FC: Flashlight forced OFF
+
+    Player->>LT: OnTriggerExit(Collider other)
+    LT->>SM: SetUnderLamp(false)
+    LT->>LT: Check wasFlashlightOnBeforeEntering
+    alt Was ON before
+        LT->>FC: TurnOn()
+        FC->>FC: SetState(true)
+        FC->>SM: Check isUnderLamp (now false)
+        FC->>FC: isOn = true
+        FC->>FC: ApplyState()
+    end
+```
 
 
 ---
