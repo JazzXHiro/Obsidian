@@ -13,14 +13,14 @@ Components Overview
 1.	Checkpoint (attached to checkpoint objects in scene)
 •	Detects when the player enters the checkpoint zone
 •	Notifies the CheckpointManager
-•	Provides visual feedback
+•	Provides visual feedback (haven't put in the effects yet)
 2.	CheckpointManager (singleton, one instance in scene)
 •	Stores the current active checkpoint
 •	Handles player respawning
 •	Manages initial spawn point
 
 ---
-
+## Flow Diagran
 ```mermaid
 sequenceDiagram
     participant Scene as Game Scene
