@@ -296,6 +296,36 @@ Player returns to gameplay at last checkpoint
 
 # Key Mechanics Explained
 
+## Why disable CharacterController?
+```
+playerController.enabled = false;  // REQUIRED!
+```
+Unity's CharacterController prevents direct transform manipulation when enabled. You must disable it to teleport the player, then re-enable it.
+
+## Why Transform instead of Vector3?
+```
+public static CheckpointManager Instance { get; private set; }
+```
+Passing the entire Transform preserves:
+•	 Position (where player spawns)
+•	 Rotation (which direction player faces)
+•	 Name (for debugging)
+
+## Singleton Pattern Purpose
+```
+public static CheckpointManager Instance { get; private set; }
+```
+•	Only ONE CheckpointManager exists
+•	Any script can access it via CheckpointManager.Instance
+•	Survives scene changes (if made persistent with DontDestroyOnLoad)
+
+## One-Time Use Logic
+```
+if (oneTimeUse && hasBeenActivated)
+    return;
+```
+
+Prevents checkpoint spam. Once activated, the checkpoint won't trigger again (unless manually reset).
 
 ---
 # Reference
