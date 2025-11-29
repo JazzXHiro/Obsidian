@@ -7,7 +7,7 @@ Tags:
 ---
 # Checkpoint Mechanics
 
-How the Checkpoint System Works
+## How the Checkpoint System Works
 The checkpoint system uses a Singleton pattern with two main components working together:
 Components Overview
 1.	Checkpoint (attached to checkpoint objects in scene)
@@ -77,9 +77,9 @@ sequenceDiagram
     end
 ```
 
-# Detailed Variable Flow
+## Detailed Variable Flow
 
-## Checkpoint.cs Variables
+### Checkpoint.cs Variables
 
 | Variable         | Type       | Purpose                 | Flow                                                  |
 | ---------------- | ---------- | ----------------------- | ----------------------------------------------------- |
@@ -88,7 +88,7 @@ sequenceDiagram
 | oneTimeUse       | bool       | Prevent reactivation    | Set in Inspector → Checked in OnTriggerEnter()        |
 | hasBeenActivated | bool       | Tracks activation state | false → true when activated                           |
 
-## CheckpointManager.cs Variables
+### CheckpointManager.cs Variables
 
 | Variable          | Type                     | Purpose              | Flow                                                        |
 | ----------------- | ------------------------ | -------------------- | ----------------------------------------------------------- |
@@ -97,9 +97,9 @@ sequenceDiagram
 | currentCheckpoint | Transform                | Active checkpoint    | Updated by SetCheckpoint() → Used in RespawnPlayer()        |
 | playerController  | CharacterController      | Player reference     | Found in Start() → Used to move player in RespawnPlayer()   |
 
-# Key Function Call Chain
+## Key Function Call Chain
 
-## 1. Checkpoint Activation
+### 1. Checkpoint Activation
 
 ```
 Player enters trigger
@@ -128,13 +128,13 @@ playerController.enabled = true [re-enable physics]
 
 ```
 
-# Important Design Patterns
+## Important Design Patterns
 
 1.	Singleton Pattern: Only one CheckpointManager exists, accessible via CheckpointManager.Instance
 2.	Observer Pattern: Checkpoints notify the manager when activated
 3.	One-time Trigger: hasBeenActivated flag prevents repeated activation (if oneTimeUse = true)
 
-# The Complete Game Loop
+## The Complete Game Loop
 ```mermaid
 flowchart TD
     Start["Game Starts"] --> Init["Initialization Phase"]
@@ -194,9 +194,9 @@ flowchart TD
     style SanityDrain fill:#ffe66d
 ```
 
-# Complete Variable Flow
+## Complete Variable Flow
 
-## Phase 1: Initialization
+### Phase 1: Initialization
 
 ```
 Scene Load
@@ -214,7 +214,7 @@ Checkpoint.Start() [for each checkpoint in scene]
     hasBeenActivated = false
 ```
 
-## Phase 2: Active Gameplay - Sanity Drain
+### Phase 2: Active Gameplay - Sanity Drain
 ```
 SanityManager.Update() [runs continuously]
     ↓
@@ -234,7 +234,7 @@ Every frame:
         StartCoroutine(HandleDeath())
 ```
 
-## Phase 3: Player Reaches Checkpoint
+### Phase 3: Player Reaches Checkpoint
 ```
 Player Collider → Checkpoint Trigger Collider
     ↓
@@ -265,7 +265,7 @@ Checkpoint updates:
     activatedEffect.SetActive(true)
 ```
 
-## Phase 4: Death & Respawn
+### Phase 4: Death & Respawn
 ```
 SanityManager detects death (sanity <= 0)
     ↓
@@ -294,15 +294,15 @@ Back to SanityManager.HandleDeath():
 Player returns to gameplay at last checkpoint
 ```
 
-# Key Mechanics Explained
+## Key Mechanics Explained
 
-## Why disable CharacterController?
+### Why disable CharacterController?
 ```
 playerController.enabled = false;  // REQUIRED!
 ```
 Unity's CharacterController prevents direct transform manipulation when enabled. You must disable it to teleport the player, then re-enable it.
 
-## Why Transform instead of Vector3?
+### Why Transform instead of Vector3?
 ```
 public static CheckpointManager Instance { get; private set; }
 ```
@@ -311,7 +311,7 @@ Passing the entire Transform preserves:
 •	 Rotation (which direction player faces)
 •	 Name (for debugging)
 
-## Singleton Pattern Purpose
+### Singleton Pattern Purpose
 ```
 public static CheckpointManager Instance { get; private set; }
 ```
@@ -319,13 +319,69 @@ public static CheckpointManager Instance { get; private set; }
 •	Any script can access it via CheckpointManager.Instance
 •	Survives scene changes (if made persistent with DontDestroyOnLoad)
 
-## One-Time Use Logic
+### One-Time Use Logic
 ```
 if (oneTimeUse && hasBeenActivated)
     return;
 ```
 
 Prevents checkpoint spam. Once activated, the checkpoint won't trigger again (unless manually reset).
+
+## Real-World Example Flow
+**Scenario:** Player explores, finds checkpoint, dies in darkness, respawns.
+```
+1. Player spawns at initialSpawnPoint (e.g., position: 0,0,0)
+   currentCheckpoint = initialSpawnPoint
+
+2. Player walks, sanity drains in darkness
+   sanitySlider.value = 100 → 80 → 60 → ...
+
+3. Player turns on flashlight
+   sanity paused (change = 0)
+
+4. Player reaches Checkpoint_1 at position (50, 0, 30)
+   OnTriggerEnter() → SetCheckpoint(Checkpoint_1.transform)
+   currentCheckpoint = Checkpoint_1.transform
+
+5. Player continues, turns off flashlight
+   sanity drains again: 60 → 40 → 20 → 0
+
+6. Sanity reaches 0
+   HandleDeath() → Wait 2 seconds → RespawnPlayer()
+
+7. Player teleports to Checkpoint_1
+   position = (50, 0, 30)
+   sanity = 100
+   isDead = false
+
+8. Player continues from checkpoint...
+```
+
+## Script Dependencies
+```
+CheckpointManager (Singleton)
+    ↑ called by
+    ├─ Checkpoint.cs (SetCheckpoint)
+    └─ SanityManager.cs (RespawnPlayer)
+
+SanityManager
+    ↑ depends on
+    ├─ FlashlightController.IsOn
+    ├─ LamppostTrigger (sets isUnderLamp)
+    └─ CheckpointManager.Instance
+
+Checkpoint
+    ↑ depends on
+    └─ CheckpointManager.Instance
+```
+
+## Summary
+
+The system works through 3 interdependent loops:
+1.	Sanity Loop: Constantly drains/replenishes based on light sources
+2.	Checkpoint Loop: Updates spawn point when player enters checkpoints
+3.	Death/Respawn Loop: Teleports player to last checkpoint when sanity = 0
+The CheckpointManager acts as the central coordinator, storing the respawn location and handling the actual player teleportation, while individual Checkpoint objects act as trigger zones that update this location.
 
 ---
 # Reference
