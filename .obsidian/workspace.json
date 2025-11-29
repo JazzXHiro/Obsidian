@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Checkpoint Mec.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/CheckpointManager.cs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checkpoint Mec"
+              "title": "CheckpointManager.cs"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Checkpoint Mec.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/CheckpointManager.cs.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Checkpoint Mec"
+              "title": "Outline of CheckpointManager.cs"
             }
           },
           {
@@ -308,8 +308,10 @@
   },
   "active": "2b5667f160a998df",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/Checkpoint Mec.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/CheckpointManager.cs.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Explained.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Checkpoint Mec.md",
     "2 - Source Notes/a Singleton pattern.md",
     "3 - Tags/t-project.md",
     "3 - Tags/t-GPCapstone.md",
@@ -338,13 +340,11 @@
     "2 - Source Notes/Programming/C++/~syncthing~11. Variable Assignment and Initialization.md.tmp",
     "2 - Source Notes/Academics/Notes/Sem 5/Probability, Entropy & MC Simulation/Exercise_Questions.pdf",
     "1 - Rough Notes/Temp.md",
-    "1 - Rough Notes/Probability temp.md",
     "7 - Attachments/Pasted image 20251110034029.png",
     "2 - Source Notes/ZMisc/Untitled 3.base",
     "2 - Source Notes/ZMisc/Untitled 4.base",
     "2 - Source Notes/ZMisc/Untitled 2.base",
     "2 - Source Notes/ZMisc/Untitled.base",
-    "2 - Source Notes/ZMisc",
     "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
     "7 - Attachments/Pasted image 20250825235728.png",
     "7 - Attachments/Pasted image 20251017160405.png",
