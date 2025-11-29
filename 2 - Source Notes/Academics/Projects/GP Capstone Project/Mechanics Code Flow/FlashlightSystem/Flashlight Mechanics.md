@@ -89,7 +89,7 @@ GradualCooldownCoroutine() Flow:
 •	Uses class fields: currentHeat, overheatThreshold, overheatCooldownDuration
 •	Updates UI through UpdateSlider() in Update() loop
 
-## Lamppost Interaction Flow
+## 4. Lamppost Interaction Flow
 ```mermaid
 sequenceDiagram
     participant Player
@@ -117,6 +117,81 @@ sequenceDiagram
     end
 ```
 
+**Key Variables:**
+•	wasFlashlightOnBeforeEntering (bool): Stores flashlight state before entering lamppost area
+•	playerTag (string): Tag to identify player ("Player")
+
+## 5. Sanity System Integration
+```
+// In SanityManager.UpdateSanityCoroutine()
+
+bool flashlightOn = flashlightController.IsOn;  // ← Read from FlashlightController
+bool underLamp = isUnderLamp;
+
+float change = 0f;
+if (flashlightOn)
+{
+    change = 0f;  // Sanity PAUSED (no drain/gain)
+}
+else if (underLamp)
+{
+    change = replenishRatePerSecond * delta;  // Sanity GAINS
+}
+else
+{
+    change = -drainRatePerSecond * difficulty * delta;  // Sanity DRAINS
+}
+
+sanitySlider.value += change;
+```
+
+## 6. Turning Flashlight ON:
+
+### Complete Function Call Chain
+```
+User Input → PlayerInputHandler.FlashlightTriggered = true
+          ↓
+FlashlightController.Update()
+          ↓
+Check: current && !lastInputState (edge detection)
+          ↓
+ToggleFlashlight()
+          ↓
+Check: !isOverheated
+          ↓
+SetState(true)
+          ↓
+Check: !SanityManager.Instance.isUnderLamp
+          ↓
+isOn = true
+          ↓
+ApplyState()
+          ↓
+flashlightLight.enabled = true
+```
+
+## Overheat Trigger:
+```
+Update() → UpdateHeat()
+       ↓
+currentHeat += Time.deltaTime (while isOn)
+       ↓
+currentHeat >= overheatThreshold
+       ↓
+OverheatFlashlight()
+       ↓
+isOverheated = true
+       ↓
+TurnOff() → SetState(false)
+       ↓
+StartCoroutine(GradualCooldownCoroutine())
+       ↓
+Gradual cooldown over overheatCooldownDuration seconds
+       ↓
+isOverheated = false
+```
+
+## Public API Methods
 
 ---
 # Reference
