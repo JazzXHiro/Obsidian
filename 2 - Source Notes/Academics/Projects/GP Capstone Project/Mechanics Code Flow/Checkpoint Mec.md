@@ -134,7 +134,67 @@ playerController.enabled = true [re-enable physics]
 2.	Observer Pattern: Checkpoints notify the manager when activated
 3.	One-time Trigger: hasBeenActivated flag prevents repeated activation (if oneTimeUse = true)
 
+# The Complete Game Loop
+```mermaid
+flowchart TD
+    Start["Game Starts"] --> Init["Initialization Phase"]
+    Init --> CPMInit["CheckpointManager.Awake()<br/>- Creates Singleton<br/>- Finds Player"]
+    Init --> CPMStart["CheckpointManager.Start()<br/>- Sets currentCheckpoint = initialSpawnPoint"]
+    Init --> CPInit["Checkpoint.Start()<br/>- Sets collider.isTrigger = true<br/>- Hides activatedEffect"]
+    
+    CPMStart --> Gameplay["Player Exploring"]
+    CPInit --> Gameplay
+    
+    Gameplay --> SanityDrain["SanityManager.Update()<br/>Coroutine Running"]
+    
+    SanityDrain --> CheckConditions{"Check Conditions"}
+    CheckConditions -->|"Flashlight ON"| NoChange["change = 0<br/>(sanity paused)"]
+    CheckConditions -->|"Under Lamp"| Regen["change = +replenishRate * delta"]
+    CheckConditions -->|"In Darkness"| Drain["change = -drainRate * difficulty * delta"]
+    
+    NoChange --> ApplySanity["sanitySlider.value += change"]
+    Regen --> ApplySanity
+    Drain --> ApplySanity
+    
+    ApplySanity --> CheckDeath{"sanity <= 0?"}
+    CheckDeath -->|"No"| Gameplay
+    CheckDeath -->|"Yes"| Death["HandleDeath() Coroutine"]
+    
+    Death --> SetDead["isDead = true"]
+    SetDead --> Wait["Wait respawnDelay seconds"]
+    Wait --> Respawn["CheckpointManager.Instance.RespawnPlayer()"]
+    
+    Respawn --> DisableCC["playerController.enabled = false"]
+    DisableCC --> MovePlayer["transform.position = currentCheckpoint.position<br/>transform.rotation = currentCheckpoint.rotation"]
+    MovePlayer --> EnableCC["playerController.enabled = true"]
+    EnableCC --> ResetSanity["sanitySlider.value = fullSanity"]
+    ResetSanity --> ResetFlag["isDead = false"]
+    ResetFlag --> Gameplay
+    
+    Gameplay --> PlayerMove["Player Moves Through World"]
+    PlayerMove --> HitCP{"Enters Checkpoint<br/>Trigger?"}
+    HitCP -->|"No"| Gameplay
+    HitCP -->|"Yes"| CPTrigger["Checkpoint.OnTriggerEnter()"]
+    
+    CPTrigger --> CheckActivated{"oneTimeUse &&<br/>hasBeenActivated?"}
+    CheckActivated -->|"Yes"| Gameplay
+    CheckActivated -->|"No"| CheckTag{"other.CompareTag<br/>('Player')?"}
+    CheckTag -->|"No"| Gameplay
+    CheckTag -->|"Yes"| Activate["ActivateCheckpoint()"]
+    
+    Activate --> SaveCP["CheckpointManager.Instance.SetCheckpoint(transform)"]
+    SaveCP --> StoreTransform["currentCheckpoint = checkpointTransform"]
+    StoreTransform --> MarkActivated["hasBeenActivated = true"]
+    MarkActivated --> ShowEffect["activatedEffect.SetActive(true)"]
+    ShowEffect --> Gameplay
+    
+    style Death fill:#ff6b6b
+    style Respawn fill:#4ecdc4
+    style Activate fill:#95e1d3
+    style SanityDrain fill:#ffe66d
+```
 
+#
 
 ---
 # Reference
