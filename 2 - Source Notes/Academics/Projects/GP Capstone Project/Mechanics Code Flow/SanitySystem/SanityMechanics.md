@@ -137,7 +137,7 @@ SanityPostFX.Update() [EVERY FRAME]
 | sanitySlider.value        | float | Current sanity         | 0-100          |
 | flashlightController.IsOn | bool  | Flashlight active      | true/false     |
 
-
+## Key Execution Details
 
 ---
 # Reference
