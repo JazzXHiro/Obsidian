@@ -77,14 +77,27 @@ sequenceDiagram
     end
 ```
 
-Detailed Variable Flow
+# Detailed Variable Flow
 
-Checkpoint.cs Variables
+## Checkpoint.cs Variables
 
-| Type   | Purpose                | Flow                                        |     |                 |            |                        |                                                       |     |            |      |                      |                                                |     |                  |      |                         |                             |
-| ------ | ---------------------- | ------------------------------------------- | --- | --------------- | ---------- | ---------------------- | ----------------------------------------------------- | --- | ---------- | ---- | -------------------- | ---------------------------------------------- | --- | ---------------- | ---- | ----------------------- | --------------------------- |
-| string | Tag to identify player | Set in Inspector → Used in OnTriggerEnter() |     | activatedEffect | GameObject | Visual feedback object | Disabled in Start() → Enabled in ActivateCheckpoint() |     | oneTimeUse | bool | Prevent reactivation | Set in Inspector → Checked in OnTriggerEnter() |     | hasBeenActivated | bool | Tracks activation state | false → true when activated |
-|        |                        |                                             |     |                 |            |                        |                                                       |     |            |      |                      |                                                |     |                  |      |                         |                             |
+| Variable         | Type       | Purpose                 | Flow                                                  |
+| ---------------- | ---------- | ----------------------- | ----------------------------------------------------- |
+| playerTag        | string     | Tag to identify player  | Set in Inspector → Used in OnTriggerEnter()           |
+| activatedEffect  | GameObject | Visual feedback object  | Disabled in Start() → Enabled in ActivateCheckpoint() |
+| oneTimeUse       | bool       | Prevent reactivation    | Set in Inspector → Checked in OnTriggerEnter()        |
+| hasBeenActivated | bool       | Tracks activation state | false → true when activated                           |
+
+## CheckpointManager.cs Variables
+
+| Variable          | Type                     | Purpose              | Flow                                                        |
+| ----------------- | ------------------------ | -------------------- | ----------------------------------------------------------- |
+| Instance          | static CheckpointManager | Singleton reference  | Set in Awake() → Accessed by Checkpoint.cs                  |
+| initialSpawnPoint | Transform                | First spawn location | Set in Inspector → Assigned to currentCheckpoint in Start() |
+| currentCheckpoint | Transform                | Active checkpoint    | Updated by SetCheckpoint() → Used in RespawnPlayer()        |
+| playerController  | CharacterController      | Player reference     | Found in Start() → Used to move player in RespawnPlayer()   |
+
+
 
 ---
 # Reference
