@@ -156,7 +156,36 @@ Processing:
 •	Condition: Only works when dialogueActive == true
 •	Action: Advances to next sentence
 
-## 
+## Data Flow Summary
+
+```
+Dialogue Object (Inspector)
+    ├── name: "Character Name"
+    └── sentences: ["Line 1", "Line 2", "Line 3"]
+           ↓
+    Queue<string> (Runtime)
+    ["Line 1"] → Dequeue → TypeSentence → UI Display
+    ["Line 2"] → Dequeue → TypeSentence → UI Display
+    ["Line 3"] → Dequeue → TypeSentence → UI Display
+    [Empty]    → EndDialogue()
+```
+
+## Key Features
+
+1.	Queue-Based System: Uses FIFO (First-In-First-Out) for sentence ordering
+2.	Typing Effect: Characters appear one-by-one with configurable speed
+3.	Coroutine Management: StopAllCoroutines() prevents text overlap when advancing quickly
+4.	State Management: dialogueActive flag prevents input conflicts
+5.	Animator Integration: Smoothly animates dialogue box open/close
+
+## Potential Improvements
+
+Consider these enhancements:
+•	Add ability to skip typing animation (show full sentence immediately)
+•	Support for character portraits or emotions
+•	Audio cues for typing sounds or voice clips
+•	Branching dialogue choices
+•	Integration with your journal system for quest updates
 
 ---
 # Reference
