@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Anime Quotes.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Checkpoint Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anime Quotes"
+              "title": "Checkpoint Mechanics"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Anime Quotes.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Checkpoint Mechanics.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anime Quotes"
+              "title": "Outline of Checkpoint Mechanics"
             }
           },
           {
@@ -306,13 +306,16 @@
   },
   "active": "2b5667f160a998df",
   "lastOpenFiles": [
-    "2 - Source Notes/Anime Quotes.md",
-    "2 - Source Notes/Personal/Shows & Movies/Anime",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Changes.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Checkpoint Mechanics.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Game Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Code Un.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Changes.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Cap Stone Project (Game design Document).md",
+    "2 - Source Notes/Anime Quotes.md",
+    "2 - Source Notes/Personal/Shows & Movies/Anime",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Tutorials Used.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Packages Used.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
@@ -334,8 +337,6 @@
     "1 - Rough Notes/Knock Knock.md",
     "1 - Rough Notes/Ideas.md",
     "1 - Rough Notes/Drawing 2025-10-28 17.56.11.excalidraw.md",
-    "1 - Rough Notes/Date Sheet.md",
-    "1 - Rough Notes/Chatgpt prompt.md",
     "7 - Attachments/Pasted image 20251110034029.png",
     "2 - Source Notes/ZMisc/Untitled 3.base",
     "2 - Source Notes/ZMisc/Untitled 4.base",
@@ -344,7 +345,6 @@
     "2 - Source Notes/ZMisc",
     "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
     "7 - Attachments/Pasted image 20250825235728.png",
-    "2 - Source Notes/ZMisc/Untitled 1.base",
     "7 - Attachments/Pasted image 20251017160405.png",
     "7 - Attachments/Pasted image 20251014112417.png",
     "7 - Attachments/Pasted image 20251010142826.png",
