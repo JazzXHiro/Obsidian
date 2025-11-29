@@ -97,6 +97,43 @@ sequenceDiagram
 | currentCheckpoint | Transform                | Active checkpoint    | Updated by SetCheckpoint() → Used in RespawnPlayer()        |
 | playerController  | CharacterController      | Player reference     | Found in Start() → Used to move player in RespawnPlayer()   |
 
+# Key Function Call Chain
+
+## 1. Checkpoint Activation
+
+```
+Player enters trigger
+    ↓
+OnTriggerEnter(Collider other)
+    ↓
+CompareTag("Player") [checks if collider is player]
+    ↓
+ActivateCheckpoint()
+    ↓
+CheckpointManager.Instance.SetCheckpoint(transform) [passes checkpoint's Transform]
+    ↓
+currentCheckpoint = checkpointTransform [stored in manager]
+```
+
+## 2. Player Respawn
+```
+RespawnPlayer() [called by death system/other script]
+    ↓
+playerController.enabled = false [required for position change]
+    ↓
+playerController.transform.position = currentCheckpoint.position
+playerController.transform.rotation = currentCheckpoint.rotation
+    ↓
+playerController.enabled = true [re-enable physics]
+
+```
+
+# Important Design Patterns
+
+1.	Singleton Pattern: Only one CheckpointManager exists, accessible via CheckpointManager.Instance
+2.	Observer Pattern: Checkpoints notify the manager when activated
+3.	One-time Trigger: hasBeenActivated flag prevents repeated activation (if oneTimeUse = true)
+
 
 
 ---
