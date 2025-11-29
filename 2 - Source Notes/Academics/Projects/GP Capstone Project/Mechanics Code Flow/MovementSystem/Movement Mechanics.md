@@ -181,5 +181,7 @@ hand.localRotation = Quaternion.Euler(verticalRotation, 0, 0);
 	•	ApplyHorizontalRotation() → Player body Y-axis rotation
 	•	ApplyVerticalRotation() → Camera/hand X-axis rotation (clamped)
 
+The system uses Unity's CharacterController component for collision detection and movement, ensuring the player can't walk through walls and properly handles ground detection for jumping.
+
 ---
 # Reference
