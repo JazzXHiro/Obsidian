@@ -194,7 +194,108 @@ flowchart TD
     style SanityDrain fill:#ffe66d
 ```
 
-#
+# Complete Variable Flow
+
+## Phase 1: Initialization
+
+```
+Scene Load
+    ↓
+CheckpointManager.Awake()
+    Instance = this ✓
+    ↓
+CheckpointManager.Start()
+    playerController = GameObject.FindWithTag("Player").GetComponent<CharacterController>()
+    currentCheckpoint = initialSpawnPoint (Transform)
+    ↓
+Checkpoint.Start() [for each checkpoint in scene]
+    collider.isTrigger = true
+    activatedEffect.SetActive(false)
+    hasBeenActivated = false
+```
+
+## Phase 2: Active Gameplay - Sanity Drain
+```
+SanityManager.Update() [runs continuously]
+    ↓
+StartCoroutine(SanityCoroutine())
+    ↓
+Every frame:
+    flashlightOn = flashlightController.IsOn
+    underLamp = isUnderLamp
+    
+    If (flashlightOn):      change = 0
+    Else If (underLamp):    change = +replenishRatePerSecond * Time.deltaTime
+    Else:                   change = -drainRatePerSecond * difficulty * Time.deltaTime
+    
+    sanitySlider.value = Clamp(sanitySlider.value + change, 0, maxValue)
+    
+    If (sanitySlider.value <= 0 && !isDead):
+        StartCoroutine(HandleDeath())
+```
+
+## Phase 3: Player Reaches Checkpoint
+```
+Player Collider → Checkpoint Trigger Collider
+    ↓
+Checkpoint.OnTriggerEnter(Collider other)
+    ↓
+Parameters Passed:
+    other = Player's Collider component
+    ↓
+Validation Checks:
+    1. if (oneTimeUse && hasBeenActivated) → EXIT
+    2. if (!other.CompareTag("Player")) → EXIT
+    ↓
+ActivateCheckpoint()
+    ↓
+CheckpointManager.Instance.SetCheckpoint(this.transform)
+    ↓
+Parameters Passed:
+    checkpointTransform = Checkpoint's Transform component
+        ├─ position (Vector3)
+        ├─ rotation (Quaternion)
+        └─ name (string)
+    ↓
+CheckpointManager stores:
+    currentCheckpoint = checkpointTransform
+    ↓
+Checkpoint updates:
+    hasBeenActivated = true
+    activatedEffect.SetActive(true)
+```
+
+## Phase 4: Death & Respawn
+```
+SanityManager detects death (sanity <= 0)
+    ↓
+HandleDeath() Coroutine
+    isDead = true
+    ↓
+yield return new WaitForSeconds(respawnDelay)
+    ↓
+CheckpointManager.Instance.RespawnPlayer()
+    ↓
+Parameters Used:
+    currentCheckpoint.position (Vector3)
+    currentCheckpoint.rotation (Quaternion)
+    playerController (CharacterController reference)
+    ↓
+Respawn Process:
+    playerController.enabled = false              // Required to change position
+    playerController.transform.position = currentCheckpoint.position
+    playerController.transform.rotation = currentCheckpoint.rotation
+    playerController.enabled = true               // Re-enable physics
+    ↓
+Back to SanityManager.HandleDeath():
+    sanitySlider.value = fullSanity
+    isDead = false
+    ↓
+Player returns to gameplay at last checkpoint
+```
+
+# Key Mechanics Explained
+
 
 ---
 # Reference
