@@ -53,6 +53,19 @@ Only runs if the if condition was false (no duplicate detected):
 •	This makes it the official singleton that all scripts will reference
 •	Now CheckpointManager.Instance points to this object
 
+---
+
+| Scenario                | How It Happens                              | Result Without Protection      |
+| ----------------------- | ------------------------------------------- | ------------------------------ |
+| Scene merge conflicts   | Git merge adds duplicate GameObject         | Two managers fight for control |
+| Copy-paste in hierarchy | Ctrl+C, Ctrl+V on manager object            | Silent duplicate created       |
+| Prefab instantiation    | Instantiate() called on prefab with manager | Second manager appears         |
+| Additive scene loading  | Load second scene with same manager         | Both scenes have managers      |
+| Team collaboration      | Another developer adds it to new scene      | Duplicate across scenes        |
+
+---
+
+## 2. 
 
 ---
 # Reference

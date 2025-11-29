@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/CheckpointManager.cs.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/Checkpoint Mec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CheckpointManager.cs"
+              "title": "Checkpoint Mec"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/CheckpointManager.cs.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/Checkpoint Mec.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CheckpointManager.cs"
+              "title": "Outline of Checkpoint Mec"
             }
           },
           {
@@ -308,8 +308,8 @@
   },
   "active": "2b5667f160a998df",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/Checkpoint Mec.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/CheckpointManager.cs.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem/Checkpoint Mec.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Explained.md",
     "2 - Source Notes/a Singleton pattern.md",
