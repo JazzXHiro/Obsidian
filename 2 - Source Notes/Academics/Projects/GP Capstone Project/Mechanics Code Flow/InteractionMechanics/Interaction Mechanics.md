@@ -204,5 +204,58 @@ flowchart TB
     style M fill:#FF9800
 ```
 
+## Key Variables Passed through the Chain
+| Variable                    | Type          | Source → Destination         | Purpose                                |
+| --------------------------- | ------------- | ---------------------------- | -------------------------------------- |
+| InteractorSource.position   | Vector3       | Interactor → Ray             | Raycast origin point                   |
+| InteractorSource.forward    | Vector3       | Interactor → Ray             | Raycast direction                      |
+| InteractorRange             | float         | Interactor → Raycast         | Max interaction distance               |
+| hitInfo                     | RaycastHit    | Physics → Interactor         | Collision data (collider, point, etc.) |
+| hitInfo.collider.gameObject | GameObject    | Interactor → TryGetComponent | Object to check for IInteractable      |
+| interactObj                 | IInteractable | TryGetComponent → Sphere     | Interface reference                    |
+| clue                        | string        | ClueCatalyst → MainManager   | Clue text to add                       |
+| clueAdded                   | bool          | ClueCatalyst internal        | Prevents duplicate additions           |
+| MainManager.clueNames       | List<string>  | Global storage               | All collected clues                    |
+
+## Example GameObject Setup
+```
+PlayerCamera (InteractorSource)
+├── Interactor (script)
+│   ├── InteractorSource = PlayerCamera transform
+│   ├── InteractorRange = 3.0f
+│   └── interactCanvas = (optional UI)
+
+ClueObject_01
+├── Sphere Collider
+├── Sphere (script) → implements IInteractable
+└── ClueCatalyst (script)
+    ├── clue = "The door was left ajar..."
+    ├── notification = NotificationUI GameObject
+    └── notificationDuration = 3.0f
+```
+
+## Design Patterns Used
+1.	Interface Segregation: IInteractable allows any object to be interactable
+2.	Component-Based: Each responsibility is a separate component
+3.	Raycast Pattern: Standard Unity interaction technique
+4.	Singleton/Static: MainManager.mainManager provides global access
+5.	State Management: clueAdded prevents duplicate additions
+6.	Coroutine for Timing: Auto-hide notification after delay
+
+## How to Add New Interactable Objects
+```
+// Create a new interactable item
+public class Door : MonoBehaviour, IInteractable
+{
+    public void Interact()
+    {
+        Debug.Log("Door opened!");
+        // Your door logic here
+    }
+}
+```
+
+The Interactor will automatically detect and call Interact() on any GameObject with an IInteractable component!
+
 ---
 # Reference
