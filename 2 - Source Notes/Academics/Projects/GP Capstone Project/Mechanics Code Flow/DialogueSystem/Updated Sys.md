@@ -593,6 +593,282 @@ UI Components:
 •	dialogueText: TextMeshProUGUI (displays sentence)
 	•	Text: Initially empty, fills with typing effect
 
+```
+// DialogueManager.DisplayNextSentence()
+public void DisplayNextSentence()
+{
+    // 1. Check if more sentences
+    if (sentences.Count == 0)
+    {
+        EndDialogue();
+        return;
+    }
+    
+    // 2. Get next sentence
+    string sentence = sentences.Dequeue(); // "Found the key."
+    
+    // 3. Stop previous typing
+    StopAllCoroutines();
+    
+    // 4. Start new typing effect
+    StartCoroutine(TypeSentence(sentence));
+}
+
+```
+
+### Phase 6: Typing Animation
+
+```
+// DialogueManager.TypeSentence()
+IEnumerator TypeSentence(string sentence)
+{
+    // 1. Clear text
+    dialogueText.text = "";
+    
+    // 2. Type each character
+    foreach (char letter in sentence.ToCharArray())
+    {
+        dialogueText.text += letter;
+        yield return new WaitForSeconds(typingSpeed); // 0.05f default
+    }
+    
+    // After completion, text shows: "Found the key."
+}
+
+```
+
+#### Timeline Example:
+```
+T+0.00s: dialogueText = ""
+T+0.05s: dialogueText = "F"
+T+0.10s: dialogueText = "Fo"
+T+0.15s: dialogueText = "Fou"
+T+0.20s: dialogueText = "Foun"
+...
+T+0.75s: dialogueText = "Found the key."
+```
+
+**Variables:**
+•	sentence: string ("Found the key.")
+•	typingSpeed: float (0.05f = 50ms per character)
+•	Total time = sentence.Length × typingSpeed
+
+### Phase 7: Player Advancement
+
+```
+// DialogueManager.Update()
+void Update()
+{
+    // Check for player input
+    if (dialogueActive && Input.GetKeyDown(KeyCode.Mouse0))
+    {
+        DisplayNextSentence();
+    }
+}
+```
+
+**Flow:**
+1.	Player clicks left mouse button
+2.	Calls DisplayNextSentence()
+3.	Dequeues next sentence from queue
+4.	If queue empty → EndDialogue()
+
+### Phase 8: Dialogue Completion
+
+```
+// DialogueManager.EndDialogue()
+void EndDialogue()
+{
+    Debug.Log("End of conversation.");
+    
+    // 1. Mark dialogue as inactive
+    dialogueActive = false;
+    
+    // 2. Hide dialogue box
+    animator.SetBool("IsOpen", false);
+    
+    // 3. Notify listener
+    DialogueEventListener listener = FindFirstObjectByType<DialogueEventListener>();
+    if (listener != null)
+    {
+        listener.OnDialogueEnded();
+    }
+}
+```
+
+```
+// DialogueEventListener.OnDialogueEnded()
+public void OnDialogueEnded()
+{
+    // 1. Mark as not showing
+    isShowingDialogue = false;
+    
+    // 2. Check queue
+    if (dialogueQueue.Count > 0)
+    {
+        // 3. Trigger next queued dialogue
+        var nextDialogue = dialogueQueue.Dequeue();
+        nextDialogue?.Invoke(); // → dialogueManager.StartDialogue(nextDialogue)
+    }
+}
+```
+
+## Complete Variable Tracking
+
+### From Trigger to Display:
+
+```
+1. ClueCatalyst Fields:
+   - clue: "Key"
+   - customDialogueEventName: ""
+   - dialogueDelay: 0.5f
+   - clueAdded: false → true
+
+2. Resolved Event Name:
+   - eventName: "Key" (from clue, since customDialogueEventName is empty)
+
+3. DialogueEventData:
+   - eventType: DialogueEventType.OnClueFound
+   - customEventName: "Key"
+   - additionalData: null
+
+4. CharacterDialogueConfig Matching:
+   - config.characterName: "Player"
+   - eventDialogue.eventType: OnClueFound
+   - eventDialogue.customEventName: "Key"
+   - eventDialogue.dialogue: KeyDialogue asset
+   - eventDialogue.triggerOnce: true
+   - eventDialogue.delay: 0.5f
+   - eventDialogue.priority: 0
+
+5. Trigger Once Key:
+   - key: "Player_OnClueFound_Key"
+   - Added to: triggeredOnceEvents HashSet
+
+6. Dialogue Asset (KeyDialogue):
+   - name: "Player"
+   - sentences: ["Found the key.", "I wonder what this unlocks...", "Better keep this safe."]
+
+7. DialogueManager State:
+   - dialogueActive: false → true → false
+   - sentences Queue:
+     Initial: ["Found the key.", "I wonder...", "Better keep..."]
+     After 1st click: ["I wonder...", "Better keep..."]
+     After 2nd click: ["Better keep..."]
+     After 3rd click: []
+   - nameText: "Player"
+   - dialogueText: Typed character by character
+
+8. DialogueEventListener State:
+   - isShowingDialogue: false → true → false
+   - dialogueQueue: Empty (or contains queued dialogues)
+   - triggeredOnceEvents: Contains "Player_OnClueFound_Key"
+```
+
+## Complete Example Flow
+
+```
+Frame 1: Player presses E
+└─ Interactor.Update() detects Input.GetKeyDown(KeyCode.E)
+   └─ Physics.Raycast(camera.position, camera.forward, 3.0f)
+      └─ Hits: Key GameObject
+         └─ TryGetComponent<IInteractable>() → ClueCatalyst
+            └─ ClueCatalyst.Interact()
+
+Frame 1: ClueCatalyst.Interact()
+└─ ClueCatalyst.CreateClue()
+   ├─ Check: clue="Key", clueAdded=false ✅
+   ├─ clueAdded = true
+   ├─ MainManager.clueNames.Add("Key")
+   ├─ eventName = "Key" (clue is used)
+   └─ StartCoroutine(TriggerDialogueWithDelay("Key"))
+
+Frames 1-30: Wait 0.5 seconds (30 frames at 60 FPS)
+
+Frame 30: TriggerDialogueWithDelay continues
+└─ DialogueEventManager.Instance.TriggerEvent(OnClueFound, "Key")
+   ├─ Create eventData: { OnClueFound, "Key", null }
+   ├─ Log: "[DialogueEventManager] Triggering event: OnClueFound (Custom: Key)"
+   └─ OnDialogueEventTriggered?.Invoke(eventData)
+
+Frame 30: Event broadcast received
+└─ DialogueEventListener.HandleDialogueEvent(eventData)
+   ├─ Log: "[DialogueEventListener] Received event: OnClueFound (Custom: 'Key')"
+   ├─ Loop through characterConfigs
+   │  └─ PlayerClueDialogues config
+   │     └─ Loop through eventDialogues
+   │        └─ EventDialogue: {OnClueFound, "Key", KeyDialogue, ...}
+   │           └─ IsEventMatch() → TRUE ✅
+   │              ├─ Log: "[DialogueEventListener] Found match in config 'Player'!"
+   │              ├─ Check triggeredOnceEvents for "Player_OnClueFound_Key" → NOT FOUND
+   │              ├─ Add to matches list
+   │              └─ triggeredOnceEvents.Add("Player_OnClueFound_Key")
+   ├─ Log: "[DialogueEventListener] Total matches found: 1"
+   ├─ matches.Sort(by priority)
+   ├─ match.delay = 0.5f > 0
+   └─ StartCoroutine(TriggerDialogueWithDelay(KeyDialogue, 0.5f))
+
+Frames 30-60: Wait 0.5 seconds
+
+Frame 60: TriggerDialogueWithDelay continues
+└─ DialogueEventListener.TriggerDialogue(KeyDialogue)
+   ├─ Check: dialogueManager != null ✅
+   ├─ Check: dialogue != null ✅
+   ├─ Log: "[DialogueEventListener] Triggering dialogue: Player"
+   ├─ Check: isShowingDialogue = false ✅
+   ├─ isShowingDialogue = true
+   ├─ DialogueManager.StartDialogue(KeyDialogue)
+   └─ StartCoroutine(WaitForDialogueEnd())
+
+Frame 60: DialogueManager.StartDialogue(KeyDialogue)
+├─ animator.SetBool("IsOpen", true)
+├─ nameText.text = "Player"
+├─ sentences.Clear()
+├─ Check: sentences.Length = 3 ✅
+├─ Log: "Number of sentences: 3"
+├─ sentences.Enqueue("Found the key.")
+├─ sentences.Enqueue("I wonder what this unlocks...")
+├─ sentences.Enqueue("Better keep this safe.")
+├─ dialogueActive = true
+└─ DisplayNextSentence()
+
+Frame 60: DialogueManager.DisplayNextSentence()
+├─ Check: sentences.Count = 3 > 0 ✅
+├─ sentence = sentences.Dequeue() → "Found the key."
+├─ StopAllCoroutines()
+└─ StartCoroutine(TypeSentence("Found the key."))
+
+Frames 60-75: TypeSentence animation
+├─ Frame 60: dialogueText = ""
+├─ Frame 61: dialogueText = "F"
+├─ Frame 62: dialogueText = "Fo"
+├─ Frame 63: dialogueText = "Fou"
+├─ ...
+└─ Frame 75: dialogueText = "Found the key."
+
+Frame 100: Player clicks left mouse button
+└─ DialogueManager.Update() detects Input.GetKeyDown(KeyCode.Mouse0)
+   └─ dialogueActive = true ✅
+      └─ DisplayNextSentence()
+         ├─ sentence = sentences.Dequeue() → "I wonder what this unlocks..."
+         └─ StartCoroutine(TypeSentence("I wonder what this unlocks..."))
+
+Frame 150: Player clicks again
+└─ DisplayNextSentence()
+   ├─ sentence = sentences.Dequeue() → "Better keep this safe."
+   └─ StartCoroutine(TypeSentence("Better keep this safe."))
+
+Frame 200: Player clicks again
+└─ DisplayNextSentence()
+   ├─ Check: sentences.Count = 0
+   └─ EndDialogue()
+      ├─ Log: "End of conversation."
+      ├─ dialogueActive = false
+      ├─ animator.SetBool("IsOpen", false)
+      └─ DialogueEventListener.OnDialogueEnded()
+         ├─ isShowingDialogue = false
+         └─ dialogueQueue.Count = 0 (no queued dialogues)
+```
 
 ---
 # Reference
