@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dialogue Flow"
+              "title": "Outline of Narrative Flow"
             }
           },
           {
@@ -306,10 +306,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2b5667f160a998df",
+  "floating": {
+    "id": "c1f39260cfd6e07b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4f094222302b91d5",
+        "type": "window",
+        "children": [
+          {
+            "id": "12bd73f99239618d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fd6583fa928b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Narrative Flow"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1190,
+        "y": 411,
+        "width": 1677,
+        "height": 993,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1e6fd6583fa928b2",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem/Movement Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem",
