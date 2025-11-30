@@ -67,11 +67,11 @@ _(Player interacts with crumpled note)_
 “How dare you say those things! You think you’re untouchable? I’ll make you pay for it, bastard!”
 
 **Player (thinking):**  
-“…A threat? From a kid? Or directed _at_ one?”
+“…A threat? Who's is it directed _at_?”
 
 ---
 
-## **Outside Cabin — Old Man’s Clue #1 (Letter on Mailbox)**
+## Outside Cabin — Old Man’s Clue #1 (Letter on Mailbox)
 
 **Letter text:**  
 “Dad left home before dawn. He said he’d fix it all himself this time. I think he owed money to someone dangerous.”
