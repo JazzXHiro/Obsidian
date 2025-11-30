@@ -433,6 +433,7 @@ private bool IsEventMatch(
 
 ##### Example Matching:
 
+```
 Event Data:
   eventType: Custom
   customEventName: "EntranceArea"
@@ -443,7 +444,154 @@ Config Entry:
   dialogue: EntranceAreaDialogue
 
 Result: MATCH ✅
+```
 
+###### Data Structures at this Point:
+
+```
+characterConfigs = List<CharacterDialogueConfig> {
+    PlayerClueDialogues {
+        characterName: "Player",
+        eventDialogues: List<EventDialogue> {
+            EventDialogue {
+                eventType: OnClueFound,
+                customEventName: "Key",
+                dialogue: KeyDialogue,
+                triggerOnce: true,
+                delay: 0.5f,
+                priority: 0
+            },
+            EventDialogue {
+                eventType: Custom,
+                customEventName: "EntranceArea",
+                dialogue: EntranceDialogue,
+                triggerOnce: true,
+                delay: 0.5f,
+                priority: 0
+            }
+        }
+    }
+}
+
+matches = List<EventDialogue> {
+    EventDialogue { /* matching dialogue */ }
+}
+
+triggeredOnceEvents = HashSet<string> {
+    "Player_Custom_EntranceArea"
+}
+```
+
+### Phase 4: Dialogue Triggering
+
+```
+// DialogueEventListener.TriggerDialogue()
+private void TriggerDialogue(Dialogue dialogue)
+{
+    // 1. Validation
+    if (dialogueManager == null)
+    {
+        Debug.LogError("[DialogueEventListener] DialogueManager reference is missing!");
+        return;
+    }
+    
+    if (dialogue == null)
+    {
+        Debug.LogError("[DialogueEventListener] Dialogue is null!");
+        return;
+    }
+    
+    Debug.Log($"[DialogueEventListener] Triggering dialogue: {dialogue.name}");
+    
+    // 2. Check if dialogue is already active
+    if (queueDialogues && isShowingDialogue && !allowInterruption)
+    {
+        // Queue for later
+        Debug.Log("[DialogueEventListener] Dialogue already active - queueing");
+        dialogueQueue.Enqueue(() => dialogueManager.StartDialogue(dialogue));
+    }
+    else
+    {
+        // 3. Show immediately
+        if (allowInterruption)
+        {
+            StopAllCoroutines();
+        }
+        
+        isShowingDialogue = true;
+        dialogueManager.StartDialogue(dialogue); // → DialogueManager
+        StartCoroutine(WaitForDialogueEnd());
+    }
+}
+```
+
+**Variables:**
+•	dialogue: Dialogue asset reference
+```
+Dialogue {
+      name: "Player",
+      sentences: string[] {
+          "Found the key.",
+          "I wonder what this unlocks...",
+          "Better keep this safe."
+      }
+  }
+
+```
+```
+•	queueDialogues: bool (true = queue if busy)
+•	isShowingDialogue: bool (tracks active state)
+•	allowInterruption: bool (false = don't interrupt)
+•	dialogueQueue: Queue<Action> (pending dialogues)
+```
+
+### Phase 5: Dialogue Display
+
+```
+// DialogueManager.StartDialogue()
+public void StartDialogue(Dialogue dialogue)
+{
+    // 1. Show dialogue box
+    animator.SetBool("IsOpen", true);
+    
+    // 2. Set speaker name
+    nameText.text = dialogue.name; // "Player"
+    
+    // 3. Clear previous sentences
+    sentences.Clear();
+    
+    // 4. Validation
+    if (dialogue.sentences == null || dialogue.sentences.Length == 0)
+    {
+        Debug.LogError("No sentences found in dialogue!");
+        return;
+    }
+    
+    Debug.Log("Number of sentences: " + dialogue.sentences.Length);
+    
+    // 5. Enqueue all sentences
+    foreach (string sentence in dialogue.sentences)
+    {
+        sentences.Enqueue(sentence);
+    }
+    // sentences queue now contains: ["Found the key.", "I wonder...", "Better keep..."]
+    
+    // 6. Activate dialogue
+    dialogueActive = true;
+    
+    // 7. Display first sentence
+    DisplayNextSentence();
+}
+```
+
+UI Components:
+•	animator: Animator (controls dialogue box animation)
+	•	Parameter: IsOpen (bool)
+	•	Animation: DialogueBoxOpen/Close
+•	nameText: TextMeshProUGUI (displays speaker name)
+	•	Text: "Player"
+•	dialogueText: TextMeshProUGUI (displays sentence)
+	•	Text: Initially empty, fills with typing effect
 
 
 ---
