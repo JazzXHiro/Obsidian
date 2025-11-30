@@ -12,10 +12,13 @@ Tags:
 ### **Pickup Truck Driver (casual but worried tone)**
 
 **Driver:**  
-“Cold night to be out here, huh? Folks ’round Bergen don’t come up around after sundown anymore much less a reporter. You must've a good reason to c”
+“Cold night to be out here, huh? Folks ’round Bergen don’t come up around after sundown anymore much less a reporter.”
 
 **Driver:**  
-“I guess you must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken pretty badly.”
+“I guess you must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken up pretty badly.”
+
+**Driver:**
+"I "
 
 **Player:**
 "I could only imagine, being a kid and coming across all that. A child should never have to go through that."
