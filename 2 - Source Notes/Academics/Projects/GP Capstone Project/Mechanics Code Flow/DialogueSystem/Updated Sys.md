@@ -160,5 +160,291 @@ interactObj.Interact() // → ClueCatalyst.Interact()
 •	hitInfo: RaycastHit (collision data)
 •	interactObj: IInteractable (the ClueCatalyst instance)
 
+```
+// 5. ClueCatalyst.Interact() → CreateClue()
+public void Interact()
+{
+    CreateClue();
+}
+
+// 6. CreateClue() executes
+public void CreateClue()
+{
+    // Validation
+    if (clue != null && !clueAdded)
+    {
+        clueAdded = true;
+        MainManager.mainManager.clueNames.Add(clue);
+        
+        // Determine event name
+        string eventName = string.IsNullOrEmpty(customDialogueEventName) 
+            ? clue 
+            : customDialogueEventName;
+        
+        // Trigger with delay
+        if (dialogueDelay > 0)
+        {
+            StartCoroutine(TriggerDialogueWithDelay(eventName));
+        }
+        else
+        {
+            DialogueEventManager.Instance.TriggerEvent(
+                DialogueEventType.OnClueFound, 
+                eventName
+            );
+        }
+    }
+}
+```
+
+**Variables at this point:**
+•	clue: string (e.g., "Key")
+•	clueAdded: bool (false → true)
+•	customDialogueEventName: string (empty or custom name)
+•	eventName: string (resolved to "Key")
+•	dialogueDelay: float (e.g., 0.5f)
+
+#### Option B: Area Trigger via DialogueAreaTrigger
+
+```
+// 1. Player enters trigger collider
+void OnTriggerEnter(Collider other)
+{
+    if (!ShouldTrigger(other)) return;
+    
+    if (triggerMode == TriggerMode.OnEnter || triggerMode == TriggerMode.Both)
+    {
+        TriggerDialogueEvent();
+    }
+}
+
+// 2. Validation check
+private bool ShouldTrigger(Collider other)
+{
+    // Check player tag
+    if (!other.CompareTag(playerTag)) // "Player"
+        return false;
+    
+    // Check trigger-once logic
+    if (triggerOnce && hasTriggered)
+        return false;
+    
+    return true;
+}
+
+// 3. Trigger event
+private void TriggerDialogueEvent()
+{
+    if (triggerOnce)
+    {
+        hasTriggered = true;
+    }
+    
+    if (dialogueDelay > 0)
+    {
+        StartCoroutine(TriggerWithDelay());
+    }
+    else
+    {
+        TriggerEvent();
+    }
+}
+
+// 4. Call event manager
+private void TriggerEvent()
+{
+    DialogueEventManager.Instance.TriggerEvent(eventType, eventName);
+}
+```
+
+**Variables Passed:**
+•	other: Collider (player's collider)
+•	playerTag: string ("Player")
+•	eventType: DialogueEventType (e.g., Custom)
+•	eventName: string (e.g., "EntranceArea")
+•	dialogueDelay: float (e.g., 0.5f)
+•	triggerOnce: bool
+•	hasTriggered: bool (false → true)
+
+### Phase 2: Event Broadcasting
+
+```
+// DialogueEventManager.TriggerEvent()
+public void TriggerEvent(
+    DialogueEventType eventType,  // OnClueFound or Custom
+    string customName = "",        // "Key" or "EntranceArea"
+    object data = null             // Optional additional data
+)
+{
+    // 1. Create event data wrapper
+    var eventData = new DialogueEventData(eventType, customName, data);
+    
+    // 2. Log if debug enabled
+    if (enableDebugLogs)
+    {
+        Debug.Log($"[DialogueEventManager] Triggering event: {eventType} (Custom: {customName})");
+    }
+    
+    // 3. Broadcast to all listeners
+    OnDialogueEventTriggered?.Invoke(eventData);
+}
+```
+
+#### DialogueEventData Structure:
+
+```
+public class DialogueEventData
+{
+    public DialogueEventType eventType;    // OnClueFound, Custom, etc.
+    public string customEventName;         // "Key", "EntranceArea"
+    public object additionalData;          // Optional extra data
+}
+
+```
+
+##### Example Event Data:
+
+```
+// For clue collection:
+eventData = {
+    eventType: DialogueEventType.OnClueFound,
+    customEventName: "Key",
+    additionalData: null
+}
+
+// For area trigger:
+eventData = {
+    eventType: DialogueEventType.Custom,
+    customEventName: "EntranceArea",
+    additionalData: null
+}
+```
+
+### Phase 3: Event Listening & Matching
+
+```
+// DialogueEventListener.HandleDialogueEvent()
+private void HandleDialogueEvent(DialogueEventData eventData)
+{
+    Debug.Log($"[DialogueEventListener] Received event: {eventData.eventType} (Custom: '{eventData.customEventName}')");
+    
+    // 1. Initialize matches list
+    List<CharacterDialogueConfig.EventDialogue> matches = new List<CharacterDialogueConfig.EventDialogue>();
+    
+    // 2. Search through all character configs
+    foreach (var config in characterConfigs) // e.g., PlayerClueDialogues
+    {
+        if (config == null) continue;
+        
+        // 3. Check each event dialogue in the config
+        foreach (var eventDialogue in config.eventDialogues)
+        {
+            // 4. Match check
+            if (IsEventMatch(eventDialogue, eventData))
+            {
+                Debug.Log($"[DialogueEventListener] Found match in config '{config.characterName}'!");
+                
+                // 5. Check trigger-once logic
+                string key = $"{config.characterName}_{eventData.eventType}_{eventDialogue.customEventName}";
+                // Example key: "Player_OnClueFound_Key"
+                
+                if (eventDialogue.triggerOnce && triggeredOnceEvents.Contains(key))
+                {
+                    Debug.Log($"[DialogueEventListener] Skipping - already triggered once");
+                    continue;
+                }
+                
+                // 6. Add to matches
+                matches.Add(eventDialogue);
+                
+                // 7. Mark as triggered
+                if (eventDialogue.triggerOnce)
+                {
+                    triggeredOnceEvents.Add(key);
+                }
+            }
+        }
+    }
+    
+    Debug.Log($"[DialogueEventListener] Total matches found: {matches.Count}");
+    
+    // 8. Handle no matches
+    if (matches.Count == 0)
+    {
+        Debug.LogWarning($"[DialogueEventListener] No matching dialogue found");
+        return;
+    }
+    
+    // 9. Sort by priority (highest first)
+    matches.Sort((a, b) => b.priority.CompareTo(a.priority));
+    
+    // 10. Trigger all matches
+    foreach (var match in matches)
+    {
+        if (match.dialogue == null)
+        {
+            Debug.LogError("[DialogueEventListener] Dialogue reference is null!");
+            continue;
+        }
+        
+        if (match.delay > 0)
+        {
+            StartCoroutine(TriggerDialogueWithDelay(match.dialogue, match.delay));
+        }
+        else
+        {
+            TriggerDialogue(match.dialogue);
+        }
+    }
+}
+```
+
+#### Matching Logic:
+
+```
+private bool IsEventMatch(
+    CharacterDialogueConfig.EventDialogue eventDialogue,
+    DialogueEventData eventData
+)
+{
+    // 1. Check event type
+    if (eventDialogue.eventType != eventData.eventType)
+    {
+        Debug.Log($"Event type mismatch: {eventDialogue.eventType} != {eventData.eventType}");
+        return false;
+    }
+    
+    // 2. Check custom name (for Custom events or events with names)
+    if (eventData.eventType == DialogueEventType.Custom || 
+        !string.IsNullOrEmpty(eventData.customEventName))
+    {
+        bool match = eventDialogue.customEventName == eventData.customEventName;
+        if (!match)
+        {
+            Debug.Log($"Custom name mismatch: '{eventDialogue.customEventName}' != '{eventData.customEventName}'");
+        }
+        return match;
+    }
+    
+    // 3. Default match
+    return true;
+}
+```
+
+##### Example Matching:
+
+Event Data:
+  eventType: Custom
+  customEventName: "EntranceArea"
+
+Config Entry:
+  eventType: Custom
+  customEventName: "EntranceArea"
+  dialogue: EntranceAreaDialogue
+
+Result: MATCH ✅
+
+
+
 ---
 # Reference
