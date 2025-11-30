@@ -12,7 +12,7 @@ Tags:
 ### **Pickup Truck Driver (casual but worried tone)**
 
 **Driver:**  
-“Cold night to be out here, huh? Folks ’round Bergen don’t come up around after sundown anymore much less a reporter.”
+“Cold night to be out here, huh? Folks ’round Ashford don’t come up around after sundown anymore much less a reporter.”
 
 **Driver:**  
 “I guess you must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken up pretty badly.”
@@ -87,11 +87,11 @@ _(Player interacts with crumpled note)_
 
 _(Player takes photos)_  
 **Player (whispering):**  
-“Body position… burn marks… no signs of animal activity. This wasn’t an accident.”
+“The body is burnt beyond recognition. This is beyond cruel.”
 
 _(Finds key near site)_  
 **Player:**  
-“A key? Someone dropped this in a hurry.”
+“A key? I wonder what it unlocks.”
 
 ---
 
