@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dialogue Mechanics"
+              "title": "Dialogue Flow"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dialogue Mechanics"
+              "title": "Outline of Dialogue Flow"
             }
           },
           {
@@ -308,8 +308,10 @@
   },
   "active": "2b5667f160a998df",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem/Movement Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem/Movement Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/FlashlightSystem/Flashlight Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem",
@@ -342,8 +344,6 @@
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Tuto.md",
     "2 - Source Notes/Untitled.base",
-    "2 - Source Notes/Presentation.md",
-    "2 - Source Notes/Programming/C++/~syncthing~11. Variable Assignment and Initialization.md.tmp",
     "7 - Attachments/Pasted image 20251110034029.png",
     "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
     "7 - Attachments/Pasted image 20250825235728.png",
