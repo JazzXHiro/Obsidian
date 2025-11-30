@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Updated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dialogue Flow"
+              "title": "Updated"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Updated.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dialogue Flow"
+              "title": "Outline of Updated"
             }
           },
           {
@@ -347,8 +347,11 @@
   },
   "active": "2b5667f160a998df",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
+    "7 - Attachments/Pasted image 20251130175748.png",
+    "7 - Attachments/Pasted image 20251130175745.png",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Updated.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem/Movement Mechanics.md",
@@ -380,8 +383,6 @@
     "2 - Source Notes/Personal/Shows & Movies/Anime",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Packages Used.md",
     "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/2. Deterministic Finite Automata.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/FLAT/Unit 1/1. Introduction to Theory of Computation.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Tuto.md",
     "2 - Source Notes/Untitled.base",
     "7 - Attachments/Pasted image 20251110034029.png",
     "7 - Attachments/WhatsApp Image 2025-05-15 at 07.09.55_10a04f18.jpg",
@@ -392,7 +393,6 @@
     "7 - Attachments/Pasted image 20251010140325.png",
     "7 - Attachments/Pasted image 20251010140142.png",
     "7 - Attachments/Pasted image 20251010135853.png",
-    "7 - Attachments/Pasted image 20251010134755.png",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
