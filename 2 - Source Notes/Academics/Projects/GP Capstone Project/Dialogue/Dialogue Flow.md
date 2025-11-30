@@ -151,13 +151,10 @@ _(Suitcase clicks open)_
 
 _(Ticking grows louder)_  
 **Player:**  
-“There… the last piece. Burnt.”
+“It's a watch, a lady's watch. Burnt.”
 
 **Player:**  
-“Expensive watch… stopped at 2:13.”
-
-**Player (realizing):**  
-“That must be when she died.”
+“This is an expensive watch.”
 
 ---
 
@@ -172,7 +169,7 @@ But only one matches the evidence.”
 “A wealthy woman.  
 A ticket she never used.  
 Fuel containers leading toward the mines.  
-A shattered watch frozen at the exact moment she died.”
+A shattered watch”
 
 “She’s the victim. The others… just happened to vanish in the same storm of fear.”
 
@@ -204,21 +201,6 @@ A shattered watch frozen at the exact moment she died.”
 
 **Editor:**  
 “Then that’s your next story, isn’t it?”
-
-_(Line fades as camera pulls away from the forest.)_
-
----
-
-# **If you want, I can also create:**
-
-✅ In-game journal entries  
-✅ Clue descriptions for UI  
-✅ Dialogue for tense events / hallucinations  
-✅ Radio messages  
-✅ Environmental storytelling notes  
-✅ Version tailored for voice actors (tone, pacing)
-
-Just tell me what you want next!
 
 ---
 # Reference
