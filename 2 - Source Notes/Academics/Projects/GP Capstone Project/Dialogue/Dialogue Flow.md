@@ -15,13 +15,22 @@ Tags:
 “Cold night to be out here, huh? Folks ’round Bergen don’t come up around after sundown anymore.”
 
 **Driver:**  
-“You must’ve heard… the incident yesterday. Father and his little girl found the body. Poor kid won’t sleep for weeks.”
+“You must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken pretty badly.”
+
+**Player:**
+"I could only imagine, being a kid and coming across all that. A child should never have to go through that."
 
 **Driver:**  
 “People say it happened somewhere near the ridge. Locals think it’s the cultists again. They used to run rituals up here back in the 80s—until the Feds shut it down.”
 
 **Driver:**  
-“But between you and me… murder’s more likely. Too clean. Too precise. Whoever did it knew the land.”
+“But between you and me… I think it's a murder.”
+
+**Player:**
+"Why do you think so?"
+
+**Driver:**
+"Nothing just my instinct. Believe me often or not "
 
 **Driver:**  
 “Anyway… your stop is here. I finish my shift at 4 AM sharp. I’ll swing by and pick you up then. Don’t be late. The forest changes at night.”
