@@ -109,13 +109,13 @@ _(Suitcase clicks open)_
 “She never left town. Why?”
 
 **Player:**  
-“And a hotel key… Grand Hotel. High-end place. She had money.”
+“And a hotel key… Grand Hotel. A rich people place. She had quite a bit of money.”
 
 ---
 
 # **📌 ACT 3 — LOOKOUT AREA**
 
-## **Old Man Clue #2 (Splintered Hiking Stick)**
+## **Old Man Clue #2 (Splintered Hiking Stick near the look out)**
 
 **Player:**  
 “A broken stick… one side cleanly cut. Other side chipped like he fell.”
