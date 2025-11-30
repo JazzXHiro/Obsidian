@@ -18,7 +18,13 @@ Tags:
 “I guess you must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken up pretty badly.”
 
 **Player:**
-"I could only imagine, being a kid and coming across all that. A child should never have to go through that. Do you know "
+"I could only imagine, being a kid and coming across all that. A child should never have to go through that."
+
+**Player:**
+"Has the body been identified yet?"
+
+**Driver:** 
+"No not yet."
 
 **Driver:**  
 “People say it happened somewhere near the ridge. Locals think it’s the cultists again. They used to run rituals up here back in the 80s—until the Feds shut it down.”
@@ -27,7 +33,7 @@ Tags:
 “But between you and me… I think it's a murder.”
 
 **Player:**
-"Why do you think so?"
+"Why so?"
 
 **Driver:**
 "Nothing just my instinct. Believe me often or not instinct can pretty much save you in the woods out here."
