@@ -60,7 +60,7 @@ Tags:
 
 ## ACT 1 — ARRIVAL AT BUS STOP & CABIN
 
-## Bus Stop – Boy’s Clue #1 (Threat Note)
+### Bus Stop – Boy’s Clue #1 (Threat Note)
 
 _(Player interacts with crumpled note)_
 **On-screen text:**  
@@ -71,7 +71,7 @@ _(Player interacts with crumpled note)_
 
 ---
 
-## Outside Cabin — Old Man’s Clue #1 (Letter on Mailbox)
+### Outside Cabin — Old Man’s Clue #1 (Letter on Mailbox)
 
 **Letter text:**  
 “Dad left home before dawn. He said he’d fix it all himself this time. I think he owed money to someone dangerous.”
@@ -81,9 +81,9 @@ _(Player interacts with crumpled note)_
 
 ---
 
-# **📌 ACT 2 — AT THE MURDER SITE**
+## ACT 2 — AT THE MURDER SITE
 
-## **At the Scene**
+### At the Scene
 
 _(Player takes photos)_  
 **Player (whispering):**  
@@ -95,7 +95,7 @@ _(Finds key near site)_
 
 ---
 
-## **Inside Cabin — Lady Clue #1 (Suitcase)**
+### Inside Cabin — Lady Clue #1 (Suitcase)
 
 _(Suitcase clicks open)_
 
@@ -113,9 +113,9 @@ _(Suitcase clicks open)_
 
 ---
 
-# **📌 ACT 3 — LOOKOUT AREA**
+## ACT 3 — LOOKOUT AREA
 
-## **Old Man Clue #2 (Splintered Hiking Stick near the look out)**
+### Old Man Clue #2 (Splintered Hiking Stick near the look out)
 
 **Player:**  
 “A broken stick… one side cleanly cut. Other side chipped like he fell.”
@@ -125,7 +125,7 @@ _(Suitcase clicks open)_
 
 ---
 
-## **Campfire (Boy False Trail)**
+### Campfire (Boy False Trail)
 
 **Player:**  
 “A burnt pocketknife, camping kit… looks like a teenager’s gear.”
@@ -135,9 +135,9 @@ _(Suitcase clicks open)_
 
 ---
 
-# **📌 FINAL ACT — APPROACHING THE MINES**
+# FINAL ACT — APPROACHING THE MINES
 
-## **Lady Clue #2 (Benzine Bottles)**
+### Lady Clue #2 (Benzine Bottles)
 
 **Player:**  
 “Oily smell… benzine. Same as near the victim.”
@@ -147,7 +147,7 @@ _(Suitcase clicks open)_
 
 ---
 
-## **Lady Clue #3 — Wristwatch Final Piece**
+### Lady Clue #3 — Wristwatch Final Piece
 
 _(Ticking grows louder)_  
 **Player:**  
@@ -158,7 +158,7 @@ _(Ticking grows louder)_
 
 ---
 
-## **Inside Cabin — Final Deduction Scene**
+### Inside Cabin — Final Deduction Scene
 
 ### **Player monologue:**
 
@@ -177,9 +177,9 @@ A shattered watch”
 
 ---
 
-# **📌 EPILOGUE — NEXT MORNING**
+# EPILOGUE — NEXT MORNING
 
-### **Phone Call (Editor)**
+### **Editor(Black Screen during epilogue)**
 
 **Editor:**  
 “We just heard from the rescue squads. The boy and the old man were found alive—shaken, but safe.”
