@@ -42,13 +42,16 @@ Tags:
 "You must have a good reason though to come all this way around this time of the day."
 
 **Player:**
-"My nephew has been missing"
+"My nephew has been missing..."
+
+**Driver:**
+"Yea, three people went missing a few days ago. I fear that one of them might be... the body that was found."
 
 **Driver:**  
-“Anyway… your stop is here. I finish my shift at 4 AM sharp. I’ll swing by and pick you up then. Don’t be late. And be careful, the forest isn't the same at night.”
+“Anyway… your stop is here. I finish my shift at 4 AM sharp. I’ll swing by and pick you up then. Don’t be late. And be careful, the forest isn't the same at night. I hope you find your niece.”
 
 **Player:**  
-“Thanks for the ride. I’ll make it back by then.”
+“Thanks for the ride. I’ll make sure to be back by then.”
 
 **Driver:**  
 “…Just stay on the trail. Don't wander off too much.”
@@ -57,9 +60,9 @@ Tags:
 
 ## ACT 1 — ARRIVAL AT BUS STOP & CABIN
 
-## **Bus Stop – Boy’s Clue #1 (Threat Note)**
+## Bus Stop – Boy’s Clue #1 (Threat Note)
 
-_(Player interacts with crumpled note)_  
+_(Player interacts with crumpled note)_
 **On-screen text:**  
 “How dare you say those things! You think you’re untouchable? I’ll make you pay for it, bastard!”
 
