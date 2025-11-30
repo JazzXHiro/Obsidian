@@ -18,7 +18,7 @@ Tags:
 “I guess you must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken up pretty badly.”
 
 **Player:**
-"I could only imagine, being a kid and coming across all that. A child should never have to go through that."
+"I could only imagine, being a kid and coming across all that. A child should never have to go through that. Do you know "
 
 **Driver:**  
 “People say it happened somewhere near the ridge. Locals think it’s the cultists again. They used to run rituals up here back in the 80s—until the Feds shut it down.”
@@ -36,7 +36,7 @@ Tags:
 "You must have a good reason though to come all this way around this time of the day."
 
 **Player:**
-""
+"My nephew has been missing"
 
 **Driver:**  
 “Anyway… your stop is here. I finish my shift at 4 AM sharp. I’ll swing by and pick you up then. Don’t be late. And be careful, the forest isn't the same at night.”
