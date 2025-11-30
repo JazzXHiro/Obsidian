@@ -33,7 +33,7 @@
 		- suspected Reason for murder - Killed by the loan sharks
 		
 	- A young teenage boy who has been bullying by a bunch of punks
-		- AGE - 13
+		- AGE - 16
 		- Reason for visit - A local boy who hikes often
 		- suspected Reason for murder - Beef with the punks
 		  

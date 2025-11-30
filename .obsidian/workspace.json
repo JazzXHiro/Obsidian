@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+                "file": "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dialogue Flow"
+              "title": "Outline of Narrative Flow"
             }
           },
           {
@@ -345,10 +345,10 @@
       }
     ]
   },
-  "active": "2b5667f160a998df",
+  "active": "1e6fd6583fa928b2",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
+    "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem/Movement Mechanics.md",
