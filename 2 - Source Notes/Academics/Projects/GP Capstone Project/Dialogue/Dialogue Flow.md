@@ -140,7 +140,7 @@ _(Suitcase clicks open)_
 ## **Lady Clue #2 (Benzine Bottles)**
 
 **Player:**  
-“Oily smell… benzine. Same burning pattern as on the victim.”
+“Oily smell… benzine. Same as near the victim.”
 
 **Player:**  
 “So the killer carried fuel up here.”
