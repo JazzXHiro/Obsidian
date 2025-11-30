@@ -12,10 +12,10 @@ Tags:
 ### **Pickup Truck Driver (casual but worried tone)**
 
 **Driver:**  
-“Cold night to be out here, huh? Folks ’round Bergen don’t come up around after sundown anymore.”
+“Cold night to be out here, huh? Folks ’round Bergen don’t come up around after sundown anymore much less a reporter. You must've a good reason to c”
 
 **Driver:**  
-“You must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken pretty badly.”
+“I guess you must’ve heard… the incident yesterday. Father and his little girl found the body. I heard the poor kid was shaken pretty badly.”
 
 **Player:**
 "I could only imagine, being a kid and coming across all that. A child should never have to go through that."
@@ -30,18 +30,16 @@ Tags:
 "Why do you think so?"
 
 **Driver:**
-"Nothing just my instinct. Believe me often or not "
+"Nothing just my instinct. Believe me often or not instinct can pretty much save you in the woods out here."
 
 **Driver:**  
-“Anyway… your stop is here. I finish my shift at 4 AM sharp. I’ll swing by and pick you up then. Don’t be late. The forest changes at night.”
-
-### **Player**
+“Anyway… your stop is here. I finish my shift at 4 AM sharp. I’ll swing by and pick you up then. Don’t be late. And be careful, the forest isn't the same at night.”
 
 **Player:**  
 “Thanks for the ride. I’ll make it back by then.”
 
 **Driver:**  
-“…Just stay on the trail. And if you hear chanting? Turn around.”
+“…Just stay on the trail. Don't wander off too much.”
 
 ---
 
