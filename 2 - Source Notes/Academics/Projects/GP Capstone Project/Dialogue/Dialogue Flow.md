@@ -12,7 +12,7 @@ Tags:
 ### **Pickup Truck Driver (casual but worried tone)**
 
 **Driver:**  
-“Cold night to be out here, huh? Folks ’round Ashford don’t come up this trail after sundown anymore.”
+“Cold night to be out here, huh? Folks ’round  don’t come up this trail after sundown anymore.”
 
 **Driver:**  
 “You must’ve heard… the incident yesterday. Father and his little girl found the body. Poor kid won’t sleep for weeks.”
