@@ -131,7 +131,7 @@ _(Suitcase clicks open)_
 “A burnt pocketknife, camping kit… looks like a teenager’s gear.”
 
 **Player:**  
-“Maybe the boy was here last night… but this fire’s older.”
+“Maybe the boy was here last night…”
 
 ---
 
