@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.2 Types of Attacks.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.4 Stream & Block Ciphers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Types of Attacks"
+              "title": "1.4 Stream & Block Ciphers"
             }
           }
         ]
@@ -267,12 +267,12 @@
   },
   "active": "3257f4f51a15f6d3",
   "lastOpenFiles": [
-    "7 - Attachments/Pasted image 20251209005907.png",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.1 Basic Concepts and Terminology.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.2 Types of Attacks.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/0.1 Introduction.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.4 Stream & Block Ciphers.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.3 Classical Cryptography and its Limitations.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.2 Types of Attacks.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.1 Basic Concepts and Terminology.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/0.1 Introduction.md",
+    "7 - Attachments/Pasted image 20251209005907.png",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.4 Stream & Block Ciphers.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1",
     "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
     "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/1. Vectors & Linear Combinations.md",
@@ -312,7 +312,6 @@
     "7 - Attachments/Pasted image 20251014112417.png",
     "7 - Attachments/Pasted image 20251010142826.png",
     "7 - Attachments/Pasted image 20251010140325.png",
-    "7 - Attachments/Pasted image 20251010140142.png",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
