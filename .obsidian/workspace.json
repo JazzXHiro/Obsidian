@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a82bb0b79664dab2",
+        "id": "5435171e5f6267ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3257f4f51a15f6d3",
+            "id": "289213b08a48c997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs/2022.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.1 Basic Concepts and Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022"
+              "title": "1.1 Basic Concepts and Terminology"
             }
           }
         ]
@@ -265,8 +265,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3257f4f51a15f6d3",
+  "floating": {
+    "id": "3d322c397be5bad4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "28a4f0fc28eb909d",
+        "type": "window",
+        "children": [
+          {
+            "id": "33616ef7facebfab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55369da0a107fa25",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1 - Rough Notes/Unit 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unit 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1372,
+        "y": 316,
+        "width": 1024,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "55369da0a107fa25",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.1 Basic Concepts and Terminology.md",
+    "1 - Rough Notes/Unit 1.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/0.1 Introduction.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs/2022.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs",
@@ -287,7 +328,6 @@
     "7 - Attachments/Pasted image 20251209013428.png",
     "7 - Attachments/Pasted image 20251209013420.png",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.2 Types of Attacks.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.1 Basic Concepts and Terminology.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1",
     "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
     "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/1. Vectors & Linear Combinations.md",
@@ -310,7 +350,6 @@
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Untitled.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/Explained.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Code Un.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/SanitySystem",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem",
     "Untitled.canvas",
