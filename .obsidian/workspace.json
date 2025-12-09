@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.1 Shannon's Theory of confusion and diffusion.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.2 Fiestal Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Shannon's Theory of confusion and diffusion"
+              "title": "2.2 Fiestal Structure"
             }
           }
         ]
@@ -306,14 +306,17 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
+    "7 - Attachments/Pasted image 20251209221940.png",
+    "7 - Attachments/Pasted image 20251209221911.png",
+    "5 - Templates/Crypto.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.2 Fiestal Structure.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.1 Shannon's Theory of confusion and diffusion.md",
     "7 - Attachments/Pasted image 20251209221515.png",
     "7 - Attachments/Pasted image 20251209221420.png",
     "7 - Attachments/Pasted image 20251209205744.png",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/0.1 Introduction.md",
-    "5 - Templates/Untitled.md",
     "3 - Tags/t-crypto.md",
     "5 - Templates/Cpp.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.1 Shannon's Theory of confusion and diffusion.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.0 Substitution and Transposition Ciphers.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.6 Steganography.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.5 Cryptanalysis.md",
@@ -333,8 +336,6 @@
     "7 - Attachments/Pasted image 20251209013708.png",
     "7 - Attachments/Pasted image 20251209013639.png",
     "7 - Attachments/Pasted image 20251209013618.png",
-    "7 - Attachments/Pasted image 20251209013538.png",
-    "7 - Attachments/Pasted image 20251209013515.png",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1",
     "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/2. Visualization of System of linear equations.md",
     "2 - Source Notes/Academics/Notes/Sem 4/Linear Algebra/Unit 1/1. Vectors & Linear Combinations.md",
@@ -344,7 +345,6 @@
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue/Dialogue Flow.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Narrative Flow.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Updated DialogueSys.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem/Dialogue Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem",
