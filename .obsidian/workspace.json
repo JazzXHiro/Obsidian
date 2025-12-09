@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.4 Stream & Block Ciphers.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.5 Cryptanalysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Stream & Block Ciphers"
+              "title": "1.5 Cryptanalysis"
             }
           }
         ]
@@ -306,6 +306,7 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.4 Stream & Block Ciphers.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.3 Classical Cryptography and its Limitations.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.2 Types of Attacks.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.1 Basic Concepts and Terminology.md",
@@ -319,7 +320,6 @@
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.6 Steganography.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.5 Cryptanalysis.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.4 Stream & Block Ciphers.md",
     "7 - Attachments/Pasted image 20251209013912.png",
     "7 - Attachments/Pasted image 20251209013846.png",
     "7 - Attachments/Pasted image 20251209013744.png",
