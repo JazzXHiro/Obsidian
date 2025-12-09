@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.6 Steganography.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.1 Shannon's Theory of confusion and diffusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6 Steganography"
+              "title": "2.1 Shannon's Theory of confusion and diffusion"
             }
           }
         ]
@@ -306,19 +306,23 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.5 Cryptanalysis.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/0.1 Introduction.md",
+    "5 - Templates/Untitled.md",
+    "3 - Tags/t-crypto.md",
+    "5 - Templates/Cpp.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.1 Shannon's Theory of confusion and diffusion.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.0 Substitution and Transposition Ciphers.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.6 Steganography.md",
+    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.5 Cryptanalysis.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.4 Stream & Block Ciphers.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.3 Classical Cryptography and its Limitations.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.2 Types of Attacks.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/1.1 Basic Concepts and Terminology.md",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1/0.1 Introduction.md",
     "1 - Rough Notes/Unit 1.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs/2023.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs/2024.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs/2022.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs",
-    "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.0 Substitution and Transposition Ciphers.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2",
     "7 - Attachments/Pasted image 20251209013912.png",
     "7 - Attachments/Pasted image 20251209013846.png",
@@ -343,12 +347,8 @@
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Dialogue",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem/Movement Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/DialogueSystem",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/FlashlightSystem/Flashlight Mechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/MovementSystem",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics/Potential Idea.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/FlashlightSystem",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics/Interaction Mechanics.md",
-    "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/SanitySystem/SanityMechanics.md",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/InteractionMechanics",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/SanitySystem",
     "2 - Source Notes/Academics/Projects/GP Capstone Project/Mechanics Code Flow/CheckpointSystem",
