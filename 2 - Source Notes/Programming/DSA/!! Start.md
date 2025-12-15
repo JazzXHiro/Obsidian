@@ -9,7 +9,10 @@ Tags: [[t-dsa]] [[t-programming]]
 
 ## Resources
 
-
+1. https://www.youtube.com/watch?v=RBSGKlAvoiM (using)
+2. leetcode.com/problem-list/plakya4j/ (using)
+3. https://neetcode.io/practice/practice/neetcode150
+4. https://youtu.be/B31LgI4Y4DQ?si=l3GX8-0bnHWGPCUi
 
 ---
 # Reference
