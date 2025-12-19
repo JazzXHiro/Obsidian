@@ -52,6 +52,8 @@ Tags: [[t-entertainment]] [[t-game]] [[t-personal]]
 22. **Xenoblade Chronicles: Definitive Edition - 6.88/10**
 
 23. **Assassin's Creed - 6.7/10**
+    
+24. **Assassin's Creed - 7.86/10**
 
 ---
 # Reference
