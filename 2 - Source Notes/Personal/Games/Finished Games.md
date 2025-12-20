@@ -53,7 +53,7 @@ Tags: [[t-entertainment]] [[t-game]] [[t-personal]]
 
 23. **Assassin's Creed - 6.7/10**
     
-24. **Assassin's Creed - 7.86/10**
+24. **Assassin's Creed II - 7.86/10**
 
 ---
 # Reference
