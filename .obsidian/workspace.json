@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Knock Knock.md",
+                "file": "2 - Source Notes/Programming/C++/13. Uninitialized variables and undefined behavior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knock Knock"
+              "title": "13. Uninitialized variables and undefined behavior"
             }
           }
         ]
@@ -267,6 +267,7 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
+    "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Programming/C++/13. Uninitialized variables and undefined behavior.md",
     "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Programming/C++/13. Uninitialized Variables and undef.md",
@@ -306,7 +307,6 @@
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2/2.2 Fiestel Structure.md",
     "2 - Source Notes/Academics/Notes/Sem 5/OOAD/!PYQs",
     "2 - Source Notes/Academics/Notes/Sem 5/OOAD",
-    "2 - Source Notes/Academics/Notes/Sem 5/Untitled.md",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/!PYQs",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit2",
     "2 - Source Notes/Academics/Notes/Sem 5/Cryptography & Network Secuirty/Unit 1",
