@@ -15,7 +15,7 @@ Tags: [[t-project]] [[t-programming]] [[t-WebDev]]
 
 Think of **HTML, CSS, and JavaScript** as a **layered system**, not three random tools.
 
-# 🧱 The Core Web Tech Stack (Foundation of the Web)
+## 🧱 The Core Web Tech Stack (Foundation of the Web)
 
 ```
 ┌───────────────┐
@@ -31,9 +31,9 @@ Every modern framework (React, Angular, Vue) is **built on top of this**.
 
 ---
 
-## 🟧 HTML (HyperText Markup Language)
+### 🟧 HTML (HyperText Markup Language)
 
-### 🔹 What HTML Is
+#### 🔹 What HTML Is
 
 HTML defines the **structure and meaning** of a webpage.
 
@@ -53,7 +53,7 @@ It is a **markup language**.
 
 ---
 
-### 🔹 What HTML Does
+#### 🔹 What HTML Does
 
 - Defines content layout
     
@@ -76,7 +76,7 @@ Example:
 
 ---
 
-### 🔹 Key HTML Concepts (Interview Level)
+#### 🔹 Key HTML Concepts (Interview Level)
 
 - Semantic tags: `<header> <nav> <main> <section> <article> <footer>`
     
@@ -89,7 +89,7 @@ Example:
 
 ---
 
-### 🔹 Why HTML Matters
+#### 🔹 Why HTML Matters
 
 Bad HTML =  
 ❌ Poor SEO  
@@ -103,9 +103,9 @@ Good HTML =
 
 ---
 
-## 🟦 CSS (Cascading Style Sheets)
+### 🟦 CSS (Cascading Style Sheets)
 
-### 🔹 What CSS Is
+#### 🔹 What CSS Is
 
 CSS controls **how things look and where they appear**.
 
@@ -124,7 +124,7 @@ It answers:
 
 ---
 
-### 🔹 What CSS Does
+#### 🔹 What CSS Does
 
 - Styling (colors, fonts)
     
@@ -147,7 +147,7 @@ Example:
 
 ---
 
-### 🔹 Modern CSS You Should Know
+#### 🔹 Modern CSS You Should Know
 
 - Flexbox → 1D layouts
     
@@ -172,7 +172,7 @@ Example:
 
 ---
 
-### 🔹 Why CSS Is Important
+#### 🔹 Why CSS Is Important
 
 Recruiters **do judge UI**.
 
@@ -187,9 +187,9 @@ Bad CSS screams:
 
 ---
 
-## 🟨 JavaScript (The Brain)
+### 🟨 JavaScript (The Brain)
 
-### 🔹 What JavaScript Is
+#### 🔹 What JavaScript Is
 
 JavaScript is a **programming language** that controls **behavior and logic**.
 
@@ -206,7 +206,7 @@ It answers:
 
 ---
 
-### 🔹 What JavaScript Does
+#### 🔹 What JavaScript Does
 
 - DOM manipulation
     
@@ -230,7 +230,7 @@ button.addEventListener("click", () => {
 
 ---
 
-### 🔹 Core JavaScript Concepts (Must-Know)
+#### 🔹 Core JavaScript Concepts (Must-Know)
 
 - Variables (`let`, `const`)
     
@@ -258,7 +258,7 @@ Advanced (nice to have):
 
 ---
 
-### 🔹 Why JavaScript Is Critical
+#### 🔹 Why JavaScript Is Critical
 
 Without JS:
 
@@ -276,17 +276,17 @@ With JS:
 
 ---
 
-## 🔁 How They Work Together (Very Important)
+### 🔁 How They Work Together (Very Important)
 
 Example: Button click
 
-### HTML
+#### HTML
 
 ```html
 <button id="btn">Click</button>
 ```
 
-### CSS
+#### CSS
 
 ```css
 button {
@@ -294,7 +294,7 @@ button {
 }
 ```
 
-### JavaScript
+#### JavaScript
 
 ```js
 document.getElementById("btn").onclick = () => {
@@ -308,7 +308,7 @@ This separation is **software engineering discipline**.
 
 ---
 
-## 🎯 Why This Stack Is Resume-Worthy
+### 🎯 Why This Stack Is Resume-Worthy
 
 Using **HTML + CSS + JS** correctly shows:
 
@@ -329,7 +329,7 @@ That’s a **strong statement**.
 
 ---
 
-## 🧠 When to Move Beyond This Stack
+### 🧠 When to Move Beyond This Stack
 
 You switch to React or other frameworks when:
 
@@ -346,28 +346,14 @@ Until then:
 
 ---
 
-## 🧩 Summary (One-Glance)
+### 🧩 Summary (One-Glance)
 
-|Tech|Role|
-|---|---|
-|HTML|Structure & semantics|
-|CSS|Design & layout|
-|JavaScript|Logic & interactivity|
+| Tech       | Role                  |
+| ---------- | --------------------- |
+| HTML       | Structure & semantics |
+| CSS        | Design & layout       |
+| JavaScript | Logic & interactivity |
 
----
-
-If you want next, I can:
-
-- Convert this into **exam notes**
-    
-- Give **interview Q&A**
-    
-- Show **real project use cases**
-    
-- Map this stack → **React**
-    
-
-Awaiting your next directive.
 
 ---
 # Reference

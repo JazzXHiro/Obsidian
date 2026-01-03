@@ -2,7 +2,7 @@
 
 Status: [[t-child]]
 
-Tags: [[t-projec]]
+Tags: [[t-project]] [[t-programming]] [[t-WebDev]]
 
 ---
 # {{Title}}
