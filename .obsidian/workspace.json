@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/1.7 Footer.md",
+                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/1.8 Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 Footer"
+              "title": "1.8 Script"
             }
           }
         ]
@@ -267,18 +267,19 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/1.6 Section.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.7 Footer.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/1.8 Script.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/0.1 DOM vs SEO.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/!Utilized Tech Stack.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/1.6 Section.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.5 Header.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.4 Title.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.3 Link.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.2 !DOCTYPE html.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.1 HTML Structure.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/0.1 DOM vs SEO.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/0.4 Node.js.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/0.3 How is JS singlethreaded.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/0.2 Why JavaScript.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/!Utilized Tech Stack.md",
     "2 - Source Notes/Personal/Games/Finished Games.md",
     "5 - Templates/Crypto.md",
     "5 - Templates/Full Note.md",
@@ -295,7 +296,6 @@
     "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 1.base",
-    "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "7 - Attachments/Pasted image 20251211212415.png",
     "7 - Attachments/Pasted image 20251211205636.png",
     "7 - Attachments/Pasted image 20251211205043.png",
