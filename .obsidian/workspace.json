@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/3.0 padding vs padding-block - CSS.md",
+                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/3.1 Padding-Inline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.0 padding vs padding-block - CSS"
+              "title": "3.1 Padding-Inline"
             }
           }
         ]
@@ -267,8 +267,9 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/2.9 @media screen.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3.0 padding vs padding-block - CSS.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/3.1 Padding-Inline.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/2.9 @media screen.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/2.8 Descendant Selector(Space) - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/2.7 Grouping Selectors - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/2.6 hover - CSS.md",
@@ -293,7 +294,6 @@
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.5 Header.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.4 Title.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1.2 !DOCTYPE html.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/1.1 HTML Structure.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 1.base",
