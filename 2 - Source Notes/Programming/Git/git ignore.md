@@ -181,10 +181,7 @@ But for 99% of projects:
 
 > “A `.gitignore` file tells Git which files and directories to exclude from version control, typically for generated, local, or sensitive files.”
 
-Perfect answer.
-
 ---
-
 ## 🧠 One-Line Rule
 
 > **If a file is not part of the product, it should be in `.gitignore`.**
