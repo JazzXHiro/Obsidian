@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.2 display flex; - CSS.md",
+                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.1 target = _blank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 display flex; - CSS"
+              "title": "5.1 target = _blank"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flex",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,10 +267,11 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.2 display flex; - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1/1.9 Navigation Container.md",
     "2 - Source Notes/Programming/C++/Flashcards/1. FC - Introduction to programming languages.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/!/!Utilized Tech Stack.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.1.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.1 target = _blank.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.0 display; none - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/4/4.9 margin-inline; auto - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/5",
@@ -297,7 +297,6 @@
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.5 const - js.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.4 Transition vs Animation - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.6 document.getElementById - JS.md",
-    "3 - Tags/t-js.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/2",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1",
