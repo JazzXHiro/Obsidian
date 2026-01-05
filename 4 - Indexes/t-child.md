@@ -86,7 +86,7 @@
 83. [[godotengine.md]]
 84. [[Project Wizard Assets.md]]
 85. [[sound_design detailing.md]]
-86. [[!Utilized Tech Stack.md]]
+86. [[!Utilized Tech Stack]]
 87. [[0.1 DOM vs SEO.md]]
 88. [[0.2 Why JavaScript.md]]
 89. [[0.3 How is JS singlethreaded.md]]

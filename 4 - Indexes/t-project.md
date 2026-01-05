@@ -5,7 +5,7 @@
 2. [[1. Java_project Instructions.md]]
 3. [[2. Figuring things out.md]]
 4. [[Project Wizard Assets.md]]
-5. [[!Utilized Tech Stack.md]]
+5. [[!Utilized Tech Stack]]
 6. [[0.1 DOM vs SEO.md]]
 7. [[0.2 Why JavaScript.md]]
 8. [[0.3 How is JS singlethreaded.md]]

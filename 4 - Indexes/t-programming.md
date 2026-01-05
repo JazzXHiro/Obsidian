@@ -1,7 +1,7 @@
 # Index for t-programming
 
 ## Files using this tag:
-1. [[!Utilized Tech Stack.md]]
+1. [[!Utilized Tech Stack]]
 2. [[0.1 DOM vs SEO.md]]
 3. [[0.2 Why JavaScript.md]]
 4. [[0.3 How is JS singlethreaded.md]]
