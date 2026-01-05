@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.6 document.getElementById.md",
+                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.7 Hoisting vs TDZ - JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 document.getElementById"
+              "title": "3.7 Hoisting vs TDZ - JS"
             }
           },
           {
@@ -281,10 +281,11 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.5 const - jss.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.6 document.getElementById.md",
-    "3 - Tags/t-js.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.5 const - js.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.4 Transition vs Animation - CSS.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.6 document.getElementById - JS.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.7 Hoisting vs TDZ - JS.md",
+    "3 - Tags/t-js.md",
     "4 - Indexes/t-css.md",
     "3 - Tags/t-css.md",
     "5 - Templates/Polish pronounciation.md",
@@ -306,7 +307,6 @@
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1/1.5 Header.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1/1.4 Title.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1/1.3 Link.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/1/1.2 !DOCTYPE html.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/2",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1",
