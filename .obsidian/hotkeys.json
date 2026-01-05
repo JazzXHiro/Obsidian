@@ -39,14 +39,6 @@
       "key": "V"
     }
   ],
-  "obsidian-shellcommands:shell-command-92wdp9js50": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [
     {
       "modifiers": [
@@ -77,22 +69,6 @@
         "Alt"
       ],
       "key": "S"
-    }
-  ],
-  "obsidian-shellcommands:shell-command-kgipwttdnq": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
-    }
-  ],
-  "obsidian-shellcommands:shell-command-hmoiui1rit": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "X"
     }
   ]
 }

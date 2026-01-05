@@ -17,5 +17,6 @@
 14. [[Colloquially.md]]
 15. [[0.0 Bibek Debroy.md]]
 16. [[4. Compiling your first project.md]]
-17. [[Imp.md]]
-18. [[Maths LaTex.md]]
+17. [[!! Start.md]]
+18. [[Imp.md]]
+19. [[Maths LaTex.md]]

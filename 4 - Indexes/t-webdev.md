@@ -1,4 +1,4 @@
-# Index for t-programming
+# Index for t-webdev
 
 ## Files using this tag:
 1. [[!Utilized Tech Stack.md]]
@@ -30,21 +30,4 @@
 27. [[3.2 display flex; - CSS.md]]
 28. [[3.3 Pseudo class vs Pseudo element - CSS.md]]
 29. [[3.4 Transition vs Animation - CSS.md]]
-30. [[1. Introduction to programming languages.md]]
-31. [[10. Introduction to Object and Variables.md]]
-32. [[11. Variable Assignment and Initialization.md]]
-33. [[12. Introduction to iostream - cout, cin, and endl.md]]
-34. [[13. Uninitialized variables and undefined behavior.md]]
-35. [[2. Introduction to C++.md]]
-36. [[3. Introduction to C++ Developments.md]]
-37. [[4. Compiling your first project.md]]
-38. [[5. Configuring your compiler - Build configurations.md]]
-39. [[6. Configuring your compiler - Compiler Extensions.md]]
-40. [[7. Configuring your compiler - Warning and error levels.md]]
-41. [[8. Statements and the structure of a program.md]]
-42. [[9. Comments.md]]
-43. [[!! Start.md]]
-44. [[git ignore.md]]
-45. [[Cpp.md]]
-46. [[Git.md]]
-47. [[Html.md]]
+30. [[Html.md]]
