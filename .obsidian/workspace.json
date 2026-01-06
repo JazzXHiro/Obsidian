@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.2 Discord user id copy - Code Snippet; Logic.md",
+                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.3 textContent vs innerHTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Discord user id copy - Code Snippet; Logic"
+              "title": "5.3 textContent vs innerHTML"
             }
           }
         ]
@@ -267,8 +267,9 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.0 display; none - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.2 Discord user id copy - Code Snippet; Logic.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.3 textContent vs innerHTML.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.0 display; none - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.1 target = _blank.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.2 display flex; - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1/1.9 Navigation Container.md",
@@ -296,7 +297,6 @@
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.8 Variable Initialization.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.7 Hoisting vs TDZ - JS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.5 const - js.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.4 Transition vs Animation - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/2",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/1",
