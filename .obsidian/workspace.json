@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.6 pointer-events - CSS.md",
+                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.7 Code Snippet - CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.6 pointer-events - CSS"
+              "title": "6.7 Code Snippet - CSS"
             }
           }
         ]
@@ -267,8 +267,9 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.5 position; relative.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.6 pointer-events - CSS.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.7 Code Snippet - CSS.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.5 position; relative.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.4 article - HTML.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.3 section vs div.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/6/6.2 Code Snippet - CSS.md",
@@ -294,7 +295,6 @@
     "2 - Source Notes/Personal/Personal Projects/PortWeb/4/4.9 margin-inline; auto - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/5",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/4/4.8 CSS Parsing - CSS.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/4/4.7 Rules - CSS.md",
     "2 - Source Notes/Untitled 3.base",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/!",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/4",
