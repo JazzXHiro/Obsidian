@@ -204,7 +204,10 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
     
 - Cannot be determined
 
+**Sol -**
+![[Pasted image 20260112144249.png]]
 
+#### 
 
 ---
 # Reference
