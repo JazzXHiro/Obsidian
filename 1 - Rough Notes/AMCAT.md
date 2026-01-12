@@ -266,5 +266,37 @@ printf("%d %d %d", x++, ++x, x++);
 **Sol-**
 ![[Pasted image 20260112150116.png]]
 
+#### **Q.** Which of the following is NOT a valid storage class in C?
+
+- auto
+    
+- register
+    
+- static
+    
+- volatile
+
+**Sol-**
+![[Pasted image 20260112150327.png]]
+
+#### **Q.** Which SQL command removes all records from a table but keeps its structure?
+
+- DELETE
+    
+- DROP
+    
+- TRUNCATE
+    
+- REMOVE
+
+**Sol-**
+![[Pasted image 20260112150457.png]]
+
+#### Q
+![[Pasted image 20260112150621.png]]
+
+**Sol-**
+
+
 ---
 # Reference
