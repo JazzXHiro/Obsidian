@@ -88,7 +88,46 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
 **Sol-**
 ![[Pasted image 20260112141529.png]]
 
+#### **Q.** The HCF of two numbers is 12 and LCM is 360. Find the product.
 
+- 360
+    
+- 4320
+    
+- 144
+    
+- 300
+
+**Sol-**
+![[Pasted image 20260112141730.png]]
+
+#### **Q.** A can do a work in 10 days and B in 15 days. Together they take:
+
+- 5 days
+    
+- 6 days
+    
+- 7 days
+    
+- 8 days
+
+**Sol-**
+**Work rates:**
+
+- A can do the work in **10 days** ⇒ rate = 110\frac{1}{10}101​ work/day
+    
+- B can do the work in **15 days** ⇒ rate = 115\frac{1}{15}151​ work/day
+    
+
+**Together:**
+
+110+115=3+230=530=16\frac{1}{10} + \frac{1}{15} = \frac{3 + 2}{30} = \frac{5}{30} = \frac{1}{6}101​+151​=303+2​=305​=61​
+
+So, together they complete **1 work in 6 days**.
+
+✅ **Correct answer:** **6 days**
+
+#### 
 
 ---
 # Reference
