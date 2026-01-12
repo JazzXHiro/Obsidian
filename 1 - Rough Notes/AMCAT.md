@@ -207,6 +207,19 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
 **Sol -**
 ![[Pasted image 20260112144249.png]]
 
+#### **Q.** Which data structure is used to implement recursion internally?
+
+- Queue
+    
+- Stack
+    
+- Linked List
+    
+- Tree
+
+**Sol-**
+![[Pasted image 20260112144931.png]]
+
 #### 
 
 ---
