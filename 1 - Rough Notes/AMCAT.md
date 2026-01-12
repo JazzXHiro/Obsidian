@@ -240,7 +240,31 @@ printf("%d %d %d", x++, ++x, x++);
 **Sol-**
 ![[Pasted image 20260112145242.png]]
 
-#### 
+#### **Q.** Which traversal of a binary search tree gives sorted output?
+
+- Preorder
+    
+- Postorder
+    
+- Level order
+    
+- Inorder
+
+**Sol-**
+![[Pasted image 20260112145821.png]]
+
+#### **Q.** Which keyword is used to prevent inheritance in Java?
+
+- static
+    
+- final
+    
+- private
+    
+- protected
+
+**Sol-**
+![[Pasted image 20260112150116.png]]
 
 ---
 # Reference
