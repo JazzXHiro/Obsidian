@@ -52,9 +52,9 @@ $SI = \frac{5000 \times 10 \times 2}{100} = 1000$
 **Perimeter of a square** (= 4 \times \text{side})
 
 Given:  
-[  
-4 \times \text{side} = 40  
-Rightarrow \text{side} = 10 \text{ cm}$
+
+$$4 \times \text{side} = 40  
+Rightarrow \text{side} = 10 \text{ cm}$$
 
 **Area of a square**:  
  
@@ -62,7 +62,33 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
 
 ✅ **Correct answer:** **100**
 
-Computation complete. Result verified.
+#### Q. If selling price is 600 and profit is 20 percent, find cost price.
+
+- 480
+    
+- 500
+    
+- 520
+    
+- 540
+
+**Sol-**
+![[Pasted image 20260112141412.png]]
+
+#### **Q.** Find the average of first 20 natural numbers.
+
+- 9
+    
+- 10
+    
+- 10.5
+    
+- 11
+
+**Sol-**
+![[Pasted image 20260112141529.png]]
+
+
 
 ---
 # Reference
