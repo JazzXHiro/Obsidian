@@ -296,6 +296,44 @@ printf("%d %d %d", x++, ++x, x++);
 ![[Pasted image 20260112150621.png]]
 
 **Sol-**
+![[Pasted image 20260112150653.png]]
+
+#### **Q.** Which of the following is a non-preemptive scheduling algorithm?
+
+- Round Robin
+    
+- Shortest Job First
+    
+- Preemptive Priority
+    
+- Multilevel Queue
+
+**Sol-**
+![[Pasted image 20260112150822.png]]
+
+#### **Q.** Which key uniquely identifies a record in a table?
+
+- Foreign key
+    
+- Candidate key
+    
+- Primary key
+    
+- Secondary key
+
+**Sol-**
+![[Pasted image 20260112151013.png]]
+
+#### **Q.** Which OSI layer is responsible for encryption and compression?
+
+- Transport
+    
+- Session
+    
+- Presentation
+    
+- Application
+
 
 
 ---
