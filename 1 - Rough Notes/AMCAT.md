@@ -194,7 +194,17 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
 **Sol-**
 ![[Pasted image 20260112143549.png]]
 
-#### 
+#### **Q.** All roses are flowers. Some flowers are red. Conclusion: Some roses are red.
+
+- True
+    
+- False
+    
+- Both true and false
+    
+- Cannot be determined
+
+
 
 ---
 # Reference
