@@ -376,5 +376,20 @@ printf("%d %d %d", x++, ++x, x++);
 **Sol-**
 ![[Pasted image 20260112151628.png]]
 
+#### **Q.** Which scheduling algorithm may cause starvation?
+
+- FCFS
+    
+- Round Robin
+    
+- Priority Scheduling
+    
+- SJF (Preemptive)
+
+**Sol-**
+![[Pasted image 20260112151802.png]]
+
+#### 
+
 ---
 # Reference
