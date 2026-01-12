@@ -334,7 +334,47 @@ printf("%d %d %d", x++, ++x, x++);
     
 - Application
 
+**Sol-**
+![[Pasted image 20260112151201.png]]
 
+#### **Q.** What is the time complexity of searching an element in a balanced binary search tree?
+
+- O(n)
+    
+- O(log n)
+    
+- O(n log n)
+    
+- O(1)
+
+**Sol-**
+![[Pasted image 20260112151330.png]]
+
+#### **Q.** Which protocol is used to transfer emails?
+
+- HTTP
+    
+- FTP
+    
+- SMTP
+    
+- SNMP
+
+**Sol-**
+![[Pasted image 20260112151436.png]]
+
+#### **Q.** Which normal form removes partial dependency?
+
+- 1NF
+    
+- 2NF
+    
+- 3NF
+    
+- BCNF
+
+**Sol-**
+![[Pasted image 20260112151628.png]]
 
 ---
 # Reference
