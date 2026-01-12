@@ -153,7 +153,35 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
 - 2345
 
 **Sol-**
+![[Pasted image 20260112142620.png]]
 
+#### **Q.** Find the missing number: 4, 16, 36, 64, ?
+
+- 81
+    
+- 100
+    
+- 121
+    
+- 144
+
+**Sol-**
+![[Pasted image 20260112142836.png]]
+
+#### **Q.** If today is Monday, what day will it be after 45 days?
+
+- Monday
+    
+- Tuesday
+    
+- Wednesday
+    
+- Friday
+
+**Sol-**
+![[Pasted image 20260112143059.png]]
+
+#### 
 
 ---
 # Reference
