@@ -220,6 +220,26 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
 **Sol-**
 ![[Pasted image 20260112144931.png]]
 
+#### **BinaryKeeda**
+
+**Q.** What will be the output of the following C code?
+
+```
+int x = 5;
+printf("%d %d %d", x++, ++x, x++);
+```
+
+- 566
+    
+- 577
+    
+- Undefined behavior
+    
+- 678
+
+**Sol-**
+![[Pasted image 20260112145242.png]]
+
 #### 
 
 ---
