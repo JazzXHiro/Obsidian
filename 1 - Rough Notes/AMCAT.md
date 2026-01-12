@@ -112,22 +112,48 @@ $text{Area} = \text{side}^2 = 10^2 = 100$
 - 8 days
 
 **Sol-**
-**Work rates:**
+![[Pasted image 20260112142335.png]]
 
-- A can do the work in **10 days** ⇒ rate = 110\frac{1}{10}101​ work/day
+#### **Q.** The ratio of ages of A and B is 3:5. If the sum of their ages is 40, find B’s age.
+
+- 15
     
-- B can do the work in **15 days** ⇒ rate = 115\frac{1}{15}151​ work/day
+- 20
     
+- 25
+    
+- 30
 
-**Together:**
+**Sol-**
+![[Pasted image 20260112142315.png]]
 
-110+115=3+230=530=16\frac{1}{10} + \frac{1}{15} = \frac{3 + 2}{30} = \frac{5}{30} = \frac{1}{6}101​+151​=303+2​=305​=61​
+✅ **Correct answer:** **25**
 
-So, together they complete **1 work in 6 days**.
+#### **Q.** A sum becomes double in 5 years at simple interest. Find the rate.
 
-✅ **Correct answer:** **6 days**
+- 10 percent
+    
+- 15 percent
+    
+- 20 percent
+    
+- 25 percent
 
-#### 
+**Sol-**
+![[Pasted image 20260112142507.png]]
+
+#### **Q.** If SOUTH is coded as 1234, then NORTH is coded as:
+
+- 5678
+    
+- 4321
+    
+- 6789
+    
+- 2345
+
+**Sol-**
+
 
 ---
 # Reference
