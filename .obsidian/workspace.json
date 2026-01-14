@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "8.5 order 1 (flexbox property) - CSS"
             }
+          },
+          {
+            "id": "af5a3250e8ed5d55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,7 +278,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "289213b08a48c997",
+  "active": "af5a3250e8ed5d55",
   "lastOpenFiles": [
     "2 - Source Notes/Personal/Personal Projects/PortWeb/!/@ Resources.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/8/8.5 order 1 (flexbox property) - CSS.md",
