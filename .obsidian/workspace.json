@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "8.5 order 1 (flexbox property) - CSS"
             }
-          },
-          {
-            "id": "af5a3250e8ed5d55",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,8 +265,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "af5a3250e8ed5d55",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 6/Untitled",
+    "2 - Source Notes/Academics/Notes/Sem 6",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/!/@ Resources.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/8/8.5 order 1 (flexbox property) - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/!/!Utilized Tech Stack.md",
@@ -316,7 +305,6 @@
     "2 - Source Notes/Personal/Personal Projects/PortWeb/7/7.1 grid - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/7/7.0 Code Snippet - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/5/5.4 Flex & flex-wrap.md",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/3/3.2 display flex; - CSS.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/7",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/6",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/5",
@@ -325,7 +313,6 @@
     "2 - Source Notes/Personal/Personal Projects/PortWeb/4",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/3",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/2",
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/1",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
