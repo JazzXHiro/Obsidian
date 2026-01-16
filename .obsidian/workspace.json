@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/0/0.2 Why JavaScript.md",
+                "file": "2 - Source Notes/Personal/Personal Projects/PortWeb/0/0.3 How is JS singlethreaded.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.2 Why JavaScript"
+              "title": "0.3 How is JS singlethreaded"
             }
           }
         ]
@@ -267,8 +267,8 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Personal/Personal Projects/PortWeb/0/0.1 DOM vs SEO.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/0/0.2 Why JavaScript.md",
+    "2 - Source Notes/Personal/Personal Projects/PortWeb/0/0.1 DOM vs SEO.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/!/@ Resources.md",
     "2 - Source Notes/Personal/Personal Projects/PortWeb/!/!Utilized Tech Stack.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-1/0.1 Introduction.md",
