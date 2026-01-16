@@ -62,7 +62,7 @@ It is a **markup language**.
 - Helps SEO and accessibility
     
 - Acts as the DOM skeleton
-    
+
 
 Example:
 
