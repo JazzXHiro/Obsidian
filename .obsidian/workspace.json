@@ -11,12 +11,14 @@
             "id": "289213b08a48c997",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/0.2 The Structure of a Compiler 2026-01-20 19.45.54.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.2 The Structure of a Compiler.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "0.2 The Structure of a Compiler 2026-01-20 19.45.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "0.2 The Structure of a Compiler"
             }
           }
         ]
@@ -265,8 +267,8 @@
   },
   "active": "289213b08a48c997",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.2 The Structure of a Compiler.md",
     "Excalidraw/0.2 The Structure of a Compiler 2026-01-20 19.45.54.excalidraw.md",
+    "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.2 The Structure of a Compiler.md",
     "Excalidraw/0.2 The Structure of a Compiler 2026-01-20 19.45.44.excalidraw.md",
     "2 - Source Notes/Personal/Philosophy/Quotes/Games.md",
     "2 - Source Notes/Personal/Philosophy/Quotes/Untitled",
