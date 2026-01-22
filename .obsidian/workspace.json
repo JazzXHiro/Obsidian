@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "0.2 The Structure of a Compiler"
             }
+          },
+          {
+            "id": "93e27be5490655ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,7 +278,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "289213b08a48c997",
+  "active": "93e27be5490655ce",
   "lastOpenFiles": [
     "Excalidraw/0.2 The Structure of a Compiler 2026-01-20 22.39.16.excalidraw.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.2 The Structure of a Compiler.md",
