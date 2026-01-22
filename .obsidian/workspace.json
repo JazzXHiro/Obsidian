@@ -25,12 +25,14 @@
             "id": "93e27be5490655ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.2 The Structure of a Compiler.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "0.2 The Structure of a Compiler"
             }
           }
         ],
