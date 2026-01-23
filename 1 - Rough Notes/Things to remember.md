@@ -1,0 +1,1 @@
+1. 3/4 glass of rice for 2 ppl
