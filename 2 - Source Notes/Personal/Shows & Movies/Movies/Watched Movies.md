@@ -7,57 +7,34 @@ Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 ---
 # Watched Movies
 
-1. The Shawshank Redemption - 9.8/10
-
-2.  The Godfather - 9.8/10
-   
-3.  Batman Begins - 8.8/10
-
-4.  Batman The Dark Knight - 9.2/10
-
-5.  Batman The Dark Knight Rises - 9.0/10
-
-6. The Lord of the Rings: The fellowship of the ring - 9.0/10
-
-7. The Lord of the Rings: The Two Towers - 9.2/10
-
-8. The Lord of the Rings: The Return of The King - 9.4/10
-
-9. Superman(2025) - 7.2/10
-
-10.  F1 - 9.1/10
-
-11. Uncharted - 6.7/10
-
-12.  Adam Project - 8/10
-
-13.  Men In Black: International - 5.6/10
-
-14.  Ghostbusters: Afterlife - 7.6/10
-
-15.  Don't Look Up - 8/10
-
-16.  Arrival - 7.7/10
-
-17.  Guardians of the Galaxy Vol. 3 - 8.4/10
-
-18. Bumblebee - 8.2/10
-
-19. Transformers Rise of The Beasts - 8/10
-
-20. Spiderman Across the Spiderverse - 9.88/10
-
-21. John Wick - 8.9/10
-
-22. Dune Part 1 - 8.9/10
-
-23. Kung Fu Panda 4 - 5.6/10
-
-24. Disturbia - 7.5/10
-
-25. Devil All the time - 8.88/10
-
-26. **Dead Poet's Society** - 10/10
+| Rank | Movie Title                                   | Rating | **Last Watched** |
+| ---- | --------------------------------------------- | ------ | ---------------- |
+| 1    | Dead Poet's Society                           | 10.0   | 26-01-2026       |
+| 2    | Spiderman: Across the Spiderverse             | 9.88   |                  |
+| 3    | The Shawshank Redemption                      | 9.8    |                  |
+| 4    | The Godfather                                 | 9.8    |                  |
+| 5    | The Lord of the Rings: The Return of the King | 9.4    |                  |
+| 6    | The Dark Knight                               | 9.2    |                  |
+| 7    | The Lord of the Rings: The Two Towers         | 9.2    |                  |
+| 8    | F1                                            | 9.1    |                  |
+| 9    | Batman: The Dark Knight Rises                 | 9.0    |                  |
+| 10   | The Lord of the Rings: Fellowship of the Ring | 9.0    |                  |
+| 11   | John Wick                                     | 8.9    |                  |
+| 12   | Dune: Part One                                | 8.9    |                  |
+| 13   | Devil All the Time                            | 8.88   |                  |
+| 14   | Batman Begins                                 | 8.8    |                  |
+| 15   | Guardians of the Galaxy Vol. 3                | 8.4    |                  |
+| 16   | Bumblebee                                     | 8.2    |                  |
+| 17   | The Adam Project                              | 8.0    |                  |
+| 18   | Don't Look Up                                 | 8.0    |                  |
+| 19   | Transformers: Rise of the Beasts              | 8.0    |                  |
+| 20   | Arrival                                       | 7.7    |                  |
+| 21   | Ghostbusters: Afterlife                       | 7.6    |                  |
+| 22   | Disturbia                                     | 7.5    |                  |
+| 23   | Superman (2025)                               | 7.2    |                  |
+| 24   | Uncharted                                     | 6.7    |                  |
+| 25   | Men in Black: International                   | 5.6    |                  |
+| 26   | Kung Fu Panda 4                               | 5.6    |                  |
 
 ---
 # Reference
