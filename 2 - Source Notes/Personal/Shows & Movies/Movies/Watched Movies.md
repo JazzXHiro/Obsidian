@@ -57,7 +57,7 @@ Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 
 25. Devil All the time - 8.88/10
 
-26. 
+26. **Dead Poet's Society** - 10/10
 
 ---
 # Reference
