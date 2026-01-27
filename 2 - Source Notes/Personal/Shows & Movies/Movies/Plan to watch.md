@@ -7,13 +7,15 @@ Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 ---
 # Plan to watch
 
-Inglorious Basterds
-Star Wars (Original trilogy)
-The Big Short
+The Prestige
 Old Boy
 La La Land
+Star Wars (Original trilogy)
+The Big Short
+Inglorious Basterds
+Scream
+
 Yes man
-98888888888
 
 
 
