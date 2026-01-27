@@ -1,5 +1,5 @@
 
-# 
+# Vortex: Modular Intelligent Game Library Management with Recommendation and Mood-Aware Personalization using Machine Learning Models
 
 ## 1. Core Idea
 The project is a **lightweight, unified desktop game launcher** that brings games from multiple platforms (Steam, Epic, GOG, local installs, etc.) into a **single, clean interface**.  
@@ -37,12 +37,12 @@ No heavy optimization, no edge-case handling, no feature overload in Phase 1.
 
 ### UI Layer (QML)
 - Native, GPU-accelerated UI
-- Low memory usage (~30–70 MB idle)
+- Low memory usage
 - Fast startup
 - Tight integration with C++
 
 **Why not React?**
-- React (Electron/WebView) uses significantly more RAM (150–300 MB idle)
+- React (Electron/WebView) uses significantly more RAM
 - Higher CPU usage
 - Background overhead
 - Goes against the “lightweight, no-bloat” goal
@@ -85,8 +85,8 @@ This makes the project strong for **DS (Data Structures)** and **DAA justificati
 
 ## 6. Is This a Data Science Project?
 ### By default:
-- ❌ Not a Data Science project
-- ✅ Software Engineering + Systems + Data Structures
+- Not a Data Science project
+- Software Engineering + Systems + Data Structures
 
 The base launcher:
 - Collects data
@@ -160,14 +160,3 @@ This significantly increases academic value and viva credibility.
 **Optimizing Game Access and Usage Analytics via a Modular Native Desktop Launcher**
 
 **Personalizing Game Recommendations based on User Behavior and Mood using Hybrid Recommender Systems**
-
----
-
-## 10. Final Verdict
-- QML > React for performance and philosophy
-- Strong use of data structures
-- MVP-first, modular design
-- AI recommender makes it “data science enough”
-- Scales well from minor project → major project
-
-A clean, defensible, and reviewer-safe project with room to grow.
