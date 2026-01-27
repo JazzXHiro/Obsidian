@@ -13,10 +13,13 @@ La La Land
 Star Wars (Original trilogy)
 The Big Short
 Inglorious Basterds
+The Wolf of Wall Street
+The Menu
+Juror #2
 Scream
-
+The Iron Giant  
 Yes man
-
+Evil dead trilogy
 
 
 
