@@ -16,6 +16,10 @@ Inglorious Basterds
 The Wolf of Wall Street
 The Menu
 Juror #2
+El Camino
+Bullet Train
+No Country for Old men
+
 Scream
 The Iron Giant  
 Yes man
