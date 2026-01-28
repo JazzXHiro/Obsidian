@@ -1,13 +1,29 @@
-Meeting Date: 28/01/26
-Meeting Time: 4:20 PM
+Dear Mentor,
 
-Agendas Discussed- 
-1. Discussed and agreed upon the weekly meetup time i.e. Monday, 2-3 PM.
-2. Tasks agreed upon - 
-     A. (Keerti, Aditya & Ayushmaan) - To research and analyze game difficulties through
-	     research papers and how it can be adjusted to improve
-	     player engagement.
+As discussed, please find below the Minutes of Meeting (MoM) for today’s meeting.
 
-	  B. Yuvraj - To research upon data collection methodologies such as Congnitive
-		  behavior in terms of how these data affect a player's in-game 
-		  performance and en
+**Meeting Details**
+
+- **Date:** 28/01/2026
+- **Time:** 4:20 PM
+
+**Agenda & Discussion Points:**
+
+1. The weekly meeting schedule was discussed and finalized.
+    
+    - **Agreed Time:** Monday, 2:00 PM – 3:00 PM
+        
+2. Task allocation and initial research focus were discussed and agreed upon as follows:
+    
+    **A. Keerti, Aditya, and Ayushmaan**
+    
+    - To research and analyze game difficulty mechanisms using existing research papers.
+        
+    - To study how difficulty adjustment techniques can be used to improve player engagement.
+        
+    
+    **B. Yuvraj**
+    
+    - To research data collection methodologies, particularly cognitive behavior–based data.
+        
+    - To analyze how such data impacts a player’s in-game performance and engagement.
