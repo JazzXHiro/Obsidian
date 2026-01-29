@@ -1,0 +1,34 @@
+// Get current file's folder
+const currentFolder = dv.current().file.folder;
+
+// Get all markdown files in the same folder
+const pages = dv.pages(`"${currentFolder}"`)
+  .where(p => p.file.path !== dv.current().file.path);
+
+// Create heading
+dv.header(1, `📚 Index for: ${currentFolder}`);
+
+// Loop through each file
+for (let page of pages) {
+  const file = app.vault.getAbstractFileByPath(page.file.path);
+  if (!file) continue;
+
+  const content = await app.vault.read(file);
+
+  // Match markdown headings
+  const headings = content.match(/^#{1,6} .+/gm);
+
+  if (!headings) continue;
+
+  dv.header(2, `📄 ${page.file.name}`);
+
+  for (let heading of headings) {
+    const level = heading.match(/^#+/)[0].length;
+    const text = heading.replace(/^#+\s*/, "");
+
+    // Obsidian heading link format
+    const link = `[[${page.file.name}#${text}]]`;
+
+    dv.paragraph(`${" ".repeat(level - 1)}- ${link}`);
+  }
+}
