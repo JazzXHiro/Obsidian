@@ -2,14 +2,34 @@ import os
 import re
 import sys
 
+# ---------------- CONFIG ----------------
+
 if len(sys.argv) < 2:
     print("Usage: python generate_index.py <folder_path>")
+    input("Press Enter to exit...")
     sys.exit(1)
 
 TARGET_FOLDER = sys.argv[1]
 OUTPUT_FILE = os.path.join(TARGET_FOLDER, "INDEX.md")
 
-heading_pattern = re.compile(r"^(#{1,6})\s+(.*)", re.MULTILINE)
+# Match markdown headings
+HEADING_PATTERN = re.compile(r"^(#{1,6})\s+(.*)", re.MULTILINE)
+
+# ---------------- SAFE FILE READER ----------------
+
+def safe_read(path):
+    """
+    Reads a file safely regardless of encoding.
+    Tries UTF-8 first, falls back to latin-1.
+    """
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return f.read()
+    except UnicodeDecodeError:
+        with open(path, "r", encoding="latin-1", errors="ignore") as f:
+            return f.read()
+
+# ---------------- MAIN LOGIC ----------------
 
 lines = []
 lines.append(f"# 📚 Index for `{TARGET_FOLDER}`\n")
@@ -22,12 +42,9 @@ for root, _, files in os.walk(TARGET_FOLDER):
             continue
 
         path = os.path.join(root, file)
-        rel_path = os.path.relpath(path, TARGET_FOLDER)
+        content = safe_read(path)
 
-        with open(path, "r", encoding="utf-8") as f:
-            content = f.read()
-
-        headings = heading_pattern.findall(content)
+        headings = HEADING_PATTERN.findall(content)
         if not headings:
             continue
 
@@ -43,4 +60,6 @@ for root, _, files in os.walk(TARGET_FOLDER):
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-print(f"✅ Index generated: {OUTPUT_FILE}")
+print(f"✅ Index generated successfully!")
+print(f"📄 Location: {OUTPUT_FILE}")
+input("\nPress Enter to exit...")
