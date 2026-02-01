@@ -13,6 +13,7 @@ Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 | 2    | Spiderman: Across the Spiderverse             | 9.88   |                  |
 | 3    | The Shawshank Redemption                      | 9.8    |                  |
 | 4    | The Godfather                                 | 9.8    |                  |
+| 5    | The Prestige                                  | 9.4    |                  |
 | 5    | The Lord of the Rings: The Return of the King | 9.4    |                  |
 | 6    | The Dark Knight                               | 9.2    |                  |
 | 7    | The Lord of the Rings: The Two Towers         | 9.2    |                  |
