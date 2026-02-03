@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Knock Knock.md",
+                "file": "2 - Source Notes/Programming/DSA/!OneNote notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knock Knock"
+              "title": "!OneNote notes"
             }
           }
         ],
@@ -308,8 +308,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9332208979694618",
+  "active": "c7d5d789b4235a8b",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/DSA/1. Data Structure.md",
+    "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Languages/English/NewWord/Books/Days at the Torunka Cafe/~syncthing~Perplexed.md.tmp",
     "2 - Source Notes/Languages/English/NewWord/Books/Days at the Torunka Cafe/Perplexed.md",
     "2 - Source Notes/Languages/English/NewWord/Books/Days at the Torunka Cafe/Indignantly 1.md",
@@ -326,7 +328,6 @@
     "2 - Source Notes/Languages/English/NewWord/Books/~syncthing~Untitled.md.tmp",
     "2 - Source Notes/Languages/English/NewWord/Books",
     "2 - Source Notes/Academics/Projects/Minor/SLR Doc.pdf",
-    "2 - Source Notes/Programming/DSA/1. Data Structure.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.3 Bootstrapping.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.3.1 Extra.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-1/0.1 Introduction.md",
