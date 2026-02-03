@@ -16,7 +16,6 @@ Here's the completed proposal:
 
 ### 1. Abstract
 
-
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
 
 Built using C++ and Qt/QML for performance, Vortex implements a machine learning-based recommendation engine that uses content-based filtering and mood-aware personalization. The system analyses user behavior like play duration, time-of-day patterns, and explicit ratings to generate relevant game suggestions.  
