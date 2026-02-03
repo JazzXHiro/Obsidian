@@ -16,12 +16,22 @@ Here's the completed proposal:
 
 ### 1. Abstract
 
-Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
 
-Built using C++ and Qt/QML for performance, Vortex implements a machine learning-based recommendation engine that uses content-based filtering and mood-aware personalization. The system analyses user behavior like play duration, time-of-day patterns, and explicit ratings to generate relevant game suggestions.  
-A modular architecture allows users to customize features according to their needs, avoiding the bloat common in existing launchers. The project demonstrates practical application of recommender systems, data pipeline design, and native software development.  
-
-Keywords: Game Library Management, Recommender Systems, Mood-Aware, Personalization, Desktop Application, Machine Learning
+Vortex is a unified game library management application with an intelligent       
+ recommendation system. The app detects games from multiple       
+  platforms into a single interface & also tracks playtime, session patterns,   
+and user preferences.                                                                                                                                           
+Built using C++ and Qt/QML for performance, Vortex implements a machine        
+ learning-based recommendation engine that uses content-based filtering and     
+mood-aware personalisation. The system analyses user behaviour     
+like play duration, time-of-day patterns, and explicit ratings to         
+generate relevant game suggestions.                                                                                                                
+A modular architecture allows users to customise features according to         
+their needs, avoiding the bloat common in existing launchers. The project      
+demonstrates practical application of recommender systems, data pipeline      
+design, and native software development.                                          
+Keywords: Game Library Management, Recommender Systems, Mood-Aware             
+ Personalisation, Desktop Application, Machine Learning
 
 ---
 
@@ -37,7 +47,7 @@ Current game launchers operate in isolation, offering no unified view of a user'
 
 #### Motivation
 
-Gamers deserve a single application that:
+Our users deserve a single application that:
 - Aggregates all their games regardless of platform
 - Provides meaningful insights into their gaming habits
 - Recommends games based on current mood and context, not just past purchases
@@ -103,20 +113,20 @@ Content-based filtering and collaborative filtering are established techniques i
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        VORTEX ARCHITECTURE                       │
+│                        VORTEX ARCHITECTURE                      │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
+│                                                                 │
 │   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐       │
 │   │   QML UI    │◄───►│   C++ Core  │◄───►│   SQLite    │       │
 │   │  (Frontend) │     │  (Backend)  │     │    (Data)   │       │
 │   └─────────────┘     └──────┬──────┘     └──────┬──────┘       │
-│                              │                   │               │
-│                              ▼                   ▼               │
+│                              │                   │              │
+│                              ▼                   ▼              │
 │                       ┌─────────────────────────────┐           │
 │                       │     Python ML Module        │           │
 │                       │  (Recommendations Engine)   │           │
 │                       └─────────────────────────────┘           │
-│                                                                  │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -160,18 +170,18 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ┌─────────────────────────────────────────────────────────────────┐
 │                       USER WORKFLOW                              │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐  │
-│  │  Add     │───►│  Play    │───►│  Track   │───►│  Get     │  │
-│  │  Games   │    │  Game    │    │  Session │    │  Recs    │  │
-│  └──────────┘    └──────────┘    └──────────┘    └──────────┘  │
+│                                                                 │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐   │
+│  │  Add     │───►│  Play    │───►│  Track   │───►│  Get     │   │
+│  │  Games   │    │  Game    │    │  Session │    │  Recs    │   │
+│  └──────────┘    └──────────┘    └──────────┘    └──────────┘   │
 │       │              │               │               │          │
 │       ▼              ▼               ▼               ▼          │
-│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐  │
-│  │ Library  │    │ Launcher │    │  Data    │    │   ML     │  │
-│  │ Manager  │    │ Service  │    │ Pipeline │    │  Engine  │  │
-│  └──────────┘    └──────────┘    └──────────┘    └──────────┘  │
-│                                                                  │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐   │
+│  │ Library  │    │ Launcher │    │  Data    │    │   ML     │   │
+│  │ Manager  │    │ Service  │    │ Pipeline │    │  Engine  │   │
+│  └──────────┘    └──────────┘    └──────────┘    └──────────┘   │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -199,12 +209,12 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 #### Technical Feasibility
 
-| Aspect | Assessment | Details |
-|--------|------------|---------|
-| Team Skills | ✅ Feasible | C++, Python, Qt knowledge present in team |
-| Hardware | ✅ Feasible | Standard development machines sufficient |
-| Software | ✅ Feasible | All tools are free/open-source |
-| Timeline | ⚠️ Tight | 12 weeks requires disciplined scope management |
+| Aspect      | Assessment | Details                                           |
+| ----------- | ---------- | ------------------------------------------------- |
+| Team Skills | Feasible   | C++, Python, Qt knowledge present in team         |
+| Hardware    | Feasible   | Standard development machines sufficient          |
+| Software    | Feasible   | All tools are free/open-source                    |
+| Timeline    | Feasible   | 10-12 weeks requires disciplined scope management |
 
 #### Risk Analysis
 
@@ -221,31 +231,31 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ### 8. Project Timeline
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                           12-WEEK PROJECT TIMELINE                               │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                  │
-│  PHASE 1: FOUNDATION (Weeks 1-3)                                                │
-│  ├── Week 1: Requirements finalization, environment setup                       │
-│  ├── Week 2: Database schema design, project structure                          │
-│  └── Week 3: Basic UI shell, core data models                                   │
-│                                                                                  │
-│  PHASE 2: CORE DEVELOPMENT (Weeks 4-7)                                          │
-│  ├── Week 4: Game library manager, add/edit/delete games                        │
-│  ├── Week 5: Session tracking, playtime logging                                 │
-│  ├── Week 6: Like/Dislike system, preference storage                            │
-│  └── Week 7: Python ML module setup, feature extraction                         │
-│                                                                                  │
-│  PHASE 3: ML INTEGRATION (Weeks 8-10)                                           │
-│  ├── Week 8: Content-based recommendation model                                 │
-│  ├── Week 9: Mood inference module                                              │
-│  └── Week 10: C++↔Python integration, recommendation display                    │
-│                                                                                  │
-│  PHASE 4: FINALIZATION (Weeks 11-12)                                            │
-│  ├── Week 11: Testing, bug fixes, evaluation metrics                            │
-│  └── Week 12: Documentation, presentation, viva preparation                     │
-│                                                                                  │
-└─────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────
+│                           12-WEEK PROJECT TIMELINE                           │
+├──────────────────────────────────────────────────────────────────────────────
+│                                                                              │
+│  PHASE 1: FOUNDATION (Weeks 1-3)                                             │
+│  ├── Week 1: Requirements finalization, environment setup                    │
+│  ├── Week 2: Database schema design, project structure                       │
+│  └── Week 3: Basic UI shell, core data models                                │
+│                                                                              │
+│  PHASE 2: CORE DEVELOPMENT (Weeks 4-7)                                       │
+│  ├── Week 4: Game library manager, add/edit/delete games                     │
+│  ├── Week 5: Session tracking, playtime logging                              │
+│  ├── Week 6: Like/Dislike system, preference storage                         │
+│  └── Week 7: Python ML module setup, feature extraction                      │
+│                                                                              │
+│  PHASE 3: ML INTEGRATION (Weeks 8-10)                                        │
+│  ├── Week 8: Content-based recommendation model                              │
+│  ├── Week 9: Mood inference module                                           │
+│  └── Week 10: C++↔Python integration, recommendation display                 │
+│                                                                              │
+│  PHASE 4: FINALIZATION (Weeks 11-12)                                         │
+│  ├── Week 11: Testing, bug fixes, evaluation metrics                         │
+│  └── Week 12: Documentation, presentation, viva preparation                  │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────
 ```
 
 #### Gantt Chart
@@ -309,12 +319,12 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ### Team Responsibilities
 
-| Member | Role | Primary Responsibilities |
-|--------|------|-------------------------|
-| **Keerti Vardhan** | | |
-| **Yuvraj Bhardwaj** | | |
-| **Ayushmaan Kapruwan** | | |
-| **Aditya Kediyal** | | |
+| Member                 | Role | Primary Responsibilities |
+| ---------------------- | ---- | ------------------------ |
+| **Keerti Vardhan**     |      |                          |
+| **Yuvraj Bhardwaj**    |      |                          |
+| **Ayushmaan Kapruwan** |      |                          |
+| **Aditya Kediyal**     |      |                          |
 
 ---
 
