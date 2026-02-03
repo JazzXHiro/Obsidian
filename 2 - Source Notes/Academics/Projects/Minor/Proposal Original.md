@@ -1,17 +1,19 @@
 
 ## Project Title: Vortex: A Unified Intelligent Game Library/Launcher
 
-**Domain:** Software Engineering & Intelligent Systems
+**Domain:** Intelligent Systems & Software Engineering
 
-**Proposed By:** [Your Name / Team Members]
-
-**Date:** [Submission Date]
+**Proposed By:** 
+	Keerti Vardhan
+	Yuvraj Bhardwaj
+	Ayushmaan Kapruwan
+	Aditya Kediyal
 
 ---
 
 ### 1. Abstract
 
-Provide a concise summary (150–250 words) of the problem, the proposed solution, and the expected outcome. It should act as a "hook" for the reviewer.
+
 
 ### 2. Introduction
 
