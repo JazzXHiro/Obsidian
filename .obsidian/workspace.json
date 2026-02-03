@@ -53,14 +53,12 @@
             "id": "9332208979694618",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Proposal Original Ver.2 (1)"
+              "icon": "lucide-file-text",
+              "title": "proposal-kediyal"
             }
           }
         ],
@@ -345,7 +343,7 @@
       }
     ]
   },
-  "active": "6bf092eb8cf08d9f",
+  "active": "9332208979694618",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf",
