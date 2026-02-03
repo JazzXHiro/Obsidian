@@ -306,11 +306,48 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
+  "floating": {
+    "id": "51d9c0818575bf7a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5a378dc2ac2ac3bd",
+        "type": "window",
+        "children": [
+          {
+            "id": "3265875ad0757679",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6bf092eb8cf08d9f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "proposal-kediyal"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "9332208979694618",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/Minor/Real-Time Adaptive Game Difficulty.pdf",
-    "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
+    "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf",
+    "2 - Source Notes/Academics/Projects/Minor/Real-Time Adaptive Game Difficulty.pdf",
     "1 - Rough Notes/Temp.md",
     "2 - Source Notes/Programming/Git/git ignore.md",
     "5 - Templates/Git.md",
