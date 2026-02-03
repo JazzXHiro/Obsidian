@@ -50,12 +50,12 @@ The rise of subscription services (Game Pass, EA Play) has further increased lib
 
 #### Existing Solutions
 
-| Solution | Description | Limitations |
-|----------|-------------|-------------|
-| **Playnite** | Open-source unified game library | No ML-based recommendations, basic UI |
+| Solution           | Description                        | Limitations                                     |
+| ------------------ | ---------------------------------- | ----------------------------------------------- |
+| **Playnite**       | Open-source unified game library   | No ML-based recommendations, basic UI           |
 | **GOG Galaxy 2.0** | Multi-platform library aggregation | Limited personalization, no mood-aware features |
-| **Steam** | Largest PC game platform | Single platform only, generic recommendations |
-| **LaunchBox** | Game organization and emulation | Focus on retro games, no behavior analytics |
+| **Steam**          | Largest PC game platform           | Single platform only, generic recommendations   |
+| **LaunchBox**      | Game organization and emulation    | Focus on retro games, no behavior analytics     |
 
 #### Academic Background
 
