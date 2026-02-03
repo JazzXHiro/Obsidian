@@ -13,7 +13,30 @@
 
 ### 1. Abstract
 
-
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                  ABSTRACT                                        │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                  │
+│  Vortex is a unified game library management application with intelligent       │
+│  recommendation capabilities. The system consolidates games from multiple       │
+│  platforms into a single interface while tracking playtime, session patterns,   │
+│  and user preferences.                                                          │
+│                                                                                  │
+│  Built using C++ and Qt/QML for performance, Vortex implements a machine        │
+│  learning-based recommendation engine employing content-based filtering and     │
+│  mood-aware personalization. The system analyzes user behavior signals—         │
+│  including play duration, time-of-day patterns, and explicit ratings—to         │
+│  generate contextually relevant game suggestions.                               │
+│                                                                                  │
+│  A modular architecture allows users to customize features according to         │
+│  their needs, avoiding the bloat common in existing launchers. The project      │
+│  demonstrates practical application of recommender systems, data pipeline       │
+│  design, and native software development.                                       │
+│                                                                                  │
+│  Keywords: Game Library Management, Recommender Systems, Mood-Aware             │
+│  Personalization, Desktop Application, Machine Learning                         │
+│                                                                                  │
+└─────────────────────────────────────────────────────────────────────────────────┘
 
 ### 2. Introduction
 
