@@ -1,7 +1,7 @@
 
 ## Project Title: Vortex: A Unified Intelligent Game Library/Launcher
 
-**Domain:** 
+**Domain:** Software Engineering & Intelligent Systems
 
 **Proposed By:** [Your Name / Team Members]
 
