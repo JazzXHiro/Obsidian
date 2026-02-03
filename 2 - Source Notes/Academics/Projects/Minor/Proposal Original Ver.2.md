@@ -16,15 +16,17 @@ Here's the completed proposal:
 
 ### 1. Abstract
 
-The modern gaming landscape is fragmented across multiple platforms such as Steam, Epic Games Store, GOG, and Xbox, forcing users to manage separate libraries and navigate different interfaces. This fragmentation leads to poor user experience, scattered playtime data, and an inability to receive unified, personalized game recommendations.
-
-Vortex is a unified game library management application with intelligent recommendation capabilities. The system consolidates games from multiple platforms into a single interface while tracking playtime, session patterns, and user preferences.
-
-Built using C++ and Qt/QML for performance, Vortex implements a machine learning-based recommendation engine employing content-based filtering and mood-aware personalization. The system analyzes user behavior signals—including play duration, time-of-day patterns, and explicit ratings—to generate contextually relevant game suggestions.
-
-A modular architecture allows users to customize features according to their needs, avoiding the bloat common in existing launchers. The project demonstrates practical application of recommender systems, data pipeline design, and native software development.
-
-**Keywords:** Game Library Management, Recommender Systems, Mood-Aware Personalization, Desktop Application, Machine Learning
+Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. Built using C++ and Qt/QML for performance, Vortex implements a machine  
+learning-based recommendation engine that uses content-based filtering and  
+mood-aware personalisation. The system analyses user behaviour  
+like play duration, time-of-day patterns, and explicit ratings to  
+generate relevant game suggestions.  
+A modular architecture allows users to customise features according to  
+their needs, avoiding the bloat common in existing launchers. The project  
+demonstrates practical application of recommender systems, data pipeline  
+design, and native software development.  
+Keywords: Game Library Management, Recommender Systems, Mood-Aware  
+Personalisation, Desktop Application, Machine Learning
 
 ---
 
