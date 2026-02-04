@@ -203,6 +203,57 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Produced Data      | Liked/Disliked Games    | Yes                  | Yes                            |                          |
 | Distribution API   | In-game Achievements    | Yes                  |                                |                          |
 
+##### Mood Based Data Results
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    MOOD → GAME TYPE                             │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   😌 RELAXED                                                   |
+│   └── Best: Farming sims, Puzzle games, Cozy game              │
+│   └── Avoid: Horror, Intense shooters                           │
+│                                                                 │
+│   🎯 COMPETITIVE                                               │
+│   └── Best: Shooters, Sports, Fighting, Racing                  │
+│   └── Avoid: Slow story games, Casual games                     │
+│                                                                 │
+│   📖 IMMERSIVE                                                  │
+│   └── Best: RPGs, Story-rich, Open world, Adventure             │
+│   └── Avoid: Quick arcade games, Sports                         │
+│                                                                 │
+│   ⚡ QUICK PLAY                                                │
+│   └── Best: Roguelikes, Arcade, Platformers, Racing             │
+│   └── Avoid: Long RPGs, Story-heavy games                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+##### Mood Based Results(minimal)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    MOOD → GAME TYPE                             │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   😌 RELAXED                                                   |
+│   └── Best: Adenture              │
+│   └── Avoid: Horror, Intense shooters                           │
+│                                                                 │
+│   🎯 COMPETITIVE                                               │
+│   └── Best: Shooters                  │
+│   └── Avoid: RPGs, Adventure                     │
+│                                                                 │
+│   📖 IMMERSIVE                                                  │
+│   └── Best: RPGs, Story-rich, Open world, Adventure             │
+│   └── Avoid: Quick arcade games, Sports                         │
+│                                                                 │
+│   ⚡ QUICK PLAY                                                │
+│   └── Best: Roguelikes, Arcade, Platformers, Racing             │
+│   └── Avoid: Long RPGs, Story-heavy games                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 #### User Personas
 
