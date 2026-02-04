@@ -189,14 +189,20 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ### Data Types
 
 
-| **Category**       | **Data Item**     | **Used in Launcher** | **Used for ML Recommendation** | **Notes**                |
-| ------------------ | ----------------- | -------------------- | ------------------------------ | ------------------------ |
-| Local Data         | Game Name         | Yes                  | Yes                            | Basic Identifier         |
-| Local Data         | Version           | Yes                  | No                             | For compatibility checks |
-| Local Data         | Install Directory | Yes                  | No                             | System reference only    |
-| Local Data         | Genre/Tags        | Yes                  | Yes                            | Metadata only            |
-| IGDB (External DB) | Images            | Yes                  | No                             |                          |
-|                    |                   |                      |                                |                          |
+| **Category**       | **Data Item**           | **Used in Launcher** | **Used for ML Recommendation** | **Notes**                |
+| ------------------ | ----------------------- | -------------------- | ------------------------------ | ------------------------ |
+| Local Data         | Game Name               | Yes                  | Yes                            | Basic Identifier         |
+| Local Data         | Version                 | Yes                  | No                             | For compatibility checks |
+| Local Data         | Install Directory       | Yes                  | No                             | System reference only    |
+| IGDB (External DB) | Genre/Tags              | Yes                  | Yes                            | Metadata only            |
+| IGDB (External DB) | Images                  | Yes                  | No                             |                          |
+| IGDB (External DB) | Developer/Publisher     | Yes                  | No                             |                          |
+| IGDB (External DB) | Ratings/Reviews         | Yes                  |                                |                          |
+| Produced Data      | Session Start/End       |                      |                                |                          |
+| Produced Data      | Idle/ Inactive duration |                      | Yes                            |                          |
+| Produced Data      |                         |                      |                                |                          |
+| Produced Data      |                         |                      |                                |                          |
+|                    |                         |                      |                                |                          |
 
 
 #### User Personas
