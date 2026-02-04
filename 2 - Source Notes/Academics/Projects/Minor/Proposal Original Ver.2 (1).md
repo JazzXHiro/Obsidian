@@ -263,6 +263,10 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Testing | | | | | | | | | | ██ | ██ | |
 | Documentation | | | | | | | | | | | ██ | ██ |
 
+#### PERT Chart
+
+![[image-3.png|827x208]]
+
 ---
 
 ### 9. Expected Outcomes
