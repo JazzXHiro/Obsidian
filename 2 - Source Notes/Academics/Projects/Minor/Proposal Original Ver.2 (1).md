@@ -45,12 +45,12 @@ Our users deserve a single application that:
 
 #### Existing Solutions
 
-| Solution           | Description                        | Limitations                                                          |
-| ------------------ | ---------------------------------- | -------------------------------------------------------------------- |
-| **Playnite**       | Open-source unified game library   | No ML-based recommendations, basic UI <sup>[ [[#^de10d3\|2]] ]</sup> |
-| **GOG Galaxy 2.0** | Multi-platform library aggregation | Limited personalization, no mood-aware features <sup>[ [[]] ]</sup>  |
-| **Steam**          | Largest PC game platform           | Single platform only, generic recommendations                        |
-| **LaunchBox**      | Game organization and emulation    | Focus on retro games, no behavior analytics                          |
+| Solution           | Description                        | Limitations                                                                    |
+| ------------------ | ---------------------------------- | ------------------------------------------------------------------------------ |
+| **Playnite**       | Open-source unified game library   | No ML-based recommendations, basic UI <sup>[ [[#^de10d3\|2]] ]</sup>           |
+| **GOG Galaxy 2.0** | Multi-platform library aggregation | Limited personalization, no mood-aware features <sup>[ [[#^6db295\|3]] ]</sup> |
+| **Steam**          | Largest PC game platform           | Single platform only, generic recommendations                                  |
+| **LaunchBox**      | Game organization and emulation    | Focus on retro games, no behavior analytics                                    |
 
 #### Academic Background
 
@@ -547,8 +547,8 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
  ^c03d51
 2. https://api.playnite.link/docs/manual/gettingStarted/gettingStartedOverview.html
 ^de10d3
-3. 
-
+3. https://docs.gog.com/quick-start/
+^6db295
 4. 
 
 5. 
