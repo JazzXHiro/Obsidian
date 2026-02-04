@@ -39,8 +39,6 @@ Our users deserve a single application that:
 - Provides meaningful insights into their gaming habits
 - Recommends games based on current mood and context, not just past purchases
 
-The rise of subscription services (Game Pass, EA Play) has further increased library sizes, making intelligent organization and recommendation more valuable than ever.
-
 ---
 
 ### 3. Literature Review
