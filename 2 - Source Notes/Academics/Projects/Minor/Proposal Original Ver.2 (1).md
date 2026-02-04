@@ -49,7 +49,7 @@ Our users deserve a single application that:
 | ------------------ | ---------------------------------- | ------------------------------------------------------------------------------ |
 | **Playnite**       | Open-source unified game library   | No ML-based recommendations, basic UI <sup>[ [[#^de10d3\|2]] ]</sup>           |
 | **GOG Galaxy 2.0** | Multi-platform library aggregation | Limited personalization, no mood-aware features <sup>[ [[#^6db295\|3]] ]</sup> |
-| **Steam**          | Largest PC game platform           | Single platform only, generic recommendations <sup>[ [[]] ]</sup>              |
+| **Steam**          | Largest PC game platform           | Single platform only, generic recommendations <sup>[ [[4]] ]</sup>             |
 
 #### Academic Background
 
