@@ -389,6 +389,48 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+###### Data to Score
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                    COMPLETE QUANTIFICATION SUMMARY                              │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  INPUT DATA              QUANTIFICATION           OUTPUT DIMENSION              │
+│  ──────────              ──────────────           ────────────────              │
+│                                                                                 │
+│  Genres                  One-Hot Encoding         15 dimensions                 │
+│  ["Action", "RPG"]  ──►  [1,0,1,0,0,0...]    ──►  (binary)                      │
+│                                                                                 │
+│  Description             TF-IDF Vectorize         100 dimensions                │
+│  "Fantasy RPG..."   ──►  [0.23, 0.45...]     ──►  (float 0-1)                   │
+│                                                                                 │
+│  Metacritic              Normalization            1 dimension                   │
+│  94                 ──►  0.94                ──►  (float 0-1)                   │
+│                                                                                 │
+│  Like/Dislike            Preference Score         15 dimensions                 │
+│  {likes, dislikes}  ──►  [0.8, -0.3, 0.5...]──►  (float -1 to 1)                │
+│                                                                                 │
+│  Session Data            Temporal Features        6 dimensions                  │
+│  {time, duration}   ──►  [0.97, 0.05, 0.45] ──►  (float 0-1)                    │
+│                                                                                 │
+│  Mood                    One-Hot + Weights        4 dimensions                  │
+│  "relaxed"          ──►  [1, 0, 0, 0]        ──►  (binary)                      │
+│                                                                                 │
+│  ─────────────────────────────────────────────────────────────────────────────  │
+│                                                                                 │
+│  FINAL RECOMMENDATION SCORE:                                                    │
+│                                                                                 │
+│  Score = 0.40 × (Preference Match)                                              │
+│        + 0.35 × (Similar to Liked Games)                                        │
+│        + 0.15 × (Quality Score)                                                 │
+│        + 0.10 × (Exploration Factor)                                            │
+│                                                                                 │
+│  Output: 0.0 to 1.0 (displayed as 0% to 100%)                                   │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
 #### User Personas
 
 | Persona           | Description                                   | Primary Need                              |
