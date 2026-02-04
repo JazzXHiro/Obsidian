@@ -320,7 +320,35 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ###### Playtime & Engagement Metrics
 
-
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                  SESSION DATA QUANTIFICATION                    │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Game: "Elden Ring"                                             │
+│  Total Playtime: 125 hours                                      │
+│  Sessions: 45                                                   │
+│  Avg Session: 2.8 hours                                         │
+│                                                                 │
+│  Engagement Score Calculation:                                  │
+│  ├── Playtime Score:  125/100 = 1.0 (capped)                    │
+│  ├── Frequency Score: 45/50 = 0.9                               │
+│  ├── Length Score:    168/120 = 1.0 (capped)                    │
+│  └── Final: 0.5(1.0) + 0.3(0.9) + 0.2(1.0) = 0.97               │
+│                                                                 │
+│  Temporal Features:                                             │
+│  ┌─────────────────────────────────────────────────────────┐    │
+│  │  Morning (6-12):    5%   ██░░░░░░░░░░░░░░░░░░░░░░░░░░   │    │
+│  │  Afternoon (12-18): 15%  ████░░░░░░░░░░░░░░░░░░░░░░░░   │    │
+│  │  Evening (18-22):   45%  ████████████░░░░░░░░░░░░░░░░   │    │
+│  │  Night (22-6):      35%  ██████████░░░░░░░░░░░░░░░░░░   │    │
+│  │  Weekend:           60%  ████████████████░░░░░░░░░░░░   │    │
+│  └─────────────────────────────────────────────────────────┘    │
+│                                                                 │
+│  Session Vector: [0.97, 0.05, 0.15, 0.45, 0.35, 0.60]           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 #### User Personas
 
@@ -458,5 +486,3 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | **Aditya Kediyal**     | Database & Integration Engineer |                                  |
 
 ---
-
-*Proposal submitted for Minor Project evaluation.*
