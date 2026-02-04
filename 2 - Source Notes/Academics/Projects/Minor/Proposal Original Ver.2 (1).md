@@ -186,6 +186,36 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Inference  | Feature vectors | ML model prediction             | Ranked recommendations |
 | Display    | Recommendations | UI rendering                    | User sees suggestions  |
 
+### Data Types
+
+> [!info] Mood System
+> Pop-up every time the launcher starts
+
+> [!example] IGDB
+> External database for game metadata
+
+> [!note] Data Obtained Locally
+> - ❌ Game name  
+> - ❌ Version  
+> - ❌ Install directory  
+
+> [!warning] Data from IGDB
+> - ❌ Genre / Tags  
+> - ❌ Images  
+> - ❌ Developer / Publisher  
+> - ❌ Ratings / Reviews  
+
+> [!success] Data Produced Per Session
+> - ✅ Session start / end  
+> - 🔵 Idle / active minutes  
+> - 🔵 Session length  
+> - ✅ Mood  
+> - Session ID  
+
+> [!tip] Distribution API
+> - ❌ In-game achievements  
+
+
 #### User Personas
 
 | Persona | Description | Primary Need |
