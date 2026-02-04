@@ -131,7 +131,8 @@ Content-based filtering and collaborative filtering are established techniques i
 | ML Libraries | scikit-learn, pandas, numpy | Industry standard, well-documented |
 | Build System | CMake | Cross-platform build management |
 
-#### ML Approach
+#### ML Approach [1]
+[[]]
 
 | Model | Purpose | Technique |
 |-------|---------|-----------|
@@ -295,7 +296,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ### 10. References
 
-1. 
+1. M. Kozakov and N. Kozakova, “DEVELOPMENT OF A RECOMMENDATION SYSTEM FOR VIDEO GAMES”, GoS, no. 58, pp. 814–819, Nov. 2025. 
 
 2. 
 
