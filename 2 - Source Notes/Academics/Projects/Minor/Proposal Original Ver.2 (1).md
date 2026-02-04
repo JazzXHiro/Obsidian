@@ -1,6 +1,3 @@
-Here's the completed proposal:
-
----
 
 ## Project Title: Vortex: A Unified Intelligent Game Library/Launcher
 
@@ -185,24 +182,25 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Processing | SQLite records  | Aggregation, feature extraction | Feature vectors        |
 | Inference  | Feature vectors | ML model prediction             | Ranked recommendations |
 | Display    | Recommendations | UI rendering                    | User sees suggestions  |
+|            |                 |                                 |                        |
 
-### Data Types
+##### Data Usage and Utilization
 
 
 | **Category**       | **Data Item**           | **Used in Launcher** | **Used for ML Recommendation** | **Notes**                |
 | ------------------ | ----------------------- | -------------------- | ------------------------------ | ------------------------ |
 | Local Data         | Game Name               | Yes                  | Yes                            | Basic Identifier         |
-| Local Data         | Version                 | Yes                  | No                             | For compatibility checks |
-| Local Data         | Install Directory       | Yes                  | No                             | System reference only    |
+| Local Data         | Version                 | Yes                  |                                | For compatibility checks |
+| Local Data         | Install Directory       | Yes                  |                                | System reference only    |
 | IGDB (External DB) | Genre/Tags              | Yes                  | Yes                            | Metadata only            |
-| IGDB (External DB) | Images                  | Yes                  | No                             |                          |
-| IGDB (External DB) | Developer/Publisher     | Yes                  | No                             |                          |
+| IGDB (External DB) | Images                  | Yes                  |                                |                          |
+| IGDB (External DB) | Developer/Publisher     | Yes                  |                                |                          |
 | IGDB (External DB) | Ratings/Reviews         | Yes                  |                                |                          |
-| Produced Data      | Session Start/End       |                      |                                |                          |
+| Produced Data      | Session Start/End       | Yes                  | Yes                            |                          |
 | Produced Data      | Idle/ Inactive duration |                      | Yes                            |                          |
-| Produced Data      |                         |                      |                                |                          |
-| Produced Data      |                         |                      |                                |                          |
-|                    |                         |                      |                                |                          |
+| Produced Data      | Session length          |                      | Yes                            |                          |
+| Produced Data      | Mood Session ID         | Yes                  | Yes                            |                          |
+| Distribution API   | In-game Achievements    | Yes                  |                                |                          |
 
 
 #### User Personas
