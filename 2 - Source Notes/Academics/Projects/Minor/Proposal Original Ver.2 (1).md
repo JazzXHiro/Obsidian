@@ -128,14 +128,14 @@ Content-based filtering and collaborative filtering are established techniques i
 | ML Libraries | scikit-learn, pandas, numpy | Industry standard, well-documented |
 | Build System | CMake | Cross-platform build management |
 
-#### ML Approach [1]
-[[]]
+#### ML Approach
 
-| Model | Purpose | Technique |
-|-------|---------|-----------|
-| **Content-Based Filter** | Game similarity | TF-IDF vectorization + Cosine similarity on genres/themes |
-| **Mood Classifier** | Context inference | Rule-based heuristics + Decision tree on temporal features |
-| **Hybrid Ranker** | Final recommendations | Weighted combination of content score + mood adjustment |
+| Model                    | Purpose               | Technique                                                  |
+| ------------------------ | --------------------- | ---------------------------------------------------------- |
+| **Content-Based Filter** | Game similarity       | TF-IDF vectorization + Cosine similarity on genres/themes  |
+| **Mood Classifier**      | Context inference     | Rule-based heuristics + Decision tree on temporal features |
+| **Hybrid Ranker**        | Final recommendations | Weighted combination of content score + mood adjustment    |
+|                          |                       |                                                            |
 
 #### Feature Engineering Pipeline
 
@@ -260,6 +260,32 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 │   └── Avoid: Long RPGs, Story-heavy games                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
+```
+
+##### Data Quantification
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                      DATA TO ML QUANTIFICATION PIPELINE                         │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│   RAW DATA                 PROCESSING              QUANTIFIED OUTPUT            │
+│   ────────                 ──────────              ─────────────────            │
+│                                                                                 │
+│   "Action, RPG"    ──►    One-Hot Encoding   ──►   [1,0,0,1,0,0,0,0]            │
+│                                                                                 │
+│   "Fantasy game    ──►    TF-IDF Vectorize   ──►   [0.23, 0.45, 0.12...]        │
+│    with magic"                                                                  │
+│                                                                                 │
+│   Like/Dislike     ──►    Preference Score   ──►   +1.0 / -1.0                  │
+│                                                                                 │
+│   120 minutes      ──►    Normalization      ──►   0.75 (scaled 0-1)            │
+│                                                                                 │
+│   "Relaxed" mood   ──►    Mood Vector        ──►   [1,0,0,0]                    │
+│                                                                                 │
+│   22:00 hour       ──►    Time Encoding      ──►   [0.92] or [0,0,0,1]          │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 #### User Personas
