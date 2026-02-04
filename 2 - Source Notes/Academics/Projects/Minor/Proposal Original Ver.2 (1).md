@@ -200,6 +200,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Produced Data      | Idle/ Inactive duration |                      | Yes                            |                          |
 | Produced Data      | Session length          |                      | Yes                            |                          |
 | Produced Data      | Mood Session ID         | Yes                  | Yes                            |                          |
+| Produced Data      | Liked/Disliked Games    | Yes                  | Yes                            |                          |
 | Distribution API   | In-game Achievements    | Yes                  |                                |                          |
 
 
