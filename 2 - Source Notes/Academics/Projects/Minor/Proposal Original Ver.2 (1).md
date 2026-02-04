@@ -309,12 +309,12 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ### Team Responsibilities
 
-| Member                 | Role | Primary Responsibilities |
-| ---------------------- | ---- | ------------------------ |
-| **Keerti Vardhan**     |      |                          |
-| **Yuvraj Bhardwaj**    |      |                          |
-| **Ayushmaan Kapruwan** |      |                          |
-| **Aditya Kediyal**     |      |                          |
+| Member                 | Role                        | Primary Responsibilities         |
+| ---------------------- | --------------------------- | -------------------------------- |
+| **Keerti Vardhan**     | Backend & Systems Developer |                                  |
+| **Yuvraj Bhardwaj**    | ML & Algorithm Developer    |                                  |
+| **Ayushmaan Kapruwan** | Frontend & UI Developer     | Design & Implement UI components |
+| **Aditya Kediyal**     | Data & Integration Engineer |                                  |
 
 ---
 
