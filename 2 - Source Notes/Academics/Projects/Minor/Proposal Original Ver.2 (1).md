@@ -82,7 +82,7 @@ Content-based filtering and collaborative filtering are established techniques i
 
 | In Scope                                | Out of Scope                                       |
 | --------------------------------------- | -------------------------------------------------- |
-| Auto-detection from supported platforms | Auto-                                              |
+| Auto-detection from supported platforms |                                                    |
 | Local playtime tracking                 | Cloud sync across devices                          |
 | Content-based recommendations           | Collaborative filtering (requires multi-user data) |
 | Basic mood inference                    | Advanced emotion detection                         |
