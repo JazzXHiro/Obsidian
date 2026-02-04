@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Proposal Original Ver.2 (1)"
             }
+          },
+          {
+            "id": "e0ffa03b7bd1d749",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "7 - Attachments/image-3.png"
+              },
+              "icon": "lucide-image",
+              "title": "image-3"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -345,12 +357,12 @@
       }
     ]
   },
-  "active": "9332208979694618",
+  "active": "e0ffa03b7bd1d749",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "7 - Attachments/image-3.png",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original.md",
     "2 - Source Notes/Academics/Projects/Minor/Problem Statement.md",
-    "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "2 - Source Notes/Academics/Projects/Minor/New.md",
     "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf",
     "2 - Source Notes/Academics/Projects/Minor/Real-Time Adaptive Game Difficulty.pdf",
@@ -392,7 +404,6 @@
     "7 - Attachments/Pasted image 20260121010859.png",
     "7 - Attachments/Pasted image 20260121010243.png",
     "7 - Attachments/Pasted image 20260121005008.png",
-    "7 - Attachments/Pasted image 20260120223712.png",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
