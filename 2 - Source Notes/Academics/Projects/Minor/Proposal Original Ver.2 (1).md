@@ -56,7 +56,7 @@ The rise of subscription services (Game Pass, EA Play) has further increased lib
 
 #### Academic Background
 
-Content-based filtering and collaborative filtering are established techniques in recommender systems. Netflix, Spotify, and YouTube employ hybrid approaches combining multiple models. Context-aware recommendation systems that consider time, location, and user state have shown improved user satisfaction in research studies.
+Content-based filtering and collaborative filtering are established techniques in recommender systems. Netflix, Spotify, and YouTube employ hybrid approaches combining multiple models. Context-aware recommendation systems that consider time, location, and user state have shown improved user satisfaction in research studies.[[#^c03d51|1]]
 
 #### Gap Analysis
 
@@ -546,7 +546,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ## 10. References
 
 1. M. Kozakov and N. Kozakova, “DEVELOPMENT OF A RECOMMENDATION SYSTEM FOR VIDEO GAMES”, GoS, no. 58, pp. 814–819, Nov. 2025. 
-
+ ^c03d51
 2. 
 
 3. 
