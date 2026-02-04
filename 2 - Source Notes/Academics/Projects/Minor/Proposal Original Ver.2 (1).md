@@ -48,7 +48,7 @@ Our users deserve a single application that:
 | Solution           | Description                        | Limitations                                                          |
 | ------------------ | ---------------------------------- | -------------------------------------------------------------------- |
 | **Playnite**       | Open-source unified game library   | No ML-based recommendations, basic UI <sup>[ [[#^de10d3\|2]] ]</sup> |
-| **GOG Galaxy 2.0** | Multi-platform library aggregation | Limited personalization, no mood-aware features                      |
+| **GOG Galaxy 2.0** | Multi-platform library aggregation | Limited personalization, no mood-aware features <sup>[ [[]] ]</sup>  |
 | **Steam**          | Largest PC game platform           | Single platform only, generic recommendations                        |
 | **LaunchBox**      | Game organization and emulation    | Focus on retro games, no behavior analytics                          |
 
