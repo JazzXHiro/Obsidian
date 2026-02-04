@@ -294,7 +294,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ---
 
-### 10. References
+## 10. References
 
 1. M. Kozakov and N. Kozakova, “DEVELOPMENT OF A RECOMMENDATION SYSTEM FOR VIDEO GAMES”, GoS, no. 58, pp. 814–819, Nov. 2025. 
 
