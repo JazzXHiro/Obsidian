@@ -203,6 +203,13 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Produced Data      | Liked/Disliked Games    | Yes                  | Yes                            |                          |
 | Distribution API   | In-game Achievements    | Yes                  |                                |                          |
 
+##### Initial Game Genres Being Utilized
+
+1. Shooter
+2. Adventure
+3. Simulator
+4. RPG
+
 ##### Mood Based Data Results
 
 ```
@@ -237,7 +244,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │   😌 RELAXED                                                   |
-│   └── Best: Adenture              │
+│   └── Best: Adenture, Simulator              │
 │   └── Avoid: Horror, Intense shooters                           │
 │                                                                 │
 │   🎯 COMPETITIVE                                               │
