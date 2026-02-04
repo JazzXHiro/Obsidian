@@ -80,14 +80,16 @@ Content-based filtering and collaborative filtering are established techniques i
 
 #### Scope
 
-| In Scope                      | Out of Scope                                       |
-| ----------------------------- | -------------------------------------------------- |
-| Manual game addition          | Auto-detection from all platforms                  |
-| Local playtime tracking       | Cloud sync across devices                          |
-| Content-based recommendations | Collaborative filtering (requires multi-user data) |
-| Basic mood inference          | Advanced emotion detection                         |
-| Windows support               | Mac/Linux support (future work)                    |
-| Like/Dislike preferences      | Social features, friend lists                      |
+| In Scope                                | Out of Scope                                       |
+| --------------------------------------- | -------------------------------------------------- |
+| Auto-detection from supported platforms | Auto-                                              |
+| Local playtime tracking                 | Cloud sync across devices                          |
+| Content-based recommendations           | Collaborative filtering (requires multi-user data) |
+| Basic mood inference                    | Advanced emotion detection                         |
+| Windows support                         | Mac/Linux support (future work)                    |
+| Like/Dislike preferences                | Social features, friend lists                      |
+
+*Supported platforms: Steam & GOG(for now).*
 
 ---
 
