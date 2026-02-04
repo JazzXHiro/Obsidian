@@ -319,7 +319,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | **Keerti Vardhan**     | Backend & Systems Developer |                                  |
 | **Yuvraj Bhardwaj**    | ML & Algorithm Developer    |                                  |
 | **Ayushmaan Kapruwan** | Frontend & UI Developer     | Design & Implement UI components |
-| **Aditya Kediyal**     | Data & Integration Engineer |                                  |
+| **Aditya Kediyal**     | Data & I Engineer           |                                  |
 
 ---
 

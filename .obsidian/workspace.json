@@ -67,12 +67,14 @@
             "id": "e0ffa03b7bd1d749",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "7 - Attachments/image-3.png"
+                "file": "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "image-3"
+              "icon": "lucide-file",
+              "title": "Proposal Original Ver.2 (1)"
             }
           }
         ],
@@ -359,10 +361,11 @@
   },
   "active": "e0ffa03b7bd1d749",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Projects/Minor/Problem Statement.md",
+    "2 - Source Notes/Academics/Projects/Minor/Minor Project.md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "7 - Attachments/image-3.png",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original.md",
-    "2 - Source Notes/Academics/Projects/Minor/Problem Statement.md",
     "2 - Source Notes/Academics/Projects/Minor/New.md",
     "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf",
     "2 - Source Notes/Academics/Projects/Minor/Real-Time Adaptive Game Difficulty.pdf",
@@ -373,7 +376,6 @@
     "2 - Source Notes/Academics/Projects/Minor/Unconfirmed 933981.crdownload",
     "2 - Source Notes/Academics/Projects/Minor/Unconfirmed 62588.crdownload",
     "2 - Source Notes/Academics/Projects/Minor/tue_feb_03_2026_unified_game_launcher_with_ml_recommendations.md",
-    "2 - Source Notes/Academics/Projects/Minor/Minor Project.md",
     "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Academics/Projects/Minor/Changes.md",
     "2 - Source Notes/Programming/DSA/!OneNote notes.md",
