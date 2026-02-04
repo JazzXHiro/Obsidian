@@ -188,34 +188,22 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ### Data Types
 
-```
-## Data Usage & Sources Summary
 
-| Category | Data Item | Used in Launcher | Used for ML Recommendation | Notes |
-|---------|-----------|------------------|----------------------------|-------|
-| Local Data | Game Name | ❌ | ❌ | Basic identifier |
-| Local Data | Version | ❌ | ❌ | For compatibility checks |
-| Local Data | Install Directory | ❌ | ❌ | System reference only |
-| IGDB (External DB) | Genre / Tags | ❌ | ❌ | Metadata only |
-| IGDB (External DB) | Images | ❌ | ❌ | UI display |
-| IGDB (External DB) | Developer / Publisher | ❌ | ❌ | Informational |
-| IGDB (External DB) | Ratings / Reviews | ❌ | ❌ | External reference |
-| Session Data | Session Start / End | ✅ | ✅ | Core usage metric |
-| Session Data | Idle / Active Minutes | ❌ | 🔵 | Behavioral signal |
-| Session Data | Session Length | ❌ | 🔵 | Engagement metric |
-| Session Data | Mood | ✅ | ✅ | Primary input |
-| Session Data | Session ID | ❌ | ❌ | Internal tracking |
-| Distribution API | In-game Achievements | ❌ | ❌ | Not used |
+| **Category** | **Data Item**     | **Used in Launcher** | **Used for ML Recommendation** | **Notes**                |
+| ------------ | ----------------- | -------------------- | ------------------------------ | ------------------------ |
+| Local Data   | Game Name         | No                   | No                             | Basic Identifier         |
+| Local Data   | Version           | No                   | No                             | For compatibility checks |
+| Local Data   | Install Directory | No                   | No                             | System reference only    |
+| Local Data   | Genre/Tags        | No                   | No                             |                          |
 
-```
 
 #### User Personas
 
-| Persona | Description | Primary Need |
-|---------|-------------|--------------|
-| **Casual Gamer** | Plays occasionally, owns 20-50 games | Quick game selection, simple interface |
-| **Enthusiast** | Plays daily, owns 100+ games across platforms | Unified library, playtime stats |
-| **Completionist** | Tracks achievements, completion rates | Progress tracking, similar game discovery |
+| Persona           | Description                                   | Primary Need                              |
+| ----------------- | --------------------------------------------- | ----------------------------------------- |
+| **Casual Gamer**  | Plays occasionally, owns 20-50 games          | Quick game selection, simple interface    |
+| **Enthusiast**    | Plays daily, owns 100+ games across platforms | Unified library, playtime stats           |
+| **Completionist** | Tracks achievements, completion rates         | Progress tracking, similar game discovery |
 
 ---
 
