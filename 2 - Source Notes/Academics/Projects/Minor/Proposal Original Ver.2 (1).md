@@ -178,13 +178,13 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 #### Data Flow
 
-| Stage | Input | Process | Output |
-|-------|-------|---------|--------|
-| Collection | User actions | Event capture | Raw events |
-| Storage | Raw events | Validation, storage | SQLite records |
-| Processing | SQLite records | Aggregation, feature extraction | Feature vectors |
-| Inference | Feature vectors | ML model prediction | Ranked recommendations |
-| Display | Recommendations | UI rendering | User sees suggestions |
+| Stage      | Input           | Process                         | Output                 |
+| ---------- | --------------- | ------------------------------- | ---------------------- |
+| Collection | User actions    | Event capture                   | Raw events             |
+| Storage    | Raw events      | Validation, storage             | SQLite records         |
+| Processing | SQLite records  | Aggregation, feature extraction | Feature vectors        |
+| Inference  | Feature vectors | ML model prediction             | Ranked recommendations |
+| Display    | Recommendations | UI rendering                    | User sees suggestions  |
 
 #### User Personas
 
@@ -314,12 +314,12 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ### Team Responsibilities
 
-| Member                 | Role                        | Primary Responsibilities         |
-| ---------------------- | --------------------------- | -------------------------------- |
-| **Keerti Vardhan**     | Backend & Systems Developer |                                  |
-| **Yuvraj Bhardwaj**    | ML & Algorithm Developer    |                                  |
-| **Ayushmaan Kapruwan** | Frontend & UI Developer     | Design & Implement UI components |
-| **Aditya Kediyal**     | Data & I Engineer           |                                  |
+| Member                 | Role                            | Primary Responsibilities         |
+| ---------------------- | ------------------------------- | -------------------------------- |
+| **Keerti Vardhan**     | Backend & Systems Developer     |                                  |
+| **Yuvraj Bhardwaj**    | ML & Algorithm Developer        |                                  |
+| **Ayushmaan Kapruwan** | Frontend & UI Developer         | Design & Implement UI components |
+| **Aditya Kediyal**     | Database & Integration Engineer |                                  |
 
 ---
 
