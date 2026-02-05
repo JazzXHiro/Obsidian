@@ -14,6 +14,8 @@
 
 1. Platforms - Game distribution platforms, where a user can buy or subscribe to games. ^9831eb
 2. Launcher - An interface/application that launches or opens a game executable upon user input. ^483314
+3. TF-IDF Vectorize - TF-IDF Vectorizer is a technique used in Natural Language Processing (NLP) to convert text documents into numerical vectors that machine-learning models can understand.
+   TF-IDF stands for Term Frequency – Inverse Document Frequency.
 ### 1. Abstract
 
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
@@ -281,21 +283,17 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 │                    MOOD → GAME TYPE                             │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│   😌 RELAXED                                                   |
-│   └── Best: Adenture, Simulator              │
+│   😌 RELAXED                                                    │
+│   └── Best: Adenture, Simulator                                 │
 │   └── Avoid: Horror, Intense shooters                           │
 │                                                                 │
-│   🎯 COMPETITIVE                                               │
-│   └── Best: Shooters                  │
-│   └── Avoid: RPGs, Adventure                     │
+│   🎯 COMPETITIVE                                                │
+│   └── Best: Shooters                                            │
+│   └── Avoid: RPGs, Adventure                                    │
 │                                                                 │
 │   📖 IMMERSIVE                                                  │
 │   └── Best: RPGs, Story-rich, Open world, Adventure             │
 │   └── Avoid: Quick arcade games, Sports                         │
-│                                                                 │
-│   ⚡ QUICK PLAY                                                │
-│   └── Best: Roguelikes, Arcade, Platformers, Racing             │
-│   └── Avoid: Long RPGs, Story-heavy games                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
