@@ -16,6 +16,7 @@
 2. Launcher - An interface/application that launches or opens a game executable upon user input. ^483314
 3. TF-IDF Vectorize - TF-IDF Vectorizer is a technique used in Natural Language Processing (NLP) to convert text documents into numerical vectors that machine-learning models can understand.
    TF-IDF stands for Term Frequency – Inverse Document Frequency.
+4. 
 ### 1. Abstract
 
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
