@@ -336,47 +336,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "51d9c0818575bf7a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ad2e2b4218c86415",
-        "type": "window",
-        "children": [
-          {
-            "id": "014a46ddb3ef0d8f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0897f95a52143fa3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2026-02-02 14.54.48.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 164,
-        "width": 1031,
-        "height": 807,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0897f95a52143fa3",
+  "active": "3194982dc3a39658",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md",
+    "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal without ML recommendation engine.md",
     "2 - Source Notes/Academics/Projects/Minor/To be used later.md",
     "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf",
