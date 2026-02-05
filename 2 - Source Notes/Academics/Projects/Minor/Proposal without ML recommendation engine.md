@@ -88,7 +88,7 @@ The motivation behind Vortex is to:
 ##### 2. Centralized Launcher  -
    Launch any installed game from one application.
 
-##### 3. Playtime & Session Tracking  -
+##### 3. Playtime & Session Tracking  - 
    Track total playtime, session duration, and usage frequency.
 
 ##### 4. Lightweight Modular Design  -
