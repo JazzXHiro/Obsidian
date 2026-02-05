@@ -651,7 +651,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 #### PERT Chart
 
-![[image-3.png|827x208]]
+![[image-3.png|935x235]]
 
 ---
 
