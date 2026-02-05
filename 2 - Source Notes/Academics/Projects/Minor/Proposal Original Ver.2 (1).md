@@ -12,11 +12,12 @@
 ---
 ### Terminologies Used
 
-1. Platforms - Game distribution platforms, where a user can buy or subscribe to games. ^9831eb
-2. Launcher - An interface/application that launches or opens a game executable upon user input. ^483314
-3. TF-IDF Vectorize - TF-IDF Vectorizer is a technique used in Natural Language Processing (NLP) to convert text documents into numerical vectors that machine-learning models can understand.
+1. **Platforms** - Game distribution platforms, where a user can buy or subscribe to games. ^9831eb
+2. **Launcher** - An interface/application that launches or opens a game executable upon user input. ^483314
+3. **TF-IDF Vectorize** - TF-IDF Vectorizer is a technique used in Natural Language Processing (NLP) to convert text documents into numerical vectors that machine-learning models can understand. <sup> [[#^c03d51|1]] </sup>
    TF-IDF stands for Term Frequency – Inverse Document Frequency.
-4. One-Hot Encoding - One-Hot Encoding is a technique used in Machine Learning and NLP to convert categorical data (labels or words) into a numerical binary format that models can process.
+4. **One-Hot Encoding** - One-Hot Encoding is a technique used in Machine Learning and NLP to convert categorical data (labels or words) into a numerical binary format that models can process. <sup> [[#^c03d51|1]] </sup>
+5. **IGDB** - IGDB stands for Internet Game Database. It is a large structured database of video game information. The IGDB API is the official interface that lets developers programmatically fetch this data for use in their applications/projects. <sup> [[^igdb]] </sup>
 ### 1. Abstract
 
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
@@ -254,7 +255,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 3. Simulator
 4. RPG
 
-##### IGDB API (Metadata source) [[^]]
+##### IGDB API (Metadata source) <sup> [[#^c03d51|1]] </sup>
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
