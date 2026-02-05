@@ -182,3 +182,112 @@ Analytics Visualization
 └──────────┘   └──────────┘   └──────────┘   └──────────┘
 
 ```
+
+---
+
+### Data Flow
+
+| Stage | Input | Process | Output |
+|-----|------|--------|-------|
+| Detection | Installed games | Metadata extraction | Game list |
+| Execution | User action | Launch monitoring | Session logs |
+| Storage | Logs | Validation | SQLite records |
+| Analysis | Records | Aggregation | Analytics |
+| Display | Analytics | UI rendering | User insights |
+
+#### Data Usage and Utilization
+
+| **Category**       | **Data Item**           | **Used in Launcher** | **Notes**                |
+| ------------------ | ----------------------- | -------------------- | ------------------------ |
+| Local Data         | Game Name               | Yes                  | Basic Identifier         |
+| Local Data         | Version                 | Yes                  | For compatibility checks |
+| Local Data         | Install Directory       | Yes                  | System reference only    |
+| IGDB (External DB) | Genre/Tags              | Yes                  | Metadata only            |
+| IGDB (External DB) | Images                  | Yes                  |                          |
+| IGDB (External DB) | Game Length             | Yes                  |                          |
+| IGDB (External DB) | Developer/Publisher     | Yes                  |                          |
+| IGDB (External DB) | Ratings/Reviews         | Yes                  |                          |
+| Produced Data      | Session Start/End       | Yes                  |                          |
+| Produced Data      | Idle/ Inactive duration |                      |                          |
+| Produced Data      | Session length          |                      |                          |
+| Produced Data      | Mood Session ID         | Yes                  |                          |
+| Produced Data      | Liked/Disliked Games    | Yes                  |                          |
+| Distribution API   | In-game Achievements    | Yes                  |                          |
+
+---
+
+## 7. Feasibility and Risk Analysis
+
+### Technical Feasibility
+
+| Aspect | Assessment |
+|------|------------|
+| Team Skills | Feasible |
+| Hardware | Feasible |
+| Software | Feasible |
+| Timeline | Feasible |
+
+---
+
+### Risk Analysis
+
+| Risk | Probability | Impact | Mitigation |
+|----|-------------|--------|-----------|
+| Platform API changes | Medium | Medium | Manual fallback |
+| Scope creep | High | High | Strict MVP definition |
+| Integration issues | Medium | Medium | Incremental testing |
+
+---
+
+## 8. Project Timeline
+
+**Total Duration:** 12 Weeks
+
+- **Weeks 1–3:** Requirements analysis, design, environment setup  
+- **Weeks 4–6:** UI and backend core development  
+- **Weeks 7–9:** Playtime tracking and analytics implementation  
+- **Weeks 10–12:** Testing, documentation, presentation  
+
+---
+
+## 9. Expected Outcomes
+
+### Deliverables
+
+| Deliverable | Description |
+|-----------|-------------|
+| Vortex Application | Unified game launcher |
+| Analytics Module | Playtime & session statistics |
+| Project Report | Complete technical documentation |
+| Source Code | Well-documented repository |
+
+---
+
+### Success Metrics
+
+| Metric | Target |
+|------|-------|
+| Application startup time | < 3 seconds |
+| Memory usage | < 200 MB |
+| Tracking accuracy | > 95% |
+| User satisfaction | > 7/10 |
+
+---
+
+## 10. References
+
+1. Playnite Documentation  
+2. GOG Galaxy Documentation  
+3. Steam Partner Documentation  
+4. IGDB API Documentation  
+
+---
+
+## Team Responsibilities
+
+| Member | Role |
+|------|-----|
+| Keerti Vardhan | Backend & Systems Developer |
+| Yuvraj Bhardwaj | Core Logic Developer |
+| Ayushmaan Kapruwan | UI/UX Developer |
+| Aditya Kediyal | Database & Integration Engineer |
