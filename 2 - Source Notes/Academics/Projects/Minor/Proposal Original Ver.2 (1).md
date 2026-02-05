@@ -251,6 +251,43 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 3. Simulator
 4. RPG
 
+##### IGDB API (Metadata source)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      IGDB API SUMMARY                           │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   Format:         JSON                                          │
+│   Access:         REST API (HTTP POST requests)                 │
+│   Download:       No database dump available                    │
+│   Authentication: Twitch OAuth required                         │
+│   Cost:           Free                                          │
+│   Rate Limit:     4 requests/second                             │
+│                                                                 │
+│   Base URL:       https://api.igdb.com/v4                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+###### IGDB API Flow
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                         IGDB DATA FLOW                                          │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│   ┌─────────────┐      HTTP POST       ┌─────────────┐                          │
+│   │   VORTEX    │  ─────────────────►  │  IGDB API   │                          │
+│   │   (Client)  │                      │  (Server)   │                          │
+│   └─────────────┘  ◄─────────────────  └─────────────┘                          │
+│                       JSON Response                                             │
+│                                                                                 │
+│   NOT a download — Real-time API calls                                          │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
 ##### Mood Based Data Results
 
 ```
