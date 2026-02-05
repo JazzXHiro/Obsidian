@@ -1,9 +1,9 @@
 
 ## Project Title: Vortex: A Unified Intelligent Game Library/Launcher
 
-**Domain:** Intelligent Systems & Software Engineering
+Domain: Intelligent Systems & Software Engineering
 
-**Proposed By:** 
+Proposed By: 
 - Keerti Vardhan
 - Yuvraj Bhardwaj
 - Ayushmaan Kapruwan
@@ -66,12 +66,12 @@ A research paper i.e. “Development Of A Recommendation System For Video Games�
 
 #### Gap Analysis
 
-| Gap                        | Description                                                     |
-| -------------------------- | --------------------------------------------------------------- |
-| **No Unified Analytics**   | Existing launchers don't combine playtime data across platforms |
-| **Static Recommendations** | Suggestions don't adapt to time-of-day or session patterns      |
-| **Resource Heavy**         | Most launchers consume significant system resources             |
-| **No Mood Inference**      | No system considers user's current gaming mood                  |
+| Gap                    | Description                                                     |
+| ---------------------- | --------------------------------------------------------------- |
+| No Unified Analytics   | Existing launchers don't combine playtime data across platforms |
+| Static Recommendations | Suggestions don't adapt to time-of-day or session patterns      |
+| Resource Heavy         | Most launchers consume significant system resources             |
+| No Mood Inclusion      | No system considers user's current gaming mood                  |
 
 ---
 
@@ -79,13 +79,13 @@ A research paper i.e. “Development Of A Recommendation System For Video Games�
 
 #### Primary Objectives
 
-1. **Unified Library Management** — Aggregate games from multiple sources into a single, searchable interface
+1. Unified Library Management — Aggregate games from multiple sources into a single, searchable interface
 
-2. **Intelligent Playtime Tracking** — Monitor session duration, time-of-day patterns, and engagement metrics
+2. Intelligent Playtime Tracking — Monitor session duration, time-of-day patterns, and engagement metrics
 
-3. **ML-Powered Recommendations** — Implement content-based filtering with mood-aware adjustments
+3. ML-Powered Recommendations — Implement content-based filtering with mood-aware adjustments
 
-4. **Lightweight Modular Design** — Create a performant application where features can be toggled on/off
+4. Lightweight Modular Design — Create a performant application where features can be toggled on/off
 
 #### Scope
 
@@ -138,12 +138,11 @@ A research paper i.e. “Development Of A Recommendation System For Video Games�
 
 #### ML Approach
 
-| Model                    | Purpose                                 | Technique                                                               |
-| ------------------------ | --------------------------------------- | ----------------------------------------------------------------------- |
-| **Content-Based Filter** | Game similarity                         | TF-IDF vectorization + Cosine similarity on genres/themes               |
-| **Mood Adjustment**      | User selects current mood on app launch | One-hot encoding + Mood-genre weight mapping                            |
-| **Hybrid Ranker**        | Final recommendations                   | Weighted combination of content score + mood adjustment + quality score |
-|                          |                                         |                                                                         |
+| Model                | Purpose                                 | Technique                                                               |
+| -------------------- | --------------------------------------- | ----------------------------------------------------------------------- |
+| Content-Based Filter | Game similarity                         | TF-IDF vectorization + Cosine similarity on genres/themes               |
+| Mood Adjustment      | User selects current mood on app launch | One-hot encoding + Mood-genre weight mapping                            |
+| Hybrid Ranker        | Final recommendations                   | Weighted combination of content score + mood adjustment + quality score |
 
 ##### Mood Selection Options
 
@@ -233,7 +232,6 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Processing | SQLite records  | Aggregation, feature extraction | Feature vectors        |
 | Inference  | Feature vectors | ML model prediction             | Ranked recommendations |
 | Display    | Recommendations | UI rendering                    | User sees suggestions  |
-|            |                 |                                 |                        |
 
 ##### Data Usage and Utilization
 
@@ -585,24 +583,24 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 #### Risk Analysis
 
-| Risk | Probability | Impact | Mitigation |
-|------|-------------|--------|------------|
-| Platform API limitations | Medium | High | Focus on manual game addition for MVP |
-| ML model accuracy issues | Medium | Medium | Start with simple models, iterate |
-| Integration complexity (C++↔Python) | Medium | Medium | Use JSON file-based communication initially |
-| Scope creep | High | High | Strict MVP definition, feature freezes |
-| Team coordination issues | Low | Medium | Weekly syncs, clear role ownership |
+| Risk                                | Probability | Impact | Mitigation                                  |
+| ----------------------------------- | ----------- | ------ | ------------------------------------------- |
+| Platform API limitations            | Medium      | High   | Focus on manual game addition for MVP       |
+| ML model accuracy issues            | Medium      | Medium | Start with simple models, iterate           |
+| Integration complexity (C++↔Python) | Medium      | Medium | Use JSON file-based communication initially |
+| Scope creep                         | High        | High   | Strict definition, feature freezes          |
+| Team coordination issues            | Low         | Medium | Weekly syncs, clear role ownership          |
 
 ---
 
 ### 8. Team Responsibilities
 
-| Member                 | Role                            | Primary Responsibilities         |
-| ---------------------- | ------------------------------- | -------------------------------- |
-| **Keerti Vardhan**     | Backend & Systems Developer     |                                  |
-| **Yuvraj Bhardwaj**    | ML & Algorithm Developer        |                                  |
-| **Ayushmaan Kapruwan** | Frontend & UI Developer         | Design & Implement UI components |
-| **Aditya Kediyal**     | Database & Integration Engineer |                                  |
+| Member             | Role                            | Primary Responsibilities         |
+| ------------------ | ------------------------------- | -------------------------------- |
+| Keerti Vardhan     | Backend & Systems Developer     |                                  |
+| Yuvraj Bhardwaj    | ML & Algorithm Developer        |                                  |
+| Ayushmaan Kapruwan | Frontend & UI Developer         | Design & Implement UI components |
+| Aditya Kediyal     | Database & Integration Engineer |                                  |
 
 ---
 ### 9. Project Timeline
@@ -659,13 +657,13 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 #### Deliverables
 
-| Deliverable                  | Description                                                              |
-| ---------------------------- | ------------------------------------------------------------------------ |
-| **Vortex Application**       | Functional Windows desktop application with unified game library         |
-| **ML Recommendation Engine** | Python module providing content-based + mood-aware recommendations       |
-| **Project Report**           | Comprehensive documentation including architecture, methodology, results |
-| **User Manual**              | Guide for installation and usage                                         |
-| **Source Code**              | Well-documented codebase on GitHub                                       |
+| Deliverable              | Description                                                              |
+| ------------------------ | ------------------------------------------------------------------------ |
+| Vortex Application       | Functional Windows desktop application with unified game library         |
+| ML Recommendation Engine | Python module providing content-based + mood-aware recommendations       |
+| Project Report           | Comprehensive documentation including architecture, methodology, results |
+| User Manual              | Guide for installation and usage                                         |
+| Source Code              | Well-documented codebase on GitHub                                       |
 
 #### Success Metrics
 
