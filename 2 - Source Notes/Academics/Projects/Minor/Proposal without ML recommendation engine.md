@@ -12,16 +12,17 @@ Proposed By:
 
 ## Terminologies Used
 
-1. Platforms – Game distribution platforms where users purchase or access games.  
+1. Platforms – Game distribution platforms where users purchase or access games.   ^d15798
 2. Launcher – An application that manages and launches installed game executables.  
 3. Playtime Tracking – Monitoring total and session-wise duration of gameplay.  
 4. Session Analytics – Analysis of usage patterns such as session length and play frequency.
+5. IGDB - IGDB stands for Internet Game Database. It is a large structured database of video game information. The IGDB API is the official interface that lets developers programmatically fetch this data for use in their applications/projects.
 
 ---
 
 ## 1. Abstract
 
-Vortex is a unified desktop game library and launcher designed to aggregate games from multiple platforms into a single, lightweight interface. The application automatically detects installed games, launches them from one place, and tracks playtime and session statistics locally.
+Vortex is a unified desktop game library and [[launcher]] designed to aggregate games from multiple [[#^d15798|platforms]] into a single, lightweight interface. The application automatically detects installed games, launches them from one place, and tracks playtime and session statistics locally.
 
 Built using C++ and Qt/QML, Vortex focuses on performance, modularity, and low resource consumption. The system records gameplay sessions, analyzes temporal usage patterns, and presents meaningful insights to users through a clean and minimal UI.  
 By avoiding unnecessary background services and cloud dependencies, Vortex offers a privacy-friendly and efficient alternative to existing game launchers.
@@ -216,14 +217,14 @@ Tracked Metrics:
 ---
 ## 7. Team Responsibilities
 
-| Member | Role |
-|------|-----|
-| Keerti Vardhan | Backend & Systems Developer |
-| Yuvraj Bhardwaj | Core Logic Developer |
-| Ayushmaan Kapruwan | UI/UX Developer |
-| Aditya Kediyal | Database & Integration Engineer |
+| Member             | Role                            |
+| ------------------ | ------------------------------- |
+| Keerti Vardhan     | Backend & Systems Developer     |
+| Yuvraj Bhardwaj    | Database & Integration Engineer |
+| Ayushmaan Kapruwan | UI/UX Developer                 |
+| Aditya Kediyal     | Core Logic Developer            |
 
-## 7. Feasibility and Risk Analysis
+## 8. Feasibility and Risk Analysis
 
 ### Technical Feasibility
 
@@ -246,7 +247,7 @@ Tracked Metrics:
 
 ---
 
-## 8. Project Timeline
+## 9. Project Timeline
   
 ### Gantt Chart
 
@@ -267,7 +268,7 @@ Tracked Metrics:
 
 ---
 
-## 9. Expected Outcomes
+## 10. Expected Outcomes
 
 ### Deliverables
 
@@ -291,7 +292,7 @@ Tracked Metrics:
 
 ---
 
-## 10. References
+## 11. References
 
 1. https://api.playnite.link/docs/manual/gettingStarted/gettingStartedOverview.html  
 2. https://docs.gog.com/quick-start/  
