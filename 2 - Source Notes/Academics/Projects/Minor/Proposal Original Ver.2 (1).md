@@ -13,7 +13,7 @@
 ### Terminologies Used
 
 1. Platforms - Game distribution platforms, where a user can buy or subscribe to games. ^9831eb
-2. Launcher - An interface that launches or opens a game executable upon user input.
+2. Launcher - An interface/application that launches or opens a game executable upon user input. ^483314
 ### 1. Abstract
 
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
@@ -29,11 +29,11 @@ Keywords: Game Library Management, Recommender Systems, Mood-Aware, Personalizat
 
 #### Background
 
-Digital game distribution has evolved significantly over the past decade. Users now own games across Steam, Epic Games Store, GOG, Xbox Game Pass, and other [[#^9831eb|platforms]]. Each platform maintains its own launcher, library interface, and usage statistics, creating a fragmented experience for gamers who must switch between multiple applications.
+Digital game distribution has evolved significantly over the past decade. Users now own games across Steam, Epic Games Store, GOG, Xbox Game Pass, and other [[#^9831eb|platforms]]. Each platform maintains its own [[#^483314|launcher]], library interface, and usage statistics, creating a fragmented experience for gamers who must switch between multiple applications.
 
 #### Problem Statement
 
-Current game launchers operate in isolation, offering no unified view of a user's complete game collection. Playtime data remains siloed, making it impossible to analyze overall gaming habits. Existing recommendation systems rely primarily on purchase history and popularity metrics rather than actual user behavior and contextual factors like mood or available time.
+Current game launchers operate in isolation, offering no unified view of a user's complete game collection. Playtime data remains isolated, making it impossible to analyze overall gaming habits. Existing recommendation systems rely primarily on purchase history and popularity metrics rather than actual user behavior and contextual factors like mood or available time.
 
 #### Motivation
 
@@ -60,12 +60,12 @@ Content-based filtering and collaborative filtering are established techniques i
 
 #### Gap Analysis
 
-| Gap | Description |
-|-----|-------------|
-| **No Unified Analytics** | Existing launchers don't combine playtime data across platforms |
-| **Static Recommendations** | Suggestions don't adapt to time-of-day or session patterns |
-| **Resource Heavy** | Most launchers consume significant system resources |
-| **No Mood Inference** | No system considers user's current gaming mood |
+| Gap                        | Description                                                     |
+| -------------------------- | --------------------------------------------------------------- |
+| **No Unified Analytics**   | Existing launchers don't combine playtime data across platforms |
+| **Static Recommendations** | Suggestions don't adapt to time-of-day or session patterns      |
+| **Resource Heavy**         | Most launchers consume significant system resources             |
+| **No Mood Inference**      | No system considers user's current gaming mood                  |
 
 ---
 
