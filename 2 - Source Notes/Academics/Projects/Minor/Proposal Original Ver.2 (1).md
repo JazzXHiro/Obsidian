@@ -143,6 +143,13 @@ A research paper i.e. “Development Of A Recommendation System For Video Games�
 | **Content-Based Filter** | Game similarity                         | TF-IDF vectorization + Cosine similarity on genres/themes               |
 | **Mood Adjustment**      | User selects current mood on app launch | One-hot encoding + Mood-genre weight mapping                            |
 | **Hybrid Ranker**        | Final recommendations                   | Weighted combination of content score + mood adjustment + quality score |
+|                          |                                         |                                                                         |
+
+##### Mood Selection Options
+
+> [ ] 😌 **Relaxed**
+> [ ] 🎯 **Competitive**
+> [ ] 📖 **Immersive***
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -152,7 +159,7 @@ A research paper i.e. “Development Of A Recommendation System For Video Games�
 │   USER INPUT                                                    │
 │   ──────────                                                    │
 │   • Liked/Disliked games                                        │
-│   • Mood selection (😌 🎯 📖 ⚡)                              │
+│   • Mood selection (😌 🎯 📖)                                  │
 │                                                                 │
 │         │                           │                           │
 │         ▼                           ▼                           │
