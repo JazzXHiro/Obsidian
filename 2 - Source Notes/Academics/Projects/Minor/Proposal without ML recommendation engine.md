@@ -42,7 +42,7 @@ Existing game launchers:
 - Operate independently without a unified library view  
 - Track playtime only within their own ecosystem  
 - Require multiple applications to manage different games  
-- Consume significant system resources  
+- Consume significant system resources
 
 This leads to inefficiency, poor usability, and fragmented analytics for users with large game collections.
 
@@ -51,7 +51,7 @@ This leads to inefficiency, poor usability, and fragmented analytics for users w
 The motivation behind Vortex is to:
 - Centralize game management across platforms  
 - Provide consistent playtime and session analytics  
-- Reduce launcher clutter and resource usage  
+- Reduce launcher clutter and resource usage
 - Improve user experience with a single interface  
 
 ---
@@ -197,22 +197,21 @@ Analytics Visualization
 
 #### Data Usage and Utilization
 
-| **Category**       | **Data Item**           | **Used in Launcher** | **Notes**                |
-| ------------------ | ----------------------- | -------------------- | ------------------------ |
-| Local Data         | Game Name               | Yes                  | Basic Identifier         |
-| Local Data         | Version                 | Yes                  | For compatibility checks |
-| Local Data         | Install Directory       | Yes                  | System reference only    |
-| IGDB (External DB) | Genre/Tags              | Yes                  | Metadata only            |
-| IGDB (External DB) | Images                  | Yes                  |                          |
-| IGDB (External DB) | Game Length             | Yes                  |                          |
-| IGDB (External DB) | Developer/Publisher     | Yes                  |                          |
-| IGDB (External DB) | Ratings/Reviews         | Yes                  |                          |
-| Produced Data      | Session Start/End       | Yes                  |                          |
-| Produced Data      | Idle/ Inactive duration |                      |                          |
-| Produced Data      | Session length          |                      |                          |
-| Produced Data      | Mood Session ID         | Yes                  |                          |
-| Produced Data      | Liked/Disliked Games    | Yes                  |                          |
-| Distribution API   | In-game Achievements    | Yes                  |                          |
+| **Category**       | **Data Item**           | **Used in Launcher** |
+| ------------------ | ----------------------- | -------------------- |
+| Local Data         | Game Name               | Yes                  |
+| Local Data         | Version                 | Yes                  |
+| Local Data         | Install Directory       | Yes                  |
+| IGDB (External DB) | Genre/Tags              | Yes                  |
+| IGDB (External DB) | Images                  | Yes                  |
+| IGDB (External DB) | Game Length             | Yes                  |
+| IGDB (External DB) | Developer/Publisher     | Yes                  |
+| IGDB (External DB) | Ratings/Reviews         | Yes                  |
+| Produced Data      | Session Start/End       | Yes                  |
+| Produced Data      | Idle/ Inactive duration | Yes                  |
+| Produced Data      | Session length          | Yes                  |
+| Produced Data      | Liked/Disliked Games    | Yes                  |
+| Distribution API   | In-game Achievements    | Yes                  |
 
 ---
 
@@ -282,21 +281,21 @@ Analytics Visualization
 
 ### Success Metrics
 
-| Metric | Target |
-|------|-------|
-| Application startup time | < 3 seconds |
-| Memory usage | < 200 MB |
-| Tracking accuracy | > 95% |
-| User satisfaction | > 7/10 |
+| Metric                   | Target |
+| ------------------------ | ------ |
+| Application startup time |        |
+| Memory usage             |        |
+| Tracking accuracy        |        |
+| User satisfaction        | > 7/10 |
 
 ---
 
 ## 10. References
 
-1. Playnite Documentation  
-2. GOG Galaxy Documentation  
-3. Steam Partner Documentation  
-4. IGDB API Documentation  
+1. https://api.playnite.link/docs/manual/gettingStarted/gettingStartedOverview.html  
+2. https://docs.gog.com/quick-start/  
+3. https://partner.steamgames.com/doc/home  
+4. https://www.igdb.com/api
 
 ---
 
