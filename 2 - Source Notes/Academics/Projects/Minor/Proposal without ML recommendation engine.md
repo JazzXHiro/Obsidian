@@ -104,7 +104,7 @@ The motivation behind Vortex is to:
 | Session analytics | Social features |
 | Windows OS support | Linux/macOS (future work) |
 
-**Supported platforms (initial):** Steam, GOG
+Supported platforms (initially): Steam, GOG
 
 ---
 
@@ -163,7 +163,7 @@ Analytics Visualization
 
 ```
 
-**Tracked Metrics:**
+Tracked Metrics:
 - Total playtime per game  
 - Average session duration  
 - Daily and weekly usage trends  
@@ -197,23 +197,31 @@ Analytics Visualization
 
 #### Data Usage and Utilization
 
-| **Category**       | **Data Item**           | **Used in Launcher** |
-| ------------------ | ----------------------- | -------------------- |
-| Local Data         | Game Name               | Yes                  |
-| Local Data         | Version                 | Yes                  |
-| Local Data         | Install Directory       | Yes                  |
-| IGDB (External DB) | Genre/Tags              | Yes                  |
-| IGDB (External DB) | Images                  | Yes                  |
-| IGDB (External DB) | Game Length             | Yes                  |
-| IGDB (External DB) | Developer/Publisher     | Yes                  |
-| IGDB (External DB) | Ratings/Reviews         | Yes                  |
-| Produced Data      | Session Start/End       | Yes                  |
-| Produced Data      | Idle/ Inactive duration | Yes                  |
-| Produced Data      | Session length          | Yes                  |
-| Produced Data      | Liked/Disliked Games    | Yes                  |
-| Distribution API   | In-game Achievements    | Yes                  |
+| Category           | Data Item               | Used in Launcher |
+| ------------------ | ----------------------- | ---------------- |
+| Local Data         | Game Name               | Yes              |
+| Local Data         | Version                 | Yes              |
+| Local Data         | Install Directory       | Yes              |
+| IGDB (External DB) | Genre/Tags              | Yes              |
+| IGDB (External DB) | Images                  | Yes              |
+| IGDB (External DB) | Game Length             | Yes              |
+| IGDB (External DB) | Developer/Publisher     | Yes              |
+| IGDB (External DB) | Ratings/Reviews         | Yes              |
+| Produced Data      | Session Start/End       | Yes              |
+| Produced Data      | Idle/ Inactive duration | Yes              |
+| Produced Data      | Session length          | Yes              |
+| Produced Data      | Liked/Disliked Games    | Yes              |
+| Distribution API   | In-game Achievements    | Yes              |
 
 ---
+## 7. Team Responsibilities
+
+| Member | Role |
+|------|-----|
+| Keerti Vardhan | Backend & Systems Developer |
+| Yuvraj Bhardwaj | Core Logic Developer |
+| Ayushmaan Kapruwan | UI/UX Developer |
+| Aditya Kediyal | Database & Integration Engineer |
 
 ## 7. Feasibility and Risk Analysis
 
@@ -291,12 +299,3 @@ Analytics Visualization
 4. https://www.igdb.com/api
 
 ---
-
-## Team Responsibilities
-
-| Member | Role |
-|------|-----|
-| Keerti Vardhan | Backend & Systems Developer |
-| Yuvraj Bhardwaj | Core Logic Developer |
-| Ayushmaan Kapruwan | UI/UX Developer |
-| Aditya Kediyal | Database & Integration Engineer |
