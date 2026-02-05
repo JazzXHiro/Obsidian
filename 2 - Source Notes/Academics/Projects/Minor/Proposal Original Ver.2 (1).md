@@ -10,7 +10,7 @@
 - Aditya Kediyal
 
 ---
-
+### Terminologies Used
 ### 1. Abstract
 
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
@@ -49,7 +49,7 @@ Our users deserve a single application that:
 | ------------------ | ---------------------------------- | ------------------------------------------------------------------------------ |
 | **Playnite**       | Open-source unified game library   | No ML-based recommendations, basic UI <sup>[ [[#^de10d3\|2]] ]</sup>           |
 | **GOG Galaxy 2.0** | Multi-platform library aggregation | Limited personalization, no mood-aware features <sup>[ [[#^6db295\|3]] ]</sup> |
-| **Steam**          | Largest PC game platform           | Single platform only, generic recommendations <sup>[ [[4]] ]</sup>             |
+| **Steam**          | Largest PC game platform           | Single platform only, generic recommendations <sup>[ [[#^9a6fda\|4]] ]</sup>   |
 
 #### Academic Background
 
@@ -550,8 +550,8 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ^de10d3
 3. https://docs.gog.com/quick-start/
 ^6db295
-4. 
-
+4. https://partner.steamgames.com/doc/home
+^9a6fda
 5. 
 
 ---
