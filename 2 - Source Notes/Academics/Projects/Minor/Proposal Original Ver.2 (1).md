@@ -243,6 +243,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Produced Data      | Mood Session ID         | Yes                  | Yes                            |                          |
 | Produced Data      | Liked/Disliked Games    | Yes                  | Yes                            |                          |
 | Distribution API   | In-game Achievements    | Yes                  |                                |                          |
+|                    |                         |                      |                                |                          |
 
 ##### Initial Game Genres Being Utilized
 
@@ -403,6 +404,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 │  Total Playtime: 125 hours                                      │
 │  Sessions: 45                                                   │
 │  Avg Session: 2.8 hours                                         │
+│  Game Length: 100 hours                                         │
 │                                                                 │
 │  Engagement Score Calculation:                                  │
 │  ├── Playtime Score:  125/100 = 1.0 (capped)                    │
