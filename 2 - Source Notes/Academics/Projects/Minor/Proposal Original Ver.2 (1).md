@@ -132,12 +132,48 @@ Content-based filtering and collaborative filtering are established techniques i
 
 #### ML Approach
 
-| Model                    | Purpose               | Technique                                                  |
-| ------------------------ | --------------------- | ---------------------------------------------------------- |
-| **Content-Based Filter** | Game similarity       | TF-IDF vectorization + Cosine similarity on genres/themes  |
-| **Mood Classifier**      | Context inference     | Rule-based heuristics + Decision tree on temporal features |
-| **Hybrid Ranker**        | Final recommendations | Weighted combination of content score + mood adjustment    |
-|                          |                       |                                                            |
+| Model                    | Purpose                              | Technique                                                  |
+| ------------------------ | ------------------------------------ | ---------------------------------------------------------- |
+| **Content-Based Filter** | Game similarity                      | TF-IDF vectorization + Cosine similarity on genres/themes  |
+| **Mood Quantification**  | User inputs chooses his current mood | Rule-based heuristics + Decision tree on temporal features |
+| **Hybrid Ranker**        | Final recommendations                | Weighted combination of content score + mood adjustment    |
+|                          |                                      |                                                            |
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    ML PIPELINE (Corrected)                      │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   USER INPUT                                                    │
+│   ──────────                                                    │
+│   • Liked/Disliked games                                        │
+│   • Mood selection (😌 🎯 📖 ⚡)                              │
+│                                                                 │
+│         │                           │                           │
+│         ▼                           ▼                           │
+│   ┌───────────────┐          ┌───────────────┐                  │
+│   │ CONTENT-BASED │          │    MOOD       │                  │
+│   │    FILTER     │          │  ADJUSTMENT   │                  │
+│   │               │          │               │                  │
+│   │ TF-IDF +      │          │ One-hot +     │                  │
+│   │ Cosine Sim    │          │ Genre weights │                  │
+│   └───────┬───────┘          └───────┬───────┘                  │
+│           │                          │                          │
+│           │      ┌───────────────┐   │                          │
+│           └─────►│ HYBRID RANKER │◄──┘                          │
+│                  │               │                              │
+│                  │ Weighted      │                              │
+│                  │ Combination   │                              │
+│                  └───────┬───────┘                              │
+│                          │                                      │
+│                          ▼                                      │
+│                  ┌───────────────┐                              │
+│                  │    RANKED     │                              │
+│                  │RECOMMENDATIONS│                              │
+│                  └───────────────┘                              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 #### Feature Engineering Pipeline
 
