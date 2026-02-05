@@ -81,16 +81,18 @@
             "id": "3194982dc3a39658",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md"
+                "file": "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-02 14.54.48.excalidraw"
+              "icon": "lucide-file",
+              "title": "Proposal Original Ver.2 (1)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -499,7 +501,7 @@
       }
     ]
   },
-  "active": "e0ffa03b7bd1d749",
+  "active": "3194982dc3a39658",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).html",
     "2 - Source Notes/Academics/Projects/Minor/Proposal without ML recommendation engine.md",

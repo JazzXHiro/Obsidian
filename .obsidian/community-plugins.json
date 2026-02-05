@@ -20,5 +20,6 @@
   "image-converter",
   "obsidian-banners",
   "obsidian-enhancing-export",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "better-export-pdf"
 ]
