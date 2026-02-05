@@ -581,12 +581,12 @@ In the initial stage we just ask the user on first setup of the launcher applica
 
 ### 8. Team Responsibilities
 
-| Member             | Role                            | Primary Responsibilities         |
-| ------------------ | ------------------------------- | -------------------------------- |
-| Keerti Vardhan     | Backend & Systems Developer     |                                  |
-| Yuvraj Bhardwaj    | ML & Algorithm Developer        |                                  |
-| Ayushmaan Kapruwan | Frontend & UI Developer         | Design & Implement UI components |
-| Aditya Kediyal     | Database & Integration Engineer |                                  |
+| Member             | Role                            | Primary Responsibilities                                                                         |
+| ------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Keerti Vardhan     | Backend & Systems Developer     | Develop the C++ core logic for game execution, process monitoring, and cross-platform detection. |
+| Yuvraj Bhardwaj    | ML & Algorithm Developer        |                                                                                                  |
+| Ayushmaan Kapruwan | Frontend & UI Developer         | Design & Implement UI components                                                                 |
+| Aditya Kediyal     | Database & Integration Engineer |                                                                                                  |
 
 ---
 ### 9. Project Timeline
