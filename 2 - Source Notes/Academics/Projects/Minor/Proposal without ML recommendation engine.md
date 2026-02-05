@@ -283,12 +283,12 @@ Tracked Metrics:
 
 ### Success Metrics
 
-| Metric                   | Target |
-| ------------------------ | ------ |
-| Application startup time |        |
-| Memory usage             |        |
-| Tracking accuracy        |        |
-| User satisfaction        | > 7/10 |
+| Metric                   | Target            |
+| ------------------------ | ----------------- |
+| Application startup time | Yet to be decided |
+| Memory usage             | Yet to be decided |
+| Tracking accuracy        | Yet to be decided |
+| User satisfaction        | > 7/10            |
 
 ---
 
