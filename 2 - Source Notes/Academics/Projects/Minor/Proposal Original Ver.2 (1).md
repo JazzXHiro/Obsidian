@@ -11,6 +11,9 @@
 
 ---
 ### Terminologies Used
+
+1. Platforms - Game distribution platforms, where a user can buy or subscribe to games. ^9831eb
+2. Launcher - An interface that launches or opens a game executable upon user input.
 ### 1. Abstract
 
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
@@ -26,7 +29,7 @@ Keywords: Game Library Management, Recommender Systems, Mood-Aware, Personalizat
 
 #### Background
 
-Digital game distribution has evolved significantly over the past decade. Users now own games across Steam, Epic Games Store, GOG, Xbox Game Pass, and other platforms. Each platform maintains its own launcher, library interface, and usage statistics, creating a fragmented experience for gamers who must switch between multiple applications.
+Digital game distribution has evolved significantly over the past decade. Users now own games across Steam, Epic Games Store, GOG, Xbox Game Pass, and other [[#^9831eb|platforms]]. Each platform maintains its own launcher, library interface, and usage statistics, creating a fragmented experience for gamers who must switch between multiple applications.
 
 #### Problem Statement
 
