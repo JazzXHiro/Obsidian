@@ -655,7 +655,7 @@ In the initial stage we just ask the user on first setup of the launcher applica
 
 | Metric                               | Target |
 | ------------------------------------ | ------ |
-| Recommendation Precision@5           |        |
+| Recommendation Precision             |        |
 | Application Startup Time             |        |
 | Memory Usage                         |        |
 | User Satisfaction (internal testing) | > 7/10 |
