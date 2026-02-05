@@ -248,22 +248,22 @@ In the initial stage we just ask the user on first setup of the launcher applica
 ##### Data Usage and Utilization
 
 
-| **Category**       | **Data Item**           | **Used in Launcher** | **Used for ML Recommendation** | **Notes**                |
-| ------------------ | ----------------------- | -------------------- | ------------------------------ | ------------------------ |
-| Local Data         | Game Name               | Yes                  | Yes                            | Basic Identifier         |
-| Local Data         | Version                 | Yes                  |                                | For compatibility checks |
-| Local Data         | Install Directory       | Yes                  |                                | System reference only    |
-| IGDB (External DB) | Genre/Tags              | Yes                  | Yes                            | Metadata only            |
-| IGDB (External DB) | Images                  | Yes                  |                                |                          |
-| IGDB (External DB) | Game Length             | Yes                  | Yes                            |                          |
-| IGDB (External DB) | Developer/Publisher     | Yes                  |                                |                          |
-| IGDB (External DB) | Ratings/Reviews         | Yes                  |                                |                          |
-| Produced Data      | Session Start/End       | Yes                  | Yes                            |                          |
-| Produced Data      | Idle/ Inactive duration |                      | Yes                            |                          |
-| Produced Data      | Session length          |                      | Yes                            |                          |
-| Produced Data      | Mood Session ID         | Yes                  | Yes                            |                          |
-| Produced Data      | Liked/Disliked Games    | Yes                  | Yes                            |                          |
-| Distribution API   | In-game Achievements    | Yes                  |                                |                          |
+| **Category**       | **Data Item**           | **Used in Launcher** | **Used for ML Recommendation** |
+| ------------------ | ----------------------- | -------------------- | ------------------------------ |
+| Local Data         | Game Name               | Yes                  | Yes                            |
+| Local Data         | Version                 | Yes                  |                                |
+| Local Data         | Install Directory       | Yes                  |                                |
+| IGDB (External DB) | Genre/Tags              | Yes                  | Yes                            |
+| IGDB (External DB) | Images                  | Yes                  |                                |
+| IGDB (External DB) | Game Length             | Yes                  | Yes                            |
+| IGDB (External DB) | Developer/Publisher     | Yes                  |                                |
+| IGDB (External DB) | Ratings/Reviews         | Yes                  |                                |
+| Produced Data      | Session Start/End       | Yes                  | Yes                            |
+| Produced Data      | Idle/ Inactive duration |                      | Yes                            |
+| Produced Data      | Session length          |                      | Yes                            |
+| Produced Data      | Mood Session ID         | Yes                  | Yes                            |
+| Produced Data      | Liked/Disliked Games    | Yes                  | Yes                            |
+| Distribution API   | In-game Achievements    | Yes                  |                                |
 
 ##### Initial Game Genres Being Utilized
 
