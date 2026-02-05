@@ -608,8 +608,7 @@ In the initial stage we just ask the user on first setup of the launcher applica
 │  └── Week 7: Python ML module setup, feature extraction                      │
 │                                                                              │
 │  PHASE 3: ML INTEGRATION (Weeks 8-10)                                        │
-│  ├── Week 8: Content-based recommendation model                              │
-│  ├── Week 9: Mood inference module                                           │
+│  ├── Week 8-9: Content-based recommendation model                              │
 │  └── Week 10: C++↔Python integration, recommendation display                 │
 │                                                                              │
 │  PHASE 4: FINALIZATION (Weeks 11-12)                                         │
