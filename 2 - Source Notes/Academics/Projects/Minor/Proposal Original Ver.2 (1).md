@@ -254,7 +254,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 3. Simulator
 4. RPG
 
-##### IGDB API (Metadata source)
+##### IGDB API (Metadata source) [[^]]
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -587,7 +587,17 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ---
 
-### 8. Project Timeline
+### 8. Team Responsibilities
+
+| Member                 | Role                            | Primary Responsibilities         |
+| ---------------------- | ------------------------------- | -------------------------------- |
+| **Keerti Vardhan**     | Backend & Systems Developer     |                                  |
+| **Yuvraj Bhardwaj**    | ML & Algorithm Developer        |                                  |
+| **Ayushmaan Kapruwan** | Frontend & UI Developer         | Design & Implement UI components |
+| **Aditya Kediyal**     | Database & Integration Engineer |                                  |
+
+---
+### 9. Project Timeline
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────
@@ -637,7 +647,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 ---
 
-### 9. Expected Outcomes
+### 10. Expected Outcomes
 
 #### Deliverables
 
@@ -664,9 +674,10 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 2. Practical implementation of hybrid ML pipeline in native application
 3. Modular architecture pattern for feature-rich desktop applications
 
+
 ---
 
-## 10. References
+## 11. References
 
 1. M. Kozakov and N. Kozakova, “DEVELOPMENT OF A RECOMMENDATION SYSTEM FOR VIDEO GAMES”, GoS, no. 58, pp. 814–819, Nov. 2025. 
  ^c03d51
@@ -677,16 +688,5 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 4. https://partner.steamgames.com/doc/home
 ^9a6fda
 5. https://www.igdb.com/api
-
----
-
-### Team Responsibilities
-
-| Member                 | Role                            | Primary Responsibilities         |
-| ---------------------- | ------------------------------- | -------------------------------- |
-| **Keerti Vardhan**     | Backend & Systems Developer     |                                  |
-| **Yuvraj Bhardwaj**    | ML & Algorithm Developer        |                                  |
-| **Ayushmaan Kapruwan** | Frontend & UI Developer         | Design & Implement UI components |
-| **Aditya Kediyal**     | Database & Integration Engineer |                                  |
 
 ---

@@ -2,7 +2,6 @@
 2. Incorporating Interests of people
 3. How to define the genres
 
-
 ## Game Genres
 
 1. Shooter
