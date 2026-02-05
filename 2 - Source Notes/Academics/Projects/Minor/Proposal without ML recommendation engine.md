@@ -174,6 +174,9 @@ Tracked Metrics:
 
 ## 6. System Design
 
+```
+```
+
 ### User Workflow
 
 ```
