@@ -627,7 +627,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ^6db295
 4. https://partner.steamgames.com/doc/home
 ^9a6fda
-5. 
+5. https://www.igdb.com/api
 
 ---
 
