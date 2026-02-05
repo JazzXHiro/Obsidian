@@ -617,17 +617,17 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 #### Gantt Chart
 
-| Task | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 |
-|------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:---:|:---:|
-| Requirements & Setup | ██ | ██ | | | | | | | | | | |
-| Database Design | | ██ | ██ | | | | | | | | | |
-| UI Development | | | ██ | ██ | ██ | ██ | | | | | | |
-| Backend Core | | | ██ | ██ | ██ | ██ | | | | | | |
-| Data Pipeline | | | | | ██ | ██ | ██ | | | | | |
-| ML Development | | | | | | | ██ | ██ | ██ | | | |
-| Integration | | | | | | | | | ██ | ██ | | |
-| Testing | | | | | | | | | | ██ | ██ | |
-| Documentation | | | | | | | | | | | ██ | ██ |
+| Task                 | W1  | W2  | W3  | W4  | W5  | W6  | W7  | W8  | W9  | W10 | W11 | W12 |
+| -------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Requirements & Setup | ██  | ██  |     |     |     |     |     |     |     |     |     |     |
+| Database Design      |     | ██  | ██  |     |     |     |     |     |     |     |     |     |
+| UI Development       |     |     | ██  | ██  | ██  | ██  |     |     |     |     |     |     |
+| Backend Core         |     |     | ██  | ██  | ██  | ██  |     |     |     |     |     |     |
+| Data Pipeline        |     |     |     |     | ██  | ██  | ██  |     |     |     |     |     |
+| ML Development       |     |     |     |     |     |     | ██  | ██  | ██  |     |     |     |
+| Integration          |     |     |     |     |     |     | ██  | ██  | ██  | ██  |     |     |
+| Testing              |     |     |     |     |     |     |     |     | ██  | ██  | ██  |     |
+| Documentation        |     |     |     |     |     |     |     |     |     |     | ██  | ██  |
 
 #### PERT Chart
 
@@ -639,21 +639,21 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 
 #### Deliverables
 
-| Deliverable | Description |
-|-------------|-------------|
-| **Vortex Application** | Functional Windows desktop application with unified game library |
-| **ML Recommendation Engine** | Python module providing content-based + mood-aware recommendations |
-| **Project Report** | Comprehensive documentation including architecture, methodology, results |
-| **User Manual** | Guide for installation and usage |
-| **Source Code** | Well-documented codebase on GitHub |
+| Deliverable                  | Description                                                              |
+| ---------------------------- | ------------------------------------------------------------------------ |
+| **Vortex Application**       | Functional Windows desktop application with unified game library         |
+| **ML Recommendation Engine** | Python module providing content-based + mood-aware recommendations       |
+| **Project Report**           | Comprehensive documentation including architecture, methodology, results |
+| **User Manual**              | Guide for installation and usage                                         |
+| **Source Code**              | Well-documented codebase on GitHub                                       |
 
 #### Success Metrics
 
-| Metric | Target |
-|--------|--------|
-| Recommendation Precision@5 | > 60% |
-| Application Startup Time | < 3 seconds |
-| Memory Usage | < 200 MB |
+| Metric                               | Target |
+| ------------------------------------ | ------ |
+| Recommendation Precision@5           |        |
+| Application Startup Time             |        |
+| Memory Usage                         |        |
 | User Satisfaction (internal testing) | > 7/10 |
 
 #### Academic Contributions
