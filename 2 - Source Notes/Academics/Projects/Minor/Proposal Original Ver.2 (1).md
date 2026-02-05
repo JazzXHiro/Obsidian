@@ -426,6 +426,24 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+**Final Session Vector:**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    SESSION VECTOR                               │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   Position:  [  1  ,   2   ,    3     ,    4    ,   5  ,   6  ] │
+│   Meaning:   [Engage, Morn , Afternoon, Evening , Night, Wkend] │
+│   Values:    [0.97 , 0.05 ,   0.15   ,  0.45   , 0.35 , 0.60 ]  │
+│                                                                 │
+│   This vector tells ML:                                         │
+│   • Very engaged with this game (0.97)                          │
+│   • Rarely plays mornings (0.05)                                │
+│   • Mainly plays evenings (0.45) and nights (0.35)              │
+│   • Prefers weekends (0.60)                                     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ###### Mood Quantification
 
@@ -461,6 +479,33 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 │                                                                 │
 │  Game: "Resident Evil" (Horror, Action)                         │
 │  Mood Match Score: (-0.8 + 0.0) / 2 = -0.40                     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**How it helps in recommendation**
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              SESSION DATA → BETTER RECOMMENDATIONS              │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   WHAT SESSION DATA TELLS US:                                   │
+│                                                                 │
+│   High Evening + Night ratios                                   │
+│   └── User prefers immersive games (has time to focus)          │
+│                                                                 │
+│   High Morning ratio                                            │
+│   └── User might prefer short casual games                      │
+│                                                                 │
+│   High Weekend ratio                                            │
+│   └── User has more time on weekends (suggest longer games)     │
+│                                                                 │
+│   High Engagement on RPGs                                       │
+│   └── Recommend more RPGs                                       │
+│                                                                 │
+│   Low Engagement on Shooter games                               │
+│   └── Don't recommend shooter games                             │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```

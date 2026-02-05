@@ -399,13 +399,44 @@
         "height": 802,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "7f1079907325009a",
+        "type": "window",
+        "children": [
+          {
+            "id": "ff4598098b5c40bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e93b06341b19acd7",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "7 - Attachments/image-3.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "image-3"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "e0ffa03b7bd1d749",
+  "active": "e93b06341b19acd7",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
+    "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md",
     "1 - Rough Notes/Unit 1.md",
     "2 - Source Notes/Anime Quotes.md",
     "2 - Source Notes/Navmesh + raycast.md",
