@@ -132,16 +132,15 @@ Content-based filtering and collaborative filtering are established techniques i
 
 #### ML Approach
 
-| Model                    | Purpose                              | Technique                                                  |
-| ------------------------ | ------------------------------------ | ---------------------------------------------------------- |
-| **Content-Based Filter** | Game similarity                      | TF-IDF vectorization + Cosine similarity on genres/themes  |
-| **Mood Quantification**  | User inputs chooses his current mood | Rule-based heuristics + Decision tree on temporal features |
-| **Hybrid Ranker**        | Final recommendations                | Weighted combination of content score + mood adjustment    |
-|                          |                                      |                                                            |
+| Model                    | Purpose                                 | Technique                                                               |
+| ------------------------ | --------------------------------------- | ----------------------------------------------------------------------- |
+| **Content-Based Filter** | Game similarity                         | TF-IDF vectorization + Cosine similarity on genres/themes               |
+| **Mood Adjustment**      | User selects current mood on app launch | One-hot encoding + Mood-genre weight mapping                            |
+| **Hybrid Ranker**        | Final recommendations                   | Weighted combination of content score + mood adjustment + quality score |
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    ML PIPELINE (Corrected)                      │
+│                    ML PIPELINE                                  │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │   USER INPUT                                                    │
@@ -181,9 +180,10 @@ Content-based filtering and collaborative filtering are established techniques i
 Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models → Recommendations
               │
               ├── Playtime (total, average, variance)
-              ├── Session patterns (length, frequency)
+              ├── Session patterns (length, frequency, idle time)
               ├── Temporal signals (hour, weekday/weekend)
               └── Explicit preferences (likes, dislikes)
+              └── Mood Session ID
 ```
 
 ---
