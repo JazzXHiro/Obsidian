@@ -146,9 +146,11 @@ A research paper i.e. “Development Of A Recommendation System For Video Games�
 
 ##### Mood Selection Options
 
-> [ ] 😌 **Relaxed**
-> [ ] 🎯 **Competitive**
-> [ ] 📖 **Immersive***
+[ ] 😌 **Relaxed**
+[ ] 🎯 **Competitive**
+[ ] 📖 Immersive
+
+#### ML Pipeline
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
