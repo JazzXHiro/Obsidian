@@ -61,6 +61,8 @@ Our users deserve a single application that:
 
 Content-based filtering and collaborative filtering are established techniques in recommender systems. Netflix, Spotify, and YouTube employ hybrid approaches combining multiple models. Context-aware recommendation systems that consider time, location, and user state have shown improved user satisfaction in research studies.[[#^c03d51|1]]
 
+A research paper i.e. “Development Of A Recommendation System For Video GAMES” has been studied primarily for the understanding of this entire project. The paper talks about the need for an hybrid recommendation engine for games and how to achieve via various quantification and ML integration techniques. 
+
 #### Gap Analysis
 
 | Gap                        | Description                                                     |
