@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -147,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 200
   },
   "right": {
     "id": "67cbeb46be013ebc",
