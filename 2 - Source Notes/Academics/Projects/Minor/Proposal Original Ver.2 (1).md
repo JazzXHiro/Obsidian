@@ -235,6 +235,7 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Local Data         | Install Directory       | Yes                  |                                | System reference only    |
 | IGDB (External DB) | Genre/Tags              | Yes                  | Yes                            | Metadata only            |
 | IGDB (External DB) | Images                  | Yes                  |                                |                          |
+| IGDB (External DB) | Game Length             | Yes                  | Yes                            |                          |
 | IGDB (External DB) | Developer/Publisher     | Yes                  |                                |                          |
 | IGDB (External DB) | Ratings/Reviews         | Yes                  |                                |                          |
 | Produced Data      | Session Start/End       | Yes                  | Yes                            |                          |
@@ -243,7 +244,6 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 | Produced Data      | Mood Session ID         | Yes                  | Yes                            |                          |
 | Produced Data      | Liked/Disliked Games    | Yes                  | Yes                            |                          |
 | Distribution API   | In-game Achievements    | Yes                  |                                |                          |
-|                    |                         |                      |                                |                          |
 
 ##### Initial Game Genres Being Utilized
 
