@@ -200,6 +200,16 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
               └── Mood Session ID
 ```
 
+#### Cold Start Problem
+
+If the user is new to the launcher with no playtime hours and no preferred genre in the database. The question arises-
+
+"How does the system recommend games when I first install it and have 0 playtime recorded?"
+
+Solution -
+
+In the initial stage we just ask the user on first setup of the launcher application, what genre does he prefer and we can evaluate a recommendation based off of that data.
+
 ---
 
 ### 6. System Design
