@@ -1,8 +1,8 @@
 # Vortex: A Unified Intelligent Game Library & Launcher
 
-**Domain:** Software Engineering & Intelligent Systems  
+Domain: Software Engineering & Intelligent Systems  
 
-**Proposed By:**  
+Proposed By:  
 - Keerti Vardhan  
 - Yuvraj Bhardwaj  
 - Ayushmaan Kapruwan  
@@ -12,10 +12,10 @@
 
 ## Terminologies Used
 
-1. **Platforms** – Game distribution platforms where users purchase or access games.  
-2. **Launcher** – An application that manages and launches installed game executables.  
-3. **Playtime Tracking** – Monitoring total and session-wise duration of gameplay.  
-4. **Session Analytics** – Analysis of usage patterns such as session length and play frequency.
+1. Platforms – Game distribution platforms where users purchase or access games.  
+2. Launcher – An application that manages and launches installed game executables.  
+3. Playtime Tracking – Monitoring total and session-wise duration of gameplay.  
+4. Session Analytics – Analysis of usage patterns such as session length and play frequency.
 
 ---
 
@@ -23,10 +23,10 @@
 
 Vortex is a unified desktop game library and launcher designed to aggregate games from multiple platforms into a single, lightweight interface. The application automatically detects installed games, launches them from one place, and tracks playtime and session statistics locally.
 
-Built using **C++ and Qt/QML**, Vortex focuses on performance, modularity, and low resource consumption. The system records gameplay sessions, analyzes temporal usage patterns, and presents meaningful insights to users through a clean and minimal UI.  
+Built using C++ and Qt/QML, Vortex focuses on performance, modularity, and low resource consumption. The system records gameplay sessions, analyzes temporal usage patterns, and presents meaningful insights to users through a clean and minimal UI.  
 By avoiding unnecessary background services and cloud dependencies, Vortex offers a privacy-friendly and efficient alternative to existing game launchers.
 
-**Keywords:** Game Library Management, Desktop Application, Playtime Tracking, Software Engineering, System Design
+Keywords: Game Library Management, Desktop Application, Playtime Tracking, Software Engineering, System Design
 
 ---
 
@@ -60,11 +60,11 @@ The motivation behind Vortex is to:
 
 ### Existing Solutions
 
-| Solution | Description | Limitations |
-|--------|-------------|-------------|
-| **Playnite** | Open-source unified game launcher | Limited analytics, basic UI |
-| **GOG Galaxy 2.0** | Multi-platform aggregation | Heavy resource usage |
-| **Steam** | Single-platform launcher | No cross-platform visibility |
+| Solution       | Description                       | Limitations                  |
+| -------------- | --------------------------------- | ---------------------------- |
+| Playnite       | Open-source unified game launcher | Limited analytics, basic UI  |
+| GOG Galaxy 2.0 | Multi-platform aggregation        | Heavy resource usage         |
+| Steam          | Single-platform launcher          | No cross-platform visibility |
 
 ### Gap Analysis
 
@@ -81,16 +81,16 @@ The motivation behind Vortex is to:
 
 ### Primary Objectives
 
-1. **Unified Game Library**  
+##### 1. Unified Game Library  -
    Aggregate games from multiple platforms into a single interface.
 
-2. **Centralized Launcher**  
+##### 2. Centralized Launcher  -
    Launch any installed game from one application.
 
-3. **Playtime & Session Tracking**  
+##### 3. Playtime & Session Tracking  -
    Track total playtime, session duration, and usage frequency.
 
-4. **Lightweight Modular Design**  
+##### 4. Lightweight Modular Design  -
    Ensure low memory usage and high responsiveness.
 
 ---
@@ -239,13 +239,6 @@ Analytics Visualization
 ---
 
 ## 8. Project Timeline
-
-**Total Duration:** 12 Weeks
-
-- **Weeks 1–3:** Requirements analysis, design, environment setup  
-- **Weeks 4–6:** UI and backend core development  
-- **Weeks 7–9:** Playtime tracking and analytics implementation  
-- **Weeks 10–12:** Testing, documentation, presentation
   
 ### Gantt Chart
 
