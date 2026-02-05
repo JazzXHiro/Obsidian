@@ -17,7 +17,7 @@
 3. **TF-IDF Vectorize** - TF-IDF Vectorizer is a technique used in Natural Language Processing (NLP) to convert text documents into numerical vectors that machine-learning models can understand. <sup> [[#^c03d51|1]] </sup>
    TF-IDF stands for Term Frequency – Inverse Document Frequency.
 4. **One-Hot Encoding** - One-Hot Encoding is a technique used in Machine Learning and NLP to convert categorical data (labels or words) into a numerical binary format that models can process. <sup> [[#^c03d51|1]] </sup>
-5. **IGDB** - IGDB stands for Internet Game Database. It is a large structured database of video game information. The IGDB API is the official interface that lets developers programmatically fetch this data for use in their applications/projects. <sup> [[^igdb]] </sup>
+5. **IGDB** - IGDB stands for Internet Game Database. It is a large structured database of video game information. The IGDB API is the official interface that lets developers programmatically fetch this data for use in their applications/projects. <sup> [[#^7e8bd0|5]] </sup>
 ### 1. Abstract
 
 Vortex is a unified game library management application with an intelligent recommendation system. The app detects games from multiple platforms into a single interface & also tracks playtime, session patterns, and user preferences. 
@@ -94,7 +94,7 @@ A research paper i.e. “Development Of A Recommendation System For Video Games�
 | Auto-detection from supported platforms |                                                    |
 | Local playtime tracking                 | Cloud sync across devices                          |
 | Content-based recommendations           | Collaborative filtering (requires multi-user data) |
-| Basic mood inference                    | Advanced emotion detection                         |
+| Mood input upon each application launch | Advanced emotion detection                         |
 | Windows support                         | Mac/Linux support (future work)                    |
 | Like/Dislike preferences                | Social features, friend lists                      |
 
@@ -688,6 +688,6 @@ Raw Data → Session Logs → Feature Extraction → User Vectors → ML Models 
 ^6db295
 4. https://partner.steamgames.com/doc/home
 ^9a6fda
-5. https://www.igdb.com/api
+5. https://www.igdb.com/api ^7e8bd0
 
 ---
