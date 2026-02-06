@@ -7,7 +7,6 @@ Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 ---
 # Plan to watch
 
-The Prestige
 Old Boy
 La La Land
 Star Wars (Original trilogy)
