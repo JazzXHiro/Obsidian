@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Proposal Original Ver.2 (1)"
             }
+          },
+          {
+            "id": "a2daa911b8724688",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -336,7 +348,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3194982dc3a39658",
+  "active": "a2daa911b8724688",
   "lastOpenFiles": [
     "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
