@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/9. Comments.md",
+                "file": "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Comments"
+              "title": "11. Variable Assignment and Initialization"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/9. Comments.md",
+                "file": "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9. Comments"
+              "title": "Backlinks for 11. Variable Assignment and Initialization"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/9. Comments.md",
+                "file": "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9. Comments"
+              "title": "Outgoing links from 11. Variable Assignment and Initialization"
             }
           },
           {
@@ -415,6 +415,8 @@
   },
   "active": "e8cb78577929d8bb",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
+    "2 - Source Notes/Programming/C++/9. Comments.md",
     "2 - Source Notes/Programming/C++/8. Statements and the structure of a program.md",
     "2 - Source Notes/Programming/C++/7. Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/6. Configuring your compiler - Compiler Extensions.md",
@@ -439,8 +441,6 @@
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Don't Look Up.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/The Adam Project.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Bumblebee.md",
-    "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Guardians of the Galaxy Vol. 3.md",
-    "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Batman Begins.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc",
     "scripts/update_movie_ranks.txt",
     "scripts/New Text Document (2).txt",
