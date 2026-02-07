@@ -18,5 +18,10 @@
   "convert-url-to-iframe",
   "mermaid-tools",
   "image-converter",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc",
+  "better-export-pdf",
+  "table-editor-obsidian",
+  "dataview"
 ]
