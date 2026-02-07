@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/14. Keywords and naming identifiers.md",
+                "file": "2 - Source Notes/Programming/C++/15. Whitespace and basic formatting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Keywords and naming identifiers"
+              "title": "15. Whitespace and basic formatting"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/14. Keywords and naming identifiers.md",
+                "file": "2 - Source Notes/Programming/C++/15. Whitespace and basic formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14. Keywords and naming identifiers"
+              "title": "Backlinks for 15. Whitespace and basic formatting"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/14. Keywords and naming identifiers.md",
+                "file": "2 - Source Notes/Programming/C++/15. Whitespace and basic formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 14. Keywords and naming identifiers"
+              "title": "Outgoing links from 15. Whitespace and basic formatting"
             }
           },
           {
@@ -316,10 +316,11 @@
   },
   "active": "e8cb78577929d8bb",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/14. Keywords and naming identifiers.md",
+    "2 - Source Notes/Programming/C++/15. Whitespace and basic formatting.md",
     "7 - Attachments/image-6.png",
     "7 - Attachments/image-5.png",
     "2 - Source Notes/Programming/C++/13. Uninitialized variables and undefined behavior.md",
-    "2 - Source Notes/Programming/C++/14. Keywords and naming identifiers.md",
     "2 - Source Notes/Programming/C++/12. Introduction to iostream - cout, cin, and endl.md",
     "2 - Source Notes/Programming/C++/11. Variable Assignment and Initialization.md",
     "2 - Source Notes/Programming/C++/10. Introduction to Object and Variables.md",
@@ -361,7 +362,6 @@
     "7 - Attachments/Pasted image 20260129213916.png",
     "7 - Attachments/Pasted image 20260129213857.png",
     "7 - Attachments/Pasted image 20260129205519.png",
-    "7 - Attachments/Pasted image 20260121010859.png",
     "Untitled.canvas",
     "Jazz/Untitled.canvas",
     "2 - Source Notes/Academics/Linear Algebra/Unit 3/Untitled.canvas",
