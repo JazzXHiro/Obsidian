@@ -22,5 +22,6 @@
   "obsidian-enhancing-export",
   "obsidian-pandoc",
   "better-export-pdf",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "dataview"
 ]
