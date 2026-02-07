@@ -9,7 +9,7 @@ Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 
 | Rank | Movie Title                                   | Rating | **Last Watched** |
 | ---- | --------------------------------------------- | ------ | ---------------- |
-| 1    | Dead Poet's Society                           | 10.0   | 26-01-2026       |
+|      | Dead Poet's Society                           | 10.0   | 26-01-2026       |
 | 2    | Spiderman: Across the Spiderverse             | 9.88   |                  |
 | 3    | The Shawshank Redemption                      | 9.8    |                  |
 | 4    | The Godfather                                 | 9.8    |                  |
