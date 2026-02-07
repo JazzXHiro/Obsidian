@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+                "file": "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Introduction to C++ Developments"
+              "title": "4. Compiling your first project"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+                "file": "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Introduction to C++ Developments"
+              "title": "Backlinks for 4. Compiling your first project"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
+                "file": "2 - Source Notes/Programming/C++/4. Compiling your first project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Introduction to C++ Developments"
+              "title": "Outgoing links from 4. Compiling your first project"
             }
           },
           {
@@ -415,6 +415,7 @@
   },
   "active": "e8cb78577929d8bb",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/3. Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/2. Introduction to C++.md",
     "2 - Source Notes/Programming/C++/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/13. Uninitialized variables and undefined behavior.md",
@@ -440,7 +441,6 @@
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/John Wick.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/The Lord of the Rings - Fellowship of the Ring.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Batman - The Dark Knight Rises.md",
-    "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/F1.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc",
     "scripts/update_movie_ranks.txt",
     "scripts/New Text Document (2).txt",
