@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X1x/18. Developing your first program.md",
+                "file": "2 - Source Notes/Programming/C++/X1x/19. Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Developing your first program"
+              "title": "19. Summary"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X1x/18. Developing your first program.md",
+                "file": "2 - Source Notes/Programming/C++/X1x/19. Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18. Developing your first program"
+              "title": "Backlinks for 19. Summary"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X1x/18. Developing your first program.md",
+                "file": "2 - Source Notes/Programming/C++/X1x/19. Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18. Developing your first program"
+              "title": "Outgoing links from 19. Summary"
             }
           },
           {
@@ -331,13 +331,14 @@
   },
   "active": "982eb2fa0209e90e",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/X1x/Untitled.md",
+    "2 - Source Notes/Programming/C++/X1x/18. Developing your first program.md",
+    "2 - Source Notes/Programming/C++/X1x/Untitled 1.md",
+    "2 - Source Notes/Programming/C++/X1x/19. Summary.md",
     "2 - Source Notes/Programming/C++/X1x/13. Uninitialized variables and undefined behavior.md",
     "2 - Source Notes/Programming/C++/X1x/11. Variable Assignment and Initialization.md",
     "2 - Source Notes/Programming/C++/X0x/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/X2/Untitled",
     "2 - Source Notes/Programming/C++/X1x",
-    "2 - Source Notes/Programming/C++/X1x/18. Developing your first program.md",
     "2 - Source Notes/Programming/C++/Flashcards/Untitled/Untitled.md",
     "2 - Source Notes/Programming/C++/X0x",
     "2 - Source Notes/Programming/C++/X1x/17. Introduction to expressions.md",
@@ -361,7 +362,6 @@
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Disturbia.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Dead Poets Society.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Arrival.md",
-    "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Spiderman - Across the Spiderverse.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc",
     "scripts/update_movie_ranks.txt",
     "scripts/New Text Document (2).txt",
