@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X2x/2.1 Introductions to functions.md",
+                "file": "2 - Source Notes/Programming/DSA/!OneNote notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.1 Introductions to functions"
+              "title": "Outgoing links from !OneNote notes"
             }
           },
           {
@@ -252,8 +252,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -286,8 +286,7 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt Selection": false,
       "meld-encrypt:Decrypt at Cursor": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "floating": {
@@ -329,7 +328,7 @@
       }
     ]
   },
-  "active": "982eb2fa0209e90e",
+  "active": "18926444b1a54432",
   "lastOpenFiles": [
     "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Programming/C++/X2x/2.1 Introductions to functions.md",
