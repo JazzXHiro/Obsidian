@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X2x/2.6 Forward declarations and definitions.md",
+                "file": "2 - Source Notes/Programming/C++/X2x/2.7 Programs with multiple code files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6 Forward declarations and definitions"
+              "title": "2.7 Programs with multiple code files"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X2x/2.6 Forward declarations and definitions.md",
+                "file": "2 - Source Notes/Programming/C++/X2x/2.7 Programs with multiple code files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.6 Forward declarations and definitions"
+              "title": "Outgoing links from 2.7 Programs with multiple code files"
             }
           },
           {
@@ -292,8 +292,9 @@
   },
   "active": "982eb2fa0209e90e",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/X2x/2.5 Why functions are useful, and how to use them effectively.md",
     "2 - Source Notes/Programming/C++/X2x/2.6 Forward declarations and definitions.md",
+    "2 - Source Notes/Programming/C++/X2x/2.7 Programs with multiple code files.md",
+    "2 - Source Notes/Programming/C++/X2x/2.5 Why functions are useful, and how to use them effectively.md",
     "2 - Source Notes/Programming/C++/X2x/2.4 Introduction to local scope.md",
     "2 - Source Notes/Programming/C++/X2x/2.3 Introduction to Function Parameters and Arguments.md",
     "4 - Indexes/t-webdev.md",
@@ -323,7 +324,6 @@
     "2 - Source Notes/Academics/Projects/Minor/proposal-kediyal.pdf",
     "2 - Source Notes/Academics/Projects/Minor/Proposal without ML recommendation engine.md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal without ML justification for DS.md",
-    "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "2 - Source Notes/Academics/Projects/Minor/Adaptive Game Difficulty and It's effects on players.pdf",
     "7 - Attachments/image-7.png",
     "2 - Source Notes/Programming/C++/X2x",
