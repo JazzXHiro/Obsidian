@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -290,7 +291,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "982eb2fa0209e90e",
+  "active": "4b5410a2c7fd4c6d",
   "lastOpenFiles": [
     "2 - Source Notes/Programming/C++/X2x/2.8 Naming collisions and an introduction to namespaces.md",
     "2 - Source Notes/Programming/C++/X2x/2.9 Introduction to the preprocessor.md",
