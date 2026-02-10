@@ -7,27 +7,28 @@ Tags: [[t-entertainment]] [[t-movies]] [[t-personal]]
 ---
 # Plan to watch
 
-Old Boy
-La La Land
-Star Wars (Original trilogy)
-The Big Short
-Inglorious Basterds
-The Wolf of Wall Street
-The Menu
-Juror #2
-El Camino
-Bullet Train
-The Princess Bride
-No Country for Old men
-Godzilla Minus One
-Scream
-The Iron Giant  
-Yes man
-Evil dead trilogy
-The Interview
-Hacksaw Ridge
-Rocky 1-4
-Creed 1-3
+1. Old Boy
+2. La La Land
+3. Star Wars (Original trilogy)
+4. The Big Short
+5. Inglorious Basterds
+6. The Wolf of Wall Street
+7. The Menu
+8. Juror #2
+9. El Camino
+10. Bullet Train
+11. The Princess Bride
+12. No Country for Old men
+13. Godzilla Minus One
+14. Scream
+15. The Iron Giant  
+16. Yes man
+17. Evil dead trilogy
+18. The Interview
+19. Hacksaw Ridge
+20. Rocky 1-4
+21. Creed 1-3
+22. The Knight of the 
 
 
 
