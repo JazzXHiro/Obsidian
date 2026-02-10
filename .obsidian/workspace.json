@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X2x/2.7 Programs with multiple code files.md",
+                "file": "2 - Source Notes/Programming/C++/X2x/2.8 Naming collisions and an introduction to namespaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 Programs with multiple code files"
+              "title": "2.8 Naming collisions and an introduction to namespaces"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X2x/2.7 Programs with multiple code files.md",
+                "file": "2 - Source Notes/Programming/C++/X2x/2.8 Naming collisions and an introduction to namespaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.7 Programs with multiple code files"
+              "title": "Outgoing links from 2.8 Naming collisions and an introduction to namespaces"
             }
           },
           {
@@ -292,6 +292,8 @@
   },
   "active": "982eb2fa0209e90e",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/X2x/2.7 Programs with multiple code files.md",
+    "2 - Source Notes/Programming/C++/X2x/2.8 Naming collisions and an introduction to namespaces.md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "2 - Source Notes/Academics/Projects/Minor/Minor Project.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Plan to watch.md",
@@ -301,7 +303,6 @@
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Dead Poets Society.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Batman Begins.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Misc/Arrival.md",
-    "2 - Source Notes/Programming/C++/X2x/2.7 Programs with multiple code files.md",
     "2 - Source Notes/Programming/C++/X2x/2.6 Forward declarations and definitions.md",
     "2 - Source Notes/Programming/C++/X2x/2.5 Why functions are useful, and how to use them effectively.md",
     "2 - Source Notes/Programming/C++/X2x/2.4 Introduction to local scope.md",
@@ -318,7 +319,6 @@
     "2 - Source Notes/Anime Quotes.md",
     "2 - Source Notes/Navmesh + raycast.md",
     "2 - Source Notes/Untitled.base",
-    "2 - Source Notes/Presentation.md",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 3.base",
     "2 - Source Notes/Academics/Projects/Minor/~$ftwareRequirements.doc",
