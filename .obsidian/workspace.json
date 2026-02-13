@@ -25,12 +25,14 @@
             "id": "982eb2fa0209e90e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf"
+                "file": "2 - Source Notes/Personal/Shows & Movies/Movies/Plan to watch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013]"
+              "icon": "lucide-file",
+              "title": "Plan to watch"
             }
           }
         ],
@@ -290,8 +292,8 @@
   },
   "active": "982eb2fa0209e90e",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/Untitled.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
+    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/Untitled.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/11-02-26.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-1/0.1 Introduction.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2",
