@@ -5,8 +5,11 @@ In OpenGL, the viewing matrix is what transforms **World Coordinates** (where ob
 To "specify" this matrix, we usually define three main things (often called the **LookAt** parameters):
 
 - **Eye Position ($x_e, y_e, z_e$):** Exactly where the camera is sitting.
+    
 - **Look-at Point ($x_a, y_a, z_a$):** The specific spot or object the camera is pointed at.
+    
 - **Up Vector ($x_u, y_u, z_u$):** Tells the system which way is "up" so the camera isn't tilted or upside down (usually set to $(0, 1, 0)$).
+    
 
 ---
 
@@ -52,3 +55,5 @@ If you're writing this for a CS professor, make sure to mention:
 > **Quick Tip:** If you're putting this in **Obsidian**, you can use this simple logic:
 > 
 > `Final Position = Projection * View * Model * Vertex`
+
+Would you like me to draft a quick C++ code example using `glm::lookAt` to show how this actually looks in a program?
