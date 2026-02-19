@@ -81,10 +81,14 @@
             "id": "41f12026dff4b394",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Notes/Academics/Projects/Minor/Flow Thoery.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Flow Thoery"
             }
           }
         ],
@@ -381,6 +385,11 @@
   },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Projects/Minor/Exploring Dynamic Difficulty Adjustment Methods for Video Games.pdf",
+    "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md",
+    "2 - Source Notes/Academics/Projects/Minor/Changes.md",
+    "2 - Source Notes/Academics/Projects/Minor/Adaptive Game Difficulty and It's effects on players.pdf",
+    "1 - Rough Notes/Capstone.md",
     "2 - Source Notes/Untitled 4.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
@@ -409,11 +418,6 @@
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2",
     "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/11-02-26.md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2.md",
-    "2 - Source Notes/Academics/Projects/Minor/Proposal Original.md",
-    "2 - Source Notes/Academics/Projects/Minor/Problem Statement.md",
-    "2 - Source Notes/Academics/Projects/Minor/New.md",
-    "2 - Source Notes/Academics/Projects/Minor/Exploring Dynamic Difficulty Adjustment Methods for Video Games.pdf",
-    "2 - Source Notes/Academics/Projects/Minor/Adaptive Game Difficulty and It's effects on players.pdf",
     "2 - Source Notes/Untitled.base",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 3.base",
