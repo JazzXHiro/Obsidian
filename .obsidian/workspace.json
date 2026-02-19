@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "Untitled 4"
             }
+          },
+          {
+            "id": "41f12026dff4b394",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -369,8 +379,9 @@
       }
     ]
   },
-  "active": "cc18a4cf5cbebdff",
+  "active": "41f12026dff4b394",
   "lastOpenFiles": [
+    "2 - Source Notes/Untitled 4.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
     "1 - Rough Notes/Knock Knock.md",
@@ -385,7 +396,6 @@
     "2 - Source Notes/Programming/C++/X2x/2.8 Naming collisions and an introduction to namespaces.md",
     "2 - Source Notes/Untitled 5.md",
     "7 - Attachments/image-8.png",
-    "2 - Source Notes/Untitled 4.md",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "2 - Source Notes/Personal/Philosophy/Quotes/Movies.md",
     "2 - Source Notes/Personal/Philosophy/Quotes/Games.md",
