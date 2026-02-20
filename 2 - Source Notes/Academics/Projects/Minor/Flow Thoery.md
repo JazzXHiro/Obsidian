@@ -7,7 +7,6 @@
 - **Boredom (Low Challenge / High Skill):** If a game is too easy, the player loses interest and stops engaging.
     
 - **Anxiety (High Challenge / Low Skill):** If a game is too hard, the player becomes frustrated, leading to "churn" (quitting the game).
-    
 
 ---
 
