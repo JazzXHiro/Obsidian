@@ -375,16 +375,17 @@
         ],
         "direction": "vertical",
         "x": -1228,
-        "y": 287,
+        "y": 286,
         "width": 1024,
-        "height": 801,
-        "maximize": true,
+        "height": 804,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "cc18a4cf5cbebdff",
+  "active": "41f12026dff4b394",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
     "2 - Source Notes/Academics/Projects/Minor/Flow Thoery.md",
     "2 - Source Notes/Academics/Projects/Minor/Exploring Dynamic Difficulty Adjustment Methods for Video Games.pdf",
     "2 - Source Notes/Academics/Projects/Minor/Drawing 2026-02-02 14.54.48.excalidraw.md",
@@ -393,7 +394,6 @@
     "1 - Rough Notes/Capstone.md",
     "2 - Source Notes/Untitled 4.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
-    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
     "1 - Rough Notes/Knock Knock.md",
     "7 - Attachments/image-9.png",
     "2 - Source Notes/ZMisc/Maths LaTex.md",
@@ -418,7 +418,6 @@
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-1/0.1 Introduction.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2",
     "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/11-02-26.md",
-    "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2.md",
     "2 - Source Notes/Untitled.base",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 3.base",
