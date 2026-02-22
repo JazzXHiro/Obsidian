@@ -8,76 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8cb78577929d8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Programming/C++/X1x/18. Developing your first program.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18. Developing your first program"
-            }
-          },
-          {
-            "id": "982eb2fa0209e90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Personal/Shows & Movies/Movies/Watched Movies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Watched Movies"
-            }
-          },
-          {
-            "id": "3f91b7d9b11cc2cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1 Scan Conversion - lines, circles and Ellipse"
-            }
-          },
-          {
-            "id": "da755b361cd9500d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1 Scan Conversion - lines, circles and Ellipse"
-            }
-          },
-          {
-            "id": "480852e2bb9f2d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Notes/Untitled 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 4"
-            }
-          },
-          {
             "id": "41f12026dff4b394",
             "type": "leaf",
             "state": {
@@ -91,8 +21,7 @@
               "title": "0.2 The Structure of a Compiler"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -385,13 +314,16 @@
   },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-02-22 14.51.16.excalidraw.md",
+    "Excalidraw/0.2 The Structure of a Compiler 2026-01-20 20.20.03.excalidraw.md",
+    "2 - Source Notes/Programming/C++/X1x/18. Developing your first program.md",
+    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
+    "2 - Source Notes/Untitled 4.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.2 The Structure of a Compiler.md",
+    "Excalidraw/Drawing 2026-02-22 14.51.16.excalidraw.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.1 Introduction.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.3 Bootstrapping.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!/CompilerDesign.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!",
-    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/!/2_3_merged.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
     "Excalidraw/2.1 Scan Conversion - lines, circles and Ellipse 2026-02-21 00.35.46.excalidraw.md",
@@ -403,7 +335,6 @@
     "2 - Source Notes/Untitled 2.md",
     "2 - Source Notes/Untitled 3.base",
     "2 - Source Notes/Untitled 3.md",
-    "2 - Source Notes/Untitled 4.md",
     "2 - Source Notes/Untitled 5.md",
     "1 - Rough Notes/Capstone.md",
     "1 - Rough Notes/Chatgpt prompt.md",
@@ -420,9 +351,7 @@
     "2 - Source Notes/Personal/Shows & Movies/Movies/Watched Movies.md",
     "2 - Source Notes/Personal/Shows & Movies/Movies/Plan to watch.md",
     "2 - Source Notes/Programming/C++/X2x/2.9 Introduction to the preprocessor.md",
-    "2 - Source Notes/Programming/C++/X2x/2.8 Naming collisions and an introduction to namespaces.md",
     "7 - Attachments/image-8.png",
-    "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
     "7 - Attachments/image-7.png",
     "7 - Attachments/image-6.png",
     "7 - Attachments/image-5.png",
