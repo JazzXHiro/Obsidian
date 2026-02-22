@@ -346,10 +346,48 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "41f12026dff4b394",
+  "floating": {
+    "id": "6c6be02a80ee827c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2d2c1ab52f5b5a59",
+        "type": "window",
+        "children": [
+          {
+            "id": "5cebdc09981dfa1a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e19058e6095c7900",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2026-02-22 14.51.16.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2026-02-22 14.51.16.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 724,
+        "y": 147,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e19058e6095c7900",
   "lastOpenFiles": [
-    "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.1 Introduction.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.2 The Structure of a Compiler.md",
+    "Excalidraw/Drawing 2026-02-22 14.51.16.excalidraw.md",
+    "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.1 Introduction.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.3 Bootstrapping.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!/CompilerDesign.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!",
@@ -385,7 +423,6 @@
     "2 - Source Notes/Programming/C++/X2x/2.8 Naming collisions and an introduction to namespaces.md",
     "7 - Attachments/image-8.png",
     "2 - Source Notes/Academics/Projects/Minor/Proposal Original Ver.2 (1).md",
-    "2 - Source Notes/Personal/Philosophy/Quotes/Movies.md",
     "7 - Attachments/image-7.png",
     "7 - Attachments/image-6.png",
     "7 - Attachments/image-5.png",
