@@ -346,81 +346,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "c0a6d19eb2660fb5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "eaa2d3373c9f64a3",
-        "type": "window",
-        "children": [
-          {
-            "id": "945ec2d14f881599",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cc18a4cf5cbebdff",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013]"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1228,
-        "y": 228,
-        "width": 1280,
-        "height": 1006,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "c9d4717cacb9de6d",
-        "type": "window",
-        "children": [
-          {
-            "id": "02cee801abb21a7e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f40fbd2373eded6d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/!/2_3_merged.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "2_3_merged"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f40fbd2373eded6d",
+  "active": "41f12026dff4b394",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/!/2_3_merged.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Unit-2/2.1 Scan Conversion - lines, circles and Ellipse.md",
     "Excalidraw/2.1 Scan Conversion - lines, circles and Ellipse 2026-02-21 00.35.46.excalidraw.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/11-02-26.md",
-    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/!/2_3_merged.pdf",
     "2 - Source Notes/Untitled.md",
     "2 - Source Notes/Untitled 1.md",
     "2 - Source Notes/Untitled 2.base",
