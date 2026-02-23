@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X1x/12. Introduction to iostream - cout, cin, and endl.md",
+                "file": "2 - Source Notes/Programming/C++/X1x/13. Uninitialized variables and undefined behavior.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Introduction to iostream - cout, cin, and endl"
+              "title": "13. Uninitialized variables and undefined behavior"
             }
           }
         ]
@@ -277,6 +277,7 @@
   },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/X1x/12. Introduction to iostream - cout, cin, and endl.md",
     "2 - Source Notes/Programming/C++/X1x/11. Variable Assignment and Initialization.md",
     "2 - Source Notes/Programming/C++/X1x/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Programming/C++/X0x/9. Comments.md",
@@ -307,7 +308,6 @@
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/!/2_3_merged.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
-    "Excalidraw/2.1 Scan Conversion - lines, circles and Ellipse 2026-02-21 00.35.46.excalidraw.md",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 1.base",
     "2 - Source Notes/Untitled 3.base",
