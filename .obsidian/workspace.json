@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X0x/8. Statements and the structure of a program.md",
+                "file": "2 - Source Notes/Programming/C++/X1x/10. Introduction to Object and Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Statements and the structure of a program"
+              "title": "10. Introduction to Object and Variables"
             }
           }
         ]
@@ -277,6 +277,8 @@
   },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/X0x/9. Comments.md",
+    "2 - Source Notes/Programming/C++/X0x/8. Statements and the structure of a program.md",
     "2 - Source Notes/Programming/C++/X0x/7. Configuring your compiler - Warning and error levels.md",
     "2 - Source Notes/Programming/C++/X0x/6. Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/X0x/5. Configuring your compiler - Build configurations.md",
@@ -306,10 +308,8 @@
     "Excalidraw/2.1 Scan Conversion - lines, circles and Ellipse 2026-02-21 00.35.46.excalidraw.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/11-02-26.md",
     "2 - Source Notes/Untitled.md",
-    "2 - Source Notes/Untitled 1.md",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 1.base",
-    "2 - Source Notes/Untitled 2.md",
     "2 - Source Notes/Untitled 3.base",
     "2 - Source Notes/Academics/Projects/Minor/Exploring Dynamic Difficulty Adjustment Methods for Video Games.pdf",
     "2 - Source Notes/Academics/Projects/Minor/Adaptive Game Difficulty and It's effects on players.pdf",
