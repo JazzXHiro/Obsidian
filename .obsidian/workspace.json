@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X0x/2. Introduction to C++.md",
+                "file": "2 - Source Notes/Programming/C++/X0x/3. Introduction to C++ Developments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Introduction to C++"
+              "title": "3. Introduction to C++ Developments"
             }
           }
         ]
@@ -277,8 +277,8 @@
   },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/X0x/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/X0x/2. Introduction to C++.md",
+    "2 - Source Notes/Programming/C++/X0x/1. Introduction to programming languages.md",
     "2 - Source Notes/Programming/C++/X2x/2.9 Introduction to the preprocessor.md",
     "2 - Source Notes/Programming/C++/X2x/2.1 Introductions to functions.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.4 Finite State Machines and Regular Expressions and their Applications to Lexical Analysis.md",
