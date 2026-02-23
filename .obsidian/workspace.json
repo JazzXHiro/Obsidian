@@ -275,43 +275,6 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "6c6be02a80ee827c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2d2c1ab52f5b5a59",
-        "type": "window",
-        "children": [
-          {
-            "id": "5cebdc09981dfa1a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e19058e6095c7900",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2026-02-22 14.51.16.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2026-02-22 14.51.16.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 724,
-        "y": 147,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
     "7 - Attachments/image-10.png",
