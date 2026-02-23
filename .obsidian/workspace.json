@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X1x/11. Variable Assignment and Initialization.md",
+                "file": "2 - Source Notes/Programming/C++/X1x/12. Introduction to iostream - cout, cin, and endl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Variable Assignment and Initialization"
+              "title": "12. Introduction to iostream - cout, cin, and endl"
             }
           }
         ]
@@ -277,8 +277,8 @@
   },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
-    "2 - Source Notes/Programming/C++/X1x/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Programming/C++/X1x/11. Variable Assignment and Initialization.md",
+    "2 - Source Notes/Programming/C++/X1x/10. Introduction to Object and Variables.md",
     "2 - Source Notes/Programming/C++/X0x/9. Comments.md",
     "2 - Source Notes/Programming/C++/X0x/8. Statements and the structure of a program.md",
     "2 - Source Notes/Programming/C++/X0x/7. Configuring your compiler - Warning and error levels.md",
