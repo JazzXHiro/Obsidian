@@ -1,278 +1,275 @@
-# Ellipse Drawing Algorithm (Midpoint Ellipse Algorithm)
-
-The **Midpoint Ellipse Algorithm** is used in computer graphics to draw an ellipse efficiently using only integer calculations (like Bresenham’s line algorithm).
-
-It is based on the **implicit equation of an ellipse** and decision parameters to determine the next pixel.
+Keerti Vardhan
+500119378
+GG B-1
 
 ---
 
-# 1️⃣ Mathematical Derivation of Ellipse
+# Midpoint Ellipse Drawing Algorithm
 
-## Standard Equation of Ellipse
+---
 
-For an ellipse centered at origin (0,0):
+## 1. Standard Equation of Ellipse
 
-[  
+For an ellipse centered at origin:
+
+$$  
 \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1  
-]
+$$
 
 Where:
 
-- ( a ) = semi-major axis (x-direction radius)
-    
-- ( b ) = semi-minor axis (y-direction radius)
-    
+- $a$ = semi-major axis
+
+- $b$ = semi-minor axis
 
 ---
 
-## Convert to Implicit Form
+## 2. Convert to Implicit Form
 
-Multiply both sides by ( a^2 b^2 ):
+Multiply by $a^2 b^2$:
 
-[  
+$$  
 b^2 x^2 + a^2 y^2 = a^2 b^2  
-]
+$$
 
 Define implicit function:
 
-[  
+$$  
 f(x,y) = b^2 x^2 + a^2 y^2 - a^2 b^2  
-]
+$$
 
-- If ( f(x,y) < 0 ) → Point is inside ellipse
-    
-- If ( f(x,y) = 0 ) → On ellipse
-    
-- If ( f(x,y) > 0 ) → Outside ellipse
-    
+Decision rule:
+
+- $f(x,y) < 0$ → Point inside
+
+- $f(x,y) = 0$ → On ellipse
+
+- $f(x,y) > 0$ → Outside
+
 
 ---
 
-# 2️⃣ Why Two Regions?
+## 3. Slope of Ellipse
 
-Slope of ellipse:
+Differentiate implicitly:
 
-[  
+$$  
 \frac{dy}{dx} = -\frac{b^2 x}{a^2 y}  
-]
+$$
 
-We divide into two regions based on slope:
+We divide into two regions:
 
-### Region 1:
+### Region 1
 
-When ( |\frac{dy}{dx}| < 1 )
+$$  
+\left| \frac{dy}{dx} \right| < 1  
+$$
 
-[  
+$$  
 b^2 x < a^2 y  
-]
+$$
 
-Increment x step-by-step.
-
----
-
-### Region 2:
-
-When ( |\frac{dy}{dx}| ≥ 1 )
-
-[  
-b^2 x ≥ a^2 y  
-]
-
-Decrement y step-by-step.
+Increment $x$.
 
 ---
 
-# 3️⃣ Algorithm Derivation
+### Region 2
 
-We start at:
+$$  
+\left| \frac{dy}{dx} \right| \ge 1  
+$$
 
-[  
+$$  
+b^2 x \ge a^2 y  
+$$
+
+Decrement $y$.
+
+---
+
+# 4. Region 1 Derivation
+
+Start point:
+
+$$  
 (x_0, y_0) = (0, b)  
-]
-
----
-
-# 🔹 REGION 1 DERIVATION
-
-Decision parameter:
-
-We test midpoint between:
-
-- East pixel: (x+1, y)
-    
-- South-East pixel: (x+1, y-1)
-    
-
-Midpoint:
-
-[  
-(x+1, y-\frac{1}{2})  
-]
-
-Decision parameter:
-
-[  
-p_1 = f(x+1, y-\frac{1}{2})  
-]
-
-Substitute in f(x,y):
-
-[  
-p_1 = b^2(x+1)^2 + a^2(y-\frac{1}{2})^2 - a^2b^2  
-]
-
-Initial value at (0,b):
-
-[  
-p_{10} = b^2 - a^2 b + \frac{a^2}{4}  
-]
-
----
-
-## Region 1 Decision Rules
-
-If:
-
-### Case 1: ( p_1 < 0 )
-
-Midpoint inside → choose East
-
-[  
-x = x+1  
-]
-
-Update:
-
-[  
-p_1 = p_1 + 2b^2x + b^2  
-]
-
----
-
-### Case 2: ( p_1 ≥ 0 )
-
-Choose South-East
-
-[  
-x = x+1  
-]  
-[  
-y = y-1  
-]
-
-Update:
-
-[  
-p_1 = p_1 + 2b^2x - 2a^2y + b^2  
-]
-
-Continue until:
-
-[  
-b^2x ≥ a^2y  
-]
-
----
-
-# 🔹 REGION 2 DERIVATION
-
-Now we step in y-direction.
+$$
 
 Midpoint between:
 
-- South pixel: (x, y-1)
-    
-- South-East pixel: (x+1, y-1)
-    
+- East $(x+1, y)$
+
+- South-East $(x+1, y-1)$
+
 
 Midpoint:
 
-[  
-(x+\frac{1}{2}, y-1)  
-]
+$$  
+(x+1, y-\frac{1}{2})  
+$$
 
 Decision parameter:
 
-[  
-p_2 = f(x+\frac{1}{2}, y-1)  
-]
+$$  
+p_1 = f(x+1, y-\frac{1}{2})  
+$$
 
-Initial:
+Substitute in implicit equation:
 
-[  
-p_{20} = b^2(x+\frac{1}{2})^2 + a^2(y-1)^2 - a^2b^2  
-]
+$$  
+p_1 = b^2(x+1)^2 + a^2\left(y-\frac{1}{2}\right)^2 - a^2 b^2  
+$$
 
----
+Initial decision parameter:
 
-## Region 2 Decision Rules
-
-### Case 1: ( p_2 > 0 )
-
-Midpoint outside → choose South
-
-[  
-y = y-1  
-]
-
-Update:
-
-[  
-p_2 = p_2 - 2a^2y + a^2  
-]
+$$  
+p_{10} = b^2 - a^2 b + \frac{a^2}{4}  
+$$
 
 ---
 
-### Case 2: ( p_2 ≤ 0 )
+## Region 1 Update Rules
 
-Choose South-East
+If $p_1 < 0$:
 
-[  
+$$  
 x = x+1  
-]  
-[  
+$$
+
+$$  
+p_1 = p_1 + 2b^2 x + b^2  
+$$
+
+---
+
+If $p_1 \ge 0$:
+
+$$  
+x = x+1  
+$$
+
+$$  
 y = y-1  
-]
+$$
 
-Update:
+$$  
+p_1 = p_1 + 2b^2 x - 2a^2 y + b^2  
+$$
 
-[  
-p_2 = p_2 + 2b^2x - 2a^2y + a^2  
-]
+Continue while:
+
+$$  
+b^2 x < a^2 y  
+$$
+
+---
+
+# 5. Region 2 Derivation
+
+Midpoint between:
+
+- South $(x, y-1)$
+
+- South-East $(x+1, y-1)$
+
+
+Midpoint:
+
+$$  
+\left(x+\frac{1}{2}, y-1\right)  
+$$
+
+Decision parameter:
+
+$$  
+p_2 = f\left(x+\frac{1}{2}, y-1\right)  
+$$
+
+Initial value:
+
+$$  
+p_{20} = b^2\left(x+\frac{1}{2}\right)^2 + a^2(y-1)^2 - a^2 b^2  
+$$
+
+---
+
+## Region 2 Update Rules
+
+If $p_2 > 0$:
+
+$$  
+y = y-1  
+$$
+
+$$  
+p_2 = p_2 - 2a^2 y + a^2  
+$$
+
+---
+
+If $p_2 \le 0$:
+
+$$  
+x = x+1  
+$$
+
+$$  
+y = y-1  
+$$
+
+$$  
+p_2 = p_2 + 2b^2 x - 2a^2 y + a^2  
+$$
 
 Continue until:
 
-[  
+$$  
 y = 0  
-]
+$$
 
 ---
 
-# 4️⃣ Complete Algorithm (Step-by-Step)
+# 6. Symmetry Property
 
-### Input:
+For every computed point $(x,y)$, plot:
 
-- a (x-radius)
-    
-- b (y-radius)
-    
-- Center (xc, yc)
-    
+$$  
+(x_c + x, y_c + y)  
+$$
+
+$$  
+(x_c - x, y_c + y)  
+$$
+
+$$  
+(x_c + x, y_c - y)  
+$$
+
+$$  
+(x_c - x, y_c - y)  
+$$
+
+---
+
+# 7. Complete Algorithm (Structured Form)
+
+**Input:** $a, b, (x_c, y_c)$
 
 ---
 
 ### Step 1: Initialize
 
-[  
+$$  
 x = 0  
-]  
-[  
-y = b  
-]
+$$
 
-[  
+$$  
+y = b  
+$$
+
+$$  
 p_1 = b^2 - a^2 b + \frac{a^2}{4}  
-]
+$$
 
 ---
 
@@ -280,46 +277,44 @@ p_1 = b^2 - a^2 b + \frac{a^2}{4}
 
 While:
 
-[  
-b^2x < a^2y  
-]
+$$  
+b^2 x < a^2 y  
+$$
 
-1. Plot symmetric points:
+1. Plot symmetric points
+    
+2. If $p_1 < 0$:
     
 
-[  
-(xc ± x, yc ± y)  
-]
-
-2. If ( p_1 < 0 )
-    
-
-[  
+$$  
 x = x+1  
-]  
-[  
-p_1 = p_1 + 2b^2x + b^2  
-]
+$$
+
+$$  
+p_1 = p_1 + 2b^2 x + b^2  
+$$
 
 Else:
 
-[  
+$$  
 x = x+1  
-]  
-[  
+$$
+
+$$  
 y = y-1  
-]  
-[  
-p_1 = p_1 + 2b^2x - 2a^2y + b^2  
-]
+$$
+
+$$  
+p_1 = p_1 + 2b^2 x - 2a^2 y + b^2  
+$$
 
 ---
 
 ### Step 3: Initialize Region 2
 
-[  
-p_2 = b^2(x+\frac{1}{2})^2 + a^2(y-1)^2 - a^2b^2  
-]
+$$  
+p_2 = b^2\left(x+\frac{1}{2}\right)^2 + a^2(y-1)^2 - a^2 b^2  
+$$
 
 ---
 
@@ -327,119 +322,32 @@ p_2 = b^2(x+\frac{1}{2})^2 + a^2(y-1)^2 - a^2b^2
 
 While:
 
-[  
+$$  
 y > 0  
-]
+$$
 
-1. Plot symmetric points
-    
-2. If ( p_2 > 0 )
-    
+If $p_2 > 0$:
 
-[  
+$$  
 y = y-1  
-]  
-[  
-p_2 = p_2 - 2a^2y + a^2  
-]
+$$
+
+$$  
+p_2 = p_2 - 2a^2 y + a^2  
+$$
 
 Else:
 
-[  
+$$  
 x = x+1  
-]  
-[  
+$$
+
+$$  
 y = y-1  
-]  
-[  
-p_2 = p_2 + 2b^2x - 2a^2y + a^2  
-]
+$$
+
+$$  
+p_2 = p_2 + 2b^2 x - 2a^2 y + a^2  
+$$
 
 ---
-
-# 5️⃣ Symmetry Used
-
-Ellipse is symmetric in all 4 quadrants.
-
-For every point (x,y), plot:
-
-[  
-(xc+x, yc+y)  
-]  
-[  
-(xc-x, yc+y)  
-]  
-[  
-(xc+x, yc-y)  
-]  
-[  
-(xc-x, yc-y)  
-]
-
-This reduces computation to 1/4th.
-
----
-
-# 6️⃣ Visual Understanding
-
-## Region 1 (Slope < 1)
-
-![Image](https://www.tutorialspoint.com/computer_graphics/images/midpoint_ellipse_drawing_algorithm.jpg)
-
-![Image](https://www.anirdesh.com/math/algebra/ellipse-tangent-1.svg)
-
-![Image](https://imgv2-2-f.scribdassets.com/img/document/63708061/original/ddc4928275/1?v=1)
-
-![Image](https://i.imgur.com/r7relos.png)
-
----
-
-## Region 2 (Slope ≥ 1)
-
-![Image](https://www.tutorialspoint.com/computer_graphics/images/midpoint_ellipse_drawing_algorithm.jpg)
-
-![Image](https://www.tutorialspoint.com/computer_graphics/images/midpoint_calculations.jpg)
-
-![Image](https://imgv2-2-f.scribdassets.com/img/document/63708061/original/ddc4928275/1?v=1)
-
-![Image](https://i.imgur.com/r7relos.png)
-
----
-
-# 7️⃣ Why This Algorithm is Efficient?
-
-- Uses only addition and subtraction
-    
-- No floating-point multiplication inside loop
-    
-- Faster than direct equation method
-    
-- Similar logic to Midpoint Circle Algorithm
-    
-
----
-
-# 🔥 Final Summary for Exams
-
-✔ Based on ellipse implicit equation  
-✔ Divided into two regions based on slope  
-✔ Uses midpoint decision parameter  
-✔ Uses 4-way symmetry  
-✔ Incremental integer updates
-
----
-
-If you want, I can also provide:
-
-- ✔ Numerical example step-by-step
-    
-- ✔ Comparison with DDA ellipse
-    
-- ✔ C / C++ implementation
-    
-- ✔ Short 8-mark exam answer format
-    
-- ✔ Handwritten-style notes format
-    
-
-Just tell me what you need.
