@@ -282,9 +282,9 @@ b^2 x < a^2 y
 $$
 
 1. Plot symmetric points
-    
+
 2. If $p_1 < 0$:
-    
+
 
 $$  
 x = x+1  
