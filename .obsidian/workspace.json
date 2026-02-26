@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Knock Knock.md",
+                "file": "2 - Source Notes/Academics/Assignments/CG/CG Assignment 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knock Knock"
+              "title": "CG Assignment 2"
             }
           }
         ]
@@ -277,6 +277,9 @@
   },
   "active": "41f12026dff4b394",
   "lastOpenFiles": [
+    "1 - Rough Notes/Knock Knock.md",
+    "2 - Source Notes/Academics/Assignments/CG/CG Assignment 2.md",
+    "2 - Source Notes/Academics/Assignments/CG",
     "2 - Source Notes/Programming/C++/X2x/2.3 Introduction to Function Parameters and Arguments.md",
     "2 - Source Notes/Programming/C++/X2x/2.2 Void Functions.md",
     "2 - Source Notes/Programming/C++/X2x/2.1 Introductions to functions.md",
@@ -301,8 +304,6 @@
     "2 - Source Notes/Programming/C++/X0x/4. Compiling your first project.md",
     "2 - Source Notes/Programming/C++/X0x/3. Introduction to C++ Developments.md",
     "2 - Source Notes/Programming/C++/X0x/2. Introduction to C++.md",
-    "2 - Source Notes/Programming/C++/X0x/1. Introduction to programming languages.md",
-    "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/Unit 1/0.4 Finite State Machines and Regular Expressions and their Applications to Lexical Analysis.md",
     "7 - Attachments/image-10.png",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!/CompilerDesign.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!",
@@ -314,7 +315,6 @@
     "2 - Source Notes/Academics/Projects/Minor/Exploring Dynamic Difficulty Adjustment Methods for Video Games.pdf",
     "2 - Source Notes/Academics/Projects/Minor/Adaptive Game Difficulty and It's effects on players.pdf",
     "7 - Attachments/image-9.png",
-    "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/!",
     "7 - Attachments/image-8.png",
     "7 - Attachments/image-7.png",
     "7 - Attachments/image-6.png",
