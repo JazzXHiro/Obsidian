@@ -25,12 +25,14 @@
             "id": "dec16523f662a9db",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "1 - Rough Notes/Chatgpt prompt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Chatgpt prompt"
             }
           }
         ],
@@ -290,6 +292,8 @@
   },
   "active": "dec16523f662a9db",
   "lastOpenFiles": [
+    "1 - Rough Notes/Capstone.md",
+    "1 - Rough Notes/AMCAT.md",
     "1 - Rough Notes/Knock Knock.md",
     "2 - Source Notes/Academics/Assignments/CG/CG Assignment 2.md",
     "2 - Source Notes/Academics/Assignments/CG",
@@ -315,8 +319,6 @@
     "2 - Source Notes/Programming/C++/X0x/6. Configuring your compiler - Compiler Extensions.md",
     "2 - Source Notes/Programming/C++/X0x/5. Configuring your compiler - Build configurations.md",
     "2 - Source Notes/Programming/C++/X0x/4. Compiling your first project.md",
-    "2 - Source Notes/Programming/C++/X0x/3. Introduction to C++ Developments.md",
-    "2 - Source Notes/Programming/C++/X0x/2. Introduction to C++.md",
     "7 - Attachments/image-10.png",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!/CompilerDesign.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!",
