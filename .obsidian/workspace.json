@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Programming/C++/X2x/2.3 Introduction to Function Parameters and Arguments.md",
+                "file": "2 - Source Notes/Programming/C++/X2x/2.4 Introduction to local scope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Introduction to Function Parameters and Arguments"
+              "title": "2.4 Introduction to local scope"
             }
           }
         ],
@@ -292,6 +292,7 @@
   },
   "active": "dec16523f662a9db",
   "lastOpenFiles": [
+    "2 - Source Notes/Programming/C++/X2x/2.3 Introduction to Function Parameters and Arguments.md",
     "2 - Source Notes/Programming/C++/X2x/2.9 Introduction to the preprocessor.md",
     "1 - Rough Notes/Knock Knock.md",
     "1 - Rough Notes/Unit 1.md",
@@ -300,7 +301,6 @@
     "1 - Rough Notes/AMCAT.md",
     "2 - Source Notes/Academics/Assignments/CG/CG Assignment 2.md",
     "2 - Source Notes/Academics/Assignments/CG",
-    "2 - Source Notes/Programming/C++/X2x/2.3 Introduction to Function Parameters and Arguments.md",
     "2 - Source Notes/Programming/C++/X2x/2.2 Void Functions.md",
     "2 - Source Notes/Programming/C++/X2x/2.1 Introductions to functions.md",
     "1 - Rough Notes/YOOOOOOOO.md",
