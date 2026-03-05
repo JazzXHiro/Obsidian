@@ -1,24 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
-  "better-word-count",
-  "smart-random-note",
-  "tag-wrangler",
   "auto-note-mover",
-  "templater-obsidian",
-  "buttons",
-  "obsidian-shellcommands",
-  "obsidian-latex-suite",
-  "obsidian-charts",
-  "obsidian-git",
-  "obsidian-importer",
-  "obsidian-style-settings",
-  "meld-encrypt",
-  "obsidian-to-anki-plugin",
-  "obsidian-zotero-desktop-connector",
-  "convert-url-to-iframe",
-  "mermaid-tools",
-  "image-converter",
-  "obsidian-banners",
-  "dataview",
-  "better-export-pdf"
+  "obsidian-banners"
 ]
