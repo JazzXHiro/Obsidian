@@ -1,4 +1,17 @@
 [
   "auto-note-mover",
-  "obsidian-banners"
+  "obsidian-banners",
+  "better-word-count",
+  "buttons",
+  "obsidian-charts",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "image-converter",
+  "obsidian-importer",
+  "obsidian-latex-suite",
+  "meld-encrypt",
+  "mermaid-tools",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "templater-obsidian"
 ]
