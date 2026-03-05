@@ -1,0 +1,21 @@
+# Index for t-AEM2
+
+## Files using this tag:
+1. [[0.0 Algebraic and Transcendental Equation]]
+2. [[0.1 Misc]]
+3. [[1. Bisection Method]]
+4. [[2. Newton-Raphson Method]]
+5. [[2.1 Common Differential Formulas]]
+6. [[3. Gauss Elimination]]
+7. [[3.1 Gauss Seidel]]
+8. [[4. Finite Difference Operators]]
+9. [[4.1 Trigonometric Identities and Formulas]]
+10. [[5. Interpolation with equal and unequal intervals]]
+11. [[5.1 Newton Forward and Backward]]
+12. [[5.2 Central Difference Interpolation]]
+13. [[5.3 Lagrange Interpolation]]
+14. [[5.4 Numerical Integration]]
+15. [[5.4.1 Common Integration Formulas]]
+16. [[5.5.1 Picard's Method]]
+17. [[5.5.2 Euler's Method]]
+18. [[Temp maths]]

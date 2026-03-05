@@ -1,0 +1,23 @@
+# Index for t-matrices
+
+## Files using this tag:
+1. [[1. Algebra of Matrices]]
+2. [[10. Transition Matrix]]
+3. [[2. Operations on Matrices]]
+4. [[3. Trace, Transpose & Conjugate of a Matrix]]
+5. [[4. Symmetric & Skew Symmetric Matrix]]
+6. [[5. Complex Matrices]]
+7. [[6. Determinant, Minors & Cofactors]]
+8. [[7. Properties of Determinants]]
+9. [[8. Adjoint & its properties]]
+10. [[9. Inverse & its properties]]
+11. [[1. Vectors & Linear Combinations]]
+12. [[2. Visualization of System of linear equations]]
+13. [[3. Elimination using matrices]]
+14. [[4. Rank of a Matrix]]
+15. [[5. Echelon Form of a Matrix]]
+16. [[6. Normal Form of a Matrix]]
+17. [[7. Solution of homogenous and non-homogenous system of equations]]
+18. [[2. Characteristic Polynomial & Equation]]
+19. [[3.1 Vector Spaces]]
+20. [[3.2 Linear Transformation]]
