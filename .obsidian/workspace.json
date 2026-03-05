@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Knowledge/Youtube/Geography/When India Was An Island.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/1.0 Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "When India Was An Island"
+              "title": "1.0 Statistics"
             }
           }
         ],
@@ -290,11 +290,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c7d5d789b4235a8b",
+  "active": "dec16523f662a9db",
   "lastOpenFiles": [
+    "5 - Templates/Statistics and Data Analysis.md",
+    "3 - Tags/t-Stats&DataAnalysis.md",
+    "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/1.0 Statistics.md",
+    "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/11-02-26.md",
+    "2 - Source Notes/Knowledge/Youtube/Geography/When India Was An Island.md",
     "2 - Source Notes/Knowledge/Youtube/Geography",
     "2 - Source Notes/Programming/C++/X2x/2.4 Introduction to local scope.md",
-    "2 - Source Notes/Knowledge/Youtube/Geography/When India Was An Island.md",
     "2 - Source Notes/Knowledge/Youtube",
     "2 - Source Notes/Knowledge",
     "2 - Source Notes/Programming/C++/X2x/2.3 Introduction to Function Parameters and Arguments.md",
@@ -318,9 +322,6 @@
     "2 - Source Notes/Programming/C++/X1x/15. Whitespace and basic formatting.md",
     "2 - Source Notes/Programming/C++/X1x/13. Uninitialized variables and undefined behavior.md",
     "2 - Source Notes/Programming/C++/X1x/12. Introduction to iostream - cout, cin, and endl.md",
-    "2 - Source Notes/Programming/C++/X1x/11. Variable Assignment and Initialization.md",
-    "2 - Source Notes/Programming/C++/X1x/10. Introduction to Object and Variables.md",
-    "2 - Source Notes/Programming/C++/X0x/9. Comments.md",
     "7 - Attachments/image-10.png",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!/CompilerDesign.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!",
@@ -328,7 +329,6 @@
     "2 - Source Notes/Academics/Notes/Sem 6/Computer Graphics/Computer Graphics with OpenGL (4th ed.) [Hearn, Baker & Carithers 2013].pdf",
     "2 - Source Notes/Untitled 2.base",
     "2 - Source Notes/Untitled 1.base",
-    "2 - Source Notes/Untitled 3.base",
     "7 - Attachments/image-9.png",
     "7 - Attachments/image-8.png",
     "7 - Attachments/image-7.png",
