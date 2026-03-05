@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/1.0 Statistics.md",
+                "file": "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/1.1 Data Types and Formats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 Statistics"
+              "title": "1.1 Data Types and Formats"
             }
           }
         ],
@@ -292,9 +292,10 @@
   },
   "active": "dec16523f662a9db",
   "lastOpenFiles": [
+    "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/1.0 Statistics.md",
+    "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/1.1 Data Types and Formats.md",
     "5 - Templates/Statistics and Data Analysis.md",
     "3 - Tags/t-Stats&DataAnalysis.md",
-    "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/1.0 Statistics.md",
     "2 - Source Notes/Academics/Notes/Sem 6/Statistics and Data Analysis/Unit 1/11-02-26.md",
     "2 - Source Notes/Knowledge/Youtube/Geography/When India Was An Island.md",
     "2 - Source Notes/Knowledge/Youtube/Geography",
@@ -321,7 +322,6 @@
     "2 - Source Notes/Programming/C++/X1x/16. Introduction to literals and operators.md",
     "2 - Source Notes/Programming/C++/X1x/15. Whitespace and basic formatting.md",
     "2 - Source Notes/Programming/C++/X1x/13. Uninitialized variables and undefined behavior.md",
-    "2 - Source Notes/Programming/C++/X1x/12. Introduction to iostream - cout, cin, and endl.md",
     "7 - Attachments/image-10.png",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!/CompilerDesign.pdf",
     "2 - Source Notes/Academics/Notes/Sem 6/Compiler Design/!",
